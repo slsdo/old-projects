@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Marble Painter | Future Data Lab</title>
+    
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="description" content="Marble Painter" />
+    <meta name="keywords" content="Marble Painter" />
+
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head> 
+
+<body>
+    <div class="wrapper">
+        <div id="content">
+            <a style="float:right;padding:0 20px;font-weight:bold;" href="../">Home</a>
+
+            <h1>Marble Painter</h1>
+
+            <p><em>A Physics-based Marble Game</em></p>
+
+            <p>Marble Painter is a physics-based game where the player guides a ball through a level, avoiding traps and enemy marbles while trying to paint the required number of floor tiles before time runs out.</p>
+
+            <p>This is a project to familiarize ourselves with the <a href="http://unity3d.com/">Unity</a> development environment. The goal was to create a simple game based on the classic puzzle game <em><a href="http://en.wikipedia.org/wiki/Marble_Madness">Marble Madness</a></em> using the Unity engine, the game comes with unique gameplay mechanics inspired by <em><a href="http://www.katamaridemocracy.com/">Katamari Democracy</a></em> and <em><a href="http://binnenstad.hku.nl/">The Blob</a></em>.</p>
+
+            <p>The game is played in a top-down view, and the camera follows the player. The top right corner contains information including time left and the percentage of level completed. If the game finishes, a message appears telling the player he or she has won or lost, and a Play Again button will appear.</p>
+
+            <p>The level in the game world are composed of cubes of the same size, the cubes are put together to create floor tiles, walls, and other special blocks. Each floor tile has a paint attribute that can be changed when the marble rolls over it, when the attribute is changed, the block is rendered in a different color to show it has been painted.</p>
+
+            <p>The goal of the game is to paint as many floor tiles as possible within the given time limit, if the player paints the required number of blocks, the game is won.</p>
+
+            <p>There are many obstacles in the game to hinder the player's progress. Below are the traps and other elements that players should watch out for:</p>
+
+            <ul>
+                <li>Enemy Marble: These marble will follow and try to bump into the player when within range</li>
+                <li>Falling Tiles: These floor tiles will disappear when the player rolls over them</li>
+                <li>Ice Tiles: It is harder to control the marble when it's over these tiles, they are very slippery</li>
+                <li>Fire: Fire burns, so when touched, the marble dies. The fire is done using particle system</li>
+            </ul>
+
+            <p>There are also things that will help the player:</p>
+
+            <ul>
+                <li>Health Package: These will increase the time by 10 seconds</li>
+            </ul>
+
+            <p>The background music is titled <em><a href="http://www.jamendo.com/en/track/556467">If</a></em> by Peter Rudenko and is distributed under the Creative Commons license. All textures are taken from Unity.</p>
+
+            <div class="center"><img src="img/marblepaintergameplay.png" title="marblepaintergameplay" alt="marblepaintergameplay" /></div>
+
+            <div class="center">[ <strong><a href="marblepainter.html">Play Marble Painter</a></strong> ]</div>
+        </div>
+                        
+        <div id="footer">
+            <p>&copy; 2010 Future Data Lab</p>
+        </div>
+    </div>
+</body>
+</html>

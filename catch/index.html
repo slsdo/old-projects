@@ -1,0 +1,189 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Catch | Future Data Lab</title>
+    
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="description" content="Catch" />
+    <meta name="keywords" content="Catch" />
+
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head> 
+
+<body>
+    <div class="wrapper">
+        <ul id="nav">
+            <li><a href="../" style="border-left:0;">Home</a></li>
+            <li><a href="#motivation">Motivation</a></li>
+            <li><a href="#background">Background</a></li>
+            <li><a href="#approach">Approach</a></li>
+            <li><a href="#demo">Demonstration</a></li>
+            <li><a href="#result">Results</a></li>
+        </ul>
+        
+        <div id="content">
+            <h1>Catch</h1>
+
+            <p><em>A Haptics-powered Ball Game</em></p>
+
+            <div class="center"><img src="img/Catch.jpg" title="Catch" alt="Catch" /> <img src="img/CatchTeam.jpg" title="Shawn and Rang" alt="CatchTeam" /></div>
+
+            <p>This project was a collaboration project with three others. The goal is to use haptic feedback to make contact forces between the player and objects in a 3D virtual environment feel more realistic.</p>
+
+            <h2 id="motivation">Motivation</h2>
+
+            <p>We have chosen to investigate the application of haptic feedback to add a tactual experience to virtual environments in 3D games. The recent emergence of systems such as the Nintendo Wii and the Xbox Kinect — both of which use motion tracking - has made immersive game environments a reality for the household. These devices represent leaps in user experience, enabling games to respond dynamically to players' actions.</p>
+
+            <p>Yet, something is left to be desired in these interactions. A player can 'hit' with a tennis racket using a Wii remote and feel only the vibration of its rumble pack. Throwing a right hook while boxing produces the same vibration, even though the two experiences are completely different in real life. With the Kinect, eliminating the handheld device creates more freedom, but even less sense of touch.</p>
+
+            <p>Our project is motivated by our belief that haptic feedback can be combined with today's dynamic visual environments to create a viscerally realistic experience. Grounded force feedback simulating contact interactions would add the most noticeable detail to such an environment.</p>
+
+            <p>Given that hands drive most interactions in virtual games, we chose to focus on the hand. Thus, our objective is to enable hand-eye coordination far beyond that provided by a vibrating remote control.</p>
+
+            <h2 id="background">Background</h2>
+
+            <p>Given our objective to mate force feedback with a 3D environment, we split our literature review into three areas: tracking the head and hands, coupling haptics and vision in games, and rendering grounded force feedback on the hand. Taken together, research in these areas will guide our design iterations.</p>
+
+            <h3>Tracking the Head and Hands</h3>
+
+            <p>Head and hand tracking is necessary to make the game environment respond to the user's movements. This is already accomplished by the Wii and Kinect systems, but we needed to reverse-engineer the basic process so tracking data can be read in from our game in a non-proprietary way. Here, we found that Chow's paper on <em>Low-Cost Multiple Degrees-of-Freedom Optical Tracking for 3D Interaction in Head-Mounted Display Virtual Reality</em> was particularly useful. Chow describes the use of a 6 degree-of-freedom optical tracking technique using two Wii-remotes as infrared sensors. We developed our hand tracking system using this methodology, and the algorithms Chow proposes could be used in future work to further filter the infrared signal and ensure smooth, accurate tracking.</p>
+
+            <h3>Coupling Haptics with Virtual Environments</h3>
+
+            <p>When determining the appropriate force to output based on the input tracking position, we must meet three design goals: a consistent user experience, a computationally simple method, and a robust failure mode. Bouguila's paper on <em>Effect of Coupling Haptics and Stereopsis on Depth Perception in Virtual Environment</em> was helpful because his experiments with stereopsis reminded us that, if depth cues are not provided, the user needs to remain in a roughly fixed position in order to believe the motions viewed on-screen. When simplifying our simulation, we took this into consideration by limiting the user to a small area in the Z-plane.</p>
+
+            <h3>Rendering Force Feedback on the Hand</h3>
+
+            <p>Finally, in developing a system to actually provide the output force on the user's hand, we needed a design that was simple enough to be created in one semester. We chose to use a cable-based system, and Williams' paper on <em>Planar Cable-Direct-Driven Robots</em> was instructive. Williams compared the use of 3- and 4-cable systems in a planar configuration to render feedback forces. Though we ultimately developed a simulation using only a single cable, our original designs were heavily influenced by Williams' findings.</p>
+            
+            <h2 id="approach">Chosen Approach</h2>
+
+            <p>Our vision involved an immersive 3D virtual environment that combined head and hand tracking to simulate the experience of viewing a world and having it respond completely to user movements. Then, we conceived of a 3- or 4-direction cable system to generate grounded haptic forces on a user's arm.</p>
+
+            <p>Given time constraints and several interface-related setbacks, we designed a proof of concept that would demonstrate our idea of haptic feedback mated to a virtual environment. The simplified design centered around a specific objective to accurately simulate the feeling of catching a ball.</p>
+
+            <p>This design included four sections: a tracking system to measure the hand's position and orientation, a software system to match a visual environment to the user's movements, a motor and cable assembly to generate grounded force feedback, and a custom haptic glove to render the feeling of a ball with tactile accuracy.</p>
+
+            <h3>Sensing: Wii Remote-based IR Tracking</h3>
+
+            <p><img class="left" src="img/CatchTracking.jpg" title="CatchTracking" alt="CatchTracking" /></p>
+
+            <p>First, we used a Wii Remote (also known as a Wiimote) as an infrared sensor to track the location and planar orientation of the hand. Under normal Wii operation, the Wiimote's internal infrared detectors observe the presence of up to 4 IR diodes in an emitter array placed above or below a television.</p>
+
+            <p>We 'reversed' this process, keeping the Wiimote stationary and below the intended location of a player's arm. The Wiimote's IR sensor was trained on the center of the haptic workspace.</p>
+
+            <p>Then, a custom IR emitter mount was fashioned out of Velcro and cardboard. This device was designed to aim two IR beams at the Wiimote, enabling it to track the user's motion. The Velcro and cardboard were light, inexpensive, and barely noticeable while also ensuring the IR beams stayed constantly horizontal relative to the plane of the wrist. When combined with the <a href="http://www.wiiuse.net/">Wiiuse C Library</a>, our Wii Remote system was capable of tracking the two IR beams and collecting data of their positions.</p>
+
+            <p>Notably, experiments with Wiiuse revealed that the system measurements in the Z-direction were unreliable. Theoretically, true distance in the Y-Z plane should correspond to the observed X-Y distance between the IR dots. Yet, in practice, these measurements experienced extreme jitter, even when filtered. Thus, we chose to disregard the Z-direction temporarily and assume that the user roughly stayed within a constant X-Y plane some distance away from the screen. This gambit enabled us to measure positions more reliably.</p>
+
+            <div class="center"><img src="img/CatchTrackingBehind.jpg" title="Hand Tracking IR Emitter Mounts" alt="CatchTrackingBehind" /></div>
+
+            <h3>Processing: 3D Virtual Environment</h3>
+
+            <p>Once measurements of the user's position were read in, processing was handled by a C++ program, and the user's movements were rendered using OpenGL. The program interfaces with the Wiimote through a Bluetooth connection, and outputs a voltage to the actuation motor using a Sensoray 626 PCI card.</p>
+
+            <p>The 3D virtual environment was based on a program written for MEAM 625 homework assignments by Dr. Kuchenbecker. We created a new environment with a basic kinematics model for a sphere moving freely in 3-space. A rectangular "paddle" represents the user's hand position, and can interact with the ball with spring dynamics to simulate a catching action.</p>
+
+            <p>Within the game environment, a ball falls from a random X location in the sky at a regular interval. When the ball falls, the user has a short time to move under its trajectory and 'catch' it. A user's "score" is calculated, based on the simple game that a successful catch is +1 point and a miss is -1 points. If the user fails to catch the ball, the ball will bounce a few times on the ground before it disappears and a new ball falls from the sky.</p>
+
+            <div class="center"><img src="img/CatchGraphics.jpg" title="3D Virtual Environment" alt="CatchGraphics" /></div>
+
+            <p>Importantly, per our prior research, we knew that the program would need to handle special exceptions for when one or both of the IR LEDs was occluded or went out of range of the Wiimote. When only one LED is visible, the program is set to extrapolate the location of the second point based on its last visible location and a constant distance from the first point. If both points are not visible, the paddle simply stops moving within the virtual environment. In this way, rendering of extraneous forces is avoided.</p>
+
+            <h3>Actuating: Cable-driven Force Output</h3>
+
+            <p>The program is set to actuate a motor with a force proportional to the net force exerted by the falling ball on the virtual paddle. An arbitrary (approximately equal) mass is assumed for the ball and hand. This actuation is accomplished by a Maxon motor with peak torque at approximately 5A of input current.</p>
+
+            <p>A custom acrylic mount was laser-cut to hold the motor steady within an adjustable clamp. The motor was mated to a cable spool with high walls to ensure the cable is consistently captured.</p>
+
+            <div class="center"><img src="img/CatchMotor.jpg" title="Cable-driven Motor Setup" alt="CatchMotor" /></div>
+
+            <p>The cable is passed through a right-angle intersection (smoothed to decrease friction) to keep it in a single plane of motion relative to the spool. Then, the cable stands vertically in the air, and is attached to a Y-splitter intersection that runs cable to the ball attachment in a glove, providing the hand enough freedom in 3D space. Overall, this arrangement enables the system to apply an arbitrary downward force to the glove-mounted ball. A consistent small force is maintained to keep the cable taut during movements.</p>
+
+            <h3>Actuating: Custom Ball-Catching Glove</h3>
+
+            <p>The core of the project is in rendering haptic feedback with a more realistic sensation than can be provided by vibration. With a system designed to pull downward to simulate the downward force of a ball, we sought to build a wearable device that could take the force and make it feel like a ball.</p>
+
+            <p>Perhaps unsurprisingly, it turns out that the best way to make a user feel like she is catching a ball is to pull an actual ball into her hand. Thus, we obtained a glove that was sturdy but not strong enough to limit a user's natural catching motion. This glove turned out to be a bike glove from <a href="http://www.ems.com/product/index.jsp?productId=3944014">Dakine</a> that had silicone reinforcement in key locations.</p>
+
+            <p><img class="right" src="img/CatchGlove.jpg" title="CatchTracking" alt="CatchGlove" /></p>
+
+            <p>We placed a rubber ball into the center of the glove, mounting screws on either side of the ball's diameter to pull the ball into the hand. These screws were tied to the cable Y-junction emanating from the motor-cable system.</p>
+
+            <p>In order to create an natural feeling of catching, we should not be able to touch the ball when there is no downward force output from the motor. Therefore, we mounted three relatively stiff springs to the glove in a triangle pattern. The springs were attached to the bottom of the ball, such that their tendency to extend caused the ball to hover at a spring length above the glove.</p>
+
+            <p>By tuning the constant tension force from the motors to be low enough, it was perfectly absorbed by the springs so that the user felt almost no force when moving freely. When the motor was activated to simulate a force, however, the springs were overcome and the ball was pulled into the hand, simulating the feeling of catching.</p>
+            
+            <h2 id="demo">Demonstration</h2>
+
+            <div class="center"><img src="img/CatchDemo.jpg" title="Final System Setup" alt="CatchDemo" /></div>
+
+            <p>We exhibited our project twice: first during MEAM 625 in-class presentations on December 8, 2010, and then at the Penn Haptics Open House on December 10, 2010. The demonstrated system was able to simulate the feeling of catching a ball, in a game that awarded points for each catch and deducted points for each miss.</p>
+
+            <p>After setting up the final system, users could feel the sensation of the ball hitting their hands, and its dynamic response to the relative force of the hand's motion and the ball's motion. The hand tracking system was limited to motion in the X-Y plane.</p>
+
+            <p>Most users could learn how to move their hands to play the interactive game within half a minute, especially for players who were already experienced with the Wii. To make the game more interesting, we added a feature that simulates the force of the ball hitting the paddle on a near miss (such as when the ball taps the edge of the paddle).</p>
+
+            <p>Below are two images of students testing the system.</p>
+            
+            <div class="group">
+                <div class="group-row">
+                    <div class="group-item"><img src="img/CatchClass.jpg" title="The Catch Simulation being exhibited in class..." alt="CatchClass" /><div class="sub">The Catch Simulation being exhibited in class...</div></div>
+                    <div class="group-item"><img src="img/CatchDemoDay.jpg" title="...and on Demo Day." alt="CatchDemoDay" /><div class="sub">...and on Demo Day.</div></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+
+            <h2 id="result">Results</h2>
+
+            <p><img class="right" src="img/CatchOpenHouse.jpg" title="CatchOpenHouse" alt="CatchOpenHouse" /></p>
+
+            <p>Approximately 80 people tested our demonstration at the Open House, and these interactions helped to validate our intuitions while providing extremely useful feedback and ideas for improvements.</p>
+
+            <p>In particular, users overwhelmingly affirmed that the glove attachment seemed 'real', for example, when closing their eyes and feeling the sensation of catching. This bodes well for our approach, as it indicates that a custom attachment such as the glove would be useful in rendering specific virtual environment interactions.</p>
+
+            <p>One of the greatest obstacles we encountered was the limited range of the IR sensors. Often during gameplay, users would be so immersed in the game that they would move their hands out of the Wiimote's horizontal detection range. Additionally, people who were taller or shorter than average experienced difficulty keeping their hands aligned with the Wiimote in the vertical axis.</p>
+
+            <p>Several potential improvements were identified:</p>
+
+            <ul>
+                <li>Provide a glove or attachment that can fit more potential hand sizes comfortably, and can be easily slid on and off</li>
+                <li>Increase the maximum force output and the range of potential forces possible, likely by changing the motor and/or motor driver</li>
+                <li>Allow for more nuanced interactions by including more advanced kinematics, such as enabling the ball to be thrown back up while simulating the ball's downward force until it is released</li>
+                <li>Develop a tracking system that can accurately collect 3D position data, since the Wii remote was unable to track in the Z-direction</li>
+                <li>Add more degrees of force feedback, as a single force direction was not enough to thoroughly test the system for improvement over the no-feedback control case</li>
+                <li>Use longer-lasting IR emitter batteries, or an IR emitter system with batteries in easy-open compartments</li>
+            </ul>
+            
+            <div class="center"><img src="img/CatchDrK.jpg" title="Dr. Kuchenbecker helping to calibrate the system force output level" alt="CatchDrK" /></div>
+
+            <h2>Future Work</h2>
+
+            <p>To continue this work in the future, we would first run a controlled experiment to see if this very basic setup does indeed provide some advantage over hand tracking with no feedback.</p>
+
+            <p>If validated under more experimental conditions, our first focus would be on adding the capacity to track motion in the Z-direction. This is crucial to the experience of 3-dimensional interactions, and could drastically improve the realism of even a single direction of force feedback. We experimented with using a two-camera system and an LED reflection on the hand to track its position, and could likely get this to work with a reasonable amount of effort, as an alternative to the Wiimote system.</p>
+
+            <p>Finally, we would focus on adding advanced kinematics, and ultimately additional degrees of haptic force feedback to the system. It is likely possible to attach another cable-drive motor from behind and above the user, to provide some forces in the up and backward direction. A third motor could be placed above and in front of the user to add additional realism. </p>
+            
+            <h2>References</h2>
+
+            <ol>
+                <li>Yang-Wai Chow, <a href="http://www.academypublisher.com/ijrte/vol01/no01/ijrte0101052056.pdf">"Low-Cost Multiple Degrees-of-Freedom Optical Tracking for 3D Interaction in Head-Mounted Display Virtual Reality,"</a> in International Journal of Recent Trends in Engineering, Issue. 1, Vol. 1, May 2009.</li>
+                <li>Jeffrey Yim, Eric Qiu, and T.C. Nicholas Graham, <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.3683&amp;rep=rep1&amp;type=pdf">"Experience in the Design and Development of a Game Based on Head-Tracking Input,"</a> in Proceedings of the 2008 Conference on Future Play: Research, Play, Share, 2008.</li>
+                <li>E. Richard, et al., <a href="http://proxy.library.upenn.edu:2141/content/b25q1w64737155x1/fulltext.pdf">"Multi-modal virtual environments for education with haptic and olfactory feedback,"</a> Virtual Reality, vol. 10, pp. 207-225, Oct. 2006.</li>
+                <li>L. Bouguila, et al., <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.21.8309&amp;rep=rep1&amp;type=pdf">"Effect of Coupling Haptics and Stereopsis on Depth Perception in Virtual Environment,"</a> in Proc. 1st Int. Workshop Haptic Human Computer Interaction, 2000.</li>
+                <li>S. Zou et al., <a href="http://proxy.library.upenn.edu:3925/citation.cfm?id=1670286">"Vision-based Hand Interaction and Its Application in Pervasive Games,"</a> in Proc. 8th Int. Conf. Virtual Reality Continuum and its Applications in Industry, Yokohama, Japan, 2009, pp. 157-162.</li>
+                <li>D. Tsetserukou et al., <a href="http://proxy.library.upenn.edu:2141/content/55543w3072577631/fulltext.pdf">"FlexTorque: Exoskeleton Interface for Haptic Interaction with the Digital World,"</a> in EuroHaptics 2010, Part II, Amsterdam, 2010, pp. 166-171.</li>
+                <li>G. Cini, et al., <a href="http://percro.sssup.it/%7Eantony/papers/WHC2005_1.pdf">"A novel fingertip haptic device for display of local contact geometry."</a> In Proceedings of the First Joint Eurohaptics Conference and Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems, 2005</li>
+                <li>Robert L. Williams II et al., <a href="http://oak.cats.ohiou.edu/%7Ewilliar4/PDF/DETC01a.pdf">"Planar Cable-Direct-Driven Robots,"</a> In 2001 ASME Design Technical Conference, September 9-12, 2001.</li>
+            </ol>
+        </div>
+                        
+        <div id="footer">
+            <p>&copy; 2010 Future Data Lab</p>
+        </div>
+    </div>
+</body>
+</html>

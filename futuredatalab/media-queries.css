@@ -1,0 +1,28 @@
+@media only screen and (max-width: 1440px) {
+  .wrapper { margin: 0 40px; }
+}
+
+@media only screen and (max-width: 960px) {
+  h2 { float: left; margin: 5px 15px 0 0; clear: both; }
+  #sub ul { float: left; margin: 5px 0; }
+  #sub ul li { float: left; margin: 0 5px; font-size: 0.9em; }
+  .col-2 { width: 80%; margin-bottom: 20px; display: block; clear: both; }
+  .col-4 { width: 40%; display: block; }
+  .col-4 img { margin-top: 10px; }
+}
+
+@media only screen and (max-width: 640px) {
+  h2 { display: none; }
+  header { padding: 20px 0; }
+  #sub ul li { padding: 0; margin: 0 10px 0 0; }
+  .item p { width: 70%; padding: 0 10px; font-size: 0.7em; }
+  .col-2 { width: 300px; margin: 0; display: block; clear: both; }
+  .col-4 { margin: 0 0 0 0; width: 90%; }
+  .wrapper { margin: 0 10px; }
+}
+
+@media only screen and (max-width: 320px) {
+  .item p { width: 60%; }
+  .col-2 { width: auto; font-size: 0.8em; }
+  .col-4 img { display: none; }
+}

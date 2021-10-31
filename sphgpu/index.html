@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>SPH on GPU | Future Data Lab</title>
+    
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="description" content="SPH on GPU" />
+    <meta name="keywords" content="SPH on GPU" />
+
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="js/lightbox/css/jquery.lightbox-0.5.css" media="screen" />
+
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/lightbox/js/jquery.lightbox-0.5.min.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            $('.group a').lightBox();
+        });
+    </script>
+</head> 
+
+<body>
+    <div class="wrapper">
+        <div id="content">
+            <a style="float:right;padding:0 20px;font-weight:bold;" href="../">Home</a>
+
+            <h1>SPH on GPU</h1>
+
+            <p><em>Smoothed-Particle Hydrodynamics on GPU, A Fluid Simulation Tool</em></p>
+
+            <p>Fluid simulation is a very important technique in computer graphics and animation. Realistic fluids in movies, games, and other media will create a more immersive and real experience for the users. While fluid phenomenon can be found in everyday life, simulating fluid can be extremely difficult due to the complexity involved in correctly simulating behaviors such as convection, diffusion, turbulence, and surface tension.</p>
+
+            <p>While grid-based approach to fluid simulation offers an acceptable solution to fluid simulation, it has many short-comings, including being computationally intensive, as well as failing to realistically reproduce certain effects such as splashing and spraying.</p>
+
+            <p>Smoothed-Particle Hydrodynamics (SPH) is a particle-based computational method used for simulating fluid flows, and its mesh-free and highly adaptive nature makes SPH a very attractive approach to fluid simulation. Also, the rise in performance of modern GPU means simulating fluid in real-time using SPH is becoming increasingly attractive as a solution for creating realistic fluid. This project's goal was to implement SPH fluid simulation on GPU, and was developed in C++, OpenGL (rendering), and OpenCL (GPU integration).</p>
+
+            <h3>Features Implemented</h3>
+
+            <ul>
+                <li>Rendering engine</li>
+                <li>SPH algorithm</li>
+                <li>Use of GPU to reduce computation time</li>
+                <li>Real-time fluid simulation</li>
+                <li>Interactive element</li>
+            </ul>
+
+            <div class="group">
+                <div class="group-row">
+                    <div class="group-item"><a href="img/sph_particle.jpg"><img src="img/sph_particles.png" title="Particle view." alt="sph_particle" /></a><div class="sub">Particle view.</div></div>
+                    <div class="group-item"><a href="img/sph_surface.jpg"><img src="img/sph_surfaces.png" title="Isosurface view." alt="sph_surface" /></a><div class="sub">Isosurface view.</div></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+
+            <h2>Results</h2>
+
+            <div class="center"><object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/qdF9thBKmK4&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/qdF9thBKmK4&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object></div>
+
+            <h2>References</h2>
+
+            <ul>
+                <li><em><a href="http://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf">FLUID SIMULATION SIGGRAPH 2007 Course Notes</a></em> by Robert Bridson and Matthias Müller-Fischer</li>
+                <li><em>Particle-Based Fluid Simulation for Interactive Applications</em> by Matthias Müller, David Charypar and Markus Gross [2003]</li>
+                <li><a href="http://paulbourke.net/geometry/polygonise/">Polygonising A Scalar Field</a> by Paul Bourke</li>
+            </ul>
+        </div>
+                        
+        <div id="footer">
+            <p>&copy; 2010 Future Data Lab</p>
+        </div>
+    </div>
+</body>
+</html>

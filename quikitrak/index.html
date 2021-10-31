@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>QuikiTrak | Future Data Lab</title>
+    
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="description" content="QuikiTrak" />
+    <meta name="keywords" content="QuikiTrak" />
+
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head> 
+
+<body>
+    <div class="wrapper">
+        <div id="header">
+        </div>
+        
+        <ul id="nav">
+            <li><a href="../" style="border-left:0;">Home</a></li>
+            <li><a href="#intro">Intro</a></li>
+            <li><a href="#drafting">Drafting</a></li>
+            <li><a href="#system">System</a></li>
+            <li><a href="#technical">Technical</a></li>
+            <li><a href="#result">Results</a></li>
+        </ul>
+        
+        <div id="content">
+            <h1>QuikiTrak</h1>
+
+            <p><em>Drafting Zone Detector for Triathlon</em></p>
+
+            <p>This was a collaboration project with four others that took place between September 2008 and May 2009.</p>
+
+            <h2 id="intro">Introduction</h2>
+
+            <p>In triathlon races, there is a "no-drafting" rule for the bicycle portion of the race. This rule is enforced to prevent a player from getting an unfair advantage due to lesser wind resistance provided by the drafting. It is very difficult to determine whether an athlete has violated the "no-drafting" rule; violations are usually detected by a person watching the race.</p>
+
+            <p>The project is to design a prototype for a lightweight sensor device that can be mounted on each bicycle that would enforce the "no-drafting" rule of a triathlon race. Thus, the device will be able to record instances of rule violation when a bicycle comes within 7 meters from behind another bicycle regardless of the width-wise distance. The device will be capable of storing information on drafting violations and later transfer the information onto a computer to be processed and displayed by custom-made software.</p>
+
+            <p>The custom made software will then store the data in a SQL Server database. The software then interacts with the database to allow the judge to sort and search through the draft violations.</p>
+
+            <h2 id="drafting">Triathlon Drafting</h2>
+
+            <p>In most triathlon races, there is a "no-drafting" rule for the bicycle portion of the race. When drafting, the rider positions his or her bike behind another bike to benefit from the reduced air resistance, thus gaining a distinct advantage over a rider with no draft. The "no-drafting" rule states that except when passing, bicycles must be outside of a rectangular area seven (7) meters long and two (2) meters wide starting at each bicycle's front wheel and going backwards.  If a bicycle comes within 7 meters of another bicycle and stays in that zone for 15 seconds or more, a drafting violation will occur.</p>
+
+            <div class="center"><img src="img/quikitrak_img1.png" title="Drafting zone top view (not to scale)." alt="quikitrak_img1" /></div>
+
+            <p>Currently it is very difficult to determine whether an athlete has violated the "no-drafting" rule. Violations are usually detected by a person watching the race, which is both inefficient and inaccurate.</p>
+
+            <div class="center"><img src="img/quikitrak_img2.png" title="Drafting zone and sensors side view (not to scale)." alt="quikitrak/quikitrak_img2" /></div>
+
+            <p>The project is to design a lightweight sensor device that can be mounted on a bicycle to enforce the "no-drafting" rule. A pair of sensor devices utilizing opposed infrared optical sensors in the 950nm range will be mounted on the front and back of each bike to aid in the detection of a violation. These sensors will then be connected to an MSP430 which will receive signals from the infrared sensors and determine whether a drafting violation has occurred. In the event of a drafting violation a record of the violation will be stored on the onboard flash. At the end of the race, the information stored in each sensor will be uploaded to a computer, and the race director will be able to use custom-made software to process and display the drafting data.</p>
+
+            <p>The sensors are light-weight and can be easily attached to a bike.  With the aid of the custom software, the device can be quickly setup prior to a race.</p>
+
+            <h2 id="system">System Overview</h2>
+
+            <div class="center"><img src="img/quikitrak_img3.png" title="High level system block diagram." alt="quikitrak_img3" /></div>
+
+            <h2 id="technical">Technical Background</h2>
+
+            <h3>Sensors</h3>
+
+            <p>The sensors used to detect the drafting violations are Banner Engineering M18 Opposed Infrared Sensors. Each device comes with three emitters and one receiver. The emitters are tuned to the receiver via a unique frequency and use 950nm infrared light. Due to the pairing between the emitters and the receiver the sensors are highly resilient to background noise such as the sun and fluorescent lighting.</p>
+
+            <p>The data processor is an MSP430 F2274 microcontroller. The MSP430 is used to modulate the emitters in order to send out the ID of the drafting bike. Also, the MSP430 is used to process the drafting violations detected by the receiver, and to store the violations in the 32KB onboard flash. Furthermore, the wireless module included on the microcontroller operates in the 2.4 GHz frequency and is used to send data stored in the onboard flash to the software to allow the judges to view, sort, and search through the drafting violations. The wireless protocol used for the data communication is based off of Simpliciti 1.1.0 running in a star network configuration.</p>
+
+            <h3>Hall-effect Sensor</h3>
+
+            <p>The purpose of the hall-effect sensor is to indicate to the microprocessor which modes it should be running. Using a magnet connected to a spoke of a bike wheel, the sensor can pick up the magnetic change due to the magnet passing the sensor. This causes an interrupt in the microprocessor and calculates the frequency of the interrupt.</p>
+
+            <p>If the bike is stationary, the mode is turned to wireless communication. In this mode, the sensors are in low-power mode and no violations can be recorded, but the device can communicate wirelessly with a nearby computer. When the interrupt from the sensor is less than 5 Hz, then the microprocessor is in neutral mode. In this mode, the sensors are in low-power and wireless communication is turned off. When the interrupt is greater than or equal to 5Hz, the microprocessor switches to draft detection mode. Wireless communication is off, but the distance sensors are in full power and drafting violations can be recorded.</p>
+
+            <h3>Wireless Communication</h3>
+
+            <p>The wireless communication between the drafting zone detector software and drafting zone detector device functions with an intermediary access point connected to the PC via a USB dongle. Both the device and access point operate on Texas Instruments MSP430F2274 Ultra-Low-Power Microcontrollers with onboard wireless capabilities provided by CC2500 chips, 2.4 GHz RF transceivers. The SimpliciTI 1.1.0 Network Protocol provided by Texas Instruments purposely for development on its MSP430 family of microcontrollers was used as the wireless protocol between the two microcontrollers.</p>
+
+            <p>To transfer the data from the access point to the software, the MSP430 Application UART is utilized to establish a serial connection with the PC. The software also takes advantage of a library of COM port communication functions provided by Active Comport Serial Port Toolkit 3.0 by ActiveXperts Software to receive from the access point.</p>
+
+            <h3>Software</h3>
+
+            <p>The software database is implemented using Microsoft SQL Server 2008 Express. The database has three tables: a data entry table that stores drafting information downloaded from the sensor, a ID to name table that maps each sensor’s unique ID to an athlete name, and finally a user account table that stores user name and passwords used to gain access to the software.</p>
+
+            <p>The software is written in C# and is created through Window Forms Application. Software functions include:</p>
+
+            <ul>
+                <li>Detect Devices – Detects the devices currently in the area and displays a list of the devices identified by their ID numbers. Populates the list box (Item A).</li>
+                <li>Program ID – Programs the ID number of the cyclist into the device currently selected.  ID number is entered into the text box (Item B).</li>
+                <li>Download Data – Downloads drafting data from the selected device and stores the data into the database.</li>
+                <li>Delete Data – Clears the data on the selected device, so it can be reusable for another event.</li>
+                <li>Search – Searches the database for a particular drafting event.  Search criteria will include drafter ID, draftee ID, draft length, time of draft, and comments.  All matching events will be displayed in a list.</li>
+                <li>Sort – Sorts the drafting events currently displayed.  Sort criteria will include drafter ID, draftee ID, draft length, and time of draft.  Can be directly invoked with the table.</li>
+                <li>Add Comment – Adds a comment, which will be stored in the database, for the selected drafting event.  Can be directly inserted into the table.</li>
+                <li>Delete Draft Event – Deletes the selected drafting violation from the database.</li>
+            </ul>
+
+            <p>The software GUI was programmed in C# and implemented using Microsoft Visual Studio 2008. In order to view and manage data easily, data is displayed in a tabular manner. The GUI can not only display data stored in Microsoft SQL Server Express 2008, but also read data from a text files or Excel files. The user is also able to resize the table by dragging the columns or the table itself. The GUI also works with any resolution up to 1920x1080 with aspect ratio being 4:3 or 16:9.</p>
+
+            <p>Furthermore, the GUI allows users to enact functions, such as detecting devices, downloading data from the database, deleting data or a drafting event, searching, sorting and notes taking. All of the above event handlers have been implemented through button clicking in GUI.</p>
+
+            <h2 id="result">Pictures of Final Product</h2>
+
+            <div class="group">
+                <div class="group-row">
+                    <div class="group-item"><img src="img/quikitrak_img4.png" title="Enclosure board." alt="quikitrak_img4" /><div class="sub">The enclosure board.</div></div>
+                    <div class="group-item"><img src="img/quikitrak_img5.png" title="Front and back sensors." alt="quikitrak_img5" /><div class="sub">The front and back sensors.</div></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+                        
+        <div id="footer">
+            <p>&copy; 2010 Future Data Lab</p>
+        </div>
+    </div>
+</body>
+</html>
