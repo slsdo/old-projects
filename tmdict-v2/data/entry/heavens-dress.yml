@@ -1,0 +1,43 @@
+---
+id: heavens-dress
+
+en: h
+ja: te
+furigana: てんのドレス
+title:
+  en: Heaven’s Dress
+  ja: 天のドレス
+  zh: 天之礼服
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 59
+  category:
+  - armament
+  img: ""
+  en:
+    content: |-
+      A magical artifact passed down by the Einzberns.
+      As the heart that governs the Great Holy Grail, it is imbued with magecraft that can materialize the soul for just a few seconds.
+      Though the dress is pure white, it is actually made of gold. It is inlaid with seven “rings” said to control creation, and the souls of others.
+      The seven holes in the dress are the seven transformed rings, and they are designed to light up one by one every time a Servant’s soul is harvested.
+      Since any human who touches the dress will be turned to gold, its management must be handled by elementals, demi-humans, or homunculi.
+    note: {}
+  ja:
+    content: |-
+      アインツベルンに伝わる魔術兵装。
+      大聖杯を制御する心臓にして、魂を数秒だけ物質化させる魔術を帯びている。
+      純白のドレスだが、材質は黄金。
+      万物・他人の魂を支配するといわれる“指輪”を七つはめ込んでいる。
+      七つの孔は指輪が変形したもので、サーヴァントの 魂が収納される度に一つずつ光を帯びていく仕掛け。
+      人間が触ると黄金になってしまう為、運営は精霊や小人、ホムンクルスでなければならない。
+    note: {}
+  zh:
+    content: |-
+      爱因兹贝伦相传的魔术兵装。
+      既是支配大圣杯的心脏，兼带有使灵魂仅仅数秒物质化的魔术。
+      虽是纯白的礼服，但材质为黄金。镶有七个被认为是支配万物·他人之魂的“指环”。
+      七个孔是戒指所变形的，每次Servant之魂一被收容就各有一个会带着光的结构。
+      因为人类一碰就会变成黄金，运作不是精灵、小人或是人造人[homunculus]就不行。
+    note: {}

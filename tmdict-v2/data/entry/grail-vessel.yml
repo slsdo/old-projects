@@ -1,0 +1,54 @@
+---
+id: grail-vessel
+
+en: g
+ja: se
+furigana: ひじりはいのうつわ
+title:
+  en: Grail Vessel
+  ja: 聖杯の器
+  zh: 圣杯器具
+
+entry:
+- source: fate-zero-material
+  section: fate-zero-encylopedia
+  order: 25
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      The substitute prepared to facilitate the descent of the Holy Grail. In the first three Grail Wars it was merely an object, but in the fourth war the Einzberns sought to gain an advantage in the struggle for possession of the vessel by implanting it with a will of its own and a sense of identification with the Einzbern family.
+      Although Irisviel’s homunculus body is unmistakably organic, the inorganic Holy Grail was broken down and fused with her organs.
+      While it’s certainly true that making the vessel required to win the war a member of their own faction is a reprehensible act of cheating, technically their only obligation is to “deliver a vessel to Fuyuki,” which they did. Besides, it’s a war. Is there really that big of a difference between stealing somebody’s possessions and killing them then taking the body?
+    note: {}
+  ja:
+    content: |-
+      四度目に用意された聖杯降臨のための憑代となる器は、それそのものに自衛のための自我とアインツベルン家への帰属意識を植え付はて、器の争奪戦を優位に運ぼうという発想のもとに作られた。
+      ホムンクルスとしての肉体は行機物に違いないが、その内臓に無機物の聖杯が分解された状態で血合しているのがアイリスフィールである。
+      その所有権が勝判条件のひとつとなる器を、勝手に自分たちの戦力となる駒として改造してしまったわけだから、卑怯極まるチート行為ではあるのだが、そもそもアインツベルンの義務は「器の役目を果たすものを冬木に持ち込む」ことだけなので、これはぺつたん白眼視されるはどの逸脱ではない。所持品を奪うか、殺して死体を持ち去るかの違いは、聖杯戦争において大した落差ではないのである。
+    note: {}
+  zh:
+    content: |-
+      在其本身植入为自卫的自我与向爱因兹贝伦家的归属意识，想要取得器的争夺战优势这种主意下被做出来的成为第四次所准备给圣杯降临的凭依的容器。
+      作为人造人[homunculus]的肉体是有机物没错，但无机物的圣杯以被分解的状态融合于其内脏，这即是爱丽斯菲尔。
+      将那个所有权成为胜利条件之一的容器，任意地改造为变成他们自己的战力的棋子，虽然这样是卑怯之极的欺诈行为，但因为爱因兹贝伦的义务本来就只是“将尽到器的职责的东西带入冬木”，所以这并不是会被冷眼相看的脱轨。夺去携带的物品，或杀掉拿走尸体的区别，在圣杯战争中并不是什么大不了的差别。
+    note: {}
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 46
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      胎内に聖杯を秘め持つ聖杯の守り手。小聖杯とも呼ばれる。アインツベルンによって錬成されたホムンクルスであるアイリスフィール、そして娘のイリヤスフィールがこれにあたる。聖杯の外装殻となる装置で、死亡したサーヴァントの魂を回収し保管する。
+    note: {}
+  zh:
+    content: |-
+      胎内隐藏有圣杯的圣杯的看守者。也被称为小圣杯。由爱因兹贝伦[Einzbern]炼成的人造人[Homunculus]的爱丽丝菲尔[Irisviel]，及其女儿的依莉雅苏菲尔[Illyasviel]属于这个类别。成为圣杯的外装壳的装置，回收并保管已经死亡的Servant的灵魂。
+    note: {}

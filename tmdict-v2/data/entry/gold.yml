@@ -1,0 +1,30 @@
+---
+id: gold
+
+en: g
+ja: ki
+furigana: きむ
+title:
+  en: Gold
+  ja: 金
+  zh: 金
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 12
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      A color symbolic of demons. Arcueid’s eyes can change to this color.
+    note: {}
+  ja:
+    content: |-
+      魔を象徴する色。アルクェイドの瞳がこの色に変化する場合がある。
+    note: {}
+  zh:
+    content: |-
+      象征魔的颜色。爱尔奎特的眼眸有些时候会变化成这个颜色。
+    note: {}

@@ -1,0 +1,96 @@
+---
+id: noble-phantasm
+
+en: n
+ja: ho
+furigana: たからぐ
+title:
+  en: Noble Phantasm
+  ja: 宝具
+  zh: 宝具
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 78
+  category:
+  - armament
+  img: ""
+  en:
+    content: |-
+      The armaments carried by Heroic Spirits, made from humanity’s illusions.
+      Though they generally come in the form of things like swords, spears, or bows, there are also those Heroic Spirits whose Noble Phantasms are auxiliary armaments like shields, rings, or crowns.
+      They are solidified “mysteries,” and injecting them with magical energy while calling their true name will unleash their abilities.
+    note: {}
+  ja:
+    content: |-
+      ノウブル・ファンタズム。
+      英霊たちが持つ、人間の幻想を骨子にして作り上げられた武装の事。
+      剣、槍、弓といったものが基本となるが、中には盾、 指輪、王冠といった補助的な武装を宝具とする英霊もいる。
+      固体化した“神秘”であり、真名と共に魔力を注ぎ込む事によって能力を発揮する。
+    note: {}
+  zh:
+    content: |-
+      Noble·Phantasm。
+      英灵们持有的、以人类的幻想为骨架而作成的武装。
+      基本是剑、枪、弓这之类的东西，但其中也有以盾，戒指，王冠这之类的辅助性武装为宝具的英灵。
+      作为固体化的“神秘”，藉由伴随真名注入魔力来发挥能力。
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 49
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      英霊にまつわる有名な故事や逸話が具現化した武装で、人の幻想を骨子にして作り上げられることから「ノウブル・ファンタズム」と呼ばれる。真名と共に魔力を注ぎ込むことで能力を発揮する。剣や槍、弓などの武具であったり、指輪や王冠といった補助的な礼装であったりと、英霊によって所有する宝具の種類はさまざま。また、効果範囲や対象によって、対人宝具、対軍宝具、対城宝具、対界宝具、対魔術宝具、結界宝具といったようにカテゴリー分けされている。この宝具もまた英霊の真名に大きく関係してくるため、聖杯戦争においては隠匿する傾向がある。だが、この第四次聖杯戦争では敵陣営が見守る中、惜しみなく大盤振る舞いで使われていく（特にライダー）ことに……。
+    note: {}
+  zh:
+    content: |-
+      与英灵有关的有名故事或逸事具现化的武装，因是由人类的幻想作为要点造出而被称为“Noble·Phantasm”。通过与真名一起注入魔力来发挥能力。既有剑或枪，弓等武具，也有指环或王冠这样的辅助性礼装，英灵所拥有的宝具种类各式各样。另外，根据效果范围和对象，分为对人宝具，对军宝具，对城宝具，对界宝具，对魔术宝具，结界宝具这些类别[Category]。因宝具也和英灵的真名有很大的关系，圣杯战争中就趋向于隐藏。不过，观察这个第四次圣杯战争，也有慷慨盛情款待般去使用（特别是Rider）这样的……
+    note: {}
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 133
+  category:
+  - skill
+  img: ""
+  en:
+    content: |-
+      These are special skills or weapons used as a Servant’s trump card.
+      They often comprise of the beloved weapons that Servants had when they were alive, or anecdotal stories about the Servant that is reproduced as a miracle.
+      All Servants can use the legends about them as weapons.
+      There are several classifications of Noble Phantasms. Anti-Unit Noble Phantasms are used against single targets in one-on-one situations, while Anti-Army Noble Phantasms are used against large groups of enemies. There is also another type, Anti-Fortress Noble Phantasms, which are effective at destroying buildings, fortresses, and even terrain.
+      There is also the rare EX classification… which is given to extraordinary Anti-World Noble Phantasms, but few Heroic Spirits have Noble Phantasms of this level.
+      Noble Phantasms are all incredibly powerful unique skills.
+      However, Noble Phantasms are a manifestation of the legends about a Servant, so if a Servant uses a Noble Phantasm their true identity will be revealed to the other Masters. Even in the Moon’s Holy Grail War where battles are mostly one-on-one, the leak of a Servant’s information can lead to defeat. The best Masters can be said to be the ones who can continue to win while keeping the true name and Noble Phantasms of their Servant secret.
+    note: {}
+  ja:
+    content: |-
+      サーヴァントが持つ切り札。
+      英霊である彼らが生前に愛用した武具、あるいは逸話を奇蹟として再現したもの。
+      すべてのサーヴァントは、その出自となる伝承を武器として扱える。
+      一対一で効果を発揮する対人宝具、
+      大勢に対して効果を発揮する対軍宝具、
+      建物や要塞等、地形すら破壊する対城宝具、といった種類に分けられる。
+      稀にEX……特例として対界宝具があるが、そのレベルの宝具を持つ英霊は稀。
+      宝具はいずれも強力なスキルであり、他にはない唯一無二のユニークスキルである。
+      ただし、宝具は英霊の伝説そのものなので、使用すれば他のマスターたちに正体を明かしてしまう事になる。一対一が基本となる月の聖杯戦争においても、トーナメント形式である以上、情報の漏洩は敗北に繋がる。真名、宝具はできるかぎり隠したまま勝ち続けるのが優れたマスターと言えるだろう。
+    note: {}
+  zh:
+    content: |-
+      Servant所持有的王牌。
+      身为英灵的他们生前所爱用的武具，又或是逸话作为奇迹而再现的事物。
+      一切Servant，均把成为其出处的传承当作为武器。
+      在一对一中发挥效果的对人宝具。
+      对大军发挥效果的对军宝具。
+      破坏建筑以及要塞等，连地形都会破坏的对城宝具，分为这么几个种类。
+      稀有的EX……作为特例的对界宝具也是有的，持有那个等级的宝具的英灵十分稀有。
+      宝具不论怎么说都是强力的技能，是其他人所没有的独一无二的unique skill。
+      但是，宝具即为英灵传说的本身，一旦使用的话其他的Master们就会明白其真身。在一对一为基本的月之圣杯战争中也是，既然是锦标赛的形式，情报泄露关乎着败北。真名、宝具尽可能地隐藏着不断获胜，才该说是优秀的Master吧。
+    note: {}

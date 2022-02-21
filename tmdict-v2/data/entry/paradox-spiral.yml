@@ -1,0 +1,39 @@
+---
+id: paradox-spiral
+
+en: p
+ja: mu
+furigana: むじゅんらせん
+title:
+  en: Paradox Spiral
+  ja: 矛盾螺旋
+  zh: 矛盾螺旋
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 44
+  category:
+  - chapter
+  img: ""
+  en:
+    content: |-
+      The title of the fifth chapter. The grand finale of the tale that was <em>Kara no Kyoukai Shi</em>.
+      This was the only chapter where Shiki was armed. It seemed that it was determined from the initial planning stage that there would be only one chapter where Shiki would wield a sword.
+      From the initial concept, it seemed the idea was “this would be the shortest chapter. If other chapters were one hour long when animated, this one would be thirty minutes.”
+      What were we thinking about at that time? This was truly worrisome.
+    note: {}
+  ja:
+    content: |-
+      第五話の章タイトル。『空の境界式』という大きな話の最後を飾るもの。
+      式が武装するのはこの話だけ。初期段階から、式が刀を持つのは一話のみ、と決められていたとか。
+      初期プロットのコンセプトを見ると、「全話中一番短い話。他の話が一時間なら、これは三十分のアニメのノリで」だそうだ。
+      当時、何があったのかは気になるところではある。
+    note: {}
+  zh:
+    content: |-
+      第五话的章名。装饰《空之境界式》这个大故事的最后的东西。
+      式武装了的只有这一章。好像从初期阶段，式拿刀的只有一章就已经被决定了。
+      看初期策划的概念，好像是“全章中最短的一章。其他章是一小时的话，这就照三十分钟的动画来”。
+      当时发生了什么吗真是让人在意的地方。
+    note: {}

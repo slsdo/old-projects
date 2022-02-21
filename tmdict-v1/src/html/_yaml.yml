@@ -1,0 +1,63 @@
+---
+id: {% if key == '-' %}
+"-"
+{% else %}
+{{ key }}
+{% endif %}
+
+en: {{ en_key }}
+ja: {{ ja_key }}
+furigana: {{ furi }}
+title:
+  en: {{ entitle }}
+  ja: {{ jatitle }}
+  zh: {{ zhtitle }}
+
+entry:
+{% for item in source %}
+- source: {{ source[loop.index0] }}
+  section: {{ source_section[loop.index0] }}
+  order: {{ glossary_order[loop.index0] }}
+  category:
+{% if category_type[loop.index0] == '0' %}
+  - "-"
+{% else %}
+{% for item in cat[loop.index0] %}
+  - {{ item }}
+{% endfor %}
+{% endif %}
+  img: {% if img and img[loop.index0] %}
+{{ img[loop.index0] }}
+  {% else %}""
+{% endif %}
+  en:
+    content: |-
+      {{ encontent[loop.index0] }}
+    note:{% if ennote[loop.index0] %}
+
+  {% for item in ennote[loop.index0] %}
+      {{ item }}
+  {% endfor %}
+  {% else %} {}
+{% endif %}
+  ja:
+    content: |-
+      {{ jacontent[loop.index0] }}
+    note:{% if janote[loop.index0] %}
+
+  {% for item in janote[loop.index0] %}
+      {{ item }}
+  {% endfor %}
+  {% else %} {}
+  {% endif %}
+  zh:
+    content: |-
+      {{ zhcontent[loop.index0] }}
+    note:{% if zhnote[loop.index0] %}
+
+  {% for item in zhnote[loop.index0] %}
+      {{ item }}
+  {% endfor %}
+  {% else %} {}
+{% endif %}
+{% endfor %}

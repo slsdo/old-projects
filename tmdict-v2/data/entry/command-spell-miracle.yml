@@ -1,0 +1,30 @@
+---
+id: command-spell-miracle
+
+en: c
+ja: re
+furigana: れいじゅのきせき
+title:
+  en: Okonomiyaki Shouki
+  ja: 令呪の奇跡
+  zh: 令咒的奇迹
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 42
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      令呪よってサーヴァントの能力を超えた力や事象を引き起こすこと。セイバーを遠く離れた土蔵まで瞬時に移動させてしまうなど、普通ではあり得ない奇跡的な事象を再現することができる。
+    note: {}
+  zh:
+    content: |-
+      用令咒引发超越Servant能力的力量和事象。使Saber瞬间移动到间隔遥远的仓库一类的，化通常不可能实现的奇迹事象的再现为可能。
+    note: {}

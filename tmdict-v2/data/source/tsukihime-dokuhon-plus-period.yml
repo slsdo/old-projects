@@ -1,0 +1,24 @@
+---
+id: tsukihime-dokuhon-plus-period
+
+release-date: "2004-10-22"
+en: "Tsukihime Dokuhon Plus Period"
+ja: "月姫読本 Plus Period"
+zh: "月姬读本Plus Period"
+
+sections:
+  tsukihime-dictionary-revised:
+    id: tsukihime-dictionary-revised
+    page: 174–191
+    glossary: tsukihime
+    en: "Tsukihime Dictionary Revised"
+    ja: "月姫用語辞典改訂新版"
+    zh: "月姬用语词典改订新版"
+
+  talk:
+    id: talk
+    page: 192–200
+    glossary: tsukihime-2
+    en: "Talk."
+    ja: "Talk."
+    zh: "Talk."

@@ -1,0 +1,72 @@
+---
+id: kazuradrop
+
+en: k
+ja: ka
+furigana: かずらどろっぷ
+title:
+  en: Kazuradrop
+  ja: カズラドロップ
+  zh: Kazuradrop
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 38
+  category:
+  - alter-ego
+  img: ""
+  en:
+    content: |-
+      Kazuradrop is one of the Sakura Five that didn’t make it into the game.
+      She is the Alter Ego of affection.
+      Unlike the other Alter Egos, she doesn’t hate humans. Conversely she actually questions the contradiction-filled actions of BB and the other Alter Egos. Kazuradrop is a gentle and quiet girl with a personality that values others over herself. She wants to return to being a complete AI, devoid of the errors that riddle the Alter Egos.
+      We designed her to be a nurse, so she is always neat and tidy. She is also very young and has absolutely zero combat ability. She is a specialized AI designed to work as a virus scanner. She would fix up or neutralize corrupted data or code that cause bugs. She is a health nut who loves to give her patients injections.
+      …Well, it’s easy to tell why she was cut after reading this far. She was too similar to Matou Sakura who works in the School Infirmary, so Kazuradrop was cut at a relatively early stage.
+      One of our ideas in the early games design phase was to have a village located in a dungeon where the various Sakuras would gather. Kazuradrop was supposed to live in that village.
+
+      Kazuradrop: “Welcome! This is a village where the more moderate-minded Sakura gather.”
+      Rin: “…Don’t you think this girl has gone way too far splitting up her ego?”
+      Kazuradrop: “If you return to us the Drops of the Sakura we originated from, we will give you items and heal you ♥”
+
+      Maybe things would’ve ended up like that.
+      Originally there was no Sakurament and instead there were “Sakura Drops” which were once part of the source Sakura. By gathering them and trading them for prescriptions from the School Infirmary Sakura you would be able to take back a share of the world and put it under your control. This was one of the methods of doing so.
+      Kazuradrop’s id_es skills are “Repulsion For One’s Kin” and “Insect Eater.”
+    note: {}
+  ja:
+    content: |-
+      実現しなかったサクラファイブの一人。
+      慈愛のアルターエゴ。
+      他のアルターエゴと違い、人間を憎めず、むしろBBやエゴたちの在り方……矛盾だらけの在り方……に疑問を持ってしまっている。
+      カズラドロップはおとなしく献身的な性格で、AIとして間違いのない、完全なかたちに戻りたがっている。
+      看護師[ナース]をイメージしたアルターエゴで、いちばん清楚で幼い。戦闘能力こそ皆無だが、ウイルスチェッカーに特化したAI。バグをおこしたデータが無抵抗ならこれを洗浄し、無力化する事ができる。お注射大好きな健康マニアでもある。
+      ……とまあ、ここまで書けばなぜ没になったかは明白だ。保健室の間桐桜とキャラ属性がかぶっているため、もっとも早くカットされたアルターエゴ。
+      あくまで初期アイデアではあるが、ダンジョン内にはノーマル桜たちが集まる村があり、そこにカズラドロップが住んでいた。
+
+      カズラ「ようこそ。ここは、穏健派の桜たちが集まった集落です」
+      凛「……いくらなんでも人格分裂しすぎよね、この子」
+      カズラ「わたし達の源である桜の滴を還元してくれたら、アイテム提供や体力回復が可能ですよ♥」
+
+      などという超展開。
+      初期のCCCはサクラメントではなく「桜の滴」とよばれるソースを集め、保健室の桜に投与する事で世界の支配率[シュア]を奪い返していく、というものだった。これはその一例。
+      イデスは『同属嫌悪』と『インセクトイーター』。
+    note: {}
+  zh:
+    content: |-
+      {{n1}}
+      没能得以实现的Sakura Five之一。
+      慈爱的Alter Ego。
+      和其他Alter Ego不同，并不憎恨人类……反而对BB和Ego们的行为……那充满矛盾的行为……抱有疑问。Kazuradrop性格乖巧，乐于献身，希望回归到毫无差错的AI本来该有的形式。
+      以护士为基调设计的Alter Ego，最为清秀年幼。虽然毫无战斗能力，但是在病毒扫描方面经过特化的AI。产生漏洞的文件若无抵抗，能将其清洗并无力化。特别喜欢给人打针的健康狂。
+      ……嘛，写到这里会被驳掉也是显而易见的了。在角色上跟保健室的樱重叠了啦，是最早被卡掉的Alter Ego。
+      初期构思中，在迷宫中有一个聚集着普通樱的村庄，Kazuradrop就住在里面。
+
+      Kazura：“欢迎，这里是保守派的樱们所聚集的村落”
+      凛：“……再怎么样，这也人格分裂得太过头了吧，这孩子”
+      Kazura：“若是让我们的源泉——樱之露滴恢复原样，我们就会为你们提供道具并恢复体力。♥”
+
+      还有这种超展开。
+      在初期的CCC中并没有Sakurament，而是借由收集“樱之露滴”这个资源，交给樱来不停夺回世界的支配率。这就是其中的一个例子。
+      id_es技能是“同族嫌恶”和“Insect Eater”。
+    note:
+      n1: "Kazura Drop：藤蔓之滴。"

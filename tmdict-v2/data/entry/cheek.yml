@@ -1,0 +1,31 @@
+---
+id: cheek
+
+en: c
+ja: ho
+furigana: ほっぺた
+title:
+  en: Cheek
+  ja: ほっぺた
+  zh: 脸颊
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 51
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      ぷにぷにと突付かれたり、ぐにぐにと伸ばされたりする癒し系アイテム。
+    note: {}
+  zh:
+    content: |-
+      突然噗尼噗尼地捏上去，咕尼咕尼{{n1}}地拉抻的治愈系道具[Item]。
+    note:
+      n1: "噗尼噗尼，咕尼咕尼，拟声词，形容揉捏可爱脸蛋的手感，具体可参见千键捏响脸颊的封面图。"

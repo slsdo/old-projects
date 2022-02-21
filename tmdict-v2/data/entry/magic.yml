@@ -1,0 +1,196 @@
+---
+id: magic
+
+en: m
+ja: ma
+furigana: まほう
+title:
+  en: Magic
+  ja: 魔法
+  zh: 魔法
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 58
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      A mystery distinct from magecraft.
+      “Magic” is that which makes the impossible into the possible, for a given era.
+      In the past, when civilization was young, most magi were also magicians.
+      However, in the present era where almost anything has become possible (so long as you disregard the capital and time required to realize it, and focus only on whether or not a thing is “possible” in the purest sense), the number of things that can be called “magic” has been reduced to a mere five.
+      Consequently, there are only five existing magicians.
+      Because the ultimate goal of magi is to arrive at magic, there is a possibility that this number may increase, but probably it will just keep dropping even more from here on out.
+    note: {}
+  ja:
+    content: |-
+      魔術とは違う神秘。
+      その時代で実現不可能な出来事を可能するのが『魔法』と呼ばれる。
+      文明が幼かった過去において、魔術師たちの大部分が魔法使いだった。
+      が、あらゆる事が可能となってしまった現代（資金・時間は考えず、ただ実現可能かどうかとしての可能性）において、『魔法』と呼べるものはたった五つだけになってしまった。
+      故に、現存する魔法使いは五人だけ。
+      魔術師たちの最終目的は魔法に到達する事であるからもしかすれば増える可能性もあるが、これから先はさらに少なくなっていくだけだろう。
+    note: {}
+  zh:
+    content: |-
+      与魔术不同的神秘。
+      将在那个时代不可能实现的事情变为可能的就是“魔法”。
+      在过去文明刚起步的阶段，魔术师们大部分都是魔法使。
+      但在几乎所有事情都可以实现的现代（不考虑时间资金，只考虑是否有实现的可能），能称为魔法的只剩下仅仅五种。
+      也因此，现存的魔法使只剩下五人。
+      因为魔术师们的最终目的就是要到达魔法的领域，所以说不定还有增加的可能性，不过接下来大概只会越来越少吧。
+    note: {}
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 26
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      ① A mystery distinct from magecraft.
+      ② Magic is that which makes the impossible (something that can’t be achieved regardless of the time and money one has), possible. So, in the present era, in which almost everything is possible, there are only 5 magic. Accordingly, there are only 5 existing magicians.
+      ③ The ultimate goal of most magi is to achieve the power of magic. Roa also falls into this category.{{n1}}
+      ④ At this time only 2 magicians have been revealed. Aozaki Aoko and Zelretch.
+      ⑤ The details of the 5 magic are unknown, however we do know that bringing the dead back to life is a magic, and that Aozaki Aoko’s magic is known as “Magic - Blue.”
+      ⑥ Also note is that magic doesn’t follow the rules of magecraft, a big reason Crimson Moon lost to Zelretch is due to not fully grasping this.
+    note:
+      n1: "Magi are different than Magicians. Magi use magecraft. Magicians use magic."
+  ja:
+    content: |-
+      ①魔術と混同されがちだが魔術とは異なる神秘。
+      ②その時代において資金・時間の問題によらず実現不可能な出来事を可能とするもの。よってあらゆる事が可能となった現代において魔法と呼べるものは5つのみ。故に現存する魔法使いは5人のみ。
+      ③魔術師は大抵魔法に辿り着く事を目的としている。ロアもそのひとりであったらしい。
+      ④現時点で魔法使いである事が明らかにされているのは蒼崎青子とゼルレッチ。
+      ⑤5つの魔法の詳細は不明だが、死者の蘇生が魔法である事と、蒼崎青子の魔法が「魔法・青」と称される事が明らかにされている。
+      ⑥また、既存の魔術のルールにはそぐわないらしく、朱い月がゼルレッチに敗れたのもこの点に関する事前の学習が不充分であった為。
+    note: {}
+  zh:
+    content: |-
+      ①容易与魔术混为一谈，但是与魔术不同的神秘。
+      ②不考虑资金和时间的问题，把该时代中不可能实现的事情化作可能的东西。因此在一切事情都已经可能的现代中，能称为魔法的东西只有五个。所以现存的魔法使只有五位。
+      ③魔术师大抵上都以到达魔法为目的。罗亚似乎也是其中一份子。
+      ④现时点被揭明是魔法使的有苍崎青子和泽尔里奇。
+      ⑤五个魔法的详细不明，但是已经揭明死者苏生是魔法，以及苍崎青子的魔法被称为“魔法·青”。
+      ⑥另外，魔法似乎违背现有的魔术规则，朱月败给泽尔里奇也是因为对于这点的事前学习不充分。
+    note: {}
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 91
+  category:
+  - miracle
+  img: ""
+  en:
+    content: |-
+      A mystery distinct from magecraft. The final destination of magi.
+      “Magic” is that which makes the impossible into the possible, for a given era. A “result” which can be realized with the application of time and effort is not magic.
+      In the past, when civilization was young, most magi were also magicians, but currently only five remain.
+      …Well, that’s what they say, but there are actually only four still alive.
+      The magician that handled the First magic already died a long, long time ago.
+      Of the remaining four, two have disappeared, and two are bothersome people that pop up all over the place leaving trouble in their wake.
+    note: {}
+  ja:
+    content: |-
+      魔術とは違う神秘。魔術師たちの最終到達地点。
+      その時代で実現不可能な出来事を可能とするのが『魔法』であり、時間と資金をかければ実現できる“結果” は魔法とは呼ばれない。
+      文明が幼かった過去、魔術師たちの大半は魔法使いだったが、現在はもう五人を残すのみとなった。
+      といっても、生きている魔法使いは四人。
+      第一魔法と呼ばれるモノを扱った魔法使いはとうに死去している。
+      残る四人中、二人は姿を眩ましているが、二人は頻繁に現れてはトラブルを起こして立ち去るという、実にはた迷惑な者ども。
+    note: {}
+  zh:
+    content: |-
+      与魔术不同的神秘。魔术师们最终目的地。
+      将那个时代不可能实现的事件化为可能的就是“魔法”，若花费时间和资金就能实现的“结果”不会被称为魔法。
+      文明幼小的过去，魔术师们的大半是魔法使，但现在已经变得只剩五人了。
+      说是这么说，但活着的魔法使是四人。
+      操纵被称为第一魔法的东西的魔法使早已死去了。
+      剩下的四人中，两人隐藏了起来，二人则是频繁出现引起麻烦就离开，实在令人烦扰的人们。
+    note: {}
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 42
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      A mystery different from magecraft. The final destination of every magus.
+      “True Magic” achieves things that cannot be realized in a given era. An “outcome” which can be achieved through the investment of time and resources is not True Magic.
+      Currently, the Association has determined five Magics.
+      The so-called First and Second Magic are only known by a limited few in the Association.
+      Although it is said that no more new “Magics” will emerge, Kokuto Mikiya insightfully pointed out the unrealized Magic.
+    note: {}
+  ja:
+    content: |-
+      魔術とは違う神秘。魔術師たちの最終到達地点。
+      その時代で実現不可能な出来事を可能とするのが『魔法』であり、時間と資金をかければ実現できる“結果”は魔法とは呼ばれない。
+      現在、協会では五つの魔法が確認されている。
+      第一魔法、第二魔法と呼ばれるそれらは、協会でも一部の人間しか知らされていない。
+      もうこれ以上『魔法』は現れまいと言われているが、まだ実現できていない魔法を黒桐幹也はさらっと言い当てていたりする。
+    note: {}
+  zh:
+    content: |-
+      与魔术不同的神秘。魔术师们的最终到达地点。
+      使在那个时代不可能实现的事情变为可能的是“魔法”，投入时间和资金就能实现的“结果”不被称为魔法。
+      现在，协会确认了五个魔法。
+      被称为第一魔法、第二魔法的它们，在协会中也只让一部分人知道。
+      虽然都说已经不会再出现魔法了，但是黑桐干也一下子就说中了还没能实现的魔法。{{n1}}
+    note:
+      n1: "《矛盾螺旋》中鲜花向干也讲解魔法与魔术的区别时，干也说：“ふぅん。そうなると最後の魔法っていうのは、みんなを幸せにする事ぐらいになっちゃうな(哦？这样的话要说最后的魔法，就只有让大家幸福这样的事了呢)”。某种意义上，士郎也是第六法的追求者。"
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 88
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      A mystery distinct from magecraft. The final destination of magi. “Magic” is that which makes the impossible into the possible, for a given era. A “result” which can be realized with the application of time and effort is not magic. In the past, when civilization was young, most magi were also magicians, but currently only five remain.
+      …Well, that’s what they say, but there are actually only four still alive.
+      The magician that handled the First magic already died a long, long time ago. Of the remaining four, two have disappeared, and two are bothersome people that pop up all over the place leaving trouble in their wake.
+      As for why they are still commonly referred to as the five magicians regardless, well, that comes down to a matter of perspective. It’s the difference between counting a dead person as somebody that no longer exists, or counting them as still being “alive” in a way, so long as some trace of them still lives on.
+    note: {}
+  ja:
+    content: |-
+      魔術とは違う神秘。魔術師たちの最終到達地点。
+      その時代で実現不可能な出来事を可能とするのが『魔法』であり、時間と資金をかければ実現できる“結果”は魔法とは呼ばれない。文明が幼かった過去、魔術師たちの大半は魔法使いだったが、現在はもう五人を残すのみとなった。
+      といっても、生きている魔法使いは四人。
+      第一魔法と呼ばれるモノを扱った魔法使いはとうに死去している。残る四人中、二人は姿を眩ましているが、二人は頻繁に現れてはトラブルを起こして立ち去るという、実にはた迷惑な者ども。
+      よく五人の魔法使いとか言われるが、それは各人の捉え方の差のようだ。既に存在しない人間をカウントするか、死んでいようが消えていようがその痕跡が生きているのなら存命中とカウントするのか、その違いである。
+    note: {}
+  zh:
+    content: |-
+      与魔术不同的神秘。魔术师们的终极目标。
+      将在这个时代不可能实现的事情变为可能的就是“魔法”，花费时间和财力的话就能实现“结果”不能被称作魔法。在文明起步阶段的过去，魔术师们大部分都是魔法使，现在只剩下了五人的魔法使。
+      话虽是这么说，但还活着的魔法使是四人。
+      使用被称为第一法的魔法使好像已经死亡。剩下的四人中两人躲躲闪闪，另外两人频繁出现，引发事件后又离去，其实是相当麻烦的一群人。
+      尽管常被称为五人魔法使，但似乎每个人的理解方式有所不同。将其当做是已经不存在的人类，或将死了般消失不见但其踪迹任在的话就算作是还活着，就是这样理解上的差异。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 65
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      A mystery distinct from magecraft. The final destination of magi.
+      “Magic” is that which makes the impossible into the possible, for a given era. A “result” which can be realized with the application of time and effort is not magic. In the past, when civilization was young, most magi were also magicians, but currently only five remain.
+      Each particular magic is named by its number: i.e., the First, the Second, and so on. Aozaki Aoko is the user of the Fifth magic.
+    note: {}
+  ja:
+    content: |-
+      魔術とは違う神秘。魔術師たちの最終到達地点。
+      その時代で実現不可能な出来事を可能とするのが『魔法』であり、時間と資金をかければ実現できる“結果”は魔法とは呼ばれない。文明が幼かった過去、魔術師たちの大半は魔法使いだったが、現在はもう五人を残すのみとなった。
+      魔法はそれぞれ第一、第二、と呼ばれる。蒼崎青子は第五魔法の使い手。
+    note: {}
+  zh:
+    content: |-
+      与魔术不同的神秘。魔术师们的最终到达地点。
+      把那个时代不可能实现的事作为可能的是“魔法”，若付出时间和资金就能实现“结果”不被称为魔法。文明幼小的过去，魔术师们大半是魔法使，但现在已经变得只剩下五人了。
+      魔法各自被“第一、第二”这样称呼。苍崎青子是第五魔法的使用者。
+    note: {}

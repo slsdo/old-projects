@@ -1,0 +1,36 @@
+---
+id: hydra
+
+en: h
+ja: hi
+furigana: ひゆどら
+title:
+  en: Hydra
+  ja: ヒユドラ
+  zh: 海德拉巨蛇
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 80
+  category:
+  - magical-beast
+  img: ""
+  en:
+    content: |-
+      Among Heracles’ Twelve Labors, the monster he exterminated at Lake Lerna was the Hydra, a giant swamp snake said to possess either nine or a hundred heads.
+      Possessing both a deadly poison said to instantly kill all humans it touches and an abnormally high regeneration capable of immediately regenerating two new heads every time one is cut off, the Hydra is a Monstrous Beast with top class fame even among the other Twelve Labors. Shishigou Kairi accepted a young-born Hydra as prepayment and processed it. At first, he processed it into a knife as a final weapon that could kill even a Servant, but later he used it to make an antidote serum out of wariness towards Semiramis.
+      Though Mordred blocked herself out from it with her armor, it still wasn’t enough to completely block the air itself which was contaminated with the poison. The rank of the Hydra’s poison is undoubtedly top A rank. It might even reach A+ rank against heroes of Greek myth.
+    note: {}
+  ja:
+    content: |-
+      ヘラクレスが踏破した十二の難行。その内の一つであるレルネーの沼において退治されたのが、九つの頭を持つとも百の頭を持つとも言われる沼の大蛇ヒュドラである。
+      触れた人間を即絶命させる、とまで言われる猛毒と首を切断しても即座に二つに分かれて再生する異常な再生能力の高さから、十二の難行の中でもトップクラスの知名度を持つ魔獣である。獅子劫界離は前払いの報酬として幼生体のヒュドラを受け取り、それを加工した。当初はサーヴァントすら殺しうる最終兵器としてナイフに加工したが、後になって獅子劫はセミラミスを用心して血清を作成した。
+      モードレッドは鎧で遮断したものの、それでも空気そのものが毒気で汚染されていては完全に防ぐことはできなかった。毒のランクとしては間違いなく最上級のA。ギリシャ神話の英雄に対してはA+まで伸びるかもしれない。
+    note: {}
+  zh:
+    content: |-
+      海克力斯所跨越的十二道试炼中，其中之一就是在勒纳沼泽所退治的、有着九个头、或是一百个头等各种传闻的沼泽大蛇海德拉。
+      因为那一般人碰到就死的剧毒、以及就算被斩首也会立刻各自复活（头跟身体各自复活）的异常再生能力，就算在十二道试炼中也是最高难度的高名气魔物。狮子劫界离作为事前报酬，收下了海拉德的幼体并进行加工。最初是想做成连从者都能杀的最终兵器而加工在小刀上，之后为了提防塞米拉米斯而制作了血清。
+      虽然被莫德雷德的铠甲阻挡住，但即使如此也无法完全防住毒气对空气的污染。毒的级别毫无疑问是作为最上级的A。对象是希腊神话的英雄的话，能提升成A+也说不定。
+    note: {}

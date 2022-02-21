@@ -1,0 +1,81 @@
+---
+id: far-side-of-the-moon
+
+en: f
+ja: tsu
+furigana: つきのうらがわ
+title:
+  en: Far Side of the Moon
+  ja: 月の裏側
+  zh: 月的里侧
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 104
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      This is the setting of CCC.
+      If one thinks of the Moon as being perfectly divided into two, the side facing the Earth is the Near Side, and the opposite side, which cannot be observed from Earth, is the Far Side.
+      Fate/EXTRA takes place on the Near Side, and the player progresses from the first layer to the seventh layer, and finally on to the Moon Cell‘s core. CCC takes place on the Far Side (no layers though), and the player similarly aims to reach the Moon Cell‘s core. Although the path is different, the goal is the same; Moon Cell‘s core.
+      The Far Side of the Moon is the place where Moon Cell keeps information and data that it has judged to be unnecessary; it’s essentially a dumping ground.
+      It’s an imaginary number space that swallows up all data categorized as malicious information, which is information/data that could only ever prove harmful to mankind or other life forms.
+      The Far Side of the Moon is a strictly off-limits area, and even the “eye” of Moon Cell‘s core is forbidden from entering.
+      All data that finds its way to the Far Side of the Moon is swallowed by humanity’s evil nature, and is eventually deprived of all meaning.
+      The Far Side of the Moon can be said to be the result of Moon Cell stashing away polluted information and data. This ocean of polluted data increases in size as Moon Cell continues to make its observations.
+      The illustration that Leo excitedly prepares for the player is extremely difficult to understand. Despite Leo complaining that Julius’ briefing was inefficient because it was too “Visual Kei,” Leo actually likes Gothic themed stuff quite a bit.
+    note: {}
+  ja:
+    content: |-
+      CCCの舞台。
+      月を綺麗に二分割し、地球に向いてる側の分を表とし、その逆……地球からでは観測できない側を裏と考える。
+      Fate/EXTRAが月の表側・第一層から第七層～中心に向かうものとしたら、CCCは月の裏側（階層の概念なし）から中心を目指すもの。道行きは違えどゴールはどちらもムーンセル中枢となる。
+      月の裏側はムーンセルが不要と判断した情報を保管する場所で、その在り方は廃棄場に近い。
+      悪性情報───人類、ひいては知的生命体にとって害にしかならないもの───とカテゴライズされたデータをひたすら飲みこむ虚数空間である。
+      月の裏側はムーンセル中枢の『眼』ですら立ち入りを禁止した最高禁句領域。
+      ここに入ったデータは人間の悪性に飲まれ、存在意義を見失ったあげく、意味消失してしまう。
+      月の裏側はムーンセルが観測する度に増やしてしまう汚染物質をためこんだ海、とも言える。
+      レオが用意したワクテカ図解はそのあたりたいへん分かりづらい。ユリウスのブリーフィングを“ヴジュアル系すぎて効率が悪い”と言っておきながら、レオもかなりのゴシック好きである。
+    note: {}
+  zh:
+    content: |-
+      CCC故事的舞台。
+      将月亮漂亮的分成两半的话，向着地球的一侧便是表，相反的……从地球这边无法观测的一面被认为是里侧。
+      如果说Fate/EXTRA的月表侧是从第一层开始到第七层~中心的绽开的话，CCC则是从月里侧（没有阶层的概念）向中心进发的故事。虽然经过的道路不同，但是终点却同样是Moon Cell的中枢。
+      月的里侧是Moon Cell将判断为不需要的情报进行管理的地方，其存在的方式近似于废弃站。
+      [月里侧是]将恶性情报——人类，进而可以说是知性生命体，对于他们来说只有坏处的事物——和被分类的data一起饮入的虚数空间。
+      月里侧是即便是Moon Cell中枢的“眼”也禁止进入的最高禁句领域。
+      进入这里的Data会饮入人类的恶行，迷失存在意义的最后，连意义都消失掉。
+      可以说月里侧是Moon Cell随着[对地球]进行观测的次数，而不断增长的囤积着污染物质的电子海洋。
+      从雷欧所准备的wktk图解{{n1}}上很难理解这个部分。把尤里乌斯的简报称为“过度Visual化效率很差”的同时，雷欧也是相当喜欢Gothic的人。
+    note:
+      n1: "期待性图解，2chan语，是wakuwaku和tekateka的结合，意为期待。"
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 43
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      This refers not to the side of the Moon that you cannot see from the Earth, but to the other side of the Moon Cell’s internal structure.
+      The inner workings of the Moon Cell are divided into the Near Side and the Far Side, top and bottom, each in the shape of a half-moon.
+      The Far Side of the Moon is somewhat analogous to a giant “hell” that lies beneath the Earth’s crust.
+      Because the Moon Cell trashes information that it cannot understand, as well as unneeded divergences in human history, to its Far Side, that “side” of the Moon is a pool of chaos where innumerable curses and delusions flourish.
+    note: {}
+  ja:
+    content: |-
+      地球からは見る事のできない月の裏側……ではなく、ムーンセル内部の裏側を指す。
+      ムーンセル内部は表と裏、上部分と下部分とに分かれており、それぞれ半月型の空間になっている。
+      地球で言うなら地面の下に広がる地獄、といったところ。ムーンセルは人類史に不要なもの、ムーンセルでは理解できない情報を月の裏側に投棄するため、月の裏側は多くの怨念と妄想が渦巻く混沌のプールとなっている。
+    note: {}
+  zh:
+    content: |-
+      并非指无法从地球上看见的月的里侧……这里是指Moon Cell内部的背侧。
+      Moon Cell的内部分成表侧与背侧、上部分与下部分。各自呈现成半月型的空间。
+      以地球来说，就是地底下的广大地狱。
+      Moon Cell将人类史不需要的存在、Moon Cell无法理解的资讯都流放到月的里侧。这使得月的里侧成了沉积无数怨念与妄想的混吨漩涡。
+    note: {}

@@ -1,0 +1,42 @@
+---
+id: golem
+
+en: g
+ja: ko
+furigana: ごーれむ
+title:
+  en: Golem
+  ja: ゴーレム
+  zh: 稀世魔像
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 39
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      Artificial soldiers made of earth, stone or wood, which Avicebron manufactures. The concept of golems traces back to Ancient Israel, and the basics of their manufacture are said to have arisen sometime between the 2nd to 9th centuries. However, if you trace it back further, golems originate from a passage in Genesis that says “The Lord molded man out of the dust of the ground and breathed life into him through his nostrils.”
+      In other words, golems were originally an attempt to make “humans.” Therefore, their quality is considered higher the closer they are to being human. However, that is only the ideal golem in Kabbalist thinking, and regular magi might simply devote themselves on “how to make a strong golem.”
+      Avicebron’s magecraft is fundamentally specialized solely for the sake of making golems, and his techniques have already reached a level that modern magi cannot catch up to, letting him spend his whole life playing around while living off just the sales from his golems. It’s only natural that Roche idolizes him.
+      To make something close to human is the concept of Avicebron’s golems, but he’s willing to make completely different kinds of golems to amuse himself as well. The steel horse he made to act as Vlad III’s steed was a simple yet prided product of his, and even just the gems used for its eyes were worth hundreds of millions.
+      After the war, some of his golems actually managed to just barely survive, and though most of them were sold off, a few golems went to a new land with the homunculi.
+    note: {}
+  ja:
+    content: |-
+      アヴィケブロンが生産する土塊、または石や樹木で構成された人造の兵士たち。ゴーレムの概念は古代イスラエルまで遡り、製法の基礎的な部分は大体二世紀から九世紀時点で成立していたとされる。だが、更に言うのであればゴーレムは創世記の「主は土くれで人間を形作り、鼻から命を吹き込んだ」というくだりに由来する。
+      つまり、ゴーレムとはそもそもが「人間」を作ろうとする試みなのである。従って、ゴーレムは人間に近ければ近いほどに高品質と言える。もっとも、それはあくまでカバリストの考える理想的なゴーレムであって、魔術師ならば「如何に強力なゴーレムを造るか」に腐心するべきなのかもしれない。
+      アヴィケブロンの魔術は基本的にゴーレムを造ることのみに特化しており、彼の技術は既に現代の魔術師が追いつけない領域に到達している、ゴーレムを売り捌くだけで一生遊んで暮らせるレベル。ロシェが傾倒してしまうのも無理はない。
+      人間に近いものを、というのがアヴィケブロンのゴーレムのコンセプトであるが、それはそれとして手慰みに全く異なるコンセプトのゴーレムを造るのも吝かではない。ヴラド三世の乗馬用に作成した銅鉄馬は地味な白信作で、瞳につける宝石だけでも億単位だったとか。
+      大戦後、実は一部のゴーレムたちも細々と生き残っており、ほとんどは売却されたもののわずかなゴーレムはホムンクルスと共に新天地へと向かったとか。
+    note: {}
+  zh:
+    content: |-
+      以阿维斯布隆生产的土块，或是石头与树木组成的人造士兵。魔像的概念可上溯至古以色列，制法的基础部分则咸认为大约在二世纪到九世纪之间成立。不过进一步说，魔像的由来则是圣经创世纪当中“耶和华神用地上的尘土造人、 将生气吹在他鼻孔里、他就成了有灵的活人”这一段。
+      换句话说，魔像原为尝试制作“人类”的挑战。因此可说魔像愈接近人类，品质愈高。当然，这终究是卡巴拉术师心目中擘划的理想魔像。至于魔术师，或许可说他们醉心于“如何创造强力的魔像”。
+      阿维斯布隆的魔术基本上特化成魔像的创造，他的技术已经达到现代魔术师难以望其项背的领域。光靠销售魔像就能一辈子享用不尽，也难怪罗榭会对他如此痴迷。
+      纵使接近人类，应该说这是阿维斯布隆打造的魔像概念，但他依然不吝于打造概念完全相异的魔像用以解闷。弗拉德三世骑乘用的铜铁马是朴实的自信作，光是镶嵌在眼睛的宝石就价值好几亿。
+      大战后，其实仍有部分魔像勉强存活下来。几乎所有魔像都遭变卖，但还是有少部分魔像与人造人一同前往新天地。
+    note: {}

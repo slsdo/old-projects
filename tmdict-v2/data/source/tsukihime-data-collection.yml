@@ -1,0 +1,16 @@
+---
+id: tsukihime-data-collection
+
+release-date: "2000-12-31"
+en: "Tsukihime Data Collection"
+ja: "月姫資料集"
+zh: "月姫资料集"
+
+sections:
+  tsukihime-dictionary:
+    id: tsukihime-dictionary
+    page: 21–33
+    glossary: tsukihime
+    en: "Tsukihime Dictionary"
+    ja: "月姫用語辞典"
+    zh: "月姬用语辞典"

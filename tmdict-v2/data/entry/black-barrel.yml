@@ -1,0 +1,39 @@
+---
+id: black-barrel
+
+en: b
+ja: fu
+furigana: ぶらっくばれる
+title:
+  en: Black Barrel
+  ja: ブラック・バレル
+  zh: Black·Barrel
+
+entry:
+- source: angel-voice
+  section: notes
+  order: 15
+  category:
+  - longinus
+  img: ""
+  en:
+    content: |-
+      A black rifle that the Gun God uses. Created by a mineral that counters all Gin, it’s a weapon that is feared by life forms that carry any slight amount of Gin.
+      But because all living beings that exists in the world are affected by Gin, it is impossible for them use or even touch it.
+      The God killer gun. If the target creature is stronger… in other words, the more Gin it carries, the more powerful the bullet becomes.
+      …Today, only the rare species that weren’t able to evolve and doesn’t carry any Gins can touch this gun.
+    note: {}
+  ja:
+    content: |-
+      銃神が所有する黒い銃。全てのジンに相克する鉱物で作られており、ジンを微量でも含む生命体にとっては天敵ともいえる兵器。
+      しかし世界に存在するあらゆる生命種はジンの影響を受けている為、これの使用はおろか触れる事さえ不可能となっている。
+      神殺しの銃であり、攻撃対象になる生命種が強大な力…すなわちジンを含めば含むほど、その殺傷能力は飛躍していく。
+      …今や希少種となった、ジンを含まず、進化に対応できなかった生命種のみが何の影響もなくこの銃に触れることができる。
+    note: {}
+  zh:
+    content: |-
+      枪神拥有的黑色之枪。用与所有尘相克的矿物制造，对于哪怕只含有微量的尘的生命体来说，也可算是如天敌般的武器。
+      但是存在于这世界上的所有生命种都受到尘的影响，因此不要说使用它，就连碰到它都是不可能的。
+      此枪为杀神之枪。当攻击对象的力量越高…也就是含有的尘的程度越高时，这把枪的杀伤力会有飞跃性的提升。
+      …只有现已成为稀少种，不含尘，无法对应进化的生命种可以接触这把枪而不受任何影响。
+    note: {}

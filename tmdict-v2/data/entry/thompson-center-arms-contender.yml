@@ -1,0 +1,53 @@
+---
+id: thompson-center-arms-contender
+
+en: t
+ja: to
+furigana: とんぷそんせんたーあーむずこんてんだー
+title:
+  en: Thompson Center Arms Contender
+  ja: トンプソンセンターアームズ・コンテンダー
+  zh: Thompson Center Arms·Contender
+
+entry:
+- source: fate-zero-material
+  section: fate-zero-encylopedia
+  order: 35
+  category:
+  - armament
+  img: ""
+  en:
+    content: |-
+      The customized firearm that Emiya Kiritsugu uses as a mystic code. It is a single-shot pistol originally developed for use in hunting and competitions. The barrel can be easily switched out, allowing it to be used with a large variety of bullet calibers. By fitting it with a handmade barrel forged using magical processes, and using special bullets that contain his own powdered ribs, Kiritsugu has transformed it into a deadly anti-magus weapon. Well, that’s the short version; for a significantly more long winded explanation please refer to volume 2.
+      Incidentally, this gun was actually what made me want to write a story like <em>Fate/Zero</em> in the first place. In a way, you could say it was the start of everything. Or more specifically, it was Lance Henriksen’s performance in Hard Target. I guess what I’m trying to say is, thank you so much, Mr. John Woo. Stranglehold was really fun. Will there be flying doves in Red Wall, too?
+    note: {}
+  ja:
+    content: |-
+      衛宮切嗣が礼装として使用するカスタム銃。もともと競技用／狩猟用に開発された単発拳銃で、銃身の交換によって多種多様な口径の弾丸を使用できる。切嗣はこれに魔術的行程で鍛造した手製の銃身を装着し、彼自身の肋皆を封入した特殊弾を使用して、魔術師に対する致命的な攻撃手段としている――云々の詳細は二巻にこれでもかというほどクドく解説してるんでそっちを参照されたし。
+      この銃こそ、元を質せば、筆者がFate／Zeroなどという与太を飛ばしはじめた契機ともなったネタであり、すべての始まりとも言える。さらに与太話のそのまた発端は『ハード・ターゲット』のランス・ヘンリクセンが格好良すぎた件に尽きるわけで、何が言いたいのかというとジョン・ウー先生ありがとうストラングルホールド超楽しかったです。ところで赤壁の戦いでもハトは飛ぶんでしょうか。
+    note: {}
+  zh:
+    content: |-
+      卫宫切嗣作为礼装使用的改装枪。因为原本是作为竞技用、狩猎用开发的单发手枪，因此藉由更换枪身能够使用各种口径的子弹。切嗣将它装上使用魔术工程锻造的自制枪身，使用封入他自己肋骨的特殊弹，作为对魔术师致命的攻击手段――云云的解说在第二卷已经有能让人感到“原来如此”的冗长解说请参照该处。
+      如果要说的话，这把枪就是让笔者陷入Fate/Zero这种乱搞的契机，可以说是一切的源头。再更一步追求的话就是提到《终极标靶》{{n1}}里的兰斯·亨利克森实在是太帅了，要说我到底想说什么的话就是吴宇森老师谢谢，枪神{{n2}}真是太好玩了。附带一提，赤壁之战也会有鸽子飞舞吧？
+    note:
+      n1: "1993年上映，由吴宇森所拍摄的电影。 "
+      n2: "中译枪神，改编自电影枪神的续篇，由吴宇森监制的动作游戏。 PC / PS3 / Xbox 360三个平台皆有发售。"
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 55
+  category:
+  - skill
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      衛宮切嗣が礼装として使用する競技・狩猟用に開発された単発拳銃。切嗣によってカスタマイズされており、弾丸の通路となる銃身は魔術的工程で鍛造された特別製。さらに、高威力を誇るスプリングフィールド弾と別に切り札として「起源弾」と呼ばれる対魔術師用に特化した特殊弾を使用することも可能。「起源弾」に関しての詳細は後述の項目を参照。
+    note: {}
+  zh:
+    content: |-
+      卫宫切嗣作为礼装使用的用于竞技·狩猎而被开发出的单发手枪。由切嗣客制化[Customize]，其子弹通道的枪身是在魔术工程下被锻造的特制品。并且还可以使用以高威力为傲的Springfield弹与作为额外王牌的，被称为“起源弹”的特化于对魔术师用的特殊弹。关于“起源弹”的详细请参照后述的项目。
+    note: {}

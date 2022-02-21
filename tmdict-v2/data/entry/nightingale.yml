@@ -1,0 +1,52 @@
+---
+id: nightingale
+
+en: n
+ja: na
+furigana: ないちんげーる
+title:
+  en: Nightingale
+  ja: ナイチンゲール
+  zh: 南丁格尔
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 44
+  category:
+  - servant
+  img: ""
+  en:
+    content: |-
+      A Servant who has not yet appeared in Fate/EX. Berserker class.
+      Titan Altera uses her as a reference when she changes into her nurse outfit.
+      A nurse who heals the wounds of the injured, no matter what stands in her way. She performs her unique brand of healing like a speeding dump truck with a broken brake. She’ll even punch out the President of the United States if he stands in her way.
+      An angel with a steel glare, she has an iron will and an inflexible rationale.
+      “I really want to put a nurse outfit on Altera.”
+      “I want nurse Altera to let me nap on her thighs.”
+      “I want to stare incessantly at an embarrassed Altera in a nurse outfit with a miniskirt.”
+      These feelings are what led to the implementation of Florence Nightingale.
+      “You need to be cured as well, especially your head.”
+    note: {}
+  ja:
+    content: |-
+      『Fate/EX』ではまだ未登場のサーヴァント。クラスはバーサーカー。
+      巨神アルテラがナース服に着替える際、参考にしてしまった英霊。
+      何があっても怪我人の治療をする、邪魔するものは大統領ですらブッ飛ばすブレーキの壊れたダンプカーの如きナース。鉄の意志と不屈の理性、そして鋼鉄の白衣を持つ天使。
+      アルテラにどうしてもナース服を着せたい。
+      ナース服のアルテラに膝枕してほしい。
+      というかミニスカナース服で恥ずかしがるアルテラをマジマジと見たい。
+      そんな気持ちから生まれたまさかのナイチンゲール　インストールである。
+      貴方には治療が必要です。とくに頭の。
+    note: {}
+  zh:
+    content: |-
+      在《Fate/EX》中并未登场的英灵。职阶为狂战士。
+      阿提拉换装穿上护士服的时候所参考的英灵。
+      不管发生什么事都会为伤患治疗的护士，若有人欲阻碍，就算是总统也会一拳揍飞，就像刹车失灵的自卸卡车一样。拥有铁的意志与不屈的理性，以及钢铁白衣的天使。
+      无论如何也想让阿提拉穿上护士服。
+      想要躺在护士服阿提拉的大腿上。
+      或者说，想目不转睛地盯着身穿迷你裙护士服而面露羞耻之色的阿提拉。
+      在这种心情之下诞生的，正是南丁格尔的安装档。
+      你也需要治疗呢，尤其是脑袋。
+    note: {}

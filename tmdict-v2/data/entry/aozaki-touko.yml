@@ -1,0 +1,139 @@
+---
+id: aozaki-touko
+
+en: a
+ja: a
+furigana: あおざきとうこ
+title:
+  en: Aozaki Touko
+  ja: 蒼崎橙子
+  zh: 苍崎橙子
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 2
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Aoko’s older sister. She studied magecraft under her grandfather, but murdered him over the shock of having the Aozaki inheritance usurped by her younger sister and fled to the Association. Unlike Aoko, her abilities as a magus are top class. She has even received a sealing designation due to her status as the world’s greatest puppet master.
+      She does not appear in <em>Tsukihime</em>. However, she is a key figure in <em>Kara no Kyoukai</em>, which intersects with <em>Tsukihime</em>.
+      Tohno Shiki’s mystic eye sealing glasses originally belonged to her.
+      She is merciless, just like Aoko. Honestly, do these Aozaki folk not have a single decent person among them?
+    note: {}
+  ja:
+    content: |-
+      青子の姉。蒼崎の遺産を姉に横取りされたショックで師である祖父をぶつ殺し、協会に鞍替えした人。青子とは異なり、魔術師としての能力はトップランク。加えて最高位の人形使いとして協会から封印指定を受っている。
+      月姫本編では登場しない。月姫とクロスオーバーしている空の境界におけるキーパーソン。
+      志貴の魔眼を掛じているメガネは、もともとこの人のメガネである。
+      青子同様、ひどいひと。まったく、蒼崎の人間にマトモなヤツはいないのか。
+    note: {}
+  zh:
+    content: |-
+      青子的姐姐。因为苍崎的遗产被妹妹抢走而把身为师父的爷爷杀死、并转职去协会的人。
+      和青子不同，身为魔术师的水准是最高等级。且因为是最高位的人偶使而被协会列为封印指定。
+      在月姬本篇并不会登场。在与月姬有交集的空之境界里扮演关键人物。
+      封印志贵魔眼的眼镜原本是属于她的。
+      和青子相同，是个很过分的人。真是的，苍崎家就没有正常点的人吗。
+    note: {}
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 1
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      She looks like a woman in her late 20s. Touko is the guide in this tale, yet at the same time she is an outsider. The owner of the Workshop, Garen no Dou.
+      She is one of the magi that appear in this tale, and makes a living by crafting puppets.
+      Touko is an individual with dual personalities, and the switch is made by putting on and taking off her glasses. With her glasses on, Touko is objective and ruthless; yet without her glasses, she is subjective and emotional. Which one is the real Aozaki Touko, even Touko herself does not really know. Emotional or not, Touko is fundamentally a romanticist.
+      Touko loves new things, and will tinker restlessly with things that she is interested in. She is also a speed demon.
+      Although <em>Kara no Kyoukai</em> will not be a story without Touko, she does not constitute the body of the tale.
+      Touko hates her name, yet she has a habit of always wearing one piece of orange-colored accessory.
+      Even though Touko has a younger sister, their relationship is extremely bad.
+    note: {}
+  ja:
+    content: |-
+      見た目二十代後半の女性。物語の案内役で、部外者。工房・伽藍[がらん]の堂[どう]のオーナー。
+      本編に登場する魔術師の一人で、人形作りを生業[なりわい]としている。
+      人為的な二重人格者で、メガネをかける・はずすで人格をスウィッチする。
+      メガネをかけている時は客観的で酷薄[こくはく]、メガネをはずしていると主観的で人情家。どちらが作為的[さくいてき]でない蒼崎橙子なのか、本人にもよくわからないらしい。情が薄かろうと厚かろうと、根っこの部分はロマンチスト。新しもの好きで、興味を持ったものをいじり回してはしゃいだりする。スピード狂。
+      『空の境界』は彼女なくしては語れない話だが、彼女が主体になる事は決してない。
+      自分の名前が嫌いなクセに、オレンジ色の装飾品を一品、体のどこかにつける習性がある。
+      妹が一人いるらしいが、関係は最悪。
+    note: {}
+  zh:
+    content: |-
+      看起来25–29岁的女性。故事的向导，而非参加者。工房·伽蓝之堂的所有者。
+      正篇中登场的魔术师中的一人，靠做人偶维生。
+      人为的双重人格者，通过戴上、摘下眼镜来切换人格。
+      带着眼镜时客观又刻薄，摘下眼镜后主观又富人情味{{n1}}。哪边是真正的苍崎橙子，本人也不大清楚的样子。不管有没有人情味，根本的部分是浪漫主义者。喜欢新的东西，对有兴趣的东西百般折腾。speed{{n2}}狂。
+      虽然《空之境界》没有她的话成不了故事，但绝不是以她为主体。
+      明明讨厌自己的名字，却有要在身体的某处戴上一个橙色装饰品的习惯。
+      虽然有个妹妹的样子，但关系极差。
+    note:
+      n1: "不知为何与书中相反。"
+      n2: "speed: 1、速度；2、amphetamine（安非他明）的俗称。兴奋剂的一种。促进大脑工作，用于防止睡眠、去除疲劳。"
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 2
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Aoko’s older sister. She studied magecraft under her grandfather, but murdered him over the shock of having the Aozaki inheritance usurped by her younger sister and fled to the Association. Unlike Aoko, her abilities as a magus are top class. She has even received a sealing designation due to her status as the world’s greatest puppet master.
+      She does not appear in <em>Tsukihime</em>. However, she is a key figure in <em>Kara no Kyoukai</em>, which intersects with <em>Tsukihime</em>. Tohno Shiki’s mystic eye sealing glasses originally belonged to her.
+      In retaliation for having her prized mystic eye killers stolen from her, she’s been making an effort to buy as much stuff as she can under Aoko’s name. Then, even the Association has entered the era of e-commerce?
+      …Even though there’s a high chance of her location leaking out if she keeps it up, it seems that revenge against Aoko even takes priority over her own self-preservation. Geez, Touko, you should try to be a little more mature.
+      By the way, her name shows up for just a second in <em>Fate/stay night</em>, too. Is she secretly trying to win the prize for perfect attendance?
+    note: {}
+  ja:
+    content: |-
+      青子の姉。蒼崎の遺産を妹に横取りされたショックで師である祖父をぶっ殺し、魔術協会に鞍替えした人。青子とは異なり、魔術師としての能力はトップランク。加えて最高位の人形使いとして協会から封印指定を受けている。
+      月姫本編では登場しない。月姫とクロスオーバーしている空の境界におけるキーパーソン。志貴の魔眼を封じているメガネは、元々この人のメガネである。
+      お気に入りの魔眼殺しを強奪された腹いせに、青子名義で買い物にいそしんでいる。魔術協会もネット通販の時代なのか。……そんなコトしたら居所がバレるっていうのに、自己保身より青子への嫌がらせの方が優先順位高いらしい。もっとオトナになるんだ橙子っ。
+      余談ではあるが、Fate／stay nightでもちょこっと名前が出てくる。密かに皆勤賞ではあるまいか？
+    note: {}
+  zh:
+    content: |-
+      青子的姐姐。受到苍崎的遗产被妹妹夺走的打击而杀了身为师傅的祖父，跑到魔术协会的人。与青子不同，作为魔术师的能力是顶级的，并且作为最高位的人偶使受到协会封印指定。
+      在月姬正篇中没有登场。在与月姬交叉的空之境界中是关键人物。封印住志贵的魔眼的眼镜，本来是这个人的眼镜。
+      因为生气于喜欢的魔眼杀被抢走，正辛勤地用青子的名义来购物。魔术协会也到了网络购物的时代了吗？……明明做这种事的话会暴露自己的所在，却好像把骚扰青子摆在自我保护之前。要更像个大人呀，橙子！
+      题外话，在Fate/stay night里也稍微提到了一下她。不偷偷给她颁一个全勤奖吗？
+    note: {}
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 1
+  category:
+  - person
+  img: "casefiles_aozaki-touko.png"
+  en:
+    content: |-
+      The Grand-class doll maker that has appeared in some form or other in a multitude of Type Moon works.
+      In the Case Files timeline, her Sealing Designation was removed when she made her appearance. However, since a certain ending in <em>Fate/stay night</em> has her described as “Sealing Designated,” that will probably only last for a few more years…
+      Between things like the special “box” she keeps inside for special occasions, to the crystal familiars she collects that fire beams like a certain little sister, in a story like Case Files where magi are the main attraction, her abilities become even more impressive.
+      After being given entirely free reign in the Iselma incident, she began to follow the Heartless case entirely out of a sense of curiosity. In the middle of the incident, however, the Neutralist faction commissioned her for a formal investigation. In normal circumstances she would have simply refused the assignment, but at that time the compensation she was supposed to receive from Iselma had been reduced to ash (by her own hands). Oh, what a travesty, doll maker!
+      Furthermore, due to circumstances, she already had experience visiting the Spiritual Tomb of Albion.
+      From the start, though only for a short time, the reason for the removal of her Sealing Designation was because Millieune Carillon, head of Sealing Designations and the one responsible for removing her Designation, and her were…
+    note: {}
+  ja:
+    content: |-
+      タイプムーン世界の多くに、何らかの形で現れる冠位人形師。
+      事件簿の時系列においては封印指定を免れた状態で登場する。とはいえ、『Fate/ stay night』の某ルートエンディングでは、「封印指定の」と記述されていたところからして、おそらく数年ともたず……。
+      いざというときの「匣」を体の内側にしまったり、水晶の使い魔を集めてどこかの妹みたいなビームを放ったり、魔術師をメインとする事件簿で、その能力はなおさら冴え渡った。
+      やりたい放題やったイゼルマの事件の後は、好奇心からハートレスの事件を追っていたのだが、その途中、中立主義から正式な調査を依頼されることとなる。普段なら断るところなのだが、当時の彼女はイゼルマでもらうはずだった報酬を（自分で）消し炭にしたところだったのである。おお、なんということだ人形師よ。
+      なお、ちょっとした事情から霊墓アルビオンには以前も訪れた経験がある。
+      そもそも、一時であれ、彼女が封印指定を解かれたのは封印指定の総預（トップ）、ミリューネ力リオンとの……。
+    note: {}
+  zh:
+    content: |-
+      在TYPE-MOON世界中多次以某种形式出现的冠位人偶师。
+      在事件簿的时间点中以免除了封印指定的状态登场。话虽如此，在『Fate/stay night』的某条路线的结局中，被描述为「封印指定的」，由此看来这个状态恐怕维持不了几年吧……
+      将以防万一的「盒子」封印在体内，集中水晶使魔释放出像某个妹妹一样的光炮，在以魔术师为中心的事件簿中，她的能力更显得高超。
+      在随心所欲大闹了一通的伊泽路玛事件后，出于好奇心去追踪哈特雷斯的事件，却在途中受到了来自中立主义的正式调查委托。若是平时肯定会拒绝，但当时的她本应从伊泽路玛那里获得的报酬（被她自己给）烧成炭了。噢噢，妳都干了些什么啊，人偶师。
+      另外，出于某种缘由，以前有过造访灵墓阿尔比昂的经历。
+      说到底，她之所以会被暂时解除封印指定，是因为与封印指定的总预（Top），米琉涅卡里昂之间的……
+    note: {}

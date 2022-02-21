@@ -1,0 +1,30 @@
+---
+id: lively-step-chain-step
+
+en: l
+ja: ka
+furigana: かつほくさりほ
+title:
+  en: Lively Step - Chain Step
+  ja: 活歩・鎖歩
+  zh: 活步·锁步
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 58
+  category:
+  - body-skill
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      綺礼が体得している歩法と足捌き。八極拳における技の一種で、活歩は震脚後に地面を滑走し、標的との間合いを一瞬で詰める歩法。鎖歩は足捌きによって敵のバランスを崩す足技。
+    note: {}
+  zh:
+    content: |-
+      绮礼所领会的步法与脚法。八极拳里技的一种，活步是震脚之后在地面滑行，同目标的距离于一瞬间接近的步法。锁步是依靠脚法破坏敌人平衡[Balance]的足技。
+    note: {}

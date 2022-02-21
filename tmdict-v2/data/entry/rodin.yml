@@ -1,0 +1,36 @@
+---
+id: rodin
+
+en: r
+ja: ro
+furigana: ろだん
+title:
+  en: Rodin
+  ja: ロダン
+  zh: 罗丹
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 70
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Conductor of the Rail Zeppelin.
+      Since the Rail Zeppelin ran over leylines, there was a need to accurately perceive their ever-changing paths so that the tracks might follow them. So of course he possessed finely tuned senses, and the skills to manage unstable Magic Furnaces. 
+      In the Grand Roll incident, his ability to lead them to the outer layer of the Spiritual Tomb of Albion came from such skills.
+    note: {}
+  ja:
+    content: |-
+      魔眼蒐集列車の車掌にして機関士。
+      霊脈の上を走る魔眼蒐集列車において、線路を走ることは、常に変化する霊脈を見極め続けるということでもある。当然ロダンは、このための繊細な感覚と、不安定な魔力炉を操る操縦技術を併せ持っている。
+      冠位決議編において、表層とはいえ霊墓アルビオンまで案内しえたのも、この技術に依るものであった。
+    note: {}
+  zh:
+    content: |-
+      魔眼搜集列车的乘务员兼驾驶员。
+      要令行驶于灵脉之上的魔眼搜集列车在路线上行驶，就意味着要持续掌握不断变化的灵脉。罗丹自然拥有着能做到这点的纤细感觉以及操纵不稳定的魔力炉的操纵技术。
+      在冠位决议篇中，虽说只是表层，但他能够将众人带领至灵墓阿尔比昂，也是有赖于这份技术。
+    note: {}

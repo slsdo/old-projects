@@ -1,0 +1,40 @@
+---
+id: van-fem
+
+en: v
+ja: u
+furigana: ヴァン＝フェム
+title:
+  en: Van Fem
+  ja: ヴァン＝フェム
+  zh: 梵斐姆
+
+entry:
+- source: character-material
+  section: prelude-explanation
+  order: 13
+  category:
+  - person
+  - dead-apostle
+  img: ""
+  en:
+    content: |-
+      Valery Fernand Vandelstam.
+      A member of the Twenty Seven Dead Apostle Ancestors, number fourteen. Demon Lord of Financial Sector. He was a puppet master who materialized seven golems that people referred to as “fortresses.”
+      Van Fem had an intense interest in human society. He was an eccentric Vampire who attempted to increase his influence through non-Vampire method after the First World War.
+      Rumor had it that recently he constructed buildings in the celebrity town Monaco, and every week he would visit casino boats where he challenged other visitors.
+    note: {}
+  ja:
+    content: |-
+      ヴァレリー・フェルナンド・ヴァンデルシュターム。
+      二十七祖の一人。１４位。財界の魔王。人形師。七大ゴーレム「城」を創りあげる。
+      人間社会に関心を持ち、第一次世界大戦後から吸血手段を用いず勢力図を増やしていく、という試みを始めた変わり者。
+      この頃はセレブの町・モナコにビルを構え、週に一度はカジノ船で人々の挑戦を受けているのだとか。
+    note: {}
+  zh:
+    content: |-
+      巴雷利·费尔南德·梵德尔修达姆
+      二十七祖的一员，第十四位。财政界的魔王。人偶师，具现出了七座被人们称之为“城”的高雷姆人形（Golem）。
+      非常关心人类社会，在第一次世界大战后，开始尝试着不使用吸血鬼的手段增加自己的势力范围的怪人。
+      据说最近在名人云集的摩纳哥构建大楼，每周会去一次赌船接受各方来客的挑战。
+    note: {}

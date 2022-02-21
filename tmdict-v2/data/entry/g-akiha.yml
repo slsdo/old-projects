@@ -1,0 +1,65 @@
+---
+id: g-akiha
+
+en: g
+ja: shi
+furigana: じあきは
+title:
+  en: G-Akiha
+  ja: G秋葉
+  zh: G秋叶
+
+entry:
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 12
+  category:
+  - "-"
+  img: plusperiod_g-akiha.png
+  en:
+    content: |-
+      Does the G stand for Giant? Great? Or how about Gargantuan? In any case, she is BIG. You can’t say she doesn’t have a chest anymore. Despite having no facial expressions as tells for her attacks, you can read her arm movements easy enough, but sometimes she shoots lasers from her eyes… which may remind you of the last boss of a certain game from Watanabe’s game outfit.
+    note: {}
+  ja:
+    content: |-
+      ジャイアントなのかグレイトなのか、はたまたガルガンチュアだったりしたらどうしようとか、とにかくでかい秋葉。もうナイムネとは言わせない。頭にしか当たり判定がないくせに攻撃判定は腕にある、はたまた目から光線を出す……と、どこかの格闘ゲームのラスボスを思い出すような仕様が非常に渡辺製作所っぽい。
+    note: {}
+  zh:
+    content: |-
+      如果做成胖虎或者铁甲万能侠又或者卡冈都亚{{n1}}的话会怎样呢？总之是很大的秋叶。已经不能叫无胸了。明明只有头部有命中判定但手臂却有攻击判定，又或者从眼睛射出光线……让人想出是哪里的格斗游戏的最终首脑这做法非常有渡边制作所的风格。
+    note:
+      n1: "卡冈都亚（Gargantua）：文艺复兴时期作品《巨人传》中的主角之一。"
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 46
+  category:
+  - person
+  - phenomenon
+  img: ""
+  en:
+    content: |-
+      The local specialty (?) of <em>Melty Blood</em>, and the Tatari’s greatest (largest) nightmare. Miss Akiha, after being enlarged by the miraculous chemical substance Makikyuu X. It might seem like a contradiction, but she’s still “small” despite being so big…!
+      She can use her giant fists to execute a hammer crush attack, and comes fully equipped with eye beams and a drill arm. If missiles fired out of the lobby walls, she would be absolutely perfect.
+      …That said, at the time there was an outcry that we had gone too far, and half the Akiha-lovers scolded us over it. Eheheh. Reflecting on it now, I can see what they meant, though. Back then, <em>Kagetsu Tohya</em> had just come out, which was mostly comedy, so the writer probably still had a few screws loose from that. Yes, yes, that must be it. If he had taken the time to calm down and think about it, he definitely would have realized it should have been G-Ciel instead…! (No, that’s wrong.)
+      At any rate, when we first conceived of this, it was just a simple boss character version of Akiha with her pixels doubled. See, it was the writer’s wish that <em>Melty Blood</em> have five final stages, and that each one have a different boss character. However, drawing up pixel art for five whole unique boss characters proved to be too daunting, and in the end we decided to settle for using boss characters that were just tweaked versions of the characters that already existed.
+      But, the Watanabe Seisakusho staff took that feeble idea and seriously ran with it. “If we’re going to do this, might as well do something apocalyptic with it.” Given that the writer is infatuated with apocalypses, how could he say no?
+      Oh well, this sort of random craziness is what makes <em>Melty Blood</em> what it is. And you know, if we can get away with this “G” nonsense, that means next time we can pretty much do whatever we want!
+    note: {}
+  ja:
+    content: |-
+      メルブラ名物（？）、タタリ最大の悪夢。驚異のケミカル物質・まききゅーXによって巨大化した秋葉お嬢様のコト。あんなに巨（おお）きいのに貧（ちい）さいという矛盾……!
+      巨大な拳によるはんまーくらっしゅ、目からビーム、ドリルアームと武装も充実。これでロビーの壁からミサイルが発射されてたらパーフェクトだった。
+      ……とは言うものの、当時はやりすぎという声もあり、秋葉さん好きの方の半分からお叱りをいただきました。てへ。今になって見れば、悪ノリしすぎたと反省できる。当時は歌月十夜でたいていのコメデイはやってしまった事もあり、ライターの頭もネジが二三本ぶっ飛んでいたのだろう。そうだよそうだよ。冷静になってみれば、G化させるのは秋葉じゃなくてシエルだろうに……！（※間違いです）
+      ともあれ、当初はただドットを二倍拡大しただけの簡易ボスキャラとして考えられていたもの。メルティブラッドは五つの最終面があり、どの最終面も違うボスキャラにしたい、というライターの希望があったのだ。しかし五つものボスキャラのドットパターンなど描ける筈もなく、結果として、“元からあるキャラに何らかの変化を加えたボスキャラ”という案に落ち着いたのである。
+      が、そんな寒いアイデアを渡辺製作所のスタッフは本気で返してきてくれたのでした。「どうせならアポカリ〇スにしましよう」。ア〇カリプス大好きなライターが賛成したのは詮方なきコトである。
+      でもまあ、このメチャクチャさがメルティブラッド。Gをやってしまえば、もう後は何をやってもオッケーだからなっ！
+    note: {}
+  zh:
+    content: |-
+      MB名产（？），Tatari最大的恶梦。用了惊异的化学物质·摩奇Q-X而巨大化的秋叶小姐。如此巨大（喔）的贫（小）而矛盾着……
+      由巨大的拳头而放出Hammer Crash ，从眼睛发出Beam，Drill Arm的武装也很充实。这下如果从Lobby的墙中发射Missile就完美了。
+      ……虽说如此，当时也有“这样太过分了啊”的声音，受到了来自秋叶粉丝半数的叱责。诶嘿。现在看看，也在反省着那样子是太过得意忘形了。当时大抵是出于像歌月十夜那般的Comedy，作者的头部螺丝弹出了两三节。也对也对。冷静想想的话，G化的秋叶也不会是像雪儿（Ciel）那样的……！
+      不管怎样，当初只是作为被扩大两倍的简单Boss角色而被考虑的东西。Melty Blood有五个最终面，无论哪个最终面都有不同的Boss角色，这也是因为作者的期望。可是第五个Boss角色的.Pattern并没有可画的，其结果就定下了“在原来的角色上添加上某些变化的Boss角色”这样的方案。
+      然而明明这么冷的主意却也被渡边制作所的Staff认真地做出了。“反正那样的话就按Apocaly〇e做吧”。最喜欢A〇calypse的作者赞成的话也没办法啊。
+      不过啊，这也就是乱来的Melty Blood。既然做了G的话，这之后做了什么都OK啦。
+    note: {}

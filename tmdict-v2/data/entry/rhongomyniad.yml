@@ -1,0 +1,59 @@
+---
+id: rhongomyniad
+
+en: r
+ja: ro
+furigana: ろんごみにあど
+title:
+  en: Rhongomyniad
+  ja: 最果てにて輝ける槍
+  zh: 闪耀于终焉之枪
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 71
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      The Noble Phantasm hidden within the Sealing Mystic Code Add that Gray possesses. Though it is called a spear, its true nature is as the “shadow” of an anchor that fixes the Texture of the World in place.
+      In order to activate this Noble Phantasm that was once even wielded by King Arthur, a tremendous amount of magical energy is required. In addition to that, the Thirteen Strictures placed upon it are still in good condition, meaning it’s true power cannot be exercised without a majority vote from the Round Table.
+      In the Rail Zeppelin incident, five such votes were obtained. The names of those knights are ones Gray always remembers with thanks. 
+
+      “This is a fight for survival.” — Acknowledged, Kay.
+      “This is a fight against someone much greater than I.” — Acknowledged, Bedivere
+      “This is a fight where I will not turn my back on my humanity.” — Acknowledged, Gaheris.
+      “This is a fight for Truth.” — Acknowledged, Sir Agravain.
+      “This is not a fight against Elementals” — Acknowledged, Lancelot.
+    note:
+      n1: "The Lance that Shines at the End of the World, also translated as “The Lance that Shines to the End of the World” and “The Spear that Shines at the Ends of the World.”"
+  ja:
+    content: |-
+      {{n1}}
+      グレイの持つ封印礼装アッドに秘められた宝具。槍と名付けられてはいるが、その本質は世界のテクスチャをとどめる錨の「影」。
+      アーサー王も手にしていたというかの宝具の発動には、極めて膨大な魔力が必要。それでもなお封印の十三拘束は健在であり、円卓議決で過半数の議決を得られなければ、本来の能力を発揮することはかなわない。
+      魔眼蒐集列車編で、彼女に賛同した議決は五つ。その名前に、ずっとグレイは感謝することになる。「是は、生きるための戦いである」―――承認、ケイ。
+      「是は、己よりも巨大な者との戦いである」-承認、ベディヴィエール。
+      「是は、人道に背かぬ戦いである」―――承認、ガへリス。
+      「是は、真実のための戦いである」―――承認、アグラヴェイン。
+      「是は、精霊との戦いではない」―――承認、ランスロット。
+    note:
+      n1: "ロンゴミニアド"
+  zh:
+    content: |-
+      {{n1}}
+      隐藏于格蕾所持有的封印礼装亚德之中的宝具。
+      虽然被命名为枪，但其本质是维系世界织物之锚的「影子」。
+      据说亚瑟王也曾手持的该宝具的发动，需要极其庞大的魔力。在此之上还有着封印的十三拘束，必须得在圆桌决议[Decision Start]中获得过半数的决议，才能发挥出原本的能力。
+      在魔眼搜集列车篇中，赞同她的决议有五道。
+      格蕾一直很感谢这些名字。
+      「此乃，求生之战」——承认，凯。
+      「此乃，与较己身巨大者之战」——承认，贝狄威尔。
+      「此乃，非违背人道之战」——承认，加荷里斯。
+      「此乃，为求真实之战」——承认，阿格规文。
+      「此乃，非与精灵之战」——承认，兰斯洛特。
+    note:
+      n1: "Rhongomyniad"

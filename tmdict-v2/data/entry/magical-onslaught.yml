@@ -1,0 +1,36 @@
+---
+id: magical-onslaught
+
+en: m
+ja: ma
+furigana: マジカルこうげき
+title:
+  en: Magical Onslaught
+  ja: マジカル攻撃
+  zh: Magical攻击
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 61
+  category:
+  - technique
+  img: ""
+  en:
+    content: |-
+      A name for all the dubious techniques used by Kohaku.
+      Though they’re called things like Magical Attack and Magical Missile, no matter how you look at them they’re chemical weapons. It just goes to show, there’s nothing good about the “magical” stuff in <em>Melty Blood</em>.
+      If the series continues, chances are even more magical armaments will make their appearance. There might even be a magic wand equipped with a dangerous and crafty artificial intelligence…
+    note: {}
+  ja:
+    content: |-
+      琥珀の使う、数々のあやしい技につく呼称。
+      マジカルアタック、マジカルミサイルなどと名付けられているがどう見ても化学薬品によるケミカルウエポンである。MELTY BLOOD内においてマジカルと名のつくものにロクなものはない、という証明。
+      シリーズが続けば更なるマジカル兵装が飛び出すだろう。最近では物騒かつ悪辣な人工知能を持った万能杖があるとかないとか……。
+    note: {}
+  zh:
+    content: |-
+      琥珀使用的、种种的奇异之技所相称的名称。
+      虽被命名为Magical Attack、Magical Missile之类，但怎么看也是基于化学药品的化学武器。在MELTY BLOOD里带有Magical之名的没什么正常的东西，这个的证明。
+      系列若继续下去的话会有更进一步的Magical兵装跑出来吧。最近有着不安分且阴险的人工智能万能杖之类有的没的……
+    note: {}

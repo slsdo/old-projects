@@ -1,0 +1,65 @@
+---
+id: moratorium
+
+en: m
+ja: mo
+furigana: もらとりあむ
+title:
+  en: Moratorium
+  ja: 準備期間
+  zh: 准备期间
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 154
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      This is the six day postponement before the main event of the Moon’s Holy Grail War.
+      It’s a time to train and prepare oneself for battle, to find out about your opponents, and to deepen your relationship with your Servant.
+      The Masters who make no effort to improve themselves during this six day period are met with death, which comes in the form of “Omission” (from the main event).
+      The Moratorium is based on Erickson’s proposal, “After a human reaches adulthood, this is the postponement of carrying out their social responsibilities and duties. Or otherwise, the state of mind where one tries to remain indefinitely in the postponement period.”
+      While it may seem cruel, these six days are a “rite of passage [to adulthood]” and constitute Moon Cell’s idea of fairness to the competitors.
+
+      On the far side of the Moon a certain young girl sneers:
+      “You Masters have no need for a Moratorium.
+      Live alone,
+      Worry alone,
+      Destroy yourself alone, please.”
+      Such an end will meet the people who close themselves up in their own little world and deem others to be unnecessary.
+    note:
+      n1: "Also known as “Preparation Period.”"
+  ja:
+    content: |-
+      本選に用意された六日間の猶予期間。
+      いずれくる決戦に向けて、自己を鍛え、相手を知り、サーヴァントとの絆を深める時間。
+      この六日間を惰性に過ごしたマスターには『脱落』という名の死が訪れる。
+      モラトリアムとは、エリクソンが提唱した「人間が成長して、なお社会的義務の遂行を猶予される期間。また、その猶予状態にとどまろうとする心理』のこと。
+      残酷のようではあるが、この六日間を“成人への儀礼”とするムーンセルは公正の化身である。
+
+      一方、月の裏側において、ある少女はこう嘲笑う。
+      『貴方たちにモラトリアムなんて必要ありません。
+      ひとりきりのまま生きて、
+      ひとりきりのまま悩んで、
+      ひとりきりのまま自滅してください』
+      それは他人を必要としない、己だけの閉じられたループ世界の結末だ。
+    note: {}
+  zh:
+    content: |-
+      准备本选的六日间的犹豫期间。
+      面对迟早会到来的决战，锻炼自己，了解对手，加深与Servant的牵绊的时间。
+      以惰性度过这六日间的Master会有名为“掉队”的死亡来访。
+      Moratorium，就是Erickson所提倡的“人类成长，犹豫着实行社会性义务的期间。另外，想要让这个犹豫状态停留不懂的心理”。
+      虽然残酷，把这六日间当作“成人的礼仪”的Moon Cell是公正的化身。
+
+      另一方面，在月之里侧，某个少女这么嘲笑道。
+      “你们没必要搞什么moratorium。
+      孤身一人而生，
+      孤身一人烦恼，
+      孤身一人自灭去吧”
+      那就是不需要他人，只把自己关起来的loop世界的结局。
+    note: {}

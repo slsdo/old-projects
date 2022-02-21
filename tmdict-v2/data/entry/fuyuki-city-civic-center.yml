@@ -1,0 +1,30 @@
+---
+id: fuyuki-city-civic-center
+
+en: f
+ja: fu
+furigana: ふゆきしたみかいかん
+title:
+  en: Fuyuki City Civic Center
+  ja: 冬木市民会館
+  zh: 冬木市民会馆
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 49
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      新都にある新興住宅地の真ん中に位置する施工中の市民会館。総工費は80億円余り、冬木新都開発計画のシンボルとも呼べる建物のひとつ。冬木における第四の霊脈要点となっており、第四次聖杯戦争における聖杯降臨の地となった。
+    note: {}
+  zh:
+    content: |-
+      位处新都新兴住宅区正中的施工中的市民会馆。总工费80多亿[日]元，被称为冬木新都开发计划象征[Symbol]的建筑物之一。为冬木第四灵脉要点，在第四次圣杯战争中成为圣杯降临之地。
+    note: {}

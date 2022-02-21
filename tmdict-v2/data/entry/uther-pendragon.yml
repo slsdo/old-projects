@@ -1,0 +1,30 @@
+---
+id: uther-pendragon
+
+en: u
+ja: u
+furigana: うーさーべんどらごん
+title:
+  en: Uther Pendragon
+  ja: ウーサー・ベンドラゴン
+  zh: 尤瑟·潘德拉贡
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 72
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      伝説に謳われるアーサー王の父、つまり生前のセイバーの父親。ゴルロイスの妻イグレーンを略奪婚によって娶り、彼女との間にアーサー王をもうけた。だが、その行いによって非難を浴び、毒殺という最期を遂げる。
+    note: {}
+  zh:
+    content: |-
+      在传说中被盛誉的亚瑟[Arthur]王之父，也就是生前Saber的父亲。靠抢婚娶到格洛斯[Gorlois]之妻伊格赖因[Igraine]，并和她之间生了亚瑟[Arthur]王。但是，因这个行为而遭受谴责，最后死于毒杀。
+    note: {}

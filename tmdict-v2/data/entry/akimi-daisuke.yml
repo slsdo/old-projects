@@ -1,0 +1,39 @@
+---
+id: akimi-daisuke
+
+en: a
+ja: a
+furigana: あきみだいすけ
+title:
+  en: Akimi Daisuke
+  ja: 秋巳大輔
+  zh: 秋巳大辅
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 3
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A man in his early 30s. He is the [older male] cousin of Kokutou Mikiya, and a police officer.
+      He likes his brother Mikiya, treating him as an equal friend despite the gap in age.
+      Daisuke is the type of man that treasures the smallest happiness. He has a strong sense of justice, but he is not bound by his own belief.
+      Due to some minor incident, Daisuke met the information broker Aozaki Touko. Since then, he has fallen into a one-sided love affair that cannot be realized. Daisuke is just this kind of mature man who can find joy in unrequited love.
+    note: {}
+  ja:
+    content: |-
+      三十代前半の男性。黒桐幹也の従兄[いとこ]。刑事。
+      義弟である幹也を気に入っており、年の離れた気の合う友人のように接する。
+      ささやかな幸福を愛するタイプ。正義感は強いが、その信念に縛られる事はない。
+      ちょっとした事件のおり情報提供者として蒼崎橙子と知り合い、以後、叶[かな]わぬ恋にかまけている。報[むく]われない愛情だって楽しめるオトナな男。
+    note: {}
+  zh:
+    content: |-
+      30–34岁的男性。黑桐干也的表哥。刑警。
+      挺喜欢义理上的弟弟干也，将他当作忘年之交来对待。
+      爱微小幸福的类型。虽然正义感强，但不会被这信念所束缚。
+      以一次事件为契机作为情报提供者与苍崎橙子相识，此后，投身于无法实现的爱恋。即使是得不到回报的爱情也能享受的大人。
+    note: {}

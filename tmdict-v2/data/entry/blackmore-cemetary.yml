@@ -1,0 +1,38 @@
+---
+id: blackmore-cemetary
+
+en: b
+ja: fu
+furigana: ぶらっくもあのぼち
+title:
+  en: Blackmore Cemetary
+  ja: ブラックモアの墓地
+  zh: 布拉克莫亚的墓地
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 51
+  category:
+  - site
+  img: ""
+  en:
+    content: |-
+      The cemetary from Gray’s hometown.
+      The land protected by Bersac Blackmore.
+      Originally, the land was inhabited by a family of magi that manipulated spirits, and regarded birds as sacred. The name Blackmore is apparently drawn from a powerful Dead Apostle connected to this family. Though the Dead Apostle in question perished some two thousand years ago, the family took his name as a sign of respect for him. At this point, that family’s original name is no longer known.
+      At any rate, that family has now become one of gravekeepers, and though temporarily, they have been entrusted with the remains of King Arthur.
+    note: {}
+  ja:
+    content: |-
+      ベルサック・ブラックモアが守る土地。
+      もともと、この土地には魂を扱い、鳥を神聖視する魔術師の一族が住んでいた。ブラックモアとは、この一族と縁のある強大な死徒の名だったらしい。死徒はニ千年近く前に滅んだが、一族は彼に敬意を表して、その名を一族のものとした。一族がもともと何と呼ばれていたかは、今となっては不明である。
+      いずれにせよ、やがてその一族は墓守となり、一時的にだがアーサー王の遺体を預かることとなった。
+    note: {}
+  zh:
+    content: |-
+      格蕾故乡的墓地。
+      贝尔萨克·布拉克莫亚所守护的土地。
+      这片土地原本是使役灵魂，将鸟类视作神圣的魔术师一族的住处。布拉克莫亚似乎是与该家族有缘的强大死徒的名字。死徒在将近两千年前就已毁灭，但该家族为表示对他的敬意，将该名字当作族名。时至今日，早已不清楚该家族原本的称呼是什么了。
+      总而言之，该家族最终成为了守墓人，暂时照管着亚瑟王的遗体。
+    note: {}

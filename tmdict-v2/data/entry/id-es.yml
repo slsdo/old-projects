@@ -1,0 +1,46 @@
+---
+id: id-es
+
+en: i
+ja: i
+furigana: いっどえす
+title:
+  en: id_es
+  ja: id_es
+  zh: id_es
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 16
+  category:
+  - skill
+  img: ""
+  en:
+    content: |-
+      id_es.
+      The inborn special skills of the Alter Egos.
+      They were the results of illegal modification. id_es skills are the Alter Egos’ existing abilities that are changed or reinforced to be stronger.
+      Most of them are skills that normal Servants do not possess.
+      They are skills that reflect the mind or emotional embodiment of the Alter Ego, rather than being based on their physical ability (body). 
+      Besides Passionlip’s Masochistic Constitution, Meltlilith’s Sadistic Constitution,
+      there seems to be other types of id_es, including Infantile Regression, Bondage Paraphilia, and Cognate Aversion.
+    note: {}
+  ja:
+    content: |-
+      イデス。
+      アルターエゴたちが生まれながらに持つ特殊能力。
+      違法改造の結果、既存のスキルが変質・強化したもの。通常のサーヴァントには発現しないものが多い。
+      身体能力ではなく精神の在り方が発露したもの。
+      リップの被虐体質、メルトの加虐体質の他、
+      幼児退行、緊縛嗜好、同属嫌悪、などのイデスがあるらしい。
+    note: {}
+  zh:
+    content: |-
+      id_es。
+      Alter Ego们所天生拥有的特殊能力。
+      是违法改造的结果，由已有技能的变质·强化而来。多数是普通Servant所不会拥有的东西。
+      能显露出其精神面貌，而非身体能力。
+      除了Lip的被虐体质、Melt的加虐体质以外，
+      似乎还有幼儿倒退、紧缚嗜好、同族嫌恶之类的id_es存在。
+    note: {}

@@ -1,0 +1,33 @@
+---
+id: unlimited-blade-works-route
+
+en: u
+ja: a
+furigana: アンリミテッドブレイドワークス
+title:
+  en: Unlimited Blade Works (Route)
+  ja: アンリミテッドブレイドワークス
+  zh: Unlimited Blade Works
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 6
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      The title of the Rin route. During the plotting stage, it was also the subtitle of <em>Fate/stay night</em> itself.
+      The name showed up in the “upcoming works” section of the pamphlets we distributed at the 2001 Winter Comiket, but I wonder how many people in Japan actually noticed it?
+    note: {}
+  ja:
+    content: |-
+      凛ルートのタイトルにして、「フェイト」プロット段階でのサブタイトル。
+      2001年の冬コミで配った小冊子があるのですが、 そこに次回作の予告と、このタイトルが入っていたのに気付いた人が日本に何人いるのかしら！？
+    note: {}
+  zh:
+    content: |-
+      凛线的标题，《Fate》某阶段情节的副标题。
+      在2001年冬季同人志展会发配的小册子上，处于下次作品的预告的位置。当时注意到这个标题在那儿的人在日本会有几个呢！？
+    note: {}

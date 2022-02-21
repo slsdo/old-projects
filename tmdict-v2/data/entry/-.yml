@@ -1,0 +1,39 @@
+---
+id: "-"
+
+en: _
+ja: ka
+furigana: か―――
+title:
+  en: “ ”
+  ja: 「　」
+  zh: 「　」
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 14
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      If you really wished to pronounce this term, call it “Kara.”
+      Its meaning varied depending on each individual’s understanding. To put it in simple terms, it was the Spiral of Origin. 
+      However, since the Spiral of Origin was called the Spiral of Origin, it was no longer “ ”. 
+      To properly express this term was a source of headache during the production of the drama CDs.
+    note: {}
+  ja:
+    content: |-
+      仮[かり]に読み方をつけるとしたら、から。
+      受け取り方は人それぞれ。端的に分かりやすくいうのなら、根源の渦。
+      が、根源の渦は根源の渦、という名前がある為、やはり「　」とは別物である。
+      これをどう台詞[せりふ]にしてもらうかがドラマCD時での悩みのタネだった。
+    note: {}
+  zh:
+    content: |-
+      如果要给它一个读法的话，空。
+      （由于）个人的认识不同。（要）清楚地容易理解地来说的话，根源之涡。
+      然而，既然根源之涡有了根源之涡这个名字，跟“ ”毕竟还是不同的东西。
+      怎样表述这个词曾是广播剧CD时的烦恼之源。
+    note: {}

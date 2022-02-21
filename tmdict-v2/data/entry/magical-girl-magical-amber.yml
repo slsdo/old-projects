@@ -1,0 +1,40 @@
+---
+id: magical-girl-magical-amber
+
+en: m
+ja: ma
+furigana: まほうしょうじょマジカルアンバー
+title:
+  en: Magical Girl Magical Amber
+  ja: 魔法少女マジカルアンバー
+  zh: 魔法少女琥珀
+
+entry:
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 89
+  category:
+  - unknown
+  img: ""
+  en:
+    content: |-
+      The (fake) amber magician. A mysterious hooded girl. Her slogan is “Chemical! Magical! Medical!”
+      She appears as the guardian of the safe in <em>Kagetsu Tohya</em>, and also shows up while playing as Kohaku in <em>Melty Blood</em>. Ah, could there be some sort of connection between the two…!?
+      …In truth, she’s a broom girl, not a magical girl, but that’s neither here nor there.
+      Day after day, she throws herself into the manufacture of strange and suspicious drugs. She is a staff officer in the Tohno Mansion Basement Kingdom.
+      …Somehow, she seems like an even better fit for the Tatari than Sion, but the less said about that the better.
+    note: {}
+  ja:
+    content: |-
+      琥珀色の魔法使い（偽）。フードをかぶった謎の女性。ケミカル！マジカル！メデカル！が合い言葉。
+      歌月十夜で金庫の番人として登場し、メルティブラッドでは琥珀使用時に突然姿を現す。嗚呼、琥珀と彼女の関係とは———！？
+      ……本当はホウキ少女マジカルアンバーなのだが、まあ、そんなコトはもうどうでもいいと思われる。
+      今日も今日とて怪しげなドラッグを作るコトに余念がない。遠野家地下王国の参謀。……シオン以上にタタリに似合う、というのは言わぬが花であろう。
+    note: {}
+  zh:
+    content: |-
+      琥珀色的魔法使（伪）。身披斗篷的迷之女性。以“Chemical！Magical！Medical！”为法术咒语。
+      歌月十夜中作为金库的看守登场，Melty Blood中在使用琥珀时候会突然显露身姿。哇呜，琥珀和她的关系是——？
+      ……本来只是帚少女魔法琥珀，嘛，那样的事情怎么样都好啦。
+      今天也专注地做着可疑的Drug。远野家地下王国的参谋。……比起希翁更适合Tatari，这样的话还是不说为好。
+    note: {}

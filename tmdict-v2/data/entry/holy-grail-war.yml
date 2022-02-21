@@ -1,0 +1,138 @@
+---
+id: holy-grail-war
+
+en: h
+ja: se
+furigana: せいはいせんそう
+title:
+  en: Holy Grail War
+  ja: 聖杯戦争
+  zh: 圣杯战争
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 49
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      A term for a competition to acquire the Holy Grail.
+      So long as the prize has the same abilities as the Holy Grail of legend, even a battle for a fake will be deemed a Holy Grail War.
+      However, the Fuyuki Holy Grail War is particularly special, as the Servant System that turns Heroic Spirits into familiars is something unique to Fuyuki itself.
+      The preparations and arrangements were all handled by the Association, and they are more or less in charge of running the ritual. But, since it’s a battle for the “Holy Grail” the Church refused to just sit idly by.
+      “It matters not if it is real or fake. It is our duty to manage the Holy Grail.”
+      With that, they dispatched a supervisor to Fuyuki, scheming to snatch away the Holy Grail from the magi should an opening present itself.
+      …Basically, the game software was developed by magi affiliated with the Association, but the rights to the hardware that runs the game belong to the Holy Church. Really, it’s a pretty unreasonable setup.
+    note: {}
+  ja:
+    content: |-
+      聖杯を得る為の競争行為を示したもの。
+      聖杯と称するモノが伝説上の聖杯と同じ能力があるのなら、偽物を巡る戦いでも聖杯戦争と呼ばれる。
+      冬木市の聖杯戦争は特殊で、英霊を使い魔にするサーヴァントシステムは冬木市だけのものなのだとか。
+      その準備、取り決めは魔術協会が行い、大部分の権利は協会が抑えているのだが、聖杯の名を冠する以上聖堂教会も黙ってはいない。
+      その真偽がどうであれ、聖杯は全て我々が管理する ———と聖堂教会は冬木市に監督役を送り、隙あらば聖杯を魔術師たちから没収しようと企んでいる。
+      ……ゲームソフトを作ったのが魔術協会に属する魔術師たちで、
+      ゲームを動かすハードの利権を持っているのが聖堂教会というコトだ。
+      あんまりと一言えばあんまりな例ですがっ。
+    note: {}
+  zh:
+    content: |-
+      展现了为得到圣杯的竞争行为。
+      称为圣杯之物若是有与传说中的圣杯同等的能力，即便围绕伪物的战斗也被称为圣杯战争。
+      冬木市的圣杯战争是特殊的，将英灵作为使魔的Servant系统只是冬木市之物之类的。
+      其准备、协定是魔术协会进行的，大部分的权利是协会控制着的，但既然冠以圣杯之名圣堂教会也不会沉默。
+      “不管其真伪如何，圣杯均处于我们所管理之下”——圣堂教会将监督员送到冬木市，谋划着若有机会就要从魔术师们那没收圣杯。
+      ……就是说制作游戏软件[game soft]的是隶属于魔术协会的魔术师们，握有运作游戏的硬件[hard]权利的是圣堂教会。
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 9
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      The Holy Grail War is the competition and system employed by Magus who seek the Holy Grail. It takes place about once every 60 years in Fuyuki, Japan. <em>Fate/Zero</em> depicts the Fourth Holy Grail War. The seven Masters selected by the Holy Grail and their seven Servants duke it out in a battle royal until only one pair is left standing. Only the victor can obtain the Holy Grail, which is capable of granting any wish. The Holy Grail War system was created 200 years ago by the Three Founding Families as a massive magecraft ritual to summon the Holy Grail. The First Holy Grail War lacked a proper system and rules, and the ritual ultimately ended in failure. The system was refined over the first three wars, taking place over a span of 200 years, to achieve the current, systematic Holy Grail War system.
+    note: {}
+  ja:
+    content: |-
+      聖杯を求める魔術師たちの闘争及びそのシステム。日本の冬木市を舞台に、約60年に一度の周期で行われており、今回は四度目の聖杯戦争となる。聖杯に選ばれた7人のマスターと、彼らに召喚された7騎のサーヴァントがそれぞれペアを組み、最後の1組になるまでバトルロイヤルを繰り広げる。そして、その勝者だけがあらゆる願いをかなえるという聖杯を手にすることができる。その実態は200年前、始まりの御三家によって造り出された、聖杯を顕現させるための大規模な魔術儀式。第一次はまともにルールやシステムが構築されておらず、儀式は失敗続きに終わった。だが、200年に渡る過去三度の経験によって次第に洗練されて行き、現代のようなシステマチックなものへと変遷していったという。
+    note: {}
+  zh:
+    content: |-
+      追求圣杯的魔术师们的斗争以及那个系统[System]。以日本的冬木市为舞台，约60年为一次的周期进行，此次是第四次圣杯战争。被圣杯选中的7人的Master与被他们所召唤的7骑的Servant组成各自的组别[Pair]，展开直至剩下最后1组的大逃杀[Battle Royale]。然后仅有其胜者可以得到实现所有愿望的圣杯。其实况是200年前被初始的御三家造出来的，为了显现圣杯的大规模魔术仪式。第一次没有构筑出正式的规则[Rule]和系统[System]，仪式以接连失败结束。但是，靠着度过200年的过去三次经验逐步精细化，朝现代化的有规则[Systematic]之物变迁了。
+    note: {}
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 93
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      “Many magi of the world. Listen.
+      When thou illuminates the world with thy desire,
+      Thou shalt become the criminal which bears the name of the Savior.
+      No matter what era, no matter how long time continues to flow, achieving the summit through battle is the providence of man.
+
+      To all magi who were beckoned by the Moon to its cyber world.
+      Thou must exceed thyself and prove thee be the strongest.
+      The throne of SE.RA.PH is,
+      Bound to only answer the strongest of wishes———”
+
+      ◆
+
+      The Holy Grail War created by Moon Cell.
+      This is the fight for survival between 128 Masters that takes place on the seven seas virtual stage that was created inside the Moon.
+      Moon Cell regularly summons and gathers humans from Earth, and makes them compete for the right to use the power of Moon Cell for just once.
+      The competition is carried out in tournament style, and the 128 Masters fight single elimination battles until there is only one standing in the end.
+      This competition is a death game where half the participants are eliminated each round. Once you have entered the Holy Grail War, the only way to return home alive is to become the ultimate victor of the tournament.
+      Moon Cell does not desire “the strongest individual.” This battle for survival is just an object of observation, and functions as a method to adjust and calibrate the metrics used to measure humans.
+      Of course, regardless of what the victor wishes for, and what kind of conclusion their wish may bring about, everything is recorded in order to better understand humans.
+    note: {}
+  ja:
+    content: |-
+      『聞け、数多の魔術師よ。
+      己が欲望・で地上を照らさんと、
+      諸君らは救世主たる罪人となった。
+      いかなる時代、いかなる歳月が流れようと、戦いをもって頂点を決するのは人の摂理。
+
+      月に招かれた電子の世界の魔術師たちよ。
+      汝、自らを以て最強を証明せよ。
+      熾天[してん]の玉座は、
+      最も強い願いのみを迎えよう───』
+
+      ◆
+
+      ムーンセルによって開かれた聖杯争奪戦。
+      月の内部に作られた七つの海を舞台にした、128人のマスターによる生存競争のこと。
+      ムーンセルは定期的に地上から人間を呼び集め、一度だけムーンセルの使用権を与える事を報酬に彼らを競わせる。
+      戦いはトーナメント方式で行われ、128人のマスターたちが一騎打ちで戦っていき、最後の一人になるまで続けられる。
+      一回戦ごとに半数のマスターが散っていくデスゲームであり、一度参加した以上、最後の一人になる事でしか生還は叶わない。
+      ムーンセルは“最強の一人”を求めているのではない。この生存競争そのものが観察対象であり、人間を知るための物差し[スケール]として機能している。
+      もちろん勝者が何を望み、どんな結果を招くのかも人間を知るための数値として入力される。
+    note: {}
+  zh:
+    content: |-
+      “聆听吧，数多的魔术师们啊。
+      将自身的欲望照射到地面之时，
+      诸君便是名为救世主的罪人。
+      无论是何种时代，无论岁月多么的流逝，以争斗的方式来决定顶点便是人的摄理。
+
+      被月亮所召来的电子的世界的魔术师们啊。
+      汝等，皆要以自身证明最强。
+      唯有最强的愿望才回被炽天之王座所接受——”
+
+      ◆
+
+      依靠Moon Cell展开的圣杯争夺战。
+      即于月的内部制造出的七层的电子海洋舞台上，128名Master们的生存竞争一事。
+      Moon Cell会定期的呼叫召集地上的人类，以仅仅一次的自身的使用权作为报酬，让他们互相竞争。
+      争斗方式则是以淘汰制的方式进行，128名Master之间一对一决斗的战斗，持续到只剩最后一人为止。{{n1}}
+      这是一回的战斗就会有半数的Master逝去的death game，只要参加了，除非是成为那个“最后的一人”，便不能生还。
+      Moon Cell并非是追求着“最强的一人”。这生存竞争本身便是Moon Cell的观测对象，圣杯战争只不过是为了知晓人类的比较过程的机能而已。
+      当然无论胜者有着何等的愿望、其又会招致怎样的结果，都会做为知晓人类的数值而被输入。
+    note:
+      n1: "这个是某个人更改的规则，之前的规则近似于FGO的CCC联动活动；而且，白野参加这届更是混入了某个MONSTER。"

@@ -1,0 +1,48 @@
+---
+id: shingon-tachikawa-school
+
+en: s
+ja: shi
+furigana: しんごんたちかわりゅう
+title:
+  en: Shingon Tachikawa School
+  ja: 真言立川流
+  zh: 真言立川流
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 80
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      Shingo Tachikawa is a branch of Shingon Vajrayana (Shingon secret tantra teachings) that is based on “Rishu-kyo”{{n2}} and its teachings revere dakini-deity.
+      In the Kamakura era, a high monk of Shigon Buddhism, Ninkan, failed in an attempted assassination of Emperor Toba (Eikyuu Era  [Eternal Era]) and was exiled to Izu as punishment. It is said that there, in the province of Musashi, Ninkan gave birth to the fundamental systems of Shingon Tachikawa in cooperation with the Onmyouji (spiritual medium) Kenren (from Tachikawa).
+      After that, the Tachikawa Sect spread and prospered to the point where it came to be the largest faction within Shingon Buddhism.
+      Furthermore, with the decline of the Kamakura Shogunate in sight, the Tachikawa Sect schemed to have the Imperial Family change its loyalties to prioritize Tachikawa over other sects. Emperor Godaigo, who mastered the secrets of Tachikawa, starting from Yoshino, spread it across the lands of the Southern Dynasty. After that, the Tachikawa Sect teachings were almost always present with the Southern Dynasty.
+      So with the decline of the Southern Dynasty, the Tachikawa Sect also fell into ruin.
+      …The suppression of the Tachikawa Sect didn’t occur because it was heretic or there was some problem with it’s teachings, it was due to its connection with the Southern Dynasty. Mount. Koya (the birth place of Koya-san Shingon Buddhism) lies within the territory of the Northern Dynasty, and almost all the authority figures in Koya held contempt for the Tachikawa Sect, and has all the Tachikawa scriptures destroyed.
+    note:
+      n1: "This stub presents a point of view that is somewhat different from what historians actually say about the Tachikawa Sect. The stub also seems to be written assuming that the reader has a decent idea of the history of Tachikawa Buddhism. Nasu basically took Tachikawa history and altered it a bit. Nasu does this in more than a few sections of this book."
+      n2: "Full name: Hanyaharamittarishishurishu-kyo; Sanskrit: Prajñāpāramitā-naya-śatapañcaśatikā."
+  ja:
+    content: |-
+      真言立川流は真言密教の一派であり、『理趣経』（般若波羅蜜多理趣品）をその根本経典とし、茶枳尼天を拝した教え。
+      鎌倉時代に真言宗の阿閣梨である仁寛が、鳥羽天皇暗殺未遂事件（永久の変）の罪で伊豆に配流された折、そこで武蔵国立川の陰陽師である見蓮らと協同で生み出した術式がその基礎とされる。
+      その後、立川流は真言宗の最大派閥となるまで隆盛。
+      さらに鎌倉幕府の衰退を見て取った立川流は、幕府から天皇家への鞍替えを企図する。
+      立川流の奥義を会得した後醍醐天皇は吉野において南朝を開く。以降、立川流はほぼ常に南朝と共にあった。そして立川流は南朝の衰退と共に滅びていくのである。
+      ……立川流の弾圧は、邪宗である事やその教理に問題があったからではなく、南朝方であった事に起因する。そして北朝方であった高野山（真言宗高野派）によって、その権威は徹底的に財められ、教理経典は抹消されてしまった。
+    note: {}
+  zh:
+    content: |-
+      真言立川流是真言密教的一派，以“理趣経”（般若波罗密多理趣品）为根本根本经典，崇尚茶枳尼天的教诲？
+      以镰仓时代时真言宗的阿阁梨仁宽，因在鸟羽天皇暗杀未遂事件（永久之变）之罪流放到伊豆的时候，在武藏国立川的阴阳师见莲协同做出的术式作为其基础。
+      在这之后，立川流作为真言宗最大的派阀而隆盛。
+      并且立川流在看出镰仓幕府的衰落后，由为幕府转为为天皇家服务。
+      在习得立川流的奥义后的醍醐天皇在吉野开辟了南朝，之后立川流便一直与南朝与共。并且立川流在南朝衰退的同时一起迎来了灭亡。
+      ……对立川流的打压，将其贬为邪宗并为因为其教理的问题，而是因为与南朝由联系才是起因。然后因为与北朝方的高野山（真言宗高野派）的不同，其权威被彻底的遭到蔑视，教理经典被抹消。
+    note: {}

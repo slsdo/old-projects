@@ -1,0 +1,39 @@
+---
+id: enchant
+
+en: e
+ja: e
+furigana: えんちゃんと
+title:
+  en: Enchant
+  ja: エンチャント
+  zh: 升华
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 24
+  category:
+  - skill
+  img: ""
+  en:
+    content: |-
+      A skill belonging to Caster of “Red,” Shakespeare. It could also be called “Literary Masterpiece Endowment.” It consists of making a passionate poem that begins with the following preface: “I will now explain this person’s amazingness in minute detail, so please listen without thinking it tedious, everyone.” It can raise the sharpness of a blade by saying “it can cut all things” and increase the sturdiness of the blade by saying “it can receive all attacks,” but either way, it requires literary expression great enough to move the readers in order for it to take effect.
+      For writers who have left their names in history, there is a good chance that they will possess such a skill or Noble Phantasm.
+      For Shakespeare with his extraordinary fame, he can produce even Noble Phantasms of C~E rank. For making an E rank Noble Phantasm, it would be at the level of turning a pebble lying anywhere on the road into a Noble Phantasm. For D rank, it would be a mass-producible manufactured item like a modern weapon. To reach C rank, it needs to be weapon with sufficient spiritual status for a literary master like him to express.
+      In this war, he used Enchant on “Miike Tenta Mitsuyo,” a famous sword said to have been the favorite blade of a certain one-eyed great swordsman. Naturally, it is C rank.
+    note: {}
+  ja:
+    content: |-
+      “赤”のキャスター、シェイクスピアのスキル。名文付与とでも言い換えられる。「こいつの凄さを今から吾輩が細部に渡って説明するから、どうか皆さん退屈だと思わずに聞いて下さいな」という前口上から始まる怒濤のポエム。「あらゆるものを断ち切り」で刃の鋭さが増し、「あらゆる攻撃を受け止め」で刀身の頑丈さが向上する、ただしいずれも読む者に感動を与えるほどの文学的表現が必要。
+      歴史に名を残した作家であればスキルであれ宝具であれ、けっこうな確率で所有するものだとか。
+      破格の知名度を持つシェイクスピアであれば、C〜Eランクの宝具まで作成可能。Eランクなら、そこらに転がっている石が宝具化した程度。Dランクならば近代兵器などの工業量産品程度のやる気。Cランクに至るには文豪が表現するに相応しい霊格を持つ武器でなければならない。
+      今回の場合、エンチャントしたのは「三池典太光世（みいけてんたみつよ）」、とある隻眼の大剣豪が愛用した、と謂われのある名刀である。Cランクも当然と言えよう。
+    note: {}
+  zh:
+    content: |-
+      “红”Caster莎士比亚的技能。亦可称之为“名文赋予”。以“现在就让吾辈巨细靡遗告诉各位这东西有多厉害，请各位别觉得无聊仔细听好”这样的开场白起始，念出怒涛般的诗句。透过如“能斩断世间万物”或“能挡住各种攻击”等字句增强刀身的锋利度或强固性。但每一种都需要足以感动读者的文学性表现。
+      据说只要是名留青史的作家就有相当高的机率拥有，不论技能或宝具。
+      若是知名度爆表的莎士比亚，甚至能制作C～E级的宝具。若是E级宝具，连路上随便捡颗石头都行；D级则有机会将近代武器等工业量产品化为宝具；C级宝具则必须具备对应的灵格，得是足以匹配文豪词藻形容的武器才行。
+      以这次的情况来看，升华的是“三池兴太光世”，据说是某位独眼大剑豪爱用的名刀。因此当然能成为等级C宝具。
+    note: {}

@@ -1,0 +1,39 @@
+---
+id: erosion
+
+en: e
+ja: i
+furigana: いろうしぇん
+title:
+  en: Erosion
+  ja: 侵刃黄金
+  zh: 侵刃黄金
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 12
+  category:
+  - mystic-code_alt
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      A Mystic Code in the form of a dagger, passed down in Gray’s hometown.
+      According to legend, it was handed down to them by the Black Madonna, to be kept until the time of King Arthur’s return. The blade itself possesses the ability to separate the mind and soul from the flesh. It was intended to separate Gray’s mind and soul from her body, allowing the spirit of King Arthur to inhabit her body in the final stages of the ritual.
+    note:
+      n1: "Penetrating Blade of Gold"
+  ja:
+    content: |-
+      {{n1}}
+      グレイの故郷に伝えられてきた、短剣の力タチの魔術礼装。
+      伝説によれば、アーサー王が戻ってくるそのときまで伝えるべしと、黒い聖母その人によって渡されたのだという。その刃は、肉体から精神と魂を剥ぎ取る力がある。儀式の最終段階において、この礼装がグレイの肉体から精神と魂を剥ぎ取り、代わりにアーサー王の精神と魂を招くはずだった。
+    note:
+      n1: "イロウシェン"
+  zh:
+    content: |-
+      {{n1}}
+      传承于格蕾故乡，有着短剑形状的魔术礼装。
+      根据传说，其由黑色圣母赐予，直至亚瑟王归来之前都应将其传承下去。其刀刃具备将精神与灵魂剥离肉体的力量。本应是在仪式的最终阶段，用该礼装将格蕾的精神与灵魂剥离肉体，作为代替，将亚瑟王的精神与灵魂安置进去。
+    note:
+      n1: "Erosion"

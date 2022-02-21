@@ -1,0 +1,57 @@
+---
+id: moon-cells-discovery
+
+en: m
+ja: mu
+furigana: むーんせるのはっけん
+title:
+  en: Moon Cell’s Discovery
+  ja: ムーンセルの発見
+  zh: Moon Cell的发现
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 146
+  category:
+  - incident
+  img: ""
+  en:
+    content: |-
+      Moon Cell was discovered in 1973.
+      After the magus of the old world were cut off from their mana, a wizard employed by the United Nations managed to infiltrate Moon Cell, and Moon Cell’s existence was revealed to all.
+      The following are the words from a hacker who returned alive from Moon Cell’s first layer.
+
+      “That thing on the Moon is a computational device that could never be produced by present-day mankind.
+      There is no physical way to infiltrate it. Even if you were to fly up to the Moon on a rocket, it would be impossible to access the device.
+      The thing on the Moon is simply too different from us humans, a civilization that relies on physical matters. It is something impossible to analyze or understand using existing human technology and language system.
+      However, through a spirit-like information body, even if the format of information is different, understanding its “meaning” is still possible.”
+
+      After that, this astounding supercomputer came to be considered as the product of an otherworldly civilization, and the West Europe Plutocracy started to monitor it.
+    note: {}
+  ja:
+    content: |-
+      ムーンセルの発見は1973年。
+      旧世界の魔術が途絶えた後、国連所属のウィザードが侵入に成功し、公式にムーンセルの存在が明らかにされた。
+      第一層から生還した霊子ハッカー曰く、
+
+      「アレは現在の人類には到達できない演算装置だ。
+      物理的な侵入方法は存在しない。月にロケットを飛ばしたところで、アクセスする事は不可能だろう。
+      物質に頼る我々人類の文明とは形式が違いすぎるため、人間の言語大系、技術では理解できない。
+      しかし霊子的な情報体ならば、情報形態が異なっていようとも“意味”を分けあえる可能性がある」
+
+      以後、この驚異的なスパコンは異星文明の遺産とされ、西欧財閥によって監視される事になった。
+    note: {}
+  zh:
+    content: |-
+      Moon Cell的发现是在1973年。
+      旧世界的魔术断绝了之后，由国联所属的魔术师成功的入侵，自此Moon Cell的存在被正式公布于众。
+      从第一层生还的灵子黑客如此说道：
+
+      “那是现在的人类无法触及的演算装置。
+      根本不存在物理意义上的侵入方法。即便是向月亮发生火箭，对其的access也是不可能的。
+      由于其形式与依赖着物质的我等的文明有着极为巨大的差异的缘故，依靠人类的语言体系和技术是无法理解[Moon Cell]的。
+      但是如果是灵子的情报体的话，即便是情报形态不同，还是拥有着明白其‘含义’的可能性的。”
+
+      至此，这个惊愕的超级电脑就作为异星人文明的遗产，被西欧财阀监视着。
+    note: {}

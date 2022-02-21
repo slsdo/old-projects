@@ -1,0 +1,60 @@
+---
+id: white-len
+
+en: w
+ja: shi
+furigana: しろいれん
+title:
+  en: White Len
+  ja: 白いレン
+  zh: 白莲
+
+entry:
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 50
+  category:
+  - person
+  img: plusperiod_white-len.png
+  en:
+    content: |-
+      Len’s shadow. She is Len’s unused “active personality” given form using the remnants of Wallachia. The “her” that exists on the other side of the mirror, so to speak.
+      In <em>Melty Blood Re-ACT</em>, she appears as a boss. Her stage, Midsummer Snowfield, could be called Len’s imagined world. Compared to the normal Len, she is crueler, more vulgar, and ever-so-loveable. She is a contradictory idol, both sensual and chaste. Because the Midsummer Snowfield is Len’s world, she is the master of everything in it. Nevertheless, it is completely at the mercy of White Len’s power. The version of her Arc Drive that uses the snowfield isn’t much to look at, but I could listen to that cute voice over and over.
+      By the way, this is just a digression but <em>Re-ACT</em>’s subtitle is actually “Through the Looking-Glass.”
+    note: {}
+  ja:
+    content: |-
+      使い魔レンの影。使われていなかつた“能動的な人格”がワラキアの残滓によって具現化したもの。鏡に映ったもう一人の自分と言えよう。
+      メルティブラッド・リアクトでボスとして登場。真夏の雪原、というのはレンの心象世界なのかもしれない。通常のレンに比べて残酷で悪趣味で愛らしい。妖艷で純潔という矛盾した少女像。真夏の雪原はレンの世界なので、世界に含まれたモノは主人と言えど白いレンの力に翻弄される事になる。雪原専用のアークドライブは一見の価値あり、キュートボイスは百聴の価値あり。
+      余談ではあるが、リアクトの副題は鏡の国のアリスの英題である。
+    note: {}
+  zh:
+    content: |-
+      使魔莲的影子。不被使用的“积极人格”通过瓦拉齐亚的残渣而具现化的产物。可以说映照在镜子中的另一个莲吧。
+      在Melty Blood Re·Act中登场。真夏雪原可能就是莲的心象世界。和通常的莲比更为残酷，恶趣味而可爱。妖艳而又纯洁的矛盾少女形象。真夏雪原是莲的世界，虽说莲是这个世界内万物的主人，却被白莲的力量所颠覆。雪原专用的Arc Driver值得一见，细柔的声音更是反复回味的价值。
+      Re·Act的副标题是镜之国爱丽丝的英文标题。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 36
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Len’s shadow. She is Len’s unused “active personality” given form using the remnants of Wallachia.
+      Compared to the normal Len, she is crueler, more vulgar, and ever-so-loveable. She is a contradictory idol, both sensual and chaste.
+      Her stage, Midsummer Snowfield, could be called Len’s imagined world, and as such, Len is the master of everything in it. Nevertheless, it is completely at the mercy of White Len’s power.
+    note: {}
+  ja:
+    content: |-
+      レンの影。使われていなかった“能動的な人格”がワラキアの残滓によって具現化したもの。
+      通常のレンに比べて残酷で悪趣味で愛らしい。妖艶で純潔という矛盾した少女像。
+      専用ステージである真夏の雪原はレンの心象世界と言える。雪原はレンの世界なので、世界に含まれたモノは主人と言えど白いレンの力に翻弄される事になる。
+    note: {}
+  zh:
+    content: |-
+      莲之影。没被使用的“主动性人格”通过瓦拉齐亚的残渣具现化了的东西。
+      比起通常的莲来残酷且喜欢恶趣味。妖艳而纯洁这个矛盾的少女像。
+      作为专用舞台的盛夏之雪原可说是莲的心象世界。因为雪原是莲的世界，包含于世界里的人变得即使是主人也会被白莲的力量所摆布。
+    note: {}

@@ -1,0 +1,39 @@
+---
+id: jinan-sougen
+
+en: j
+ja: shi
+furigana: じなんそうげん
+title:
+  en: Jinan Sougen
+  ja: 時南宗玄
+  zh: 时南宗玄
+
+entry:
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 44
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      As the Tohno’s exclusive doctor, he is Shiki’s primary care physician.
+      It seems that he used to be a member of an organization that monitors demon hybrids, and was friends with Nanaya Kiri. However, he has since retired, and is currently some sort of shady back-alley doctor.
+      Since he knows the true nature of Shiki’s anemia, he has been maintaining his health with Eastern medicine. It’s not a cure, but that’s the beauty of it. Of course, Shiki’s anemia was never something that could be cured in the first place.
+      According to Shiki, he’s a mad doctor. Though he is foul mouthed, he is also possessed of a strong sense of duty, and it seems he is acquainted with Miyako. Probably, she used to tag along with Shiki when he visited the Jinan Clinic while he was living in the Arima household. As his appearance suggests, he has an interest in Chinese martial arts, and may even be the one responsible for teaching Miyako the basic forms.
+    note: {}
+  ja:
+    content: |-
+      じなんそうげん。遠野家の専属医にして志貴の主治医。
+      かつては混血を監視する組織の一員で、七夜黄理とも交友があったらしい。現在は隠居し、闍医まがいの生活をしている。
+      志貴の貧血がどのよぅなものかを理解しており、東洋的な医学で志貴の健康を維持していた。治療ではないのがミソ。そもそも、志貴の貧血症は治せるものではないのだ。
+      志貴日く、暴力医師、マッドがつく方の医者。口汚いが義理堅い人物で、都古とも面識あり。有間家時代、何度か志貴に付いて時南医院に行った為と思われる。外見通り中国拳法をたしなんでいたのか、都古に型でも教えてやっていたのかもしれない。
+    note: {}
+  zh:
+    content: |-
+      Jinan Sougen。远野家的专属医生同时也是志贵的主治医生。
+      过去曾是混血监视组织的一员，似乎同七夜黄理有所交往。现在隐居中，过着类似黑医生的生活。
+      理解志贵的贫血是怎么样的状况，利用东洋的医学维持着他的健康状况。本身志贵的贫血症也就是治不好的。
+      志贵称他是暴力医生，疯掉了的医生。爱说脏话又一本正经，和都古也见过面。在志贵住在有间家的时候，多次为了志贵而赶往时南医院。如外表所见钟情中国拳法，或许有教导过都古武术的套路。
+    note: {}

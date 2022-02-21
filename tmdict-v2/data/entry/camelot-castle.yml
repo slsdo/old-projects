@@ -1,0 +1,30 @@
+---
+id: camelot-castle
+
+en: c
+ja: ki
+furigana: きゃめろっとしろ
+title:
+  en: Camelot Castle
+  ja: キャメロット城
+  zh: 卡美洛城
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 53
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      アーサー王が治めるログレスの都に築かれた城。
+    note: {}
+  zh:
+    content: |-
+      建在亚瑟[Arthur]王所治理的罗格雷斯[Logres]都之城
+    note: {}

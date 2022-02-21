@@ -1,0 +1,33 @@
+---
+id: rod-of-god
+
+en: r
+ja: ka
+furigana: かみのつえ
+title:
+  en: Rod of God
+  ja: 神の杖
+  zh: 神之杖
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 27
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      An enchanted weapon… or not. It is actually a new weapon created by modern science. It is a simple yet deep space-born weapon that consists of dropping big, long and heavy metal rods from space and destroying targets with their kinetic energy.
+      Of course, it is considered a far off idea since there is the issue of the rods burning up in the atmosphere, and it is nothing more than idle gossip. Well, if Ruler threw her holy flag from space with all her might, it might create an approximately similar amount of kinetic energy, though.
+    note: {}
+  ja:
+    content: |-
+      魔術兵器……ではなく、近代科学が生み出した最新武器である。重い、長い、デカい金属棒を宇宙から落下させ、その運動エネルギーで夕ーゲットを破壊するというシンプルかつディープな宇宙用兵器。
+      もちろん、実現には程遠いっつーか大気圏で燃え尽きるんじゃないかなあコレという扱いであり、与太話以外の何物でもない。まあ、ルーラーが宇宙から聖旗を勢いよく投擲すれば大体似たような運動エネルギーは生み出せるかもしれないが。
+    note: {}
+  zh:
+    content: |-
+      其实……这不算魔术礼装，而是近代科学诞生的最新武器。将沉重、又长又粗的金属棒从宇宙中丢下来，靠动能破坏目标。是一种既简单却又深奥的太空武器。
+      当然，与其说距离实现还很遥远，更让人怀疑会不会在大气圈燃烧殆尽，因此目前依然是痴人说梦。不过呢，Ruler如果从太空中用力掷出圣旗的话，或许能产生近似的动能也说不定。
+    note: {}

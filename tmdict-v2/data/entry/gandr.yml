@@ -1,0 +1,46 @@
+---
+id: gandr
+
+en: g
+ja: ka
+furigana: ガンド
+title:
+  en: Gandr
+  ja: ガンド
+  zh: Gandr
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 18
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      A curse passed down in Scandinavia.
+      It causes a person’s health to crumble with a mere point of the index finger.
+      Because it is necessary to take careful aim at the target, it is also known as a Gandr Shot.”
+      The fact that pointing at people is considered rude has its origins in this curse. Or something like that.
+      A particularly powerful Gandr is called a “Finn Shot,” and is capable of dealing direct damage to the target.
+      The sheer brute force of Rin’s Gandr already puts it on the level of a Finn Shot. Or more like, a Finn Gatling Gun.
+    note: {}
+  ja:
+    content: |-
+      北欧に伝わる呪い。
+      呪いたい相手を人差し指で指す事により、体調を崩れさせるというもの。
+      対象を視界に納めて狙うため、ガンド撃ち、とも呼ばれる。
+      人を指差すのは失礼だ、というのはこの呪いに由来する。とか。
+      強力なものを“フィンの一撃”と呼び、こちらは直接的なダメージを与える。
+      漂のガンドはもはや暴力なので、フィンの一撃レベ ルのもの。
+      つーかフィンのガトリング。
+    note: {}
+  zh:
+    content: |-
+      流传于北欧的诅咒。
+      藉由以食指指着想要诅咒的对象，令他的健康状况崩溃。
+      因为将对象纳入视野来瞄准，所以也被称为“Gandr射击”。
+      用手指着人是失礼的，就是源自这个诅咒。
+      强力的（Gander）称为“Fin之一击”，会给予（对方）直接性伤害。
+      凛的Gandr因为已经很暴力了，所以是Fin之一击等级。简直该说是Fin之加特林[gatling] 炮了。
+    note: {}

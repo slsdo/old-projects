@@ -1,0 +1,57 @@
+---
+id: einzbern-forest
+
+en: e
+ja: a
+furigana: あいんつべるんのもり
+title:
+  en: Einzbern Forest
+  ja: アインツベルンの森
+  zh: 爱因兹贝伦森林
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 2
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      A vast forest on the outskirts of Fuyuki. Really, more like undeveloped mountains than anything.
+      It takes about an hour to reach it from Miyama by taxi.
+      Inside, there is an enormous boundary field that allows Illya to easily detect anybody who enters without concealing their presence and magical energy.
+      Illya’s stronghold, the Einzbern castle, stands at the center of this forest.
+    note: {}
+  ja:
+    content: |-
+      冬木市郊外に広がる森。というより、未開拓の山々である。
+      深山町からタクシーで一時間ほどで到着する。
+      中は巨大な結界で、気配と魔力を遮断できない限り、 容易くイリヤに探知されてしまう。
+      イリヤの根城、アインツベルン城はこの森の中心に 建っている。
+    note: {}
+  zh:
+    content: |-
+      蔓延到冬木市郊外的森林。倒不如说，是未开拓的群山。
+      从深山町打的[taxi]一小时左右可抵达。
+      里边是巨大的结界，只要不能隔绝气息和魔力，就很容易会被依莉雅探知到。
+      依莉雅的城堡·爱因兹贝伦城就建在这个森林的中心。
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 78
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      アインツベルン城（日本）の周囲にある森。アイリスフィールの術式によって森全体が結界に覆われており、侵入者の存在を認識することができる。
+    note: {}
+  zh:
+    content: |-
+      在爱因兹贝伦[Einzbern]城（日本）周围的深林。因爱丽丝菲尔[Irisviel]的术式全森林都覆盖到了结界，可认识到侵入者的存在。
+    note: {}

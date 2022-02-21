@@ -1,0 +1,37 @@
+---
+id: i-tried-my-best-to-raise-this
+
+en: i
+ja: ko
+furigana: こんなんそだててみました
+title:
+  en: I Tried My Best To Raise This!
+  ja: こんなん育ててみました
+  zh: 试着这样培育了
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 30
+  category:
+  - technique
+  img: ""
+  en:
+    content: |-
+      The name of the technique where Kohaku whips out various bizarre plants.
+      Kohaku is in charge of managing the Tohno mansion’s gardens, but she also cultivates her own secret garden as a hobby. Though originally it was created for the sake of making medicine, due to the influence of the Tatari there was an outbreak of strange monsters. It goes by the name of Kohaku’s Psycho Garden.
+      Incidentally, this garden is also where Kohaku’s various <strike>chemicals</strike> magical drugs are manufactured.
+    note: {}
+  ja:
+    content: |-
+      琥珀が取り出す様々な怪奇植物たち。
+      遠野家の庭園管理を任されている琥珀だが、彼女が趣味で栽培している秘密の庭園があったりする。本来は薬の為に作られたのだが、タタリの影響であのようなモンスターたちが発生した。別名、琥珀サイコガーデン。
+      この庭園から様々なケミカル……じゃなくてマジカルドラッグが造り出されるのである。
+    note: {}
+  zh:
+    content: |-
+      琥珀所取出的种种奇异植物们。
+      远野家的庭园管理是由琥珀负责，但有着她因兴趣栽培着的秘密庭园之类的。本来是为了药而作的，但因Tatari的影响产生了那样的怪物们。别名，琥珀Psycho-Garden。
+      从这个庭园各种各样的化学……啊不，是魔法药品{{n1}}被做了出来。
+    note:
+      n1: "ケミカルドラッグ=Chemical Drug=化学药品，说的其实是麻药之类精神类药剂。"

@@ -1,0 +1,33 @@
+---
+id: king-of-knights
+
+en: k
+ja: ki
+furigana: きしおう
+title:
+  en: King of Knights
+  ja: 騎士王
+  zh: 骑士王
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 28
+  category:
+  - title
+  img: ""
+  en:
+    content: |-
+      Her true name is Arturia Pendragon, otherwise known as King Arthur. The billboard character of <em>Fate</em>, the original Saber-san who boasts the highest popularity no matter how many times the Saber archetype has been ridiculed, and a cold father. There is no need to give an explanation on her at his point; rather, I think those who would need an explanation wouldn’t be reading this Material book, but what can I say?
+      Even though she is a character that definitely has to appear in the flashback of Mordred’s past, I was super tense just showing her backside in one of the third volume’s illustrations.
+    note: {}
+  ja:
+    content: |-
+      真名をアルトリア・ペンドラゴン。アーサー王。「Fate」の看板役者であり、何度目だセイバーと揶揄されるも変わらず高い人気を誇る元祖セイバーさんであり、冷たい父上である。最早彼女に関する説明は不要だろう、というか説明が必要なユーザーはそもそもこのマテリアルを読んでいないと思うのだが、どうか。
+      モードレッドの過去回想で必ず出なければならない人物であるとはいえ、三巻挿絵で後ろ姿を見せるだけでもエラい緊張しました。
+    note: {}
+  zh:
+    content: |-
+      真名为阿尔托莉亚·潘多拉贡，亚瑟王。是《Fate》的招牌角色，即使被揶揄“多少次了啊Saber”，依然维持高人气的元祖Saber。也是冷淡的父亲。对于她应该经不需要说明了吧，应该说会需要说明的玩家根本不会来看这本Material吧，大概。
+      虽然是在莫德雷德的过去回忆中必定会登场的人物，但在第三集插图中光是看到背影就让人紧张得要死。
+    note: {}

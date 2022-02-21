@@ -1,0 +1,30 @@
+---
+id: hibichika-mailbox
+
+en: h
+ja: hi
+furigana: ひびちかぽすと
+title:
+  en: HibiChika Mailbox
+  ja: ひびちかぽすと
+  zh: 响键信箱
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 42
+  category:
+  - mobile-site
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      携帯サイトにて突発的に始まったお便り紹介コーナー。めっきりと更新がありませんが、届いたお便りには全て目を通してます。いつもありがとうございます。ぺこぺこ。
+    note: {}
+  zh:
+    content: |-
+      手机网站里突然出现的来信介绍角。虽然没有显著的更新，但来信全部都会看一遍。一直以来感谢各位了。pekopeko[磕头感谢声]。
+    note: {}

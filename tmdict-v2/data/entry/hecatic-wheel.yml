@@ -1,0 +1,45 @@
+---
+id: hecatic-wheel
+
+en: h
+ja: he
+furigana: へかてぃっくほいーる
+title:
+  en: Hecatic Wheel
+  ja: 魔天の車輪
+  zh: 魔天之车轮
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 52
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      Originally, the Noble Phantasm of Iskandar, Gordius Wheel.
+      Due to the skill “He is Another Iskandar (Fake)” that Faker possesses, she has also gained this Noble Phantasm. However, while Iskandar’s chariot is pulled by a pair of divine bulls, hers is pulled by magically animated bone dragons.
+      Compared to the original Gordius Wheel, it’s Rank and power have diminished considerably, but in exchange it is capable of many more things. One is the autopilot feature shown in Grand Roll. In addition, if Faker pours her own magical energy into it, it is capable of exhibiting a level of power similar to the original Gordius Wheel.
+      The name “Hecatic” is derived from the goddess Hecate, from whom Faker’s lineage of magecraft from the Age of Gods finds its source. Though faint, there is some connection to the Caster of the Fifth Holy Grail War.
+    note:
+      n1: "Wheel of Demonic Heaven"
+  ja:
+    content: |-
+      {{n1}}
+      もともとは、英霊イスカンダルの宝具・神威の車輪。
+      フェイカーは、固有スキル「彼もまたイスカンダルなのだから」（偽）によって、この宝具を取得している。ただし、イスカンダルの場合と違い、神獣である雄牛ではなく、魔術による骨竜で戦車を牽引する。
+      本来の神威の車輪より、ランクと威力はやや下がるが、代わりにできるようになったことも多い。冠位決議編で見せた自動制御などはそのひとつ。また、一瞬の威力だけであれば、フェイ力ーの魔力を過剰に注ぎ込むことによって、本来の神威の車輪に匹敵させることも可能。
+      ヘカティックとついているのは、フェイカーの扱う神代魔術の系統がヘカテを源流としているため。第五次聖杯戦争に登場するキヤスターとの、ごく淡い縁である。
+    note:
+      n1: "ヘカティック・ホイール"
+  zh:
+    content: |-
+      {{n1}}
+      原本是英灵伊斯坎达尔的宝具·神威之车轮[Gordius Wheel]。
+      Faker藉由固有技能「只因他亦为伊斯坎达尔」（伪），获得了该宝具。只不过，与伊斯坎达尔的情况不同，并非身为神兽的公牛，而是由魔术制成的骨龙牵引着战车。
+      比起原本的神威之车轮[Gordius Wheel]，Rank与威力有些许降低，但能够做到的事情也相对地变多了。在冠位决议篇展现出来的自动控制便是其中之一。另外，尽管只是瞬间的威力，但Faker能够藉由注入过剩的魔力，令其变得足以匹敌原本的神威之车轮[Gordius Wheel]。
+      之所以会带有Hecatic一词，是因为Faker所使用的神代魔术的系统是以赫卡忒为源流的。这也是她与登场于第五次圣杯战争中的Caster之间极为淡薄的缘分。
+    note:
+      n1: "Hecatic Wheel"

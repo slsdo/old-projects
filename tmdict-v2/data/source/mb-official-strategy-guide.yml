@@ -1,0 +1,16 @@
+---
+id: mb-official-strategy-guide
+
+release-date: "2003-08-01"
+en: "MB Official Strategy Guide"
+ja: "MB公式攻略ガイドブック"
+zh: "MB公式攻略书"
+
+sections:
+  melty-blood-glossary:
+    id: melty-blood-glossary
+    page: "77"
+    glossary: melty-blood
+    en: "Melty Blood Glossary"
+    ja: "メルティブラッド用語解説"
+    zh: "Melty Blood用語解説"

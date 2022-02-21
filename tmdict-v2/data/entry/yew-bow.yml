@@ -1,0 +1,56 @@
+---
+id: yew-bow
+
+en: y
+ja: i
+furigana: いーばう
+title:
+  en: Yew Bow
+  ja: 祈りの弓
+  zh: 祈之弓
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 14
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      Bow of Prayer.
+      This is Green Archer’s anti-unit Noble Phantasm.
+      It was made from the wood of a yew tree in Sherwood Forest, which is the forest Robin Hood uses as a base of operations.
+      It is both his regular bow, and his trump card.
+      If you are hit by this bow while poisoned you will suffer extreme damage. Make sure you don’t forget to be well equipped with poison antidotes before you fight Green Archer.
+      Yew trees are holy to the Celts and Northern Europeans, and creating a bow from a Sherwood yew tree is a symbolic ritual for becoming one with the forest.
+      Yew trees are considered to be connected to the underworld. Robin Hood knew of this special characteristic, and towards the end of his years he declared, “I want to be buried where this arrow falls” and then loosed an arrow into the forest.  The arrow pierced the base of a yew tree, and that is where Robin Hood is said to have been buried.
+      It was by this sequence of events that his bow made from only the wood of a yew tree came to be imbued with enough power to be used as a Noble Phantasm.
+      His yew bow houses supernatural powers such as the extremely strong poison from the yew tree, and the ability to reproduce Sherwood Forest.
+    note: {}
+  ja:
+    content: |-
+      イー・バウ。
+      緑アーチャーが持つ対人宝具。
+      ロビンフッドが拠点としたシャーウッドの森のイチイの木から作ったという弓。
+      ロビンフッドの通常武装であり、奥の手。
+      毒を受けている状態でこの宝具を受けるととんでもないダメージになる。対緑アーチャー戦では毒消し礼装を忘れずに。
+      イチイはケルト、北欧における聖なる樹木の一種であり、シャーウッドの森のイチイから弓を作るという行為は「この森と一体である」という儀式を意味する。
+      イチイは冥界に通じる樹とされ、ロビンフッドはその特性を知ってか、末期の時には
+      「自分をこの矢が落ちた場所に埋葬して欲しい」
+      といって矢を放った。矢はこれまたイチイの木の根元に刺さり、ロビンフッドはそこに埋葬されたという。
+      もともとはイチイの木を材料にしただけの弓に宝具としての力が宿るのはこういった経緯から。
+      イチイの弓（イー・バウ）は超自然的な力を宿し、イチイが持つ非常に強力な毒と、シャーウッドの森の再現を可能とする。
+    note: {}
+  zh:
+    content: |-
+      Yew·Bow
+      绿Arhcer持有的对人宝具。
+      以罗宾汉作为据点的舍伍德森林的紫杉木做出的弓。
+      罗宾汉的既是通常武装，也是其王牌。
+      在受到毒的状态吃下这个宝具的话会遭受成吨的伤害。对绿Archer战时不要忘了解毒的礼装。
+      紫杉木时凯尔特，北欧的神圣的树木的一种，以舍伍德森林的紫杉木做成弓这个行为意味着“与这个森林成为一体”的仪式。
+      紫衫被当作与冥界相通的树木，罗宾汉是否是知道这个特性呐，于其死期将至时边说着“我想要被埋葬在这根箭矢落下的地方”边放出了矢。矢最后刺入了紫杉的树根，罗宾汉便被埋葬在那里。
+      原本以紫衫木为材料做出的弓的宝具因此宿有力量。
+      紫衫的弓（Yew·Bow）宿有超自然的力量，紫衫有着非常强力的毒，并且使再现舍伍德的森林化作可能。
+    note: {}

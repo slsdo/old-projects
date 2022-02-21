@@ -1,0 +1,30 @@
+---
+id: bust-size
+
+en: b
+ja: ha
+furigana: ばすとさいず
+title:
+  en: Bust Size
+  ja: バストサイズ
+  zh: 胸围
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 38
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      キャラ絵が描かれる度に変動する不思議な値。
+    note: {}
+  zh:
+    content: |-
+      角色画像描绘时会变动的不可思议的数值。
+    note: {}

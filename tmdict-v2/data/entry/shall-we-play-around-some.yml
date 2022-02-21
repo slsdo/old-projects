@@ -1,0 +1,36 @@
+---
+id: shall-we-play-around-some
+
+en: s
+ja: su
+furigana: すこしばかりざれようか?
+title:
+  en: Shall We Play Around Some?
+  ja: 少しばかり戯れようか?
+  zh: 稍微玩玩吧？
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 38
+  category:
+  - technique
+  img: ""
+  en:
+    content: |-
+      Arcueid’s Last Arc.
+      For just a second, it is possible to catch a glimpse of the vampire princess Arcueid’s true power. The phantom that appears behind her back is her original form. Its appearance, abilities, and very thoughts could be called the Crimson Moon.
+      The inspiration for this technique comes from Kagetsu Tohya. Specifically, the episode where Shiki strayed off into Arcueid’s dream and received proper retribution for killing her. Because of that, when this technique is used on Shiki it hits eighteen times.
+    note: {}
+  ja:
+    content: |-
+      アルクェイドのラストアーク。
+      ほんの一瞬、アルクェイドという吸血姫の真の力が垣間見れる。背後に現れる幻は本来の姿。この姿、能力、思考こそが朱い月と言える。
+      出典は『歌月十夜』より。アルクェイドの夢に迷い込んだ志貴が殺された仕返しを受ける、というエピソードから。志貴が相手だとしっかり18ヒットになる。
+    note: {}
+  zh:
+    content: |-
+      爱尔奎特的Last-Arc。
+      仅仅的一瞬间，能够窥见爱尔奎特这个吸血姫的真正的力量。出现在背后的幻影是本来的姿态。这身姿、能力、思考才可说是朱月。
+      出处来自《歌月十夜》。来自“闯入爱尔奎特的梦的志贵受到了被杀的报复”这种小插曲。志贵作对手会变成结结实实的18击。
+    note: {}

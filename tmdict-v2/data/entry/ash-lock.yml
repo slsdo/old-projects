@@ -1,0 +1,36 @@
+---
+id: ash-lock
+
+en: a
+ja: ka
+furigana: かいじょう
+title:
+  en: Ash Lock
+  ja: 灰錠
+  zh: 灰锭
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 18
+  category:
+  - other_alt
+  img: ""
+  en:
+    content: |-
+      Standard equipment used by the Executors of the Holy Church.
+      Unlike the Black Keys that Executors are also known for, which take a considerable amount of training to use effectively, the Ash Lock is a powerful Conceptual Weapon that can demonstrate great ability with a minimum of training. Normally they are disguised as gloves or boots, but by removing their tag, they revert to their original form.
+      Used by a large number of Executors, they come in a variety of forms. While Ilumia elected for a hand-to-hand fighting type, versions using things like small blades or crossbows also exist.
+    note: {}
+  ja:
+    content: |-
+      聖堂教会の代行者たちが使う標準装備。
+      同じく標準装備でありながら、扱いに熟練を要する黒鍵と違い、比較的短時間の訓練で十分な能力を保証する強力な概念武装。普段は手袋やブーツなどに偽装しているが、紙片を滑らせることによって本来の姿に戻る。
+      多くの代行者に選ばれてきただけあって、その形状と能力にも複数のパターンがあり、イルミアが選んだのは格闘タイプだったが、小型の刃やボウガンを仕込んだタイプもあるという。
+    note: {}
+  zh:
+    content: |-
+      圣堂教会的代行者们所使用的标准装备。
+      与同样是标准装备，但需要熟练后才能使用的黑键不同，是只要经过较短时间的训练，就能保证充足能力的强力概念武装。平时伪装成手套或长靴等物件，但只需滑动纸片就能恢复原本的形态。
+      受到许多代行者的选择，其形状与能力也有着多种类型，伊尔米娅所选择的是格斗款式，但据说也有着组装了小刀或手弩的款式。
+    note: {}

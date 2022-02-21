@@ -1,0 +1,39 @@
+---
+id: serpent-of-akasha
+
+en: s
+ja: a
+furigana: あかしゃのへび
+title:
+  en: Serpent of Akasha
+  ja: アカシャの蛇
+  zh: 阿卡夏之蛇
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 3
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      Another name for Roa—the “extra” among the 27 Dead Apostle Ancestors, and the magus that established the art of reincarnation.
+      While the common goal of the Dead Apostles is to attain perfect immortality that doesn’t rely on the intake of blood, their paths toward this goal are varied.
+      One tried to become indestructible by turning his body into formless chaos. Another demonstrated an ineradicable existence by becoming a phenomenon.
+      As for Roa, he focused on the soul, rather than the body, mastering magecraft that allowed him to reincarnate and assimilate into another individual upon the demise of his physical form.
+    note: {}
+  ja:
+    content: |-
+      死徒二十七祖番外、転生の魔術を確立させた魔術師·ロアの別称。
+      死徒たちの目的は“血の摂取にたよらない完全な不老不死”であり、アプローチは様々だ。
+      ある者はカタチのない混沌を体にする事で不滅を成そうとし、ある者は現象化する事で不消を证明した。
+      ロアは肉体ではなく魂に着目し、肉体が滅びた後、魂を他の個体に転移、同化する魔術を極めた吸血鬼である。
+    note: {}
+  zh:
+    content: |-
+      死徒二十七祖的编外，确立了转生的魔术的魔术师·Roa的别名。
+      死徒们的目的是“不依赖血的摄取的完全的不老不死”，方法是各种各样的。
+      有的人是想以将无形的混沌作为身体来达成不灭，有的人是以现象化来证明不会消灭。
+      Roa是着眼于灵魂而非肉体，穷极了肉体灭亡了之后，灵魂向其他的个体转移、同化的魔术的吸血鬼。
+    note: {}

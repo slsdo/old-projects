@@ -1,0 +1,30 @@
+---
+id: kings-wine
+
+en: k
+ja: o
+furigana: おうのさけ
+title:
+  en: King’s Wine
+  ja: 王の酒
+  zh: 王之酒
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 100
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      アーチャーの宝物庫に眠る極上の酒。聖杯問答の際に振る舞われ、ライダーをして「ヒトの手による醸造ではあるまい」とまで言わしめた。
+    note: {}
+  zh:
+    content: |-
+      沉眠于Archer的宝物库的顶级美酒。圣杯问答之时用来款待，Rider也发出了“一定不是人手酿造出来的”的感叹。
+    note: {}

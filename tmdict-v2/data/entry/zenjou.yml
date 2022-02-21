@@ -1,0 +1,30 @@
+---
+id: zenjou
+
+en: z
+ja: se
+furigana: ぜんしろ
+title:
+  en: Zenjou
+  ja: 禅城
+  zh: 禅城
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 32
+  category:
+  - family
+  img: ""
+  en:
+    content: |-
+      Tohsaka Aoi’s family name prior to marrying into the Tohsaka family. Aoi and Rin take shelter at the Zenjou Residence during the Holy Grail War. The Zenjou family today is a normal family with no affinity for magecraft. A few generations prior, Zenjou was a practicing magus family, and Zenjou descendants still have magical blood today, which is deserving of special mention. As a result, both Rin and Sakura boast an excellent magus pedigree.
+    note: {}
+  ja:
+    content: |-
+      遠坂葵の実家。聖杯戦争中、葵と凛はこの家に避難することになる。現在は魔導に縁のないごく平凡な家系だが、数世代前に魔術師の先祖を持っており、その血に流れる魔術の因子には特筆すべきものがあったという。そのため、彼女の2人の娘である凛と桜は、途方もない魔術的素養を秘めている。
+    note: {}
+  zh:
+    content: |-
+      远坂葵的娘家。圣杯战争中，葵与凛到这个家避难。虽然现在只不过是和魔导无缘的平凡的家系，拜数世代前有魔术师的先祖，有着值得注明的流淌在血中的魔术因子。为此，她的2位女儿，凛与樱都埋藏着荒唐般的魔术素养。
+    note: {}

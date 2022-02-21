@@ -1,0 +1,63 @@
+---
+id: high-level-ai
+
+en: h
+ja: shi
+furigana: じょうきゅうAI
+title:
+  en: High Level AI
+  ja: 上級AI
+  zh: 高级AI
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 76
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      These are artificial lifeforms created in order to allow the Holy Grail War to proceed smoothly.
+      They may seem the same as NPCs because they are manufactured beings, but High Level AI have firmly defined liberties and personalities, and they also are bestowed with a soul.
+      Due to the high cost of manufacturing High Level AI, they are not reset even after a Holy Grail War has finished.
+      They make an appearance filling standard character roles in each Holy Grail War.
+      High Level AI include:
+      Father Kotomine, whose duty is to supervise the Masters.
+      Sakura, whose duty is to manage and maintain the Masters’ health.
+      Disciplinary Chairperson, who keeps an eye out for bad conduct within the school.
+      Ms. Taiga, who directs the schedule each day.
+      The mysterious black panther Makiji… and more.
+      The group of High Level AI also seems to include Sister Caren, whose jurisdiction is carrying out the punishment of Masters, however she didn’t seem to make an appearance in the Holy Grail War that the protagonist participated in.
+      Also, the memories that the High Level AI have obtained are unable to be deleted by themselves.
+      No matter how sad and depressing a memory may be, they are forced to keep it with them forever, and of course submitting their memories to Moon Cell is the reason that they exist.
+    note: {}
+  ja:
+    content: |-
+      聖杯戦争を円滑に進めるために作られた仮想生命。
+      製造された経緯はNPCと同じだが、上級AIには確固たる人権と人格、魂が与えられている。
+      上級AIは制作コストが高いため、一度の聖杯戦争ではオールリセットされない。
+      彼らは定番のキャラクターとして次の聖杯戦争に移行する。
+      マスターたちの監督役である言峰神父、
+      マスターたちの健康管理を担う桜のほか、
+      校内の違法行為を監視する風紀委員、
+      日常を演出するミス・タイガー、
+      謎の黒豹マキジ……等が確認されている。
+      中にはマスターを処罰する権限を持つシスターカレンなる上級AIもいるらしいが、主人公が参加した聖杯戦争には現れなかったようだ。
+      また、上級AIは獲得した記録を自分から消去する事はできない。どれほど陰惨な記憶でも残し続け、ムーンセルに提出する事が彼らの大原則であり、存在意義だからだ。
+    note: {}
+  zh:
+    content: |-
+      为了让圣杯战争能平顺地进行而被做出来的拟似生命。
+      制作经历虽然和NPC一样，但上级AI有更确实的人权与人格，拥有着自己的灵魂。
+      上级AI由于制作COST很高的关系，不会在一次次的圣杯战争结束后被重置。
+      他们会做为固定的角色被放到下一次的圣杯战争里。
+      Master们的监督担当的言峰神父、
+      Master们的健康管理的樱以外，
+      负责监视校内违法行为的风纪委员、
+      日常演出的Miss·大河、
+      神秘的黑豹Makiji……之类的。
+      其中持有Master惩戒权的修女卡莲也作为上级AI存在着，但似乎没有出现在主角参加的圣杯战争里的样子。
+      另外、上级AI无法自己删除所获得的纪录。
+      就算有多么凄惨的记忆也会留下来、将其向Moon Cell提出报告是他们的原则、同时也是存在意义。
+    note: {}

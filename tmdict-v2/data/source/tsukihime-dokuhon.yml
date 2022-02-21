@@ -1,0 +1,24 @@
+---
+id: tsukihime-dokuhon
+
+release-date: "2001-05-13"
+en: "Tsukihime Dokuhon"
+ja: "月姫読本"
+zh: "月姬读本"
+
+sections:
+  tsukihime-dictionary:
+    id: tsukihime-dictionary
+    page: 40–52
+    glossary: misc
+    en: "Tsukihime Dictionary"
+    ja: "月姫用語辞典"
+    zh: "月姬用语辞典"
+
+  notes:
+    id: notes
+    page: 144–155
+    glossary: tsukihime
+    en: "Notes."
+    ja: "Notes."
+    zh: "Notes."

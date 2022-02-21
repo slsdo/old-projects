@@ -1,0 +1,44 @@
+---
+id: tears-of-the-cosmos
+
+en: t
+ja: so
+furigana: そらのなみだ
+title:
+  en: Tears of the Cosmos
+  ja: 宙の涙
+  zh: 空之泪
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 38
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      An ominous phenomenon that precedes the arrival of Velber on worlds that it marks as prey.
+      They appear as tear-shaped comets, with rays of light that rain down upon the earth from their tails.
+      The flashes of light that descend from the tail of the comet are not tears, but Arks of the Stars, fragments of the Umbral Star, each containing spiritron-draining Anti-Cells on a mission to destroy all civilizations.
+      Starship fragments of the Umbral Star create by Velber. Three Arks of the Stars are confirmed to have been sent to Earth 14,000 years ago.
+      Altera’s Ark of the Stars plummeted to the Moon. It is unknown where the two remaining Arks fell.
+    note:
+      n1: "Localized as Lachryma Caelum, also known as Tears of the Stars."
+  ja:
+    content: |-
+      {{n1}}
+      ヴェルバーが現れる際、捕食対象になった領域に見られる現象。
+      涙の紋様をした彗星と、その彗星の尾から地上に向けて降りそそぐ光の筋を示した言葉。彗星の尾からこぼれたモノは涙ではなく、文明を破壊する為に送られた霊子吸収体アンチセル───
+      ヴェルバーによってデザインされた遊星の欠片、星船である。一万四千年前、地球から宙の涙は三つ確認されている。
+      アルテラの星船は月に落ちた。残り二つがどこに落ちたかは不明。
+    note:
+      n1: "宙[そら]。"
+  zh:
+    content: |-
+      威尔帕出现时，会在成为其捕食对象的领域看见的现象。空之泪一词所形容的，是呈泪水图样的彗星，以及从彗星尾部降落至地面的光痕。
+      从彗星尾巴溢出的并非泪水，而是为了破坏文明而送来的灵子吸收体“反噬晶体”———
+      由威尔帕所设计的游星碎片，也就是星船。一万四千年前，在地球上被确认的空之泪共有三艘。
+      阿提拉的星船降落到月球上，其余两艘星船的降落地不明。
+    note: {}

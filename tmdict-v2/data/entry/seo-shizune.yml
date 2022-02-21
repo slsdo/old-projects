@@ -1,0 +1,43 @@
+---
+id: seo-shizune
+
+en: s
+ja: se
+furigana: せおしずね
+title:
+  en: Seo Shizune
+  ja: 瀬尾静音
+  zh: 濑尾静音
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 29
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A girl in her late teens. A student of Reien Girls Academy. Kokutou Azaka’s roommate. Future sight.
+      A timid, introverted girl. She was incorporated into the story since the early draft in preparation of acting as the protagonist of <em>Gospel of the Future</em>.
+      Although she was not very active in the main story of <em>Kara no Kyoukai</em>, a character of similar concept emerged in the side story of <em>Tsukihime</em>{{n1}}.
+      <em>Gospel of the Future</em> would be a story about her chat with Mikiya. The setting would be Ahnenerbe. The planned length was about 30 pages.
+      In terms of chronological order, Gospel of the Future would take place before Paradox Spiral. In it, Sizune would advise Mikiya “if you keep going like this, you could die very soon.” In Paradox Spiral, the content of Mikiya’s reply to Enjou Tomoe was the exact opposite of that. It seemed Mikiya was lying there.
+    note:
+      n1: "Author is referring to Seo Akira. Note identical last names."
+  ja:
+    content: |-
+      十代後半の少女。礼園女学院の生徒。黒桐鮮花のルームメイト。未来視。
+      おどおどした引っ込み思案の少女で、プロット段階で予備の話として組み込まれていた『未来福音[みらいふくいん]』の主役。
+      『空の境界』本編での活躍はなくなってしまったが、同じコンセプトのキャラクターが『月姫』の番外編で登場している。
+      『未来福音』は彼女が幹也と軽いお喋りをするだけの話。場所はアーネンエルベで、三十頁[ページ]程度の閑話[かんわ]として予定されていた。
+      時期は矛盾螺旋の前の話で、幹也は彼女から「今のままだと、近いうちに死んじゃうかもしれません」と忠告されている。矛盾螺旋において、幹也が臙条巴に返答した内容はまるっきり反対、幹也らしいウソなのだった。
+    note: {}
+  zh:
+    content: |-
+      15–19岁的少女。礼园女学院的学生。黑桐鲜花的室友。未来视。
+      战战兢兢的内向少女，在策划阶段作为预备的故事编入的《未来福音》的主角。
+      在《空之境界》正篇的活跃虽然没了，相同概念的角色在《月姬》的外传中登场了。
+      《未来福音》只是她和干也聊天的事。场所是Ahnenerbe，预定为三十页程度的闲话。
+      时期是在矛盾螺旋前，干也受到了她“照现在这样下去，近期内就会死也说不定”的忠告。矛盾螺旋中，干也回答胭条巴的内容[与之]简直相反，真是像干也作风的谎话。
+    note: {}

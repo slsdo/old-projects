@@ -1,0 +1,54 @@
+---
+id: pseudo-spiritron-computer
+
+en: p
+ja: ki
+furigana: ぎじりょうしコンピューター
+title:
+  en: Pseudo-Spiritron Computer
+  ja: 疑似霊子コンピューター
+  zh: 疑似灵子电脑
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 44
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      This is a super computer that was created using spiritrons made based on the Magic Theory of Pseudo-Spiritrons.
+      It is a machine that uses spiritrons created from a soul defined as a machine. The use of spiritrons makes high speed computation possible.
+      The Pseudo-Spiritron Computer is a parallel computation device that uses the soul (which resides in a higher dimension) as its axis to activate a “something” which lies in a parallel world.
+      The first version of the Pseudo-Spiritron Computer was completed in 1980.
+      Its processing power was so great that it even surpassed the expected processing power of a quantum computer that would finish being developed and built in 2030.
+      (Quantum computer development was frozen by the West Europe Plutocracy in 1999)
+      The United Nations led investigation unit first managed to infiltrate the Moon with the assistance of this Pseudo-Spiritron Computer.
+      It stands to mention that if Moon Cell directly invites someone, if they accept its invitation they will be able to “fall” to the Moon even using a cheap cyber interface.
+      …Despite what it sounds like, accepting Moon Cell’s invitation leads to participation in a death game where only the ultimate victor will be able to return alive.
+    note: {}
+  ja:
+    content: |-
+      魔術理論・疑似霊子によって作られた霊子を使い、完成したスーパーコンピューター。
+      機械の魂を定義し、その霊子を用いて高速演算を可能とする装置。
+      高次元にある魂を主軸にした、並行世界にある“もの”を動員しての並行並列演算装置。
+      初期型の完成は1980年。
+      その演算能力は2030年に完成予定とされていた量子コンピューターと同規模が、これを上回るという。
+      （量子コンピューターそのものは西欧財閥によって1999年に開発を凍結凍結させられている）
+      国連主導の探査機……人類側からの月への侵入はこの疑似霊子コンピューターのバックアップがあってはじめて成功した。
+      また、ムーンセルから直接招かれる場合は別で、当事者が賛同すれば安価なインターフェイスでも月に『落ちる』事が可能である。
+      ……もっとも。その先にあるものは、勝者以外は生還できないデスゲームであるのだが。
+    note: {}
+  zh:
+    content: |-
+      使用魔术理论·疑似灵子制作出的灵子，已完成的超级电脑。
+      给机械的灵魂以定义，利用它的灵子让高速演算成为可能的装置。
+      以高次元的灵魂作为主轴，动员平行世界事物的平行并列演算装置。
+      初号机于1980年完成。
+      它的演算能力预计2030年达到量子电脑的同规模，但已经超越了。
+      （西欧财阀在1999年把量子电脑的开发冻结了）
+      国连主导的探查机……有了疑似灵子电脑的支持，人类侵入月球才首取得首次的成功。
+      另外，Moon Cell直接邀请的情况则不同，当事者同意的话使用廉价的接口也能登陆月球。
+      ……话虽如此，前方等待着的是只有胜利者能活下来的死亡游戏。
+    note: {}

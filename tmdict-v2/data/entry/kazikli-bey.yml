@@ -1,0 +1,110 @@
+---
+id: kazikli-bey
+
+en: k
+ja: ka
+furigana: かずぃくるべい
+title:
+  en: Kazikli Bey
+  ja: 串刺城塞 / 極刑王
+  zh: 串刺城塞 / 极刑王
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 37
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      The Fortress of Impalement.
+      Lancer’s anti-army Noble Phantasm.
+      This is a Noble Phantasm derived from Vlad III’s posthumous title – Vlad the Impaler.
+      It’s a magic torture castle that pierces victims with magic lances which curse and deal heavy damage.
+      The pain caused by it increases depending on the immoral and deprave sins it’s victims have committed; it’s truly an attack of great justice.
+      In the game, like the screaming Mandragoras, countless lances burst out from under the feet of enemies and pierce them, causing huge damage.
+      Furthermore, the attacks apply the negative status effect “curse.”
+      The attack affects all enemy units, so its true value is only displayed in one vs. many situations rather than one-on-one.
+      Also, as a hidden component, Kazikli Bey’s damage is increased when used on people who qualify as “enforcement targets.”
+      If the enemy has committed the crimes of running away, immorality, or violence, Kazikli Bey’s destructive power increases. There is no extra damage when used against the protagonist because they have no criminal history.
+      
+      At the time Vlad III was alive, punishing commoners with impalement wasn’t unusual in the Balkan Peninsula and Northern Mediterranean Sea areas.
+      But then, after Vlad III took up the role as Wallachia’s lord and leader for the second time, he became fed up with the extreme corruption and depravity of the nobles in his country.
+      He decided that the decline of Wallachia was due to these nobles, and took decisive action against unprecedented numbers of them. His primary method of enforcement and punishment was impalement.
+      In Wallachia, where nobles and commoners had previously been subject to very different treatment and rules, it’s presumed that Vlad’s actions were extremely shocking.
+      There was surely no one in the land who did not feel the severity and horror of Lord Vlad’s actions.
+      After routing the nobles, impalement became Vlad’s favorite method of punishment, and in 1459 he even went so far as to impale the emissary of the Ottoman Empire (Turkish Empire) alive, among other deeds.
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      カズィクル・ベイ。
+      ランサーの持つ対軍宝具。
+      串刺し公・ヴラド三世の代名詞とも言える宝具。
+      魔槍から放つ、呪いと鉄槌の拷問魔城。
+      相手が持つ不義・堕落の罪に応じて痛みを増す、まさに正義の一撃である。
+      ゲーム中では死の叫びをあげるマンドラゴラの如く、敵の足下から無数の槍が突き上がり、大ダメージを与える。
+      加えてバッドステータス・呪いまで付与される。
+      敵対したすべての敵兵が対象になるため、一対一より一対多で真価を発揮する。
+      また隠し要素として、カズィクル・ベイは“粛正の対象”にあたる人間へ増加ダメージを持つ。
+      相手が『逃走』『不道徳』『暴力』を犯している場合、その破壊力を増していくのだが、犯罪経歴のない主人公にその追加はなかった。
+
+      当時、一般庶民への串刺し刑はバルカン半島を含む北地中海圏ではさして珍しい刑罰ではなかった。
+      しかしヴラド三世は2度目のワラキア公への即位の際、あまりにも腐敗し、堕落しきった自国の貴族たちの姿を見て憤慨。
+      国を荒廃させた原因はその貴族らにあると見て、未曾有の大粛正を敢行する。その粛正の要となったのが、貴族に対する串刺し刑だった。
+      貴族と庶民が厳しく分割されていたワラキアにおいて、これは相当にショッキングな事実だったと推測される。
+      領民たちの中でヴラド公の苛烈さ、恐ろしさを感じなかった者はいなかっただろう。
+      以降、串刺しはヴラド三世の十八番となり、彼は1459年、トルコの使者を生きたまま串刺しにするなどの所業に出ている。
+    note:
+      n1: "『Fate/EXTRA』：串刺城塞、『Fate/Apocrypha』：極刑王。"
+  zh:
+    content: |-
+      {{n1}}
+      Kazikli Bey。
+      Lancer所持的对军宝具。
+      可以说是穿刺公·弗拉德三世代名词的宝具。
+      从魔枪中放出的，诅咒与铁锤的拷问魔城。
+      根据对手的不义、堕落之罪而增加痛苦，简直是正义的一击。
+      游戏中像是发出死亡叫声的曼德拉草一般，敌人的脚下突刺出无数长枪，给予巨大伤害。
+      再加上bad status，诅咒也会被赋予。
+      由于是以敌对的一切敌兵为对象，比起一对一，在一对多场合更能够发挥真正价值。
+      以及作为隐藏要素，Kazikli Bey有着随“肃清对象”的人类而增加伤害的特性。
+      对手触犯了“逃走”“不道德”“暴力”的场合，其破坏力会随之增加，但是对于没有犯罪经历的主角不会追加伤害。
+
+      当时，对一般平民行穿刺之刑在包含巴尔干半岛在内的北地中海圈中并不是什么罕见的刑罚。
+      不过他在第二次即位瓦拉几亚大公时，看到腐败不已、堕落至极的本国贵族的举止而为之愤慨。
+      他认为国家荒废的原因就在于那群贵族，于是毅然实行空前未有的大整顿。该次整顿的要点是，对贵族行穿刺之刑。
+      在贵族与平民被严格分割开来的瓦拉几亚中，估计这是一个令人相当震惊的事实。
+      领民里面应该没有人感觉不到他的残酷、可怕吧。
+      其后，穿刺成为他的拿手好戏，他在1459年，更做出将土耳其使者活生生穿刺等所作所为。
+    note:
+      n1: "《Fate/EXTRA》：串刺城塞、《Fate/Apocrypha》：极刑王。"
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 26
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      Lord of Execution. Lancer of “Black”’s Noble Phantasm. It can unleash a maximum of twenty thousand stakes in the territory he has set up with his skill “Demonic Defender of the State.” It can be used to attack, defend or regulate the movements of the enemy. Due to the being set up in Romania, the territory created by “Demonic Defender of the State” here is the largest of any Holy Grail War. Not only does the damage from the stakes pile up, they attack one after another with overwhelming numbers reaching twenty thousand, living up to Vlad III’s nickname “Lord of Impalement.”
+      Though the power of each individual stake is low, they deal additional continuous damage through “penetration” for some time after even one of them is stabbed into the enemy. Furthermore, if his spear hits the enemy even once, it will cause stakes to be created from within the enemy’s body and pierce them from inside out. When this happens, nothing can be done, and the enemy will end up suffering in excruciating pain until they die.
+      …Well, the fact that there was an unbelievable Servant who would circulate fire through his own body in order to incinerate the stakes within him was probably a miscalculation for Vlad.
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      カズィクル・ベイ。“黒”のランサーの宝具。最大二万本の杭をスキル『護国の鬼将』で拡張した領地に展開。攻撃、防御、移動制御などに活用する。ルーマニアという土地柄もあり、『護国の鬼将』で得た領地は聖杯戦争中、最大規模。杭のダメージは積み重なっていく上に、後から後から襲い掛かる二万本という圧倒数は、ヴラド三世の『串刺し公』という異名の面目躍如だろう。
+      杭は一本あたりの威力は低いものの、一度でも喰らえばしばらくの間は「貫通」による継続ダメージが付加される。更に一度でも槍を当てれば、敵の体内からでも杭を生み出せて貫通させてしまう。こうなるともう収拾がつかず、相手は死ぬまでもがき苦しむハメになる。
+      ……まあ、体内に生まれた杭を燃やすために自分自身に炎を循環させるようなトンデモ英雄が存在したことだけは、ヴラドにとって計算違いだったろうが。
+    note:
+      n1: "『Fate/EXTRA』：串刺城塞、『Fate/Apocrypha』：極刑王。"
+  zh:
+    content: |-
+      {{n1}}
+      Kazikli Bey，“黑”Lancer的宝具。与“护国鬼将”技能搭配，将最多两万支桩子在拓展的领地内展开，可活用于攻击、防御与移动控制等。由于罗马尼亚的风土民情，以“护国鬼将”获得的领地在圣杯战争中是规模最大的。桩子的伤害不仅会累积，接二连三袭击而来的两万支压倒性数量，让弗拉德三世的“穿刺公”别名更加栩栩如生。
+      虽然一支桩子的威力很低，但只要挨了一击就会暂时附加“贯穿”造成的持续伤害。加上只要枪头刺中一次，甚至会从敌人体内产生桩子加以贯穿。一旦变成这样就无力回天，对手只能痛苦挣扎直到断气为止。
+      ……不过呢，为了烧掉体内产生的桩子而让火焰在全身上下循环，唯有这种离谱英雄的存在对弗拉德而言是误算吧。
+    note:
+      n1: "《Fate/EXTRA》：串刺城塞、《Fate/Apocrypha》：极刑王。"

@@ -1,0 +1,45 @@
+---
+id: ghoul
+
+en: g
+ja: ku
+furigana: ぐーる
+title:
+  en: Ghoul
+  ja: グール
+  zh: Ghoul
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 15
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      ① Corpse Eating Demon
+      ② When a vampire sucks blood, some vampire blood is left behind in the body of the victim, which prevents the body from completely dying despite being “killed.”
+      ③ A few years after death the brain has completely rotted, but the soul remains affixed in the flesh.
+      ④ Eats other corpses to restore its rotting body.
+      ⑤ After completely restoring its body, the ghoul has matured to be a Living Dead.
+      ⑥ About 1 in 100 people who have their blood sucked and die become ghouls.
+    note: {}
+  ja:
+    content: |-
+      ①屍食鬼。
+      ②血を吸われた際に吸血鬼の血が体内に残されたため、殺されたものの死にきれなかった人間。
+      ③死後数年たって脳が腐敗し、魂が肉体に固定した状態。
+      ④腐敗した肉体を補うため他の遺体を食べる。
+      ⑤肉体を補い終わるとリビングデッドへと成長する。
+      ⑥グールになれる確率はおよそ100人に1人。
+    note: {}
+  zh:
+    content: |-
+      ①食尸鬼。
+      ②由于被吸血时吸血鬼的血残留于体内，所以虽然被杀却没有死透的人类。
+      ③脑在死后数年腐烂、灵魂固定于肉体的状态。
+      ④为了补充腐烂的肉体而进食其他的遗体。
+      ⑤补充完肉体则成长为Living Dead。
+      ⑥能够成为Ghoul的几率大约一百人中有一人。
+    note: {}

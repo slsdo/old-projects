@@ -1,0 +1,40 @@
+---
+id: el-melloi-classroom
+
+en: e
+ja: e
+furigana: えるめろいきょうしつ
+title:
+  en: El-Melloi Classroom
+  ja: エルメロイ教室
+  zh: 埃尔梅罗教室
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 17
+  category:
+  - organization_alt
+  - other_alt
+  img: "casefile_el-melloi-classroom.png"
+  en:
+    content: |-
+      Supervised by Lord El-Melloi II, a classroom where Modern Magecraft is taught by three to five professors (fluctuating over time).
+      For a time the El-Melloi Classroom was the only place teaching Modern Magecraft, so there are some who use the terms interchangeably. Strictly speaking, however, the El-Melloi Classroom is only a single part of the Faculty of Modern Magecraft, a small seminar of about fifteen students. Including auditing students, that number jumps to about fifty. Left alone, there would be a flood of students joining officially, but there may or may not exist a self-governing body of students within the classroom keeping strict control of it. And there may or may not be a black market for tickets to gain entry.
+      In one memory scene, Waver borrows money from Melvin in order to purchase the classroom. Really what he is purchasing is “the right of have a classroom in the headquarters of the Clock Tower.” A classroom in the Clock Tower is something like a castle, so at the time Waver had to borrow enough money to buy a castle.
+      Furthermore, during the course of the events of Case Files, the number of teachers and students in the Faculty of Modern Magecraft grew considerably, reaching the numbers they have today.
+    note: {}
+  ja:
+    content: |-
+      ロード・エルメロイII世を責任者として、総数三人から五人程度の講師（時期によって変動）が教えている現代魔術科の授業単位。
+      一時期は事実上現代魔術科=エルメロイ教室だったため、現代魔術科全体をそう呼ぶ向きもある。が、厳密に言えば、エルメロイ教室とはその内のごく一部、十五人ほどの少数精鋭ゼミである。ただし聴講生を含めると五十人ほどいる。放っておくと殺到するのだが、このへんは嫌われがちな自治生徒が取り仕切ってるとかいないとか。闇チケットがあるとかないとか。
+      回想シーンで、ウェイバーがメルヴィンに借金してエルメロイ教室を購入したというのは、こうしたゼミの「時計塔本部における教室の権利」のことである。時計塔における教室とはある種城のようなもので、このときウェイバーは城を買うほどの借金をしたのであった。
+      なお、事件簿の頃の現代魔術科全体では、講師も生徒も大きく増えて、それなりの人数となる。
+    note: {}
+  zh:
+    content: |-
+      以君主·埃尔梅罗二世为负责人，总共有三到五名左右的讲师（会根据时期变动）教课的现代魔术科的授课单位。
+      由于在某段时期，现代魔术科事实上就等于埃尔梅罗教室，所以也可以用来称呼现代魔术整体。但严格来说，埃尔梅罗教室只是其中的一小部分，只有十五人左右的少数精锐研讨班。不过包括旁听生在内共有五十人左右。就算放着不管他们也会蜂拥而至，但这方面的事情似乎有不厌其烦的学生自治团体在掌管又似乎没有，似乎有黑市门票又似乎没有。
+      在回忆场景中，韦伯之所以向梅尔文借钱收购埃尔梅罗教室，是因为这类研讨班是「时钟塔本部的教室的权利」。时钟塔的教室就像是某种城堡一般的存在，因此那时候韦伯借来的是足以买下城堡的钱款。
+      另外，事件簿时期的现代魔术科整体，无论是讲师还是学生都大幅增加了，人数变得挺多的。
+    note: {}

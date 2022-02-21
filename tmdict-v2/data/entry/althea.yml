@@ -1,0 +1,33 @@
+---
+id: althea
+
+en: a
+ja: a
+furigana: あるつぃあ
+title:
+  en: Althea
+  ja: アルツィア
+  zh: 艾露茨亚
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 15
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The homunculus who aided in searching for Assassin of “Black.” After the war, she went with Caules to London. She actually appears stealthily in one of the illustrations of Volume 3, instead of Tool.
+      The homunculi created by Gordes have somewhat varied personalities and abilities, and Althea is a model that excels in magecraft. Her personality is exactly like that of a homunculus: reserved, yet wicked tongued. In London, she basically helps with household chores… She is also responsible for helping with Caules’ magecraft, but she has taken up a part-time job searching for familiars with magecraft.
+    note: {}
+  ja:
+    content: |-
+      “黒”のアサシン探索に従事したホムンクルス。大戦の後、カウレスと共にロンドンへ向かう。実はトゥールを差し置いて三巻口絵にこっそり登場している。
+      ゴルドが鋳造したホムンクルスは性格や能力に多少のばらつきがあり、アルツィアは魔術に秀でた型である。性格はホムンクルスらしく、慎ましくも毒舌。ロンドンでは基本的に家事手伝い……カウレスの魔術補助なども担当しているが、アルバイトで魔術による使い魔探しなども引き受けている。
+    note: {}
+  zh:
+    content: |-
+      她是担任“黑”Assassin探索任务的人造人。大战过后，与盖列斯一同前往伦敦。其实她撇下图儿，偷偷在第三集的封面插图登场过。
+      歌尔多制作的人造人在个性和能力上多少会有差异，艾露茨亚则是擅长魔术的类型。个性十分人造人，谨慎却又毒舌。在伦敦基本上会帮忙做家事……以及担任盖列斯的魔术辅助等工作，但也兼差接受利用魔术寻找使魔等物件的委托。
+    note: {}

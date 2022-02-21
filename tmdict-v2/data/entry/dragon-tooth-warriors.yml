@@ -1,0 +1,57 @@
+---
+id: dragon-tooth-warriors
+
+en: d
+ja: ri
+furigana: りゅうきばへい
+title:
+  en: Dragon Tooth Warriors
+  ja: 竜牙兵
+  zh: 龙牙兵
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 100
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      Familiars made from dragon teeth.
+      The teeth are planted in the ground, where they become disposable soldiers imbued with the magical energy of dragons and knowledge from the earth.
+      Going by sprites it seems that there are three types, and they’re all lovely.
+      A nostalgic existence for those experienced with tabletop role-playing games. They’re actually very strong, and if a group of level five adventurers picks a fight with them they’re in for a rude awakening.
+    note: {}
+  ja:
+    content: |-
+      竜の歯から作られた使い魔。
+      大地に歯を蒔き、竜種の魔力と大地からの知識を得て使い捨ての雑兵となる。
+      立ち絵では三タイプおり、みんなラブリー。
+      TRPG経験者には懐かしい存在。ホントは凄く強く、レベル5程度の冒險者じゃ返り討ちだ。
+    note: {}
+  zh:
+    content: |-
+      由龙的牙齿做出来的使魔。
+      在大地播下牙齿，变成得到龙种的魔力与来自大地的知识的一次性杂兵。
+      立绘里有三种类型，全都很可爱。
+      对有TRPG经验的人是怀念的存在。真的厉害都不得了，Level 5程度的冒险者会被反杀。
+    note: {}
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 102
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      An army of small-fry who fight using pure numbers. Originally, making warriors using dragon teeth is a form of magecraft that comes from Greece, but a magus of Semiramis’ level is able to use it of her region of origin or personal style of magecraft. This time, they were used as rank-and-file soldiers to defend the Hanging Gardens, with even flying types appearing, but sadly, they are still small-fry… As such, they were easily blown apart with one blow of Astolfo’s magic flute.
+    note: {}
+  ja:
+    content: |-
+      数合わせの雑兵軍団。本来、竜の歯を使って作る雑兵はギリシャ関係の魔術であるが、セミラミスほどの術者となるとあまり地域や魔術のジャンルは関係なく行使できる模様。今回は空中庭園を防護するための雑兵として、空を飛ぶタイプまで出現したが悲しいことに雑兵なのよね……ということで、アストルフォの魔笛一つで見事に蹴散らされたのであった。
+    note: {}
+  zh:
+    content: |-
+      以数量取胜的杂鱼军团。原本，使用龙的牙齿制造杂兵乃是希腊相关的魔术，但达到赛米拉米丝等级的术者似乎能无视地区或魔术的范畴来使用。本回作为防卫空中庭园的杂兵，虽然连会飞的种类都出现了但还是可悲的杂兵呢……换句话说，被阿斯托尔福光凭一根魔笛就漂亮地打爆了。
+    note: {}

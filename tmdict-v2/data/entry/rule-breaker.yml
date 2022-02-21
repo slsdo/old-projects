@@ -1,0 +1,45 @@
+---
+id: rule-breaker
+
+en: r
+ja: ha
+furigana: はかいすべきすべてのふ
+title:
+  en: Rule Breaker
+  ja: 破戒すべき全ての符
+  zh: 可破万法之符
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 69
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      Destroyer of All Marks.
+      A dagger that can destroy any magecraft.
+      It is an anti-magecraft Noble Phantasm, that returns any objects strengthened with magical energy, connections bound by contracts, or life forms created out of magical energy, to a state prior to their “creation.”
+      Of course, there are limits. No matter how low the rank, it is impossible for Rule Breaker to affect a Noble Phantasm.
+      It is truly a Noble Phantasm befitting Caster, and was used to capture and monopolize Saber.
+      An unassumingly fearsome Noble Phantasm.
+    note: {}
+  ja:
+    content: |-
+      ルール・プレイカー。
+      あらゆる魔術を破戒する短刀。
+      魔力で強化された物体、契約によって繋がった関係、 魔力によって生み出された生命を“作られる前”の状態に戻す究極の対魔術宝具。
+      が、限界は当然あり、どれほど低ランクであろうと宝具を初期化する事はできない。
+      キャスターらしい宝具で、もっぱらセイバーを攻略するのに使われた。
+      さりげに物凄い宝具。
+    note: {}
+  zh:
+    content: |-
+      Rule·Breaker。
+      破除所有魔术戒律的短刀。
+      可以将被魔力强化的物体，由契约相连的关系，用魔力产生的生命，返回到“制作之前”的状态，是对魔术的究极宝具。
+      不过当然也是有限制的，无论多低等级的宝具也无法使其初始化。
+      貌似Caster的宝具，可以说是专门为攻占Saber而使用了。
+      不引人注意却可怕的宝具。
+    note: {}

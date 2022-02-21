@@ -1,0 +1,42 @@
+---
+id: date
+
+en: d
+ja: to
+furigana: でーと
+title:
+  en: Date
+  ja: デート
+  zh: 约会
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 63
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      Yeah! Here it is, what you’ve all been waiting for! The heart and soul of romance games!
+      A heroine without one of these can’t really even be called a heroine at all, and any main heroine worth her salt should have at least one or two.
+      Because of that, both Saber and Rin have date scenes.
+      One date where Shirou does the dragging, and one date where he’s the one being dragged. I think it demonstrates the positions of both heroines quite nicely, yes.
+      …But wait, now that I think about it, isn’t there another main heroine who didn’t get a date scene at all…?
+    note: {}
+  ja:
+    content: |-
+      わーい、みんな大好き、恋愛ゲームの王道だよb
+      このイベントがないヒロインはヒロインとは呼べぬ‘ デートの一つや二つなくして何が正ヒロインかっ！
+      そんなワケでセイバーと擦のデートイベントです。
+      連れ回すデート、連れ因されるデート、と実に両ヒロインの立ち位置を表しています、ハイ。
+      ……あれ？そういえば、正ヒロインのクセにデートイベントがないヤツがいたような……？
+    note: {}
+  zh:
+    content: |-
+      啊，是大家大爱的，恋爱游戏的王道哟。
+      没有这个活动的话女主角就不能称呼为女主角了。或者没有一两次约会的话这将是什么正女主人公！
+      也因那样的缘故导致了与Saber有摩擦的约会活动。
+      带着去转的约会，和当作同伴去约会，确实表示了两女主人公的位置，咳。
+      咦？说起来，好像有一个虽然算是女主角之一却没有约会事件的家伙呢……？
+    note: {}

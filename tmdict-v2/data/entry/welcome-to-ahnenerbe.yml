@@ -1,0 +1,30 @@
+---
+id: welcome-to-ahnenerbe
+
+en: w
+ja: a
+furigana: あーねんえるべヘようこそ
+title:
+  en: Welcome to Ahnenerbe!
+  ja: アーネンエルベヘようこそ！
+  zh: 欢迎光临Ahnenerbe！
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 3
+  category:
+  - dvd
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      TYPE‐MOONエース第4号の付録DVDに収録されたミニドラマ。ひびちかコンビ+1台に初めて声が付いた記念すべき作品。かもしれない。発案から納品まで1ヶ月程で完成した。もう1回作れと言われても多分無理。言い出しっぺはもちろん武内崇。
+    note: {}
+  zh:
+    content: |-
+      收录于TYPE-MOON ACE第4号附录DVD的Mini Drama。响键CP[Combi]+1台初次附带了声音的纪念性作品。或许。从提案到交付花了大概1个月左右就完成了。要是再来1回的话大概就做不到了。最先提案的当然还是武内崇。
+    note: {}

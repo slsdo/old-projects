@@ -1,0 +1,55 @@
+---
+id: compiled-events-and-pruned-events
+
+en: c
+ja: he
+furigana: へんさんじしょうとせんていじしょう
+title:
+  en: Compiled Events and Pruned Events
+  ja: 編纂事象と剪定事象
+  zh: 编纂事件与剪辑事件
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 47
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      This is how the concept of parallel worlds operates in the <em>Fate/EX</em> series.
+      It’s easy to understand if you think of Compiled Events as the “main route,” and Pruned Events as the “bad end” route.
+      However, Pruned Events are merely worlds where many possibilities have been lost due to excessive specialization and drifting too far from the main route, so they are not necessarily bad or evil routes.
+      If you were to divide these flows in terms of good and evil, a good flow would be a flow that is stable and most ripe with the possibility to give birth to other branches in the future,” while a bad flow is “a single flow that has become too radical and has no chance of changing its course because it has become a one-way street with nowhere else to go.”
+      There have been Pruned Events that have progressed further than any world within the Compiled Events, including utopian worlds that were filled with hope and happiness. However, since those outcomes are “complete in and of themselves” or “finished,” there is no need to see them through to the end, and so they are “trimmed” at the stage where the requirements for a utopian world are met.
+      The universe will not expend energy to create an ending where it already knows what will happen. This is because the universe continues to expand towards a “future” that no one has seen before, that not even a life form of a higher order could predict.
+      To give an example using the fighting game Melty Blood, the TATARI route is the Compiled Event, while the Tohno household supreme Kohaku{{n2}} route is a Pruned Event, but I digress.
+    note:
+      n1: "Officially translated as “Compiled Events and Trimmed Events,” sometimes also known as “Events Permissible to Revision and Events Designated for Removal” or “Items Permissible to Revision and Items Designated for Removal.”"
+      n2: "Kohaku Musou."
+  ja:
+    content: |-
+      『Fate/EX』シリーズにおける並行世界の運営概念。
+      編纂事象はメインルート、剪定事象はバッドエンドルート、と考えると大変分かりやすい。
+      ただし剪定事象は単に『メインルートから外れすぎて特化した結果、多くの分岐可能性を失った世界』なので、バッド（悪い）という訳ではない。
+      善い　悪いに分けるとしたら、
+      善い流れとは「安定した、今後も多くの派生を生む可能性に満ちた流れ」であり、
+      悪いながれは「先鋭化しすぎた為、もう道を変えられない一本道の流れ」を指す。
+      剪定事象の中には編纂事象にあるどんな世界よりも先に進み、希望と幸福に満ちた理想世界もあったと思われる。ただしそれは「それだけでもう完成し、終わるもの」である為、結末まで見る必要はなくなり、理想世界の条件が確定した段階で「剪定」されるのである。
+      分かりきった結末の為に宇宙はエネルギーを使わない。
+      まだ誰も知り得ない　どれほど高次の生命体でも見通せない“未来”のために宇宙は膨張し続けるのだから。
+      さらに蛇足ではあるが、メルティブラッドという格闘ゲームで喩えるとタタリルートが編纂事象であり、遠野家琥珀無双ルートが剪定事象である。
+    note: {}
+  zh:
+    content: |-
+      《Fate/EX》系列中平行世界的营运概念。
+      编纂事件是主要路线，剪辑事件则是坏结局路线，如此理解应该是最简单的。
+      不过，剪辑事件只是“过度偏离主要路线而变成特例，结果失去大多数分歧可能性的世界”，未必是不好的。
+      若要区分善恶的话，善的发展是“稳定且充满可能性，今后能发展出更多分歧”，恶的发展是“由于过度极端，已经无法改变道路的单行道”。
+      一般认为，剪辑事件之中也存在着比编纂事件中的任何世界都要来得先进且充满希望与幸福的理想世界。但由于这样的世界“已经就此完成并完结”，便失去了继续观测其结局的必要性，通常在理想世界的条件确定下来的阶段就会被“剪辑”。
+      宇宙不会为了显而易见的结局使用能源。
+      宇宙之所以持续膨胀，正是为了无论是多高阶的生命体都无法看透的“未来”。
+      此外，说来虽有些画蛇添足，但若以MELTY BLOOD逝血之战这个格斗游戏来比喻的话，灾祸路线为编纂事件，远野家琥珀无双路线则为剪辑事件。
+    note: {}

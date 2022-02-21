@@ -1,0 +1,32 @@
+---
+id: red
+
+en: r
+ja: a
+furigana: あか
+title:
+  en: Red
+  ja: 赤
+  zh: 赤
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 2
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      A color symbolic of demons. The color of spiritual energy that is connected and intertwined with demons. The eyes of demons have long had the tendency to be red.
+    note: {}
+  ja:
+    content: |-
+      魔を象徴する色。魔に属するモノの思念や瞳の色はこの色である傾向が古い。
+    note: {}
+  zh:
+    content: |-
+      {{n1}}
+      象征魔的颜色。属魔之人的思念和眼眸的颜色自古倾向于这个颜色。
+    note:
+      n1: "其实就是中文的“红”。"

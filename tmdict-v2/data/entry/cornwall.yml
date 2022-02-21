@@ -1,0 +1,31 @@
+---
+id: cornwall
+
+en: c
+ja: ko
+furigana: こーんうぉーる
+title:
+  en: Cornwall
+  ja: コーンウォール
+  zh: 康沃尔
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 26
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      Cornwall is a county in South West England, and is a region tied to the legend of King Arthur. The Einzbern family found Saber’s holy relic{{n1}} here.
+    note:
+      n1: "Excalibur’s scabbard, Avalon, used to summon Saber in <em>Fate/Zero</em>."
+  ja:
+    content: |-
+      アーサー王伝説ゆかりの地であり、現代のイングランド南西端の地域。アインツベルンはここでセイバーの聖遺物を発見した。
+    note: {}
+  zh:
+    content: |-
+      与亚瑟[Arthur]王传说有缘之地，现代英格兰[England]西南端区域。爱因兹贝伦[Einzbern]就在这里发现了Saber的圣遗物。
+    note: {}

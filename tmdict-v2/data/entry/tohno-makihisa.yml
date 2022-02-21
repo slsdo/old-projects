@@ -1,0 +1,80 @@
+---
+id: tohno-makihisa
+
+en: t
+ja: to
+furigana: とおのまきひさ
+title:
+  en: Tohno Makihisa
+  ja: 遠野槙久
+  zh: 远野槙久
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 44
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Akiha and SHIKI’s father. The person who took in Kohaku and Hisui, and adopted Shiki.
+      A mischievous prankster who has diligently protected his private papers.
+    note: {}
+  ja:
+    content: |-
+      まききゅー。ではなく、まきひさ。
+      秋葉と四季の父親。琥珀と翡翠を引き取り、志貴を養子にしたひと。
+      まめに手記を遺しているお茶目さん。
+    note: {}
+  zh:
+    content: |-
+      不是makikyuu 是 makihisa。
+      是个会悄悄留下笔记，喜欢恶作剧的人。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 68
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Akiha and SHIKI’s father. He took in Kohaku and Hisui as tools to restrain his Tohno blood, and adopted Shiki for his own amusement. He was a mischievous prankster who has diligently protected his private papers. He has a strong, self-indulgent feeling of being victimized, and you could probably say that it was this weakness that invited tragedy into the Tohno family.
+      In order to protect his family (blood relatives) and solidify the Tohno’s position he forged connections with the demon hunter organization, which was locked in a cold war with the demon hybrids at the time. By entering into a cooperative relationship with the demon hunters, he was able to gain sovereignty over the entire Misaki City region.
+      However, he was still unable to control his dread toward Nanaya Kiri, the bloodthirsty killer he saw as a youth while serving under a certain old man. So, after consolidating his power, he launched a surprise attack on the Nanaya village and completely wiped them out.
+      As for how he died, that was covered in the main story. It was karmic retribution, an end appropriate for one who was in no way a bad person, yet caused so much harm.
+    note: {}
+  ja:
+    content: |-
+      とおのまきひさ。秋葉と四季の父親。遠野の血を抑える道具として琥珀と翡翠を引き取り、道楽で志貴を養子にとった。まめに手記を遺しているお茶目さん。自分に甘く被害者意識が強い人物で、彼の弱さが遠野家の悲劇を招いてしまったと言えるだろう。
+      家族（自分の血族）に対して人並み以上の保護欲を持ち、遠野家を盤石なものとする為、当時冷戦状態にあった退魔組織とパイプラインを作り、彼らと協力関係になる事で三咲市一帯の支配権を握るに至った。
+      青年期、とある老人に仕えていた頃に見た殺人鬼―――七夜黄理への恐怖を抑えきれず、盤石の体制を得た後、七夜の里を奇襲、これを壊滅させた。彼がどのような最期を迎えたかは本編を参照のコト。因果応報、決して悪人ではなかった加害者は、それに相応しい結末を迎えたのだ。
+    note: {}
+  zh:
+    content: |-
+      Tohno Makihisa。秋叶和四季的父亲。为了抑制远野之血将琥珀和翡翠作为道具迎入门，勤于认真记录日记的人。他自己是有很强被害者意识的人，可以说就是他的软弱招致了远野家的悲剧吧。
+      对于自己的家族（血亲）有超越一般人的保护欲，为了让远野家成为势力核心，与当时处于冷战关系的退魔组织暗通，通过与退魔组织的合作，掌握了三咲市一带的支配权。
+      无法抑制对七夜黄理的恐惧，青年时代侍奉某长老时看见的杀人鬼。于是在获得核心体制后，他对七夜村发动了突袭，将其一举捣毁。他最终结局如何请参照月姬本篇。因果报应，非独恶人、加害者也有其适合的结局。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 51
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Father of Tohno Akiha and Tohno Shiki.
+      Akiha becoming the family head after his death is what kick-started the story of <em>Tsukihime</em>. At that time, she called back the disinherited Shiki to the Tohno mansion, and restarted their brother-sister relationship where it had left off eight years ago.
+    note: {}
+  ja:
+    content: |-
+      とおのまきひさ。遠野秋葉、遠野志貴の父。
+      彼が死去し、秋葉が当主となった事が月姫の始まりでもある。秋葉は勘当扱いだった志貴を屋敷に呼び戻し、八年前の兄妹の関係を再開させた。
+    note: {}
+  zh:
+    content: |-
+      远野秋叶、远野志贵的父亲。
+      月姬的开头也有着他死去，秋叶成为了家主的事。秋叶将断绝关系般对待的志贵唤回宅邸，再续了八年前的兄妹关系。
+    note: {}

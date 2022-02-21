@@ -1,0 +1,32 @@
+---
+id: my-friend
+
+en: m
+ja: wa
+furigana: わがともとも
+title:
+  en: My Friend
+  ja: 我が朋友
+  zh: 我的朋友
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 51
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      {{missing}}
+    note:
+      n1: "Gilgamesh’s friend."
+  ja:
+    content: |-
+      英雄王ギルガメッシュにとって唯一無二の朋友であるエルキドゥのことを指す。もとはギルガメッシュを倒すため神々によって創り出された存在で、決闘の末に対等に渡り合った両者は互いを認め親友となった。中性的な容姿をしており性格は非常に穏和。なお、また別のスピンアウト作品の「Fate/strange fake」では、偽りの聖杯戦争におけるランサーのサーヴァントとして現界している。
+    note: {}
+  zh:
+    content: |-
+      指对英雄王吉尔伽美什[Gilgamesh]而言独一无二的朋友恩奇都[Enkidu]。原本是为了打倒吉尔伽美什而被众神创造出来的存在，在决斗的末尾经过对等的交锋的二人成了相互认可的至交。有着中性的容貌性格也非常温和。顺带，在另一个衍生[Spin-off]作品《Fate/strange fake》里，在虚假的圣杯战争中作为Lancer的Servant现界了。
+    note: {}

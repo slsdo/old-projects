@@ -1,0 +1,37 @@
+---
+id: maio-brishisan-clynelles
+
+en: m
+ja: ma
+furigana: まいおぶりしさんくらいねるす
+title:
+  en: Maio Brishisan Clynelles
+  ja: マイオ・ブリシサン・クライネルス
+  zh: 麦奥·布里西桑·克莱涅尔斯
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 56
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A pharmacist working for the Iselma family.
+      Though he didn’t especially stand out as a student of the Faculty of Lore, that was obviously because he spent almost his entire life for the sake of Iselma’s research. 
+      His faint feelings for his childhood friend were something unsuited to a magus. As such, when El-Melloi II exposed how he had been so dominated by such half-hearted worldly desires, his feelings of guilt drove him to despair.
+    note: {}
+  ja:
+    content: |-
+      イゼルマに仕える薬師。
+      伝承科ではさほど目立ったところのない生徒だが、それも当然、彼は人生のほとんどをイゼルマに―――その研究結果に捧げていたからだ。幼馴染へのほのかな想いなど、魔術師にとっては余分。
+      なのに、半端な俗世の罪悪感に左右されていたことを、エルメロイII世に喝破され、絶望することとなる。
+    note: {}
+  zh:
+    content: |-
+      为伊泽路玛效力的药师。
+      在传承科中是一位没有什么引人注目之处的学生，但这也是理所当然的，因为他将人生的绝大部分都献给了伊泽路玛——献给了伊泽路玛的研究成果。
+      对魔术师而言，他对青梅竹马的淡淡恋慕只是多余的事物。
+      然而，他还是受到了不上不下的俗世罪恶感所左右，这点被埃尔梅罗二世道破后，他陷入了绝望。
+    note: {}

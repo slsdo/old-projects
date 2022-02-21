@@ -1,0 +1,30 @@
+---
+id: homers-anthology
+
+en: h
+ja: ho
+furigana: ほめろす　のししゅう
+title:
+  en: Homer’s Anthology
+  ja: ホメロスの詩集
+  zh: 荷马的诗集
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 36
+  category:
+  - proper-noun
+  img: ""
+  en:
+    content: |-
+      An anthology of Homer’s poems is the book that Rider takes from the Fuyuki Central Library. Homer is a legendary Greek author and poet. Rider especially loves the poem <em>Iliad</em>. <em>Iliad</em> is based on a Greek legend and depicts the life of Achilles during the Trojan War.
+    note: {}
+  ja:
+    content: |-
+      ライダーが冬木市中央図書館からもち出した、古代ギリシャに名高い詩人ホメロスの詩集。ライダーが愛読する詩集のひとつ「イリアス」では、ギリシア神話をもとにした、トロイア戦争における英雄アキレウスの生涯について描かれている。
+    note: {}
+  zh:
+    content: |-
+      Rider从冬木市中央图书馆带出来的，古代希腊[Greece]著名诗人荷马[Homer]的诗集。Rider爱读诗集之一的《伊利亚特[Iliad]》是基于希腊[Greece]神话，描写着关于特洛伊[Trojan]战争里英雄阿喀琉斯[Achilles]的生涯。
+    note: {}

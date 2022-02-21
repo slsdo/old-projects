@@ -1,0 +1,36 @@
+---
+id: flueger
+
+en: f
+ja: fu
+furigana: ふりゅーがー
+title:
+  en: Flueger
+  ja: フリューガー
+  zh: 富琉加
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 50
+  category:
+  - person
+  img: "casefile_flueger.png"
+  en:
+    content: |-
+      One of the invitees to Adra, the Castle of Separation. An Astrologer. His elemental affinity is Wind. His aria, "Lead me," is also from Astrology. 
+      Depending on the horoscope, he uses twelve knives marked for the twelve signs of the zodiac, and is able not only to predict the future but also to manipulate cause and effect within an extremely limited area. For example, things like creating a future where an opponent’s attack doesn’t hit.
+      He was actually one of the survivors of the Spiritual Tomb of Albion, as described in Grand Roll. Though his reputation as a master-killer and labyrinth returnee were decided rather early, the details about the Spiritual Tomb of Albion underneath the Clock Tower were decided rather late, causing quite some issues for the author.
+    note: {}
+  ja:
+    content: |-
+      剥離城アドラの招待客のひとり。占星術師。属性は風。詠唱の「Lead me」も、占星術より。ホロスコープに応じて、黄道十二星座のナイフを使い分け、未来を占うばかりではなく極めて局所的ながら因果操作をやってのける。たとえば、相手の攻撃があたらない未来を引き寄せる---などである。
+      実は霊墓アルビオンの生還者だったというのは、冠位決議で語られた通り。師父殺しと迷宮帰還者の設定は以前から決まっていたが、時計塔の地下迷宮である霊墓アルビオンの設定はかなり後でかたまったため、大いに作者が動揺したとか。
+    note: {}
+  zh:
+    content: |-
+      剥离城阿德拉的来客之一。占星术师。
+      属性是风。咏唱的「Lead me（指引我吧）」也是源自占星术。
+      灵活运用与天宫图相呼应的黄道十二星座的匕首，不仅能占卜未来，还能在极其局部的范围内操纵因果。比方说，将对手的攻击引导至未能击中的未来等等。
+      正如冠位决议所述，其实是灵墓阿尔比昂的生还者[Survivor]。弑师者和迷宫归还者的设定是以前就决定好了的，但时钟塔的地底迷宫·灵墓阿尔比昂的设定则是在很久之后才固定下来，令作者感到非常动摇。
+    note: {}

@@ -1,0 +1,30 @@
+---
+id: brainwashing-detective
+
+en: b
+ja: se
+furigana: せんのうたんてい
+title:
+  en: Brainwashing Detective
+  ja: 洗脳探偵
+  zh: 洗脑侦探
+
+entry:
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 19
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Hisui’s special attack. The idea came from the website “Brain Wash Detective - Hisui” which hosted a silly picture drawn by Takeshi Takeuchi. In the very first release of <em>Tsukihime</em>, there was a laughably large number of errors, especially in Hisui’s lines, like “I’ll take your room to you.” Takeuchi used one of those mistakes as the basis for this joke. “Kinoko Nasu, the mad craftsman of prose, delivers a new mystery title!” was the line used in the joke, and who would’ve thought that we’d see it again in the form of a special attack. By the way, her catch phrase is “You are the criminal.” To digress, she seems to have decided on Ciel as the criminal.
+    note: {}
+  ja:
+    content: |-
+      翡翠のゲージ使用技。元ネタは「洗脳探偵・翡翠」という、ホームページ上でのお遊び絵（画・武内崇氏）。初回版の『月姫』では「お部屋をお連れします」など、特に翡翠のセリフに笑える誤植が多かった。それをネタに描かれたのが件の洗脳探偵。「言葉のマッドピエロ、奈須きのこが送る反転のミステリー」だったが、まさかこういう形で復活することになろうとは、当人たちも思っていなかったのではなかろうか。ちなみに決め台詞は「あなたを、犯人です」。さらに余談だが、犯人にされていたのはシエル先輩だった。
+    note: {}
+  zh:
+    content: |-
+      翡翠的气槽使用技。原捏他是“洗脑侦探·翡翠”这个在主页上的搞笑绘（画·武内崇氏）。初回版的《月姬》里有很多像“お部屋をお連れします（将房间带到）”等好笑的误字，特别是在翡翠的台词上。以此为捏他所描绘成的就是那个洗脑侦探。“言语的疯狂笑匠、奈须蘑菇所送的反转神秘”，没想到居然会以这种形式复活，大概当事人们也没想到吧。顺便一说规定台词是“あなたを、犯人です（把你，是犯人）”。再说些闲话，被当成犯人的是雪儿学姐。
+    note: {}

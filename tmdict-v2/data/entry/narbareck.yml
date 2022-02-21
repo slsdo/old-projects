@@ -1,0 +1,63 @@
+---
+id: narbareck
+
+en: n
+ja: na
+furigana: なるばれっく
+title:
+  en: Narbareck
+  ja: ナルバレック
+  zh: 奈瓦雷克
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 47
+  category:
+  - person
+  img: dokuhon_narbareck.png
+  en:
+    content: |-
+      Head of the Burial Agency. Not the same Narbareck that was talking to Roa.
+      It’s said that the administrator of the Burial Agency is always a member of this family. The current Narbareck is apparently a homicidal maniac.
+      She regularly bullies all the members of the Burial Agency when they return from missions, and in turn they all hate her to the point that they basically all wish she would just drop dead.
+      Geez, what a bloodthirsty workplace.
+    note: {}
+  ja:
+    content: |-
+      埋葬機関のトップ。ロアと会話していた頃のナルバレックではない。
+      埋葬機関を束ねる者は決まってこの家から輩出されるだけの話。今代のナルバレックは殺人狂の女性だとか。
+      シエルは帰るたびにナルバレックにいじめるが、それは他のメンバーも同じこと。
+      埋葬機関のメンバーは誰もがナルバレックを殺そう、と思っているほど嫌われている。
+      やだやだ、殺伐とした職場って。
+    note: {}
+  zh:
+    content: |-
+      埋葬机关的首位，与和罗亚对话时的那个那鲁巴雷克不同，历代管理埋葬机关的人皆出自此家族，这一代的那鲁巴雷克是一名女性杀人狂。
+      雪儿回归的时候会被那鲁巴雷克欺负，其他的成员也一样
+      被讨厌到整个埋葬机关的成员都想杀掉他
+      不要啦，这种充满杀戮的职场。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 73
+  category:
+  - person
+  img: plusperiod_narbareck.png
+  en:
+    content: |-
+      The woman standing at the top of the Burial Agency. She’s not the same Narbareck that was talking to Roa, but it just so happens that the administrator of the Burial Agency is always a member of the same family. The current Narbareck is a homicidal maniac, and has shut herself away in the Burial Agency’s executive office.
+      …Well, it’s more like house arrest, really.
+      She regularly bullies all the members of the Burial Agency when they return from missions, and in turn they basically all wish she would just drop dead.
+      As the powerhouse whose job it is to reign in all the freaks in the Burial Agency, her infamy even reaches as far as the Association. Despite her young age, she is a monster that has already captured three of the 27 Dead Apostle Ancestors.
+    note: {}
+  ja:
+    content: |-
+      埋葬機関のトップに立つ女性。ロアと会話していた頃のナルバレックではなく、埋葬機関を束ねる者は決まってこの家から輩出されるだけの話だ。当代のナルバレックは殺人狂で、半ば幽閉されるカタチで埋葬機関の執務室に閉じこもっている。シエルが帰ってくる度にいじめるが、それは他のメンバーに対しても同じこと。埋葬機関のメンバーは誰もがいつかナルバレックを殺そう、と思っているのだとか。
+      異常者揃いの埋葬機関を束ねる実力者で、魔術協会にもその悪評は響き渡っている。まだ十分に若いとされる年齢だが、既に三体の二十七祖を捕らえた怪物。
+    note: {}
+  zh:
+    content: |-
+      作为埋葬机关首席的女性。不止是同罗亚交谈时的奈瓦雷克，管理埋葬机关之人必定只出自这个家族。当代的奈瓦雷克是个杀人狂，以半幽闭的形式被关在埋葬机关的公务室内。雪儿每次回来就会被欺压，她对其他埋葬机关成员也是一样。埋葬机关的每个成员都想着总有一天要杀掉奈瓦雷克。
+      管理着集聚异常者的埋葬机关的实力派，甚至已臭名远播到了魔术协会。虽然被认为还是很年轻的年龄，但却是已狩猎了3位二十七祖的怪物。
+    note: {}

@@ -1,0 +1,73 @@
+---
+id: bow
+
+en: b
+ja: yu
+furigana: ゆみ
+title:
+  en: Bow
+  ja: 弓
+  zh: 弓
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 59
+  category:
+  - nickname
+  img: ""
+  en:
+    content: |-
+      Ciel’s alias within the Burial Agency.
+      The name comes from the fact that her Christian name is Ciel, and she’s the only person in the Burial Agency that fights using firearms.
+      …Well, it was also due to the scenario director’s foolish blunder.
+      He knew that “arc-en-ciel” meant “rainbow” in French, but he mixed up which word meant what, hahaha.
+      He only noticed his mistake a little bit before the Half-moon edition went on sale, when he was listening to a song by a certain band.
+      The song was titled “ciel,” and was about the sky.
+      Honestly, it was kind of irritating, but at that point the scenario was already complete, and changing Ciel’s name so late into development didn’t feel right. In the end, he just tried to push through and finish without thinking about it too much.
+    note: {}
+  ja:
+    content: |-
+      埋葬機関におけるシエルのあだ名。
+      シエルという洗礼名と、埋葬機関で唯一銃器を使用する事からそう呼ばれる。
+      ……のだが、ここでシナリオ担当はバカみたいなポカをやった。
+      フランス語でシエルは弓かと思ったら空で、弓はラルクでした。あはは。
+      実はその間違いには半月版が発売される前、とあるアーティストの曲を聞いて気づいていたりいなかったり。
+      ciel、という曲でテーマが空なんだもんなあ。
+      そりゃあ気がつくってものなのだが、シナリオも完成していたし、今更シエルという名前を変えてもしっくりいかないので押し通してみました。あーあ。
+    note: {}
+  zh:
+    content: |-
+      埋葬机关里雪儿的别名。
+      因为受洗名雪儿（Ciel），以及是埋葬机关中唯一的枪械使而被这样称呼。
+      ……是这样的不过，剧情担任在这里做了件蠢事。
+      原本以为法文里的弓是Ciel，结果其实是L’arc，阿哈哈。
+      其实这个错误一直到半月版发售前才被注意到。
+      因为当时听到了某个歌手的曲子才发现。
+      以Ciel作为曲名曲子主题是天空。
+      虽然注意到了，不过剧情都已经完成了，再改雪儿（Ciel）的名字也太迟了于是就这样下去了，阿--阿---
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 96
+  category:
+  - nickname
+  img: ""
+  en:
+    content: |-
+      Ciel’s alias within the Burial Agency. The name comes from the fact that she’s the only person in the Burial Agency that fights using firearms.
+      It seems that Ciel is something of a gunpowder maniac, and the entire reason she changed the Seventh Holy Scripture into its current form was just to fit her own personal tastes. …Sure, shooting a gun feels nice and all, but I’m a little worried about her. I wonder if there’s something strange at work stressing her out…?
+      Also, in <em>Melty Blood</em> she finally demonstrates skills worthy of this name. So many black keys…
+    note: {}
+  ja:
+    content: |-
+      埋葬機関におけるシエルの異名。埋葬機関で唯一銃器を使用する事からそう呼ばれる。
+      シエルはかなりの火薬好きで、第七聖典をあんなカタチにしたのは趣味以外の何者でもない。……銃器ぶっ放すのが快感らしいが、職場でヘンなストレス溜まってたんだろうか……？
+      メルティブラッドではこの名に恥じないシューターぶりを発揮。もう黒鍵を投げて投げて投げまくります。
+    note: {}
+  zh:
+    content: |-
+      埋葬机关里雪儿的别名。因为似乎是埋葬机关中唯一的枪械使而被这样称呼。
+      雪儿相当喜欢火药火器，第七圣典被改造成那样，就是因为这个缘故。开枪射击好像很爽，难道是在职场上积累了异常的压力么。
+      Melty Blood中名副其实地展现了Shooter的样子。将黑键投掷，甩出，一个劲地丢出。
+    note: {}

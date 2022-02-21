@@ -1,0 +1,30 @@
+---
+id: m61-gatling-cannon
+
+en: m
+ja: e
+furigana: えむしくすてぃーわんきかんほう
+title:
+  en: M61 Gatling Cannon
+  ja: M61機関砲
+  zh: M61机关炮
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 17
+  category:
+  - armament
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      F15J搭載の火器。米国ゼネラルエレクトリック社が誇る機関砲で、毎分一二〇〇〇発の銃弾を射出する。バーサーカーはこの火器によってセイバーを執拗に狙い撃った。
+    note: {}
+  zh:
+    content: |-
+      F15J搭载的热兵器。美国通用电气[General Electric]公司引以为豪的机关炮，以每分钟一二〇〇〇发射出子弹。Berserker利用这个热兵器执着地狙击Saber。
+    note: {}

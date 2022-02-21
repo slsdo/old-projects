@@ -1,0 +1,47 @@
+---
+id: cornelius-alba
+
+en: c
+ja: ko
+furigana: こるねりうすあるば
+title:
+  en: Cornelius Alba
+  ja: コルネリウス・アルバ
+  zh: 科尼利厄斯·阿鲁巴
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 21
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Magus. An old friend of Touko’s.
+      Rumor had it that this young man was the next director in line of the Sponheim Abbey, an organization within the Clock Tower.
+      Although he was fifty years old, he had the appearance of a handsome youth.
+      As a magus, his abilities were first rate, but his personalities were quite troublesome.
+      Although it did not appear in the story, his Familiar was a black hound. Alba, who could not easily love another person, favored creatures who could easily love people.
+      He had quite an air of a protagonist: donning his crimson long coat and top hat, strutting down the street with his black Doberman by his side.
+    note: {}
+  ja:
+    content: |-
+      魔術師。橙子の旧友。
+      時計等に組する中部組織、シュポンハイム修道院の時期院長と噂される青年。
+      年齢は五十に届くが、外見は二十代の美青年。
+      魔術師としての実力は一流なのだが、性格にやや難あり。
+      本編では登場しなかったが、使い魔は黒い猟犬。簡単に人を愛せないアルバは、簡単に愛する事の出来る生き物が大好きなのであった。
+      真っ赤なロングコートにシルクハットを被り、傍[かたわ]らに黒いドーベルマンを連れて街を闊歩[かっぽ]する姿は、中々に主人公然としている。
+    note: {}
+  zh:
+    content: |-
+      魔术师。橙子的旧友。
+      谣传是时计塔{{n1}}的中部组织修本海姆修道院的次任院长{{n2}}的青年。
+      年届五十，外表却是二十多岁的美青年。
+      作为魔术师的实力是一流的，但性格有点麻烦。
+      虽然在正篇没有登场，使魔是黑色猎犬。不易爱人的阿鲁巴，很喜欢能轻易地爱人的生物。
+      鲜红的长外套加上圆桶高帽，身边牵着黑色杜宾犬在街上阔步而行的样子，挺有主人公气质的。
+    note:
+      n1: "原文時計等，错字。"
+      n2: "原文時期院長，错字。"

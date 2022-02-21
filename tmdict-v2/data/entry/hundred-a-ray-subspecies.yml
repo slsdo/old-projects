@@ -1,0 +1,36 @@
+---
+id: hundred-a-ray-subspecies
+
+en: h
+ja: a
+furigana: あうららひゃくしゅ
+title:
+  en: Hundred A-Ray Subspecies
+  ja: 亜麗百種
+  zh: 亚丽百种
+
+entry:
+- source: angel-voice
+  section: notes
+  order: 2
+  category:
+  - a-ray
+  img: ""
+  en:
+    content: |-
+      Next generation primates that were created by the human species who used up all the planet’s resource.
+      They were modeled after the living things that used to exist on the planet. They were modified/enhanced in order for them to survive on the corrupted planet. There were numerous branches to the A-rays, and they were categorized into about 100 major species. From 1 to 10 consists of only one type of A-rays each and not a mass.
+      Some carry the genes of humans and they look like us, but a large part of them are mix/evolved form of various creatures and primates.
+    note: {}
+  ja:
+    content: |-
+      星の資源を使いきった人類が生み出した次世代の霊長類。
+      かつての星に現存していた各生物種をモチーフにしたもの。荒廃した星でも生存可能であるように生態を大きく改良・強化されたもの。その系統樹は様々で、大きく分類して百種にわたる。一から十までの位である亜麗は単一種であり、群体ではない。
+      中には人間としての遺伝子を含み、人間と似た形態の亜麗も存在するが、やはり大部分は様々な生命種と霊長類とが融合、進化したものである。
+    note: {}
+  zh:
+    content: |-
+      耗尽行星资源的，人类所创造的次世代灵长类。
+      以过去的星球上曾存在过的各生物物种为原形的物种。为了在荒废的星球也能生存下去而对其生态进行过大幅度改良与强化的物种。其系统树五花八门，大致分类达百种。一位到十位的亚丽是单一种，而非群体。
+      其中虽然也存在含有人类的遗传因子、形态近似人类的亚丽，但大部分都还是各种生命种与灵长类融合进化后的物种。
+    note: {}

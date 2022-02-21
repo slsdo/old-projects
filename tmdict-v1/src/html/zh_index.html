@@ -1,0 +1,13 @@
+{% extends "_base.html" %}
+{% block title %}Glossary{% endblock %}
+{% block url %}{% endblock %}
+
+{% block content %}{% endblock %}
+{% block side %}
+{% if ext %}{{ side }}{% else %}{{ side|replace(".html", "") }}{% endif %}
+{% endblock %}
+
+{% block script %}
+<script src="../src/js/vendor.bundle.js"></script>
+<script src="../src/js/app.bundle.js"></script>
+{% endblock %}

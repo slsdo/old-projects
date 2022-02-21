@@ -1,0 +1,36 @@
+---
+id: human-species
+
+en: h
+ja: hi
+furigana: にんげんしゅ
+title:
+  en: Human Species
+  ja: 人間種
+  zh: 人类种
+
+entry:
+- source: angel-voice
+  section: notes
+  order: 3
+  category:
+  - liner
+  img: ""
+  en:
+    content: |-
+      Human race on the Land of Steel. Evolved form of the old human beings who adapted to this world without changing their shape. They technically belong to the A-rays as well.
+      They were able to adapt and live on today’s environment, but they still don’t carry any ability more than a normal human being.
+      They are building a country in order to reconstruct their old civilization. Cease-fire with the Hundred A-rays.
+    note: {}
+  ja:
+    content: |-
+      鋼の大地における人類。かつての人間種が、そのままの姿でこの世界に対応できるように進化したもの。正確には彼らも亜麗に含まれる。
+      現在の環境に対応して生活ができるが、やはり人間としての機能を上回る能力はない。
+      かつての文明社会を再生しようと国家を形成している。亜麗百種とは不可侵状態。
+    note: {}
+  zh:
+    content: |-
+      生活在钢之大地的人类。是原来的人类保持其原有形态，为对应世界而进化了的物种。准确地说，他们也属于亚丽。
+      虽然适应现在的环境生活，但不具备超越人类机能的能力。
+      为了重现过去的文明社会而形成了国家。与亚丽百种为互不侵犯状态。
+    note: {}

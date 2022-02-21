@@ -1,0 +1,162 @@
+---
+id: yumizuka-satsuki
+
+en: y
+ja: yu
+furigana: ゆみづかさつき
+title:
+  en: Yumizuka Satsuki
+  ja: 弓塚さつき
+  zh: 弓冢五月
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 60
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Shiki’s classmate. Her nickname is Sacchin.
+      She is a pitiable girl, who had been Shiki’s classmate several times since middle school, but never managed to capture his attention.
+      Since she wasn’t even a sub-heroine, we endeavored to give as plain a design as possible.
+      Just like Nrvnqsr, she didn’t appear in Old Tsukihime. (Though, she did exist as a fellow classmate).
+      At one point, the scenario director actually did scribble out a few barebones rough drafts for a pretty amazing Sacchin route, but in the end he decided the game was flashy enough already and reconsidered.
+      …By the way, that athletics storeroom with a door that always jams is actually something that exists in real life. There are even students that got stuck inside it, too.
+      Also, while we’re on the topic, allow me to explain what the club captain meant when she said keeping what happened quiet was a matter of the club’s survival, since it wasn’t very clear in the story itself. Basically, at Shiki’s middle school, students were constantly warned to be careful around the old storeroom. If a teacher found out that a group of students had disregarded those warnings and gotten stuck inside, there would be hell to pay.
+      And, since the badminton club only had six members, it would almost certainly be used as a pretext to abolish the club on the spot.
+      Though it seems that after Sacchin graduated, it was converted into a lacrosse club anyway.
+      …What a cutthroat school, huh?
+    note: {}
+  ja:
+    content: |-
+      志貴のクラスメイト。通称さっちん。
+      中学時代から志貴とは何度かクラスメイトだったのに、肝心の志貴は憶えてさえいなかったという可愛そうな子。
+      サブヒロインでさえないので、できるだけ地味なデザインを心がけてもらった。
+      ネロ同様、旧月姫では出番のなかった子。（一緒に登校するクラスメイトとして、存在はしていた）
+      さっちんの一連のシナリオは、走り書きした初めのプロットが一番出来が良かった。本編ではゴテゴテと装飾をつけすぎたな、とちょっと反省。
+      ……ちなみに、例の扉が締まってしまう体育倉庫は実在する。中に閉じ込められた生徒もちゃんといる。
+      本編では解りづらいので補足すると、志貴の中学校では旧倉庫のコトはさんざん注意されていて、それなのに注意を怠って閉じ込められると先生に怒られてしまうのです。
+      で、バトミントン部は部員わずか六人程度の部活で、なにか口実をつけられたら即座に廃部になっちゃう状況なのでした。
+      さっちんが卒業したあとはラクロス部になったそうだ。……なんか、横暴な学校。
+    note: {}
+  zh:
+    content: |-
+      志贵的同班同学，通称小纱。
+      从中学时代就和志贵同班过几次，但志贵却连记都没记起来的可怜孩子。
+      因为连配角都不是，所以尽可能把她设计得不起眼。
+      与尼禄一样，在旧月姬没有出现的角色（如果是指一起上学的角色的话，那是存在的）。
+      五月的剧情是所有赶写的剧情里结构最好的。对在本篇杂乱地加上太多装饰这件事情稍稍反省。
+      恩……我有在好好反省。
+      ……顺带一提，那个会反锁的体育仓库门是实际存在的。也有许多因此被困在里面的学生。
+      因为在本篇中很难了解所以在这里补足，志贵的中学是非常注意旧仓库的，即使如此还是不小心被关在里面的话，就会被老师责骂。
+      以及羽毛球社是个只有6个人的社团，正处在如果被别人说什么话就会被立刻废社的状况。
+      似乎在五月毕业后就变成袋棍球社了。……真是蛮横的学校。
+    note: {}
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 33
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Nickname: Sacchin. In <em>Tsukihime</em>, she is set as an unlucky girl. Despite having had a crush on Shiki since junior high, she did not talk with him properly until shortly before becoming a Dead Apostle. At the start of <em>Melty Blood</em>, when Sion talks about a girl who became a vampire before her eyes, she is talking about Satsuki. She has a low chance of appearing before the fight with Miyako, and that’s her only appearance…. Although there seems to be something related to her she moving behind the scenes… the keyword is “next patch!?”
+    note: {}
+  ja:
+    content: |-
+      通称さっちん。『月姫』本編で、中学の頃から志貴を想い続けていたが、まともに志貴と話せるようになった途端に死徒になってしまう薄幸の少女。『メルティブラッド』冒頭でシオンの語る「目の前で吸血鬼になってしまった人間」とはさつきのこと。都古との対戦時、都古の登場前に低確率で出現するが、出番はそれだけ。……とか言いつつも、なにやら動いているとか動いていないとか……。キーワードは「追加パッチ」！？
+    note: {}
+  zh:
+    content: |-
+      通称小五。《月姬》本篇中，从中学时代起就一直爱慕着志贵，在刚能正面跟志贵说话的时候就变成了死徒的薄幸少女。在《MELTY BLOOD》开头紫苑所说“在眼前成为了吸血鬼的人类”就是指五月。和都古对战时，在都古登场前会低机率出现，但戏份也就如此。……一边说着这些，一边好像看见有啥在动又好像没……。关键词是“追加补丁”！？
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 97
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Shiki’s classmate. Her nickname is Sacchin.
+      She is a pitiable girl, who had been Shiki’s classmate several times since middle school, but never managed to capture his attention.
+      She just happened to catch sight of somebody who looked like Shiki walking through town one day, and because of that ended up being bitten by a vampire. Afterward, she stalked the town at night as a half vampire herself, her body and mind crumbling, until she encountered Shiki and met her end.
+      Basically, your typical tragic heroine. She remained unrewarded to the bitter end, but I’d like to believe she at least received a fleeting salvation in her last moments.
+      As it happens, she had an exceptional predisposition for being a vampire. The fact that she was able to operate as a Dead Apostle less than a day after being bitten is totally unheard of. That she was only able to discover her talents after death… it’s a little ironic, no? Exactly what you’d expect from the shadow heroine Sacchin.
+      Still, at her core she’s a normal girl. Though she might be on the same level as the 27 Dead Apostle Ancestors as far as pure suitability is concerned, since her personality is still human it seems that she’s doomed to be an eternal dropout.
+      In <em>Melty Blood Re-ACT</em>, she participates as a usable character for the first time, allowing players to enjoy situations that were impossible in the original story. Sion is her pen-pal and fellow back-alley dweller. It’s a relationship based on the assumption that Satsuki was still alive when Sion first came to Japan.
+      The reason she doesn’t have the corpse-throwing killer move that she demonstrated in <em>Tsukihime</em> is because the Satsuki in <em>Re-ACT</em> has still never killed anybody. Perhaps if there’s ever a “full vampire” version of Satsuki, though, it will make an appearance as well?
+    note: {}
+  ja:
+    content: |-
+      ゆみづかさつき。志貴のクラスメイト。通称さっちん。
+      中学時代から志貴とは何度かクラスメイトだったのに、肝心の志貴は憶えてさえいなかった、という可哀想な子。
+      街中で志貴に似た誰かを見かけ、それがきっかけで吸血鬼に嚙まれてしまう。以後、半吸血鬼として夜の街をさまよい、崩れていく体と心のまま志貴と出遭い、終わりを迎える。
+      悲劇のヒロインの代名詞。最期まで報われない少女だったが、短い時間でもいっときの救いはあったと信じたい。
+      実は吸血鬼として優れた体質で、一日足らずで死徒として活動できるようになった、というのは破格の出来事。死んでから才能が発覚するとはなんと皮肉な。それでこそさっちん、日陰のヒロイン。
+      が、やはり根はふつうの女の子。適正だけなら二十七祖に匹敵するかもしれないが、性格がまだまだ人間しているので吸血鬼としては永遠に半人前と思われます。
+      メルティブラッド・リアクトでは使用キャラクターとして参戦。本編ではあり得なかったシチューエーションが楽しめる。シオンとはメル友であり路地裏仲間、というのは仮にさつきが生きていてそこにシオンが来日していたら、という仮定に基づいた正しい関係です。
+      月姫本編であった死体投げが必殺技でないのは、リアクトのさつきがまだ人を殺した事がないから。「吸血鬼化した弓塚さつき」なんてキャラがいたら、あの死体投げも再現されるのではないだろうか？
+    note: {}
+  zh:
+    content: |-
+      Yumizuka Satsuki。志贵的同班同学。通称纱酱。
+      中学时代起就几次和志贵同班，但她珍视的志贵却记不起来，相当可怜的孩子。
+      在夜晚的街道中看见了一个很像志贵的人，由此被吸血鬼咬到。
+      之后作为半吸血鬼游荡在夜晚的城市中，拖着崩溃中的身心与志贵相遇，画上一生的句号。
+      悲剧女主角的代名词。最终都未能得到回应的少女，时间虽短但想相信曾有过一丝的救赎。
+      事实上因为有作为吸血鬼的优秀体质，不到一天的工夫就能作为死徒开始活动，这样破例的事情。
+      直到死后才能发挥真是讽刺。这才是真正的影子女主角。
+      但本性还是改不了的普通女生。适应性可能足以匹敌二十七祖，但性格还是人类的性格，
+      想是作为吸血鬼会永远是个半吊子。
+      Melty Blood中作为使用角色参战。享受本篇中不肯出现的状况。和紫苑是作为笔友的路地里同盟，
+      也就是假设五月还活着的话紫苑才会来日本，基于这种假设才是正确的关系。
+      月姬本篇没有死体投掷必杀技，Re-Act的五月至今还未杀过人。如果是“吸血鬼化的弓塚五月”，那样的死体投掷也许能被再现吧？
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 70
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Shiki’s classmate. During the vampire incident one year ago, she was bitten by the vampire Roa and subsequently went missing.
+      In <em>Re-act</em>, she appears as a dropout vampire who still sides with humanity despite having been turned into a Dead Apostle.
+      She is a pitiable girl, who had been Shiki’s classmate several times since middle school, but never managed to capture his attention. Even now, she is nursing an unrequited one-sided love.
+      Something of an oddity, she was unremarkable as a human, yet had exceptional talent as a vampire. The fact that she was able to operate as a Dead Apostle less than a day after being bitten is totally unheard of.
+    note: {}
+  ja:
+    content: |-
+      ゆみづかさつき。志貴のクラスメイト。一年前の吸血鬼事件の際、吸血鬼ロアの牙にかかり、以後は行方不明となった。
+      Re-actから死徒化したもののなんとか人間サイドに留まっている、という半人前吸血鬼として登場。
+      中学時代から志貴とは何度かクラスメイトだったのに、肝心の志貴は憶えてさえいなかった、という可哀想な子。今も一途で報われない片思いに奔走中。
+      人間としては平凡だったが、吸血鬼としてなら優れた才能を持っていたという変わり種。一日たらずで死徒として活動できるようになった、というのは破格の出来事なのである。
+    note: {}
+  zh:
+    content: |-
+      志贵的同学。一年前的吸血鬼事件时，落入吸血鬼罗亚的獠牙，之后变得下落不明。
+      从Re-act里以虽说死徒化了但勉强留在了人类一侧，这种半吊子吸血鬼登场。
+      从初中时代就几次与志贵是同学了，重要的志贵却连记也记不得，这种可怜的孩子。现在也一心一意地奔走于无果的单相思。
+      作为人类是平凡的，但作为吸血鬼来说有着优秀的才能这样的变种。在不到一日就变得能作为死徒活动了，这样的是破格的事件吧。
+    note: {}
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 23
+  category:
+  - "-"
+  img: baa_yumizuka-satsuki_w.png
+  en:
+    content: |-
+      High school girl turned half-vampire after being bitten by a vampire. She roams the city at night with Sion and Ries.
+    note: {}
+  ja:
+    content: |-
+      吸血鬼に噛まれてしまい、半吸血鬼になってしまった女子高生。シオン、リーズとともに夜の街をさまよう。
+    note: {}
+  zh:
+    content: |-
+      被吸血鬼咬后，变成了半吸血鬼的女子高中生。和紫苑[Sion]，莉兹一起流落夜晚的街头。
+    note: {}

@@ -1,0 +1,30 @@
+---
+id: ahoge
+
+en: a
+ja: a
+furigana: あほけ
+title:
+  en: Ahoge
+  ja: アホ毛
+  zh: 呆毛
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 6
+  category:
+  - item
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      頭部から１本飛び出した髪の毛。企画当初ツインテールのA子（仮）に対してキャラが弱いという理由から急遽B子（仮）に装着された通信用アンテナ。セイバー、アルクといった隊長機によく見られるシンボルだったが、最近は他のキャラに生えている事も珍しくなく、感染が懸念されている。
+    note: {}
+  zh:
+    content: |-
+      从头部翘出来一根发毛。企画当初出于和双马尾的A子（暂）相比角色性很弱这样的理由而装给B子（暂）的通信用天线[Antenna]。Saber，Arc等队长机显而易见的象征标志[Symbol]，最近就算在其他角色上长着也不会新奇，总担心被感染。
+    note: {}

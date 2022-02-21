@@ -1,0 +1,55 @@
+---
+id: bloodfort-andromeda
+
+en: b
+ja: ta
+furigana: たしゃふういんせんけつしんでん
+title:
+  en: Bloodfort Andromeda
+  ja: 他者封印・鮮血神殿
+  zh: 他者封印·鲜血神殿
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 56
+  category:
+  - noble-phantasm
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      Outer Seal: Blood Temple.
+      A boundary field of blood. Any humans captured within it will be dissolved.
+      The dissolved humans are reduced to red blood, which is consumed by the boundary field’s user. Its primary purpose is the absorption of magical energy.
+      It was used once in every route, and by the end of the game was like an old familiar friend.
+      Since the boundary field is in the shape of a dome, the school building looked as if it was captured within an enormous eyeball.
+      Naturally, from outside the boundary field the red sky and dome cannot be seen at all. It’s just like Rin said: any boundary field that reveals its strangeness to the outside world is third-rate at best.
+      Also, because the Bloodfort seriously damages the leylines where it is used, it cannot be used on the same land twice in succession.
+    note: {}
+  ja:
+    content: |-
+      ブラッドフォート・アンドロメダ。
+      血の結界。
+      内部に取り込んだ人間を溶解する。
+      溶解された人間は赤い血液となり、結界使用者に吸収される。
+      本来の用途は魔力吸収である。
+      各ルートで一度は使用される、お馴染みライダーの 広域結界。
+      結界はドーム状のもので、校舎は巨大な眼球の中に取り込まれたように見える。
+      結界の外から見た場合、赤い空もドームも当然見えない。
+      凜も言っていたが、外部に異常を報せる結界は三流なのである。
+      土地の霊脈を著しく傷つける為、同じ土地での連続使用はできない。
+    note: {}
+  zh:
+    content: |-
+      Blood Fort·Andromeda。
+      血之结界。
+      进入其内部的人会被溶解。
+      被溶解的人会化成红色的血液，为结界使用者吸收。
+      本来的用途就是吸收魔力。
+      在各路线都一度使用，Rider擅长的广域结界。
+      结界为半球状，校舍看起来就好象被包进了巨大的眼球中。
+      如果从结界外边看，红色的天空和半球当然都看不见。
+      凛曾经说过，从外部能被感觉到异常的结界是三流水准。
+      因为会显著地弄伤土地的灵脉，故在同样的土地上连续使用不能。
+    note: {}

@@ -1,0 +1,49 @@
+---
+id: parameter-rules
+
+en: p
+ja: ha
+furigana: パラメータールール
+title:
+  en: Parameter Rules
+  ja: パラメータールール
+  zh: 参数规则
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 72
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      For no particular reason, all the Servants had their abilities translated into specific parameters.
+      It’s pretty obvious just from looking at them that A is the strongest, but you might be thinking to yourself, “What on earth is all this B+ and A+ nonsense!?” Well, don’t worry, because I’m going to take a moment to explain the rules behind it here.
+      For sake of argument, let’s assume that a normal value is 1. In that case, E would be 10. And, every rank after that adds another 10, all the way up to A, which is 50.
+      Now, things like B+ and A+ represent the unique ability to multiply these numerical values for just an instant.
+      In other words, an ability ranked B+ would normally be weaker than an ability ranked A, but can momentarily exceed it by doubling its own power from 40 to 80.
+      Heroic Spirits with a + (plus) are rare, those with a ++ (double plus) are extraordinary, and those with a +++ (triple plus) are in a class all their own.
+      Also, a truly exceptional ability score that falls outside the numerical ranking scale is represented by an EX.
+      Though Gilgamesh’s ability scores generally aren’t very impressive, his EX rank Noble Phantasm parameter clearly distinguishes him from the other Heroic Spirits.
+    note: {}
+  ja:
+    content: |-
+      なにげにパラメーター化されている各サーヴァントの能力。
+      Aが一番強いのは解るけど、B+とかA+とかなんなのんー？という貴方に少しだけルール説明をば。
+      仮に、通常値をーとした場合、Eはー00で、あとはー0ずつ上乗せし、Aは50となる。
+      で、B+とかA+というのは、との数値を瞬間的に倍化できる特殊能力の事を指す。
+      つまり、B+の能力は、通常はAには敵わないが、一瞬だけなら40×2で80、50のAランクを上回 れる、というコト。
+      +（フラス）を持つ英霊は少なく、++（ダブルプ ラス）なんでいったらもう破格、+++（トリプルプ ラス）は別格だコノヤロー、という世界。
+      また、E~Aの数値に該当しない、そもそも別格な 能力値はEXとして表される。
+      ギルガメッシュは各パラメーターこそ低いものの、 宝具がEXな時点で他の英霊とは一線を画している訳である。
+    note: {}
+  zh:
+    content: |-
+      Status等级的表示规则。
+      存在A～E。EX是别格，表示强到没有比较的意义。
+      用数值来表示等级的话E=10，随着等级的提升而+10。
+      A+和B+等带有+的能够一瞬间倍化数值。例如C+（30）可以仅一瞬暴涨到60，超过等级A（50）。
+      还有++是变成三倍。
+      {{missing}}
+    note: {}

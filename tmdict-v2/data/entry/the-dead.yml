@@ -1,0 +1,51 @@
+---
+id: the-dead
+
+en: t
+ja: shi
+furigana: ししゃ
+title:
+  en: The Dead
+  ja: 死者
+  zh: 死者
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 17
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      ① After having its blood sucked, the natural process of being reborn as a blood sucking species is skipped and the body is used and manipulated as a Dead Apostle’s bunshin (second body - body clone).
+      ② No more than a puppet, so it’s not a proper member of the blood sucking species.
+      ③ Obtains energy needed to live by eating humans. However, over half of the energy consumed is transferred to the Dead Apostle it is connected too.
+      
+      <strong>Development Process</strong>
+      ① The Dead have had their blood sucked, so the dead go through the same process of becoming a ghoul (a corpse eating demon), and then a living dead (a living body), and then finally become a proper vampire. Vampires have been known to kill their Dead Apostle progenitor, thereby becoming a new Dead Apostle themselves.
+      ② The higher the latent potential of the body, the more likely one is to actually make it through each step of the process and actually become a full vampire. In extremely rare cases, most of the steps required to become a vampire can be skipped. This can be seen in people with extremely high latent potential to become vampires, such as Satsuki Yumizuka, who almost immediately became a full-fledged vampire.
+      ③ A Dead Apostles power level is influenced by the one who sucked their blood.
+    note: {}
+  ja:
+    content: |-
+      ①血を吸われてから自力で吸血種として蘇生する過程を無視して死徒の分身として操られている者。
+      ②操り人形に過ぎないため一人前の吸血種とは言えない。
+      ③自らが生存するためのエネルギーを得るため人間を捕食する。ただし死徒と繋がっており、人間を捕食して得たエネルギーの半分以上は死徒に流れる。
+      
+      <strong>成長過程</strong>
+      ①吸血鬼に血を吸われてから通常はグール（屍食鬼）→リビングデッド（生きる死体）を経て、一人前のヴァンパイヤへと成長する。その後親である死徒を倒して新たな死徒となることがある。
+      ②生まれた肉体に宿るポテンシャルの高い者ほどこの過程の後の段階まで残れる確率が高くなる。ごくまれにこの過程を飛び越え、弓塚さつきのようにいきなり吸血鬼になれるほどのポテンシャルを有する人間もいる。
+      ③死徒の能力の高さは血を吸った吸血鬼の影響を受ける。
+    note: {}
+  zh:
+    content: |-
+      ①无视被吸血后独力复活成吸血种的过程，作为死徒的分身被操纵起来的人。
+      ②因为这不过是悬丝木偶，所以不能说是个独当一面的吸血种。
+      ③为了获得自己生存所需的能量而捕食人类。但由于跟死徒联系着，捕食人类所得的能量有一半以上都流到死徒去。
+      
+      <strong>成长过程</strong>
+      ①被吸血鬼吸血后，通常会经历Ghoul（食尸鬼）→Living Dead（活着的尸体）再成长为一个独当一面的Vampire。有的Vampire会在此后打倒作为亲本的死徒，然后自己成为新死徒。
+      ②天生在肉体上拥有超高潜质的人，残留到这过程的后段的几率就越高。也有一些极为罕见的人类，拥有足以跳过这过程，如弓冢五月般马上就成为吸血鬼的潜质。
+      ③死徒能力的高低受到吸食其血液的吸血鬼影响。
+    note: {}

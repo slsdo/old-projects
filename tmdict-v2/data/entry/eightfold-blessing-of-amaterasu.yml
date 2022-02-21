@@ -1,0 +1,59 @@
+---
+id: eightfold-blessing-of-amaterasu
+
+en: e
+ja: su
+furigana: すいてんにっこうあまてらすやのしずいし
+title:
+  en: Eightfold Blessing of Amaterasu
+  ja: 水天日光天照八野鎮石
+  zh: 水天日光天照八野镇石
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 86
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      Suiten Nikkou Amaterasu Yano Shizu Ishi.
+      The Sweets Spirit Cas-ko’s Noble Phantasm. She doesn’t use it much.
+      Within EXTRA it is described as a mirror, but it is the Tamamo Shizuishi, a very great sacred treasure.
+      The Shizuishi was enshrined in Izumo, and it is a sacred treasure said to have been brought to Earth from heaven by Takehideri no Mikoto, and is thought to be a vessel that holds the spirit of Izumo Daijingu.
+      According to the writings of Japanese scribes, it was taken from Izumo at the request of the Imperial court and was afterward enshrined in Kawachi.
+      It’s probably the Yata Mirror that came afterwards, in short, it’s the vessel that holds the spirit of Amaterasu Oomikami.
+      The Shizuishi is thought to be the prototype of Mononobe’s Ten Sacred Treasures (Tokusa no Kandakara), and is said to have the power to activate the soul and life force and even revive the dead.
+      This is far too powerful and cheat-like, so in the game we made it to just provide unlimited magical power.
+      This is once again digression, however the Ookuninushi that enshrines the Tamamo Shizuishi is basically the god of gods.
+      Depite Cas-ko appearing as she does, she is indeed a top-rank God Spirit class Servant.
+    note:
+      n1: "Eightfold Blessings of Amaterasu on the Weight Stone under the Sunlit Watery Heavens."
+  ja:
+    content: |-
+      すいてんにっこうあまてらすやのしずいし。
+      スイーツ英霊・キャス狐の宝具。あまり使えない。
+      EXTRAでは鏡として表現されているが、玉藻鎮石[たまもしずいし]とよばれる神宝の中の神宝である。
+      鎮石は出雲にて祀られていた、武日照命が天より持ち来たったという神宝であり、出雲大神の神体。
+      日本書記の記述によると、朝廷の要請によって出雲より持ち出され、後に河内に祀られるようになった。
+      おそらくは後の八咫[ヤタ]鏡であり、つまりは天照大神の神体である。
+      鎮石は物部の十種神宝[とくさのかんだから]の原型と考えられ、魂と生命力を活性化させる力を持ち、死者さえも蘇らせる冥界の力を秘めた神宝なのだとか。
+      あまりにチートなので、ゲーム本編では無限の魔力供給というカタチで手を打たれている。
+      また余談ではあるが、玉藻鎮石を祀っていた大国主とは神にとっての神みたいな存在。
+      キャス狐はああ見えてトップランクの神霊サーヴァントなのであった。
+    note: {}
+  zh:
+    content: |-
+      Suiten Nikkou Amaterasu Yano Shizu Ishi。
+      Sweets英灵·Cas狐的宝具。不怎么有用的东西。
+      虽然在EXTRA里是当作镜子表现的，但却是被称为玉藻镇石的神宝中的神宝。
+      镇石被祭祀在出云，被喻为是武日照命从天界带来的神宝，也是出云大神的神体。
+      根据日本书记的记载，因为朝廷的要求，它被带出出云，之后祭祀在河内。
+      恐怕这正是之后的八咫镜，也就是天照大神的神体。
+      镇石也被认为是物部的十种神宝的原型，拥有使灵魂和生命力活性化的力量，甚至有传言说它拥有让死者复生的冥界之力。
+      因为太过作弊的缘故，游戏里只是妥协成了无限的魔力供给。
+      另外说句题外话，祭祀玉藻镇石的大国主正是神灵中的神灵一般的存在。
+      Cas狐虽然看上去那个样子，但真的是顶级的神灵Servant哟。
+    note: {}

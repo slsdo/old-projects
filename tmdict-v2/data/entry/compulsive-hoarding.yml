@@ -1,0 +1,33 @@
+---
+id: compulsive-hoarding
+
+en: c
+ja: shi
+furigana: しゅうしゅうへき
+title:
+  en: Compulsive hoarding
+  ja: 蒐集癖
+  zh: 收集癖
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 24
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      It is hard to say whether this is an individual’s nature or just a bad habit. Many characters in the story were eccentric collectors.
+      It was probably because they were hollow, and needed something to fill the void.
+    note: {}
+  ja:
+    content: |-
+      持って生まれた性質といおうか悪癖といおうか、本編の登場人物には偏執的[へんしつてき]なコレクターが多い。
+      からっぽだから、何かカタチのあるもので空虚を埋めたいのだろうか。
+    note: {}
+  zh:
+    content: |-
+      该说是与生俱来的性质呢还是恶癖呢，正篇的登场人物中有很多偏执的收藏家。
+      因为是空的，所以想用什么有形的东西来填补空虚吧。
+    note: {}

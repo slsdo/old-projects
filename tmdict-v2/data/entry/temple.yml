@@ -1,0 +1,41 @@
+---
+id: temple
+
+en: t
+ja: se
+furigana: せいどう
+title:
+  en: Temple
+  ja: 聖堂
+  zh: 圣堂
+
+entry:
+- source: character-material
+  section: prelude-explanation
+  order: 11
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      A previously isolated world.
+      It was a prison, but for Merem it was also a place of comfort like the womb. After acquiring his freedom, he peered at the outside world through this place.
+      In the past, many of his “wishes” in his imaginations were born from the theme of the Temple.{{n1}}
+      The only thing he loved and longed for from the outside world was the Crimson Moon, as a result, since then he purposefully avoided imagining things with Moon themes.
+    note:
+      n1: "This is more obvious if you look at Merem’s concept art, the ubiquitous “Temple mosaic pattern” is found on his clothes, trinkets, as well as the Four Great Demon Beasts. See <em>Character material</em> for more details."
+  ja:
+    content: |-
+      それ{{n1}}が、かつて幽閉されていた世界。
+      牢獄であると同時に心地よい胎盤でもあるのか、自由になった後も、それは外の世界を傍観し続ける。
+      かつてそれが想像した数多の“願い”は、この聖堂にあるものをモチーフにして生み出された。
+      それが憧れ、恋した唯一の外界は朱色の月のみであり、以後、月をモチーフにした想像はタブーとされた。
+    note:
+      n1: "「それ」に傍点。"
+  zh:
+    content: |-
+      那是，曾经被封闭的世界。
+      作为牢狱的同时却也是让他心情舒适的胎盘。获得自由之后，他一直自那之中旁观着外面的世界。
+      过去他所想像的多数“愿望”都是以这圣堂中的事物为主题而涎生的。
+      因为他所憧憬、爱恋的唯一的外界只有那朱红之月。所以从那以后，以月为主题的想像，都会被他避讳。
+    note: {}

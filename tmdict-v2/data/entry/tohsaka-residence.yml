@@ -1,0 +1,30 @@
+---
+id: tohsaka-residence
+
+en: t
+ja: to
+furigana: とおさかてい
+title:
+  en: Tohsaka residence
+  ja: 遠坂邸
+  zh: 远坂邸
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 43
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      代々、冬木の地を管理する名門魔術家、遠坂家が居を構える場所。庭には警報結界が仕掛けられている。円蔵山に次ぐ霊脈の要所で、第二次聖杯戦争においては聖杯降臨の地となった。
+    note: {}
+  zh:
+    content: |-
+      世世代代，管理冬木之地的名门魔术家，远坂家，所住居的地方。在庭园设置着警报结界。次于圆藏山的灵脉的重要地方，第二次圣杯战争中圣杯降临之地。
+    note: {}

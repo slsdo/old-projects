@@ -1,0 +1,44 @@
+---
+id: spontaneous-combustion
+
+en: s
+ja: ha
+furigana: はっかのうりょく
+title:
+  en: Spontaneous Combustion
+  ja: 発火能力
+  zh: 发火能力
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 35
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      The so-called unexplained phenomenon of human combustion.
+      It was the spell that Kokutou Azaka favored. However, it was closer to psychic power than magecraft. In terms of psychic power, it would be called Pyrokinesis.
+      Spontaneous Combustion is a method of attack that causes the target to self-combust, rather than immolating the target directly.
+      There are many theories which explain Spontaneous Combustion, Azaka’s Spontaneous Combustion can be explained by an amalgamation of the Charged Corpus Theory and the Electromagnetism Theory. The Charged Corpus Theory suggests that the human body produces electrical current during states of psychological arousal which causes Spontaneous Combustion, while the Electromagnetism Theory suggests that Spontaneous Combustion is a result of an increased release of electrons in the atmosphere.
+      All incantations used to activate Spontaneous Combustion were musical notes, since Azaka comprehended magecraft and combat through music.
+    note: {}
+  ja:
+    content: |-
+      スポンティニアス・コンバッション。人体発火現象と呼ばれる、原因不明の発火現象。
+      黒桐鮮花が得意とする魔術だが、魔術というより超能力に近い。超能力で言うのならパイロキネシス。
+      炎で対象を焼くのではなく、対象自体に発火してもらう、という攻撃方法。
+      人体発火現象には様々な説があるが、鮮花の発火能力は精神昂揚[こうよう]により人体に電気を発生させる人体帯電説と、空気中に大量放出された電子を原因とする電磁波説を混ぜ合わせたもの。
+      発動の為の詠唱が単一かつ楽譜記号なのは、鮮花が魔術と戦闘を楽曲だと捉えている為。
+    note: {}
+  zh:
+    content: |-
+      Spontaneous Combustion{{n1}}。被称为人体发火现象的，原因不明的发火现象。
+      黑桐鲜花得意的魔术，但与其说是魔术更接近超能力。用超能力来说的话是pyrokinesis{{n2}}。
+      并不是用火灼烧对象，而是使对象自身着火，这样的攻击方法。
+      人体发火现象有各种各样的说法，鲜花的发火能力是因精神昂扬而使人体产生电流的人体带电说和认为空气中被大量放出的电子是原因的电磁波说的混合产物。
+      发动所用的咏唱单一且是乐谱记号，是因为鲜花将魔术和战斗以乐曲来理解。
+    note:
+      n1: "自燃。"
+      n2: "パイロキネシス。"

@@ -1,0 +1,59 @@
+---
+id: thesis-of-the-still-heart
+
+en: t
+ja: ko
+furigana: ごじょうしんかん
+title:
+  en: Thesis of the Still Heart
+  ja: 五停心観
+  zh: 五停心观
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 60
+  category:
+  - codecast
+  img: ""
+  en:
+    content: |-
+      Gojyou Shinkan.
+      Healing software developed by Kiara Sesshoin.
+      It is a codecast used to perform mental maintenance. It first determines the areas of the mind that are stagnating or out of order, and then physically removes them, thereby returning stability to the user’s mind. This program was originally made to map out a patients mind and then understand the connections found in their mind.
+      Originally a Secret Garden{{n1}} is supposed to be something that comes out over a period of time, but the Thesis of the Still Heart enables one to retrieve it imediately upon discovery.
+      Of course Secret Gardens are secrets, but at the same time their contents should be revealed.
+      It’s natural that everyone wants to protect their secrets, but at the same time there is also that feeling of wanting others to know.
+      It’s “painful” to always be protecting a secret.
+      And it’s only human nature to want to be free of burden.
+      Precisely because it’s a secret you don’t want anyone to know, you desire exoneration, so you break it to someone and have them understand your situation.
+      Thesis of the Still Heart seems to have been made to fulfill this subconscious, fundamental desire through true mutual understanding.
+    note:
+      n1: "A term for secret parts of one’s heart."
+  ja:
+    content: |-
+      ごじょうしんかん。
+      殺生院キアラが開発した医療ソフト。
+      メンタルケアを目的として作られた電脳術式[コードキャスト]で、精神の淀み・乱れを測定し、これを物理的に摘出する事で精神を安定させる。
+      もともとは患者の精神マップを作り、これを理解するために作られたとか。
+      本来、SGは時間をかけてゆっくり浮き彫りにしていくものだが、五停心観によって発見、即、摘出が可能となった。
+      SGは秘密ではあるが、同時に開示されるべき事柄だ。誰だって秘密を守りたいが、同時に知ってほしくもある。
+      秘密を守り通していると心が『苦しい』。
+      人間は楽になりたがる生き物だ。
+      誰にも知られたくない秘密だからこそ、誰かに打ち明け、理解してもらい、赦しを求める。
+      五停心観はそんな深層下の欲求を叶える、人々の真の相互理解を目指して作られたものらしい。
+    note: {}
+  zh:
+    content: |-
+      ごじょうしんかん[发音]。
+      杀生院祈荒所开发的医疗软件。
+      以精神治疗为目的所做出来的术式、可以测量精神上的阴霾、混乱，并物理性的将它摘出让精神获得安定。
+      本来是为了做出患者的精神概念、并去理解而创造的东西。
+      原本SG是由时间经过慢慢浮出的东西，但是经由五停心观的话可以在发现时马上摘出。
+      SG虽然是秘密，但同时也是必须被知道的事象。
+      不论是谁都会想保守秘密、但同时也希望被人所知道。
+      经常保守秘密的话思想会感到很“艰难”。
+      人类是随时都想变得更轻松的生物。
+      正因为是不想被任何人知道的秘密，所以才会想让人知道、理解并被认同或原谅。
+      五停心观就是为了实现这深层的欲望、目标是让人们能真正的互相理解而做出来的东西。
+    note: {}

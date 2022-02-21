@@ -1,0 +1,39 @@
+---
+id: sweets-heroic-spirit
+
+en: s
+ja: su
+furigana: すいーつえいれい
+title:
+  en: Sweets Heroic Spirit
+  ja: スイーツ英霊
+  zh: 甜食系英灵
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 85
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      The self-appointed title of Cas-ko (Blue Caster).
+      Forget about hiding your true name, or proving the existence of your soul, or becoming your Master’s faithful weapon.
+      It is a heroic spirit who lives for amusement and fun in the name of romance, love, and happiness.
+      To Cas-ko, surviving to the end and winning the Holy Grail War is no more than a bonus, and it would appear that her true mission is to bring happiness and good fortune to her master.
+    note: {}
+  ja:
+    content: |-
+      青キャスターことキャス狐が自称したもの。
+      真名を隠すとか、魂を証明する願いとか、マスターの剣になるとか後回し。
+      とにかくロマンスとラブとハッピーのために、日々面白おかしく生きる英霊をこう呼ぶ。
+      キャス狐にとって聖杯戦争に勝ち残る事はオマケみたいなもので、本命は主人公を幸福にする事らしい。
+    note: {}
+  zh:
+    content: |-
+      蓝Caster，Cas狐的自称。
+      隐藏真名啥的，验证灵魂的愿望啥的，成为Master之剑啥的，统统之后再说。
+      总之是指为了Romance、Love、Happy，每一天都有趣疯癫地活着的英灵。
+      对Cas狐来说，赢得圣杯战争似乎只不过是附赠品而已，真正重要的是让主角幸福。
+    note: {}

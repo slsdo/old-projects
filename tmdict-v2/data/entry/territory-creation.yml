@@ -1,0 +1,30 @@
+---
+id: territory-creation
+
+en: t
+ja: shi
+furigana: じんちさくせい
+title:
+  en: Territory Creation
+  ja: 陣地作成
+  zh: 阵地作成
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 95
+  category:
+  - skill
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      キャスターのクラスに付与されるクラス別能力。ランクによって自分に有利となる、さまざまな陣地を作成することができる。
+    note: {}
+  zh:
+    content: |-
+      付与Caster职阶[Class]的职阶[Class]特别能力。根据Rank可以作成对自己有利的各式各样的阵地。
+    note: {}

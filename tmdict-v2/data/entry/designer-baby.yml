@@ -1,0 +1,37 @@
+---
+id: designer-baby
+
+en: d
+ja: te
+furigana: でざいんべびー
+title:
+  en: Designer Baby
+  ja: デザインベビー
+  zh: 定制婴儿
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 107
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      A Designer Baby is a child created with artificially modified DNA.
+      With this it is possible even for parents who have completely normal genetics to bear a child who possesses magic circuits.
+      Within the world of EXTRA, Shinji and Julius (among others) are designer babies.
+      Contrary to what people often think, Leo is in fact not a designer baby. His great knowledge, intellect and experience were instilled through a hypnosis learning method, and his body does not contain a single speck of artificially created parts. His existence is not something that was realized through human intervention, he is just a “Born King.”
+    note: {}
+  ja:
+    content: |-
+      遺伝子操作で人工的に作られた子供。
+      遺伝的にノーマルな両親からでも、魔術回路を持った子供を生み出す事ができる。EXTRA世界ではシンジやユリウスがこれに該当する。
+      勘違いされがちだが、レオはデザインされた子供ではない。彼の知識・経験は生後に行われた睡眠学習によるもので、人工的に作られた整体部品は一箇所もない。彼の在り方は人の手によるものではない“天性の王”という事だ。
+    note: {}
+  zh:
+    content: |-
+      利用遗传子操作人工制作的孩子。
+      即便是遗传意义上普通的两亲，也能孕育出有着魔术回路的孩子。EXTRA世界的慎二和尤里乌斯就是这种类型。
+      或许造成了误会，雷欧并非是定制婴儿。他的知识和经验是后天通过睡眠学习的产物，没有丝毫人工制造的整体部件。其行事的方式并非是经由人之手“设计”出来的。而是“天性的王”的性质所致。
+    note: {}

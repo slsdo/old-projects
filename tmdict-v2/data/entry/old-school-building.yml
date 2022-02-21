@@ -1,0 +1,49 @@
+---
+id: old-school-building
+
+en: o
+ja: ki
+furigana: きゅうこうしゃ
+title:
+  en: Old School Building
+  ja: 旧校舎
+  zh: 旧校舍
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 47
+  category:
+  - terrain
+  img: ""
+  en:
+    content: |-
+      This is the protagonist’s home base in CCC.
+      The building is restored and used by the protagonist, and it is the only safe area on the far side of the Moon.
+      It is a building that was used during a Holy Grail War that took place long ago; it was abandoned after falling into disrepair.
+      The Old School Building is like a submarine floating in the middle of an ocean of malicious information and data.
+      Regardless of the fact it was abandoned, it was once the site of a Holy Grail War, so it remains a spiritron source capable of supporting the needs of tens of Servants.
+      The Sakura in the school infirmary uses the school’s spiritron power as a barrier to protect the school and to maintain the fundamental rules and order of a real world environment inside the school.
+      …To digress, during the development of CCC the setting was going to be “the EXTRA school building being eaten away at by glitches,” but there was no novelty in this idea, so we changed to the nostalgic Old School Building.
+    note: {}
+  ja:
+    content: |-
+      CCCでの主人公たちのホーム。
+      月の裏側における唯一の安全地帯として復旧・利用されている。
+      はるか以前の聖杯戦争で使われていたが、老朽化したために破棄されたフリースペース。
+      旧校舎は悪性情報の海のただ中に浮かぶ潜水艦のようなもの。
+      破棄されたとはいえ聖杯戦争の会場だったので、校舎には数十人のサーヴァんとを維持するだけの霊子ソースが残されていた。
+      保健室の桜はこのパワーソースを校舎を守るバリアとして使用、校舎内を実数空間のルールに保っている。
+      ……余談ではあるが、CCC開発当時、ゲームの舞台は“ノイズに浸食されたEXTRA校舎”だったが、それでは新しさがない、という事でノスタルジックな旧校舎に変更された。
+    note: {}
+  zh:
+    content: |-
+      CCC中主角们的根据地。
+      在月的里侧作为唯一的安全地带被复原、利用着。
+      在很久很久以前的圣杯战争中曾经使用过、但由于老旧了的关系被废弃了的冻结区域。
+      旧校舍就像是在恶性情报的大海中载浮载沉的潜水艇一样。
+      虽然说被废弃了但毕竟曾经是圣杯战争的会场，校舍内约残留有足以维持数十个Servant的灵子空间。
+      保健室的樱就是用这个power source做出守护校舍的防护壁、来维持住校舍内的实数空间规则。
+      ……虽然是额外讯息，CCC开发的时候，游戏的舞台本来是“被噪声侵蚀的EXTRA校舍”，
+      但这样就没有新鲜感了，的关系于是变更成了有着乡愁情感的旧校舍。
+    note: {}

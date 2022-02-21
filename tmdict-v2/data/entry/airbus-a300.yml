@@ -1,0 +1,30 @@
+---
+id: airbus-a300
+
+en: a
+ja: e
+furigana: えあばすA300
+title:
+  en: Airbus A300
+  ja: エアバスA300
+  zh: 空中客车A300
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 39
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      パリ発のニューヨーク行き便。魔蜂使いオッド・ボルザークを殺害するため、ナタリアがこの便に搭乗した。ボルザークの体の中に隠されていた「死徒蜂」によって乗員乗客300人が屍食鬼となり、切嗣によって撃墜されている。
+    note: {}
+  zh:
+    content: |-
+      巴黎[Paris]出发前往纽约[New York]的航班。为了杀害魔蜂使奥德·波尔扎克[Odd·Borzak]，娜塔莉亚[Natalia]搭乘了这趟航班。乘务员乘客300人因被隐藏于波尔扎克[Borzak]身体中的“死徒蜂”变成了食尸鬼，被切嗣击坠了。
+    note: {}

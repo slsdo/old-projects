@@ -1,0 +1,30 @@
+---
+id: ahnenerbe-uniform
+
+en: a
+ja: a
+furigana: あーねんえるべせいふく
+title:
+  en: Ahnenerbe Uniform
+  ja: アーネンエルベ制服
+  zh: Ahnenerbe制服
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 4
+  category:
+  - clothes
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      アーネンエルベの制服。ギャルソン服一式という男子服に対し、女子はブラウスに膝上丈のスカートとなっている。冬でも半袖なひびちかのメイン衣装。ちなみに、コスプレフェアが続いた後でこれに戻ると「新鮮です」とお便りが送られてくる。
+    note: {}
+  zh:
+    content: |-
+      Ahnenerbe的制服。和男招待[Garçon]服相对应，女生是衬衫[Blouse]配未到膝盖的裙子[Skirt]。半袖是冬天时响键的主要[Main]服装。顺带一提，角色扮演展[Cosplay Fair]进行完后还回去了，还送去了“挺新鲜”这样的信。
+    note: {}

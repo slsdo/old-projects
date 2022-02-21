@@ -1,0 +1,30 @@
+---
+id: familiar
+
+en: f
+ja: tsu
+furigana: つかいま
+title:
+  en: Familiar
+  ja: 使い魔
+  zh: 使魔
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 24
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      A familiar is like a magus’ obedient pet. Low level familiars are often used to scout for their master. Servants technically fall into this category as well.
+    note: {}
+  ja:
+    content: |-
+      魔術師が使役する使い魔。下級の使い魔は主に偵察などに使われている。召喚されたサーヴァントも一応、この使い魔のカテゴリーに属する。
+    note: {}
+  zh:
+    content: |-
+      魔术师所使役的使魔。下级的使魔主要是用来侦查一类。被召唤的Servant姑且也算是属于这个使魔的类别[Category]。
+    note: {}

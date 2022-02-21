@@ -1,0 +1,112 @@
+{% extends "_base.html" %}
+{% block title %}{{ about }}{% endblock %}
+{% block url %}about{% endblock %}
+
+{% block content %}
+<div class="page-content">
+    <h3 id="about-intro">介绍</h3>
+
+    <p>型月辞典是一个以Type-Moon游戏，书，动漫等作品的词条为基础的多语言辞典。网站的目标以构造简约，注重内容质量，方便快捷的模式为重点，并提供一些简单的分类和搜索功能。目前我们支持英文，中文和日文。</p>
+
+    <p>型月辞典不是一个百科全书，也不是一个wiki，其内主要目的为Type-Moon官方用语和信息的翻译。没有出现在Type-Moon官方的设定或资料里的用语，不会出现在这里。</p>
+
+    <p>型月辞典由HTML，CSS，和JavaScript做成，一些高级功能则是利用<a href="https://facebook.github.io/react/">React</a>。网站的搜索功能采用<a href="http://www.tipue.com/search/">Tipue Search</a>。</p>
+
+    <h3 id="about-contrib">合作人员</h3>
+
+    <p>这个网站由gum制作，加上Tsuki-kan和澄空学园Type-Moon应援会的各位朋友的协力和支持。翻译来自诸多志愿者和TM爱好者。</p>
+
+    <ul>
+        <li><span class="highlight">管理员：</span> gum</li>
+        <li><span class="highlight">支援：</span> Sasaki546, 都谷捻柏</li>
+        <li><span class="highlight">翻译：</span> RHuot, 浮云般飘过, 六条秋分, vt789123</li>
+        <li><span class="highlight">校对：</span> Eclipse, 南宫月汐</li>
+        <li><span class="highlight">特别感谢：</span> <a href="http://tsukikan.com/">Tsuki-kan</a>, <a href="https://bbs.sumisora.org/thread.php?fid=14">SumiSora Type-Moon应援会</a></li>
+    </ul>
+
+    <h3 id="about-translate">翻译人员</h3>
+
+    <p>这里的内容翻译来自很多不同的人，因此可能会有一些翻译上的错误和不一致的地方，我们会尽可能的修改它们。与此同时，我们也会尽力限制修改的规模，以保持翻译者原文的本意。</p>
+
+    <table>
+        <tr class="header">
+            <td style="width:45%;">辞典</td>
+            <td>英文</td>
+            <td>中文</td>
+        </tr>
+        <tr>
+            <td>Fate/Zero用语辞典</td>
+            <td><a href="http://forums.nrvnqsr.com/showthread.php/4880-Mcjon01-Translates-Things">Mcjon01</a></td>
+            <td><a href="http://home.gamer.com.tw/homeindex.php?owner=langrisseriv">七夜蒼月</a></td>
+        </tr>
+        <tr>
+            <td>Fate用语词典</td>
+            <td><a href="http://forums.nrvnqsr.com/showthread.php/4880-Mcjon01-Translates-Things">Mcjon01</a>, <a href="http://z13.invisionfree.com/Mobius_Space/index.php?act=idx">food</a></td>
+            <td><a href="http://tieba.baidu.com/f?kw=%D4%C2%D2%B9%D6%AE%BF%D5">十三维</a></td>
+        </tr>
+        <tr>
+            <td>空之境界设定用语集</td>
+            <td><a href="http://z13.invisionfree.com/Mobius_Space/index.php?">food</a></td>
+            <td><a href="https://bbs.sumisora.org/read.php?tid=4458241">renshujian0</a></td>
+        </tr>
+        <tr>
+            <td>Notes.</td>
+            <td><a href="http://forums.nrvnqsr.com/showthread.php/73-Angel-Notes-Translation-by-Evospace?p=2315">EvoSpace</a></td>
+            <td><a href="http://tieba.baidu.com/p/122814195">jabal, 幽远</a></td>
+        </tr>
+        <tr>
+            <td>Prelude Explanation</td>
+            <td><a href="http://z13.invisionfree.com/Mobius_Space/index.php?">food</a></td>
+            <td><a href="https://bbs.popgo.org/bbs/read.php?tid=418222">百岁美萝CM填坑组</a></td>
+        </tr>
+        <tr>
+            <td>Talk.</td>
+            <td><a href="http://forums.nrvnqsr.com/showthread.php/4880-Mcjon01-Translates-Things">Mcjon01</a></td>
+            <td><a href="http://bbs.sumisora.org/read.php?tid=10946479#2831447">zqh1985</a></td>
+        </tr>
+        <tr>
+            <td>月姬用语词典</td>
+            <td><a href="http://forums.nrvnqsr.com/showthread.php/4880-Mcjon01-Translates-Things">Mcjon01</a></td>
+            <td><a href="http://home.gamer.com.tw/homeindex.php?owner=typemercury">譯月漢化小组</a></td>
+        </tr>
+        <tr>
+            <td>月姬用语词典（MBAC）</td>
+            <td><a href="http://forums.nrvnqsr.com/showthread.php/4880-Mcjon01-Translates-Things">Mcjon01</a></td>
+            <td><a href="https://bbs.sumisora.org/read.php?tid=10946479">zqh1985</a></td>
+        </tr>
+        <tr>
+            <td>月姬用语词典改订新版</td>
+            <td><a href="http://forums.nrvnqsr.com/showthread.php/4880-Mcjon01-Translates-Things">Mcjon01</a></td>
+            <td><a href="http://www.lightnovel.cn/thread-33199-6-1.html">renshujian0</a>, <a href="https://bbs.sumisora.org/read.php?tid=11002936">零色ノ夢</a>, vt789123</td>
+        </tr>
+    </table>
+
+    <h3 id="about-version">版本</h3>
+
+    <p>辞典的版本使用一个vX.Y.Z（例如v3.1.4）的系统来跟踪变化。Z代表辞典现有内容的变化，例如纠正错误或添加缺少的文字。Y代表新的辞典被添加或对一个新的语言的支持。X更新意味着辞典本身发生了大变化，例如一个新的分组或数据格式的变化。</p>
+
+    <h3 id="about-guideline">语法风格</h3>
+
+    <p>翻译应遵循原日文格式，包括换行和标点符号。如果原日文格式和以下的语法指南出现冲突，原日文的格式将有优先权。</p>
+
+    <ul>
+        <li>英语遵循美国英语的规则和拼写：<em>favorite</em>而不是<em>favourite</em>; <em>“ ... quotation marks are fun.”</em>而不是<em>“ ... quotation marks are fun”。</em></li>
+        <li>连字符（-）用于连接复合术语。短破折号（–）用来表示跨度或数字的范围。最后，长破折号（—）用于代替逗号和括弧，或代替文中的半截话。</li>
+        <li>方括号（[ ]）内为修改注明或翻译者为了让句子通顺而加上的原文。长一些的解释会出现在页面底下的“译者注”。</li>
+        <li>弯引号（“ ”）代替直引号（" "）。单引号和撇号用直引号（'）。</li>
+        <li>省略号（…）用省略号字形而不是3个点（...）。</li>
+        <li>中文和日文里普通标点符号采用字符实体（、，。？！（））。</li>
+        <li>日文里用来标示说话、引语、专有名词，或特别用意的词句的单引号（「　」）和双引号（『　』）, 在英文和中文里将由弯引号（“ ”）取代。</li>
+        <li>日文里用来标示书名和作品名的双引号（『　』），在中文里由书名号取代（《 》），在英语里将以<em>斜体</em>显示。</li>
+    </ul>
+
+    <h3 id="about-collab">应援</h3>
+
+    <p>如果有兴趣参与网站内容的制作和修改，请<a href="site{% if ext %}.html{% endif %}#site-contact">联系我们</a>.</p>
+    
+    <p>再者，每一页上会有一个“报告错误”的链接，读者浏览时可以随时报告错误或不顺的地方。</p>
+</div>
+{% endblock %}
+{% block side %}
+{% if ext %}{{ side }}{% else %}{{ side|replace(".html", "") }}{% endif %}
+{% endblock %}

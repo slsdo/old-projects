@@ -1,0 +1,227 @@
+---
+id: mages-association
+
+en: m
+ja: ma
+furigana: まじゅつきょうかい
+title:
+  en: Mage’s Association
+  ja: 魔術協会
+  zh: 魔术协会
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 86
+  category:
+  - organization
+  img: ""
+  en:
+    content: |-
+      An organization created to protect those who seek to learn magecraft, regardless of nationality or field of study. (On paper, anyway.)
+      Their mission is the management, concealment, and advancement of magecraft.
+      In order to protect themselves from that which would threaten them (be it the Church, rival organizations of magi, or the monstrosities that punish humans who break taboos), they accumulated military might.
+      In order to further the advancement (degeneration) of magecraft, they built research facilities.
+      And, in order to deter crimes committed with magecraft, they created laws.
+      Their headquarters is located in London, and goes by the unofficial name of “The Clock Tower.”
+      It seems that in the beginning the Association was divided into three great branches, including the original associations that predate the Clock Tower. That is, the “Giant’s Pit” of Egypt, and a cluster of associations based in northern Europe called the “Sea of Estray”{{n1}}. However, ever since the Clock Tower became the headquarters, mingling between the branches has been on the decline.
+      Also, they are fundamentally incompatible with the magecraft foundation of the Middle East and the ideological magecraft of mainland China, and the three groups are currently feigning nonaggression.
+    note:
+      n1: "Also known as Sea of Astray or Wandering Sea."
+  ja:
+    content: |-
+      国籍・ジャンルを問わず、魔術を学ぶ者たちによって作られた自衛団体。（無論、名目上ではある）
+      魔術を管理し、隠匿し、その発展を使命とする。
+      自らを脅かすモノたち（教会、自分たち以外の魔術団体、禁忌に触れる人間を罰する怪異）から身を守る為に武力を持ち、
+      魔術の更なる発展（衰退ともいう）の為、研究機関を持ち、魔術による犯罪を抑止する為の法律を敷く。
+      本部はイギリスのロンドンにあり、“時計塔”の異名を持つ。
+      始まりは三大の部門に分かれていたらしく、エジプトの“巨人の穴倉”，北欧に根を張る複合協会“彷徨海”と呼ばれる原協会もあるが、時計塔が本部になってからは交流が廃れる一方だとか。
+      また、中東圏の魔術基盤、大陸の思想魔術とは相容れず、互いに不可侵を装っている。
+    note: {}
+  zh:
+    content: |-
+      不问国籍、流派[genre]，由学习魔术的人们建立的自卫团体。（不用说，是名义上的）
+      管理、隐匿魔术，以其发展为使命。
+      为从威胁自身的事物（教会，自身之外的魔术团体，处罚触犯到禁忌的人类的怪异）中保护自身而持有武力，
+      为了魔术的进一步发展（也可称为衰退），持有研究机构，
+      为抑制基于魔术的犯罪而颁布法律。
+      总部在英国的伦敦，拥有“时钟塔”的别名。
+      一开始像是分为三大部门，也有埃及的“巨人的地窖”、扎根于北欧的复合协会被称为“彷徨海”的原协会，但自从时钟塔变成总部之后交流就日渐荒废了。
+      另外，与中东圈的魔术基盘、大陆的思想魔术互不相容，表面上互不侵犯。
+    note: {}
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 41
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      A self-defense organization formed by practitioners of magegraft, transcending nationality and genre. (Of course, this is in name only.)
+      Its mission is to manage, conceal, and develop magecraft.
+      It reserves the use of force to protect itself from entities that threaten its existence (the Church, other mage organizations, and individuals who hunt what they consider taboo). In order to promote the development (or regression?) of magecraft, the Association set up research institutions and established laws that forbid the criminal use of magecraft.
+      The headquarter of the Association is in London, England. It is also called the Clock Tower.
+      The Association is divided into three departments. Besides the Clock Tower, there are also the “Giant’s Pit” in the Atlas mountains in Egypt, and the “Sea of Astray,” the integrated association in Northern Europe. The “Sea of Astray” was the original Association that predated the Clock Tower, and had ceased communication with the Association since the Clock Tower became the headquarter.
+      Also, the Association deems the Magic Foundation of the Middle East and the philosophies of magecraft from the continent as incompatible with its teachings. Conversely, the other two schools also reject the Association.
+      Furthermore, as Alba stated in the story, the mage organizations in Japan did not join the Association.
+    note: {}
+  ja:
+    content: |-
+      国籍・ジャンルを問わず、魔術を学ぶ者たちによって作られた自衛団体。（無論、名目[めいもく]上ではある）
+      魔術を管理し、隠匿[いんとく]し、その発展を使命とする。
+      自らを脅[おびや]かすモノたち（教会、自分たち以外の魔術団体、禁忌に触れる人間を罰する怪異）から身を守る為に武力を持ち、魔術の更なる発展（衰退ともいう）の為、研究機関を持ち、魔術による犯罪を抑止する為の法律を敷く。
+      本部はイギリスのロンドンにあり〝時計塔〟の異名を持つ。
+      始まりは三大の部門に分かれていたらしく、エジプトはアトラス山の“巨人の穴倉”、北欧に根を張る複合教会“彷徨海”と呼ばれる原教会もあるが、時計塔が本部になってからは交流が廃[すた]れる一方だとか。
+      また中東圏の魔術基盤、大陸の魔術思想とは相容れず、お互いに不可侵を装[よそお]っている。
+      また、本編でアルバが語っていた通り、日本の魔術組織も協会には組していない。
+    note: {}
+  zh:
+    content: |-
+      不问国籍、genre{{n1}}，由学习魔术者结成的自卫团体。（当然，是名目上）
+      管理、隐匿魔术，将其发展作为使命。
+      为了从威胁自身之物（教会、自身以外的魔术团体、对接触禁忌的人进行惩罚的怪异）手中保护自己而持有武力，为了魔术的进一步发展（也说是衰退），持有研究机构，颁布抑止魔术犯罪的法律。
+      本部在英国伦敦，有“时计塔”的外号。
+      开始是分为三大部门的样子，[除时计塔外]还有埃及{{n2}}阿特拉斯山的“巨人的穴仓”，盘踞北欧的复合协会，被称为“彷徨海”的原协会{{n3}}，但从时计塔成为本部以来交流就停止了什么的。
+      另外与中东圈的魔术基盘，大陆的思想魔术{{n4}}不相容，互相装作不可侵。
+      还有，像正篇中阿鲁巴说的一样，日本的魔术组织也没有加入协会。
+    note:
+      n1: "法语：部门、种类，尤其是以样式、内容来区分艺术作品时使用。"
+      n2: "原文エジプトは，F和月中是エジプトの。"
+      n3: "这里的两个协会原文都是教会，但F和月中是協会。"
+      n4: "原文魔術思想，但F和月中是思想魔術。"
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 87
+  category:
+  - organization
+  img: ""
+  en:
+    content: |-
+      An organization created to protect those who seek to learn magecraft, regardless of nationality or field of study. (On paper, anyway.)
+      Their mission is the management, concealment, and advancement of magecraft.
+      In order to protect themselves from that which would threaten them (be it the Church, rival organizations of magi, or the monstrosities that punish humans who break taboos), they accumulated military might.
+      In order to further the advancement (degeneration) of magecraft, they built research facilities.
+      And, in order to deter crimes committed with magecraft, they created laws.
+      Their headquarters is located in London, and goes by the unofficial name of “The Clock Tower.”
+      It seems that in the beginning the Association was divided into three great branches, including the original associations that predate the Clock Tower. That is, the “Giant’s Pit” of Egypt, and a cluster of associations based in northern Europe called the “Sea of Estray.” However, ever since the Clock Tower became the headquarters, mingling between the branches has been on the decline.
+      Also, they are fundamentally incompatible with the magecraft foundation of the Middle East and the ideological magecraft of mainland China, and the three groups are currently feigning nonaggression.
+      Sion is a member of the Giant’s Pit, also known as the Atlas Institute.
+    note: {}
+  ja:
+    content: |-
+      国籍・ジャンルを問わず、魔術を学ぶ者たちによって作られた自衛団体。（無論、名目上ではある）
+      魔術を管理し、隠匿し、その発展を使命とする。
+      自らを脅かすモノたち（教会、自分たち以外の魔術団体、禁忌に触れる人間を罰する怪異）から身を守る為に武力を持ち、魔術の更なる発展（衰退ともいう）の為、研究機関を持ち、
+      魔術による犯罪を抑止する為の法律を敷く。
+      本部はイギリスのロンドンにあり、“時計塔”の異名を持つ。
+      始まりは三大の部門に分かれていたらしく、エジプトの“巨人の穴倉”、北欧に根を張る複合協会“彷徨海”と呼ばれる原協会もあるが、時計塔が本部になってからは交流が廃れる一方だとか。
+      また、中東圏の魔術基盤、大陸の思想魔術とは相容れず、互いに不可侵を装っている。
+      シオンが所属するのはエジプトの巨人の穴倉、アトラス院。
+    note: {}
+  zh:
+    content: |-
+      不分国籍种族，由魔术学习者们组成的自卫团体（当然，表面上是这样）。
+      为抵御威胁自身安全的事物（教会，除自己之外的魔术团体，惩罚触及禁忌的人类，怪异）而配备武力，为了魔术更进一步（亦有云衰退）的发展而设立研究机构。
+      为了抑制魔术引发的犯罪 而设立法律。
+      本部是位于英国伦敦，有“时钟塔”的别名。
+      一开始被分为三大部门，埃及的“巨人的地窖”，还有扎根于北欧的复合协会、被称为“彷徨海”的原协会，它在时钟塔称为本部之后断绝了联系。
+      另外和中东圈魔术基盘，大陆思想魔术互不相容，装着一副河水不犯井水的样子。
+      紫苑隶属于埃及的巨人的地窖，阿拉特斯院。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 64
+  category:
+  - organization
+  img: ""
+  en:
+    content: |-
+      An organization created to protect those who seek to learn magecraft, regardless of nationality or field of study. (On paper, anyway.)
+      Their mission is the management, concealment, and advancement of magecraft.
+      In order to protect themselves from that which would threaten them (be it the Church, rival organizations of magi, or the monstrosities that punish humans who break taboos), they accumulated military might.
+      In order to further the advancement (degeneration) of magecraft, they built research facilities.
+      And, in order to deter crimes committed with magecraft, they created laws.
+      Their headquarters is located in London, and goes by the unofficial name of “The Clock Tower.”
+    note: {}
+  ja:
+    content: |-
+      国籍·ジャンルを問わず、魔術を学ぶ者たちによって作られた自衛団体。（無論、名目上ではある）
+      魔術を管理し、隠匿し、その発展を使命とする。
+      自らを脅かすモノたち（教会、自分たち以外の魔術団体、禁忌に触れる人間を罰する怪異）から身を守る為に武力を持ち、
+      魔術の更なる発展（衰退ともいう）の為、研究機関を持ち、
+      魔術による犯罪を抑止する為の法律を敷く。
+      本部はイギリスのロンドシにあり、“時計塔”の異名を持つ。
+    note: {}
+  zh:
+    content: |-
+      不问国籍·流派，基于学习魔术的人们而被建立的自卫团体。（当然，是名义上的）
+      将魔术的管理、隐匿、其发展作为使命。
+      为了从威胁自己之物（教会、自身等以外的魔术团体、处罚触及禁忌之人类的妖怪）保护自身持有武力，
+      为魔术的更进一步发展（也说是衰退），拥有研究机关，
+      发布为了抑制基于魔术的犯罪的法律。
+      本部在英国的伦敦，有“时计塔”的别名。
+    note: {}
+- source: character-material
+  section: prelude-explanation
+  order: 4
+  category:
+  - organization
+  img: ""
+  en:
+    content: |-
+      A self-preservation agency formed by practitioners of magecraft, regardless of nationality or race (of course, in name only).
+      Its directive was to control, conceal, and further develop magecraft.
+      The Association had the martial power to protect itself from those who threaten its existence. It also possessed facilities for the further development of magecraft. The Association enforced a set of laws that prevented the criminal use of magecraft.
+      At the moment, the center of the Association resided in London.
+    note: {}
+  ja:
+    content: |-
+      国籍・ジャンルを問わず、魔術を学ぶ者たちによって作られた自衛団体。（無論、名目上ではある）
+      魔術を管理し、隠匿し、その発展を使命とする。
+      自らを脅かすモノたちから身を守る為に武力を持ち、魔術の更なる発展の為の研究機関を持ち、魔術による犯罪を抑止する為の法律を敷く。
+      現在、協会の中心地はロンドンとされている。
+    note: {}
+  zh:
+    content: |-
+      不论国籍，不论人种，由学习魔术的人们建立的自卫团体。(当然，是名义上的)
+      以管理、隐藏、发展魔术为使命。
+      保有从威胁自身存在者的手中保护自身的武力，拥有以进一步发展魔术为目的的研究机构，并广泛施行着预防魔术被用于犯罪的法律。
+      现时，协会的中心位于伦敦。
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 11
+  category:
+  - organization
+  img: ""
+  en:
+    content: |-
+      An organization created to protect those who seek to learn magecraft, regardless of nationality or field of study. Their mission is the management, concealment, and advancement of magecraft. The Association maintains a huge range of research institutions to pursue new heights in magecraft, and the necessary fighting forces to protect the organization. Comprises three great branches: the Clock Tower in London, the Atlas Institute (“Giant’s Pit”) in Egypt, and the Wandering Sea (“Sea of Estray”) in northern Europe. The Clock Tower currently serves as headquarters of the Association. In <em>Fate/Zero</em>, Tokiomi, Kayneth, Sola-Ui, and Waver are members of the Association.
+    note: {}
+  ja:
+    content: |-
+      あらゆる国籍、ジャンルを問わず、魔術を学ぶものたちによって運営される自衛団体。魔術の管理、秘匿、研究発展を使命としており、自分たちの身を守るための武力や、魔術発展のための巨大な研究機関を保有する。現在はロンドンの「時計塔」を総本部としているが、現在でもエジプトの「アトラス院（巨人の穴倉）」や北欧の「彷徨海」といった三大部門に分かれていたという。本編では時臣、ケイネス、ソラウ、ウェイバーなどが所属。
+    note: {}
+  zh:
+    content: |-
+      所有国籍，不问流派[Genre]，由学习魔术者们运营的自卫团体。以魔术的管理，隐匿，研究发展为使命，保有保护自身的武力，和为发展魔术的巨大研究机关。目前有在伦敦[London]作为总本部的“时计塔”，且现在还分成埃及[Egypt]的“阿特拉斯[Atlas]院（巨人的地窖）”和北欧的“彷徨海”这三大部门。本篇的时臣，肯尼斯[Kayneth]，索菈乌[Sola-Ui]，韦伯[Waver]等所属。
+    note: {}
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 21
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Consists of the three great branches: the Clock Tower, the Atlas Institute, and the Wandering Sea{{n1}}. The Clock Tower serves as headquarters for the association.
+    note:
+      n1: "Also known as Sea of Astray or Sea of Estray."
+  ja:
+    content: |-
+      本部である時計塔のほか、アトラス院、彷徨海を3大組織とする魔術師の互助会。
+    note: {}
+  zh:
+    content: |-
+      由本部的时计塔、阿特拉斯院、彷徨海这三大组织构成的魔术师互助会。
+    note: {}

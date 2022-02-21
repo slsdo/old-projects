@@ -1,0 +1,36 @@
+---
+id: islo-sebunan
+
+en: i
+ja: i
+furigana: いすろーせぶなん
+title:
+  en: Islo Sebunan
+  ja: イスロー・セブナン
+  zh: 伊斯洛·瑟布南
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 9
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A seamster working for the Iselma family.
+      The dresses of the Princesses of Gold and Silver were made by his hands. His hair was tied up in a showy manner, and his speech was slow and faltering.
+      He was childhood friends with the true culprit Maio, as well as the Princesses of Gold and Silver and their attendant maids. He was aware of Maio’s feelings for Diadra, the Princess of Gold, since long ago. When the true culprit was revealed, he must have been more shocked than anyone else.
+    note: {}
+  ja:
+    content: |-
+      イゼルマに仕える織り手。
+      黄金姫、白銀姫のドレスは彼の手によるものである。髪を編み込んだ派手な見かけと打って変わって、訥々とした喋り。
+      真犯人だったマイオや、黄金姫、白銀姫、またふたりのメイドとは幼馴染。マイオが黄金姫ディアドラに寄せた淡い想いも、古くから知っていた。真犯人が明らかになったとき、最も衝撃を受けたのは彼だったろう。
+    note: {}
+  zh:
+    content: |-
+      为伊泽路玛效力的裁缝。
+      黄金公主、白银公主的礼裙就是由他亲手裁制的。将头发编织起来的花哨打扮，以及与外表截然不同的吞吞吐吐的说话方式。
+      与真凶麦奥、黄金公主、白银公主以及两位女仆是发小。从很久以前起就知道麦奥对黄金公主蒂娅德拉淡淡的恋慕。想必真凶揭晓时，受到最深冲击的人就是他吧。
+    note: {}

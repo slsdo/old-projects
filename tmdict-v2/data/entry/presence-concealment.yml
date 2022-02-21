@@ -1,0 +1,73 @@
+---
+id: presence-concealment
+
+en: p
+ja: ke
+furigana: けはいしゃだん
+title:
+  en: Presence Concealment
+  ja: 気配遮断
+  zh: 气息遮断
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 54
+  category:
+  - skill
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      {{missing}}
+    note:
+      n1: "Entry title from the glossary is “Presence Concealment Skill.”"
+  ja:
+    content: |-
+      {{n1}}
+      アサシンに付与されるクラス別能力。その名の通りサーヴァントとしての気配を遮断する能力で、隠密行動に適している。高ランクの「気配遮断」を持つサーヴァントが完全に気配を絶った場合、ほぼ発見されることはない。ただし、攻撃態勢に移ると、スキルランクは大幅に落ちてしまう。
+    note:
+      n1: "気配遮断スキル"
+  zh:
+    content: |-
+      {{n1}}
+      付与Assassin的职阶[Class]特别能力。正如其名是将Servant的气息遮断的能力，适合隐秘行动。持有高Rank“气息遮断”的Servant在完全切断气息的场合下，几乎不会被发现。不过，转为攻击状态时，技能[Skill]Rank会大幅度降低。
+    note:
+      n1: "书中词条的标题是：“气息遮断技能”。"
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 53
+  category:
+  - skill
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      A skill that conceals the user and their actions. Usually only used by fighting-type heroic spirits who do not specialize in magic.
+      To the Skull Assassin Hassan, this skill was his one and only advantage that no one could surpass, but EXTRA’s amazing Li Shuwen brings it back as a completely new method of concealment:
+      “By melding your breathing and nature into one, you become transparent.”
+      It’s a curious skill that makes people wonder:
+      “If it’s a skill that prevents you from being detected, isn’t it just the same thing as any other Presence Concealment?”
+      In CCC Passionlip is rather fond of using this skill, but when she moves her claws make sound scraping along the ground, and the enemy ends up finding her. So she can’t use it for much more than gazing at the protagonist from the shadows. Isn’t that wonderful?
+    note:
+      n1: "Officially localized as Obfuscation."
+  ja:
+    content: |-
+      姿を隠して行動するスキル。基本的に魔術に頼らない武術系の英霊が修得している。
+      髑髏の暗殺者・ハサン先生にとって唯一のアドバンテージだったが、EXTRAアサシン・書文大先生の
+      『天地と呼吸を一つにする事で透明になる』
+      というまったく新しい隠行法の登場によって、
+      「見つからない技なら、もう何でも気配遮断スキルなんじゃねーの？」
+      と言われつつある不思議スキル。
+      CCCではパッションリップもこのスキルを得意とするが、移動すると爪が起こす擦過音で相手に見つかってしまうため、陰から主人公を眺める程度にとどまっている。ヨカッタネ。
+    note: {}
+  zh:
+    content: |-
+      隐藏身姿而行动的技能。由基本并非依赖魔术而是武术系的英灵所习得。
+      对于骷髅的暗杀者·哈桑先生来讲是唯一的优势了，但是EXTRA的Assassin·书文大老师却操弄着
+      “天地与呼吸一体化而变透明”
+      的新的隐形法登场，有着
+      “没见过的技能啊，这究竟是怎样的气息遮断技能呐？”
+      这样说法的不可思议的技能。
+      CCC的Passionlip也擅长这个技能，不过因为移动时爪子所发出的摩擦音会导致被对手发现，所以一直是在阴影处眺望主人公的程度而已。真是太好了。
+    note: {}

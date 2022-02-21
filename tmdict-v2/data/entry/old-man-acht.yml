@@ -1,0 +1,30 @@
+---
+id: old-man-acht
+
+en: o
+ja: a
+furigana: あはとおきな
+title:
+  en: Old Man Acht
+  ja: アハト翁
+  zh: 亚哈特老人
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 25
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Old Man Acht is a nickname for Jubstacheit von Einzbern, the current head of the Einzbern family. “Acht” comes from the German word for eight (“acht”) since Jubstacheit is the eighth head of the family.
+    note: {}
+  ja:
+    content: |-
+      アインツベルンの現当主、ユーブスタクハイト・フォン・アインツベルンの通称。八代目の当主であることから、ドイツ語の8（アハト）が語源となっている。
+    note: {}
+  zh:
+    content: |-
+      爱因兹贝伦[Einzbern]的现家主，尤布斯塔库哈依德·冯·爱因兹贝伦[Jubstacheit·von·Einzbern]的通称。因为是第八代的家主，故德语[German]的8（Acht）为其词源。
+    note: {}

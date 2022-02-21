@@ -1,0 +1,51 @@
+---
+id: spellcasting
+
+en: s
+ja: shi
+furigana: じゅもんえいしょう
+title:
+  en: Spellcasting
+  ja: 呪文詠唱
+  zh: 咒文咏唱
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 25
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      A necessary step in the activation of magecraft.
+      While utilizing an established school of magecraft, one must strictly follow a set protocol. Spellcasting is one step in this protocol.
+      An analogy would be the application process of a document, which would include application, acceptance, review, and finally issuance. Spellcasting would be the “application” step.
+      In the case of utilizing magecraft with a broad Foundation, spellcasting is mostly a convention. However, for those who practice their own style of magecraft, spellcasting has potent self-suggestive powers.
+      In the bodies of magi, the Magic Circuits which shape magecraft already exist.
+      Incantations are the “personal adage” that help the magi transform themselves. They are a method to efficiently activate and mobilize the Magic Circuits.
+      Spellcasting is not a method to speak to the World, but a method to speak to oneself. Even for the same spell, different magi will utilize different incantations due to their distinct natures.
+      As an aside, spells that speak to the World rather than oneself are classified as Grand Spells or Grand Rituals, and it is impossible for an individual to use such spells.
+    note: {}
+  ja:
+    content: |-
+      魔術を発動させるために必要となるもの。
+      一流派として安定した魔術を使用する際は、定められた形式通りに手順を踏まねばならず、その一端が呪文である。
+      手続きで言うのなら、申請、受理、審査、発行のうち、最初の申請である。
+      大きな基盤を持つ魔術行使に関しては約束事でしかないが、自己流の魔術行使の場合は自己暗示として効力の方が大きい。
+      魔術師の体には、魔術を成す為の魔術回路が作られている。
+      この魔術回路を効率よく起動・作動させる方法の一つとして、自らを作り変える『決り文句』である呪文が作られた。
+      呪文は世界に訴えるものではなく自身に訴えるもの。同じ魔術であれ、魔術師ごとに呪文詠唱が異なるのは術者の人間性の違いという事だ。
+      余談ではあるが、自身ではなく世界に訴えかける呪文は大呪文、大儀式の類[たぐい]であり、一個人での使用は不可能とされる。
+    note: {}
+  zh:
+    content: |-
+      发动魔术必需之物。
+      使用作为一个流派安定下来的魔术的时候，不按照既定的形式一步一步来的话不行，而其中一环就是咒文。
+      比照手续来说的话，是申请、受理、审查、发行中，最初的申请。
+      对于行使拥有大基盘的魔术来说只是一种规定，但对行使自创魔术的场合来说自我暗示方面的效力更大。
+      在魔术师体内，形成魔术用的魔术回路已经被制作出来。
+      作为使这魔术回路高效率地起动、作动的方法之一，转变自己的“口头禅”即咒文被造了出来。
+      咒文不是对世界倾诉之物而是对自身倾诉之物。即使是同样的魔术，依魔术师不同咒文咏唱也有异正是因为术者人性的不同。
+      虽是余谈，不是对自身而是对世界倾诉的咒文属于大咒文、大仪式之列，单人的使用是不可能的。
+    note: {}

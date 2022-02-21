@@ -1,0 +1,34 @@
+---
+id: strike-air
+
+en: s
+ja: su
+furigana: すとらいくえあ
+title:
+  en: Strike Air
+  ja: 風王鉄槌
+  zh: 风王铁槌
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 89
+  category:
+  - technique_alt
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      風王結界を解放することで突風を放つセイバーの技。アインツベルンの森で、キャスターの召喚した怪魔たちの壁を突き破った。また初戦のランサー戦では、全魔力を集中して後方に放つことによって突進の爆発的な推進力としても使用した。3D対戦格闘ゲーム「Fate/unlimited codes」においては必殺技のひとつとして登場している。
+    note:
+      n1: "ストライク・エア"
+  zh:
+    content: |-
+      {{n1}}
+      通过解放风王结界来放出阵风的Saber之技。在爱因兹贝伦[Einzbern]之森冲破了Caster所召唤的怪魔群之壁。另外在初战的Lancer战中，通过集中全魔力朝后方放出，当作冲刺时爆发式推进力而使用了。在3D对战格斗游戏[Game]《Fate/unlimited codes》中作为必杀技之一登场。
+    note:
+      n1: "Strike·Air"

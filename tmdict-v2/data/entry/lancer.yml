@@ -1,0 +1,78 @@
+---
+id: lancer
+
+en: l
+ja: ra
+furigana: らんさー
+title:
+  en: Lancer
+  ja: ランサー
+  zh: Lancer
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 99
+  category:
+  - servant
+  img: ""
+  en:
+    content: |-
+      Heroic Spirit of the lance. Requires supreme agility, as well as excellent close combat skills. Though they tend to be less flashy than the other classes, they are a very reliable type of Servant.
+      The Lancer in the story has a rough and tumble personality, but at his core he believes in justice and is easy to get along with. He is an agreeable youth acting out the role of one gentle in disposition yet strong in body.
+      His true identity is the great Celtic hero, Cu Chulainn.
+      If the stage of this Holy Grail War were anywhere but Japan, he would be a shining existence on par with Heracles and King Arthur.
+      As was mentioned in the story, he is a Heroic Spirit that specializes in survival, capable of returning alive no matter how hopeless the situation. Unfortunately, this time luck wasn’t on his side.
+      It is said that in the midst of battle he would unleash a fearsome war cry, and at the same time his body would swell and bulge with muscle as his behavior became like that of a demon.
+      However, though he possesses the qualifications to be a Berserker there is no doubt that the Lancer class suits him best.
+      He responded to the summoning solely because he wanted to engage in a valiant fight to the death, but this simple wish was never granted to him.
+      He is a tragic Servant, who embodies the cynical notion that “wishes don’t come true.”
+    note: {}
+  ja:
+    content: |-
+      槍兵の英霊。最高の敏捷性を求められ、白兵戦にも優れた能力が求められる。
+      華やかさはないが堅実なサーヴァントタイプ。
+      粗野で暴力的な性格だが、根は正義の人で人懐っこい。
+      気は優しくて力持ち，を地で行く好青年である。
+      正体はケルトの大英雄クーフーリン。
+      この聖杯戦争の舞台が日本でなければ、ヘラクレスやアーサー王に並ぶ光り輝く存在だったろう。
+      本編でも述べられた通り、生き延びる事に特化した英霊。
+      どのような死地からも生還するが、今回は運が無かった、と言わざるを得ない。
+      曰く、“戦闘時では雄叫びと共に体が盛り上がり、悪鬼の如く振舞った”とか。
+      バーサーカーの条件も備えた人物だが、やはり彼に はランサーが似合っていよう。
+      “死力を尽くした闘い”を求め、それを代償として召喚に応じたランサーだが、願いが叶えられた事は一度も無かった。
+      願いとは叶えられないもの、という皮肉さを体現した悲運のサーヴァントである。
+    note: {}
+  zh:
+    content: |-
+      枪兵的英灵。要求最高的敏捷性，同时也要求出色的白刃战能力。
+      不华丽但稳健的从者类型。
+      虽是粗野暴力性格，但骨子里是关心别人的正义之人。
+      脾气和善而有力量，脚踏实地的好青年。
+      正体是凯尔特人的大英雄库夫林。
+      这次圣杯战争的舞台若不是在日本，是能与赫拉克勒斯和亚瑟王的并列闪耀的存在。
+      跟本篇的叙述一样，专门特化生存延续能力的英灵。
+      无论处在怎样的死地都能生还。不过不得不说，这次很没有运气 。
+      有云，“战斗时身体与呐喊一起高涨，如恶鬼一般的行动”
+      也是具备Berserker条件的人，但果然还是Lancer和他更适合的样子。
+      追求“竭尽全力的战斗”，以此为代价回应了主人召唤的Lancer，但就算那样的愿望也没有被实现过一次 。
+      可以说是将无法实现的愿望，讽刺地具现了的悲运之从者。
+    note: {}
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 62
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      第5次聖杯戦争における槍兵のサーヴァント。主に開店時間から昼過ぎ、及び週末のアーネンエルベでウェイターとして働いており、ランチタイムには彼目当てに来店するご婦人方も多いとか。その後は学校帰りのひびちかと交代して、次のバイトに向かったり今日の晩御飯を釣りに行ったりしている模様。だめだあの教会の連中、早くなんとかしないと。
+    note: {}
+  zh:
+    content: |-
+      第五次圣杯战争中枪兵的Servant。主要是从开店时间到午后，以及周末在Ahnenerbe作为男招待[Waiter]工作着，午饭时间[Lunchtime]冲着他而来店的女性有不少。而后与从学校归来的响键交接，然后去往下一个打工，去钓今天的晚饭的样子。不行啊那帮教会的家伙，不早点做点什么的话。
+    note: {}

@@ -1,0 +1,50 @@
+---
+id: god-hand
+
+en: g
+ja: shi
+furigana: じゅうにのしれん
+title:
+  en: God Hand
+  ja: 十二の試練
+  zh: 十二试炼
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 38
+  category:
+  - other
+  - curse
+  img: ""
+  en:
+    content: |-
+      Twelve Labors.
+      Immortality granted by a blessing (curse) from the gods. It transforms the user’s body into powerful armor that nullifies all attacks of Rank B and below.
+      On top of that, it has a revival effect that automatically activates upon death. The number of revivals in stock is eleven.
+      …In that case, could it be? The reason Berserker’s body was colored like lead and covered in weird protrusions was all because of God Hand!?
+      Anyway, putting it fighting game terms, it’s a ridiculous Noble Phantasm that applies Super Armor + No Damage to every attack outside of Super Combos.
+      You’re strong, Berserker.
+    note: {}
+  ja:
+    content: |-
+      ゴッドハンド。
+      神の祝福(呪い)によって得た不死性。
+      自身の肉体を屈強な鎧と化し、ランクB以下の攻撃を全て無効化 する。
+      加えて、死亡しても自動的に蘇生（レイズ）がかかるオマケっき。
+      蘇生のストック数は十一回。
+      ……となると、バーサーカーの体が鉛色だったり肘とか変形していたりするのはゴットハンドのせいなのかしら！？
+      まー、格闘ゲームでいうならスーパーコンボ以外の攻撃はぜんぶスーパーアIマー+ノーダメージつつー デタラメ宝具。
+      そりゃ最強だわ。
+    note: {}
+  zh:
+    content: |-
+      God Hand。
+      因为神的祝福(符咒)而得到的不死性。
+      自己的肉体化为坚硬的铠甲，B级以下攻击全部无效化 。
+      另外，还具有死亡后自动地复活(Raise)附加特性。
+      复活的次数是十一回。
+      ……说起来，Berserker的身体是铅灰色，肘是变形的啦之类的，也是God Hand的原因！？
+      若以格斗Game来说，就是那种有着可以抵消除了Super Combo以外的Super Armor + No Damage的无赖宝具。
+      这是其最强之处。
+    note: {}

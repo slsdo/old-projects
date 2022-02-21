@@ -1,0 +1,30 @@
+---
+id: ua-
+
+en: u
+ja: u
+furigana: うぁ
+title:
+  en: Ua—
+  ja: うぁー
+  zh: 唔啊~
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 9
+  category:
+  - phrase
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      千鍵がときおり発する謎の呻き声。仙台エリさんの演技が素晴らしい。
+    note: {}
+  zh:
+    content: |-
+      千键偶尔发出的迷之呻吟声。仙台惠理的演技真的赞啊。
+    note: {}

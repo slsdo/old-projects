@@ -1,0 +1,54 @@
+---
+id: grail-dialogue
+
+en: g
+ja: se
+furigana: ひじりはいもんどう
+title:
+  en: Grail Dialogue
+  ja: 聖杯問答
+  zh: 圣杯问答
+
+entry:
+- source: fate-zero-material
+  section: fate-zero-encylopedia
+  order: 26
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      The three-way confrontation between Saber, Gil, and Alexander in volume 2. A serious discussion under the guise of a drinking party. Well, it might not have looked that way to bystanders, but the three of them were all definitely being serious in their own way.
+      I’d actually been planning this scene ever since the very first draft proposal, trying to think of the best way to handle it. After all, if I’d just had them all duke it out with their ridiculously destructive Noble Phantasms, they’d kill each other long before they ever reached an understanding through battle.
+      …But now that I think about it, it just ended up turning into a social mixer to kick off Gil and Saber’s relationship, didn’t it?
+    note: {}
+  ja:
+    content: |-
+      Zero2巻のオビにまで煽られたセイバー、ギル、イスカンダルによる三つ巴対決の正体。飲み会の名を借りた真剣英霊しゃべり場。果たして真剣だったのかどうだか傍目には微妙な人もいるにはいたが、いやいや、三者三様それなりに真剣だったのですよ？
+      このエピソードについては最初期段階の企画書から構想があった。何故って、王様連中はどいつもこいつも宝具とかアレすぎて、戦いを通じて解り合うには致命的なまでに破壊力絶大すぎたがら。
+      ――いやまて、これだとギル様とセイバーの馴れ初めは合コンだったという結論になるのか？
+    note: {}
+  zh:
+    content: |-
+      Zero第二卷的书腰特别提到的赛八、Gil、亚历山大三方对决的真面目。假借酒会为名的英灵正经的议事场。虽然也有让旁观者怀疑到底认不认真的微妙的傢伙在，不对，三人都有一定的认真喔？
+      这段剧情在最初阶段的企划书就存在了，要说为什么的话就是因为这几个王的宝具都太那个，要以拳交心的话破坏力实在太过强大了。
+      ――等等，这么说来，以结论来说的话这就是Gil大人和赛八初次相识的联谊了吗？
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 99
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      セイバー、アーチャー、ライダーがそれぞれ、誰が聖杯の持ち主としてふさわしいか、王の器を競い合う問答。自らの「王道」を否定され、ライダーの宝具を目の当たりにしたセイバーは反論することはできなかった。だが、アーチャーはそのセイバーに興味を持つきっかけとなった。余談だが、三者の王道はそれぞれ等価値であり、一方が優れている、という事はない。
+    note: {}
+  zh:
+    content: |-
+      Saber，Archer，Rider以谁更适合成为圣杯的持有者，竞争各自王之气度的问答。对自己的“王道”被否定，目睹了Rider的宝具的Saber无可辩驳。不过，这也成了Archer对Saber感兴趣的契机。说句多余的话，三者各自的王道是等价的，并没有哪一方更优秀这回事。
+    note: {}

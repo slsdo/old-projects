@@ -1,0 +1,45 @@
+---
+id: unused
+
+en: u
+ja: mi
+furigana: みしよう
+title:
+  en: Unused
+  ja: 未使用
+  zh: 未使用
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 92
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      Assets that were created, but never used. Primarily refers to character sprites.
+      I don’t know what made us think it would be a good idea, but going into <em>Fate/stay night</em> we had this crazy idea to have a far, middle, and zoom version of every single sprite in the game.
+      By the time we were finished, we had over 3600 images just counting the character sprites alone. It was totally ridiculous, and there was no way we could possibly use them all. If we had kept them the game would have taken up four whole discs, so we tearfully went through and deleted everything that went unused.
+      Next time, let’s shoot for a little more optimization. I’m thinking a nice, simple game that you can beat in two hours, how’s that sound?
+    note: {}
+  ja:
+    content: |-
+      作ったはいいが、使われるコトのなかった素材のコト。
+      おもに立ち絵を指す。
+      よせばいいのに、「今回は立ち絵全てに遠距離・中距離・近距離を作ります」なんてコンセプトで始まった「Fate」。
+      完成時には立ち絵だけで3600枚というパカっぷり。
+      もちろん全て使い切るなんてコトはできず、このままではCD四枚組になってしまうので、使用しない立ち絵は泣く泣く削られたとさ。
+      次はもっと最適化しようぜみんな。
+      目指せ1プレイ2時間のお手軽ゲー。
+    note: {}
+  zh:
+    content: |-
+      虽然做好了，但却没被使用的素材。
+      主要指的是立绘。
+      以“这次的立绘全部要做远、中、近距离”之类《Fate》开始的理念，也只能停止了。
+      在完成时光立绘就有3600多张。
+      当然不可能全部用完，因为这样就会变成4张CD一套了，未使用的立绘就边哭着边被削掉了。
+      下次让我们会更加完善的。
+      目标1周目2小时的简单游戏。
+    note: {}

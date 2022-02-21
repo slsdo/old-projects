@@ -1,0 +1,61 @@
+---
+id: brynhildr-romantia
+
+en: b
+ja: fu
+furigana: ぶりゅんひるでろまんしあ
+title:
+  en: Brynhildr Romantia
+  ja: 死が二人を分断つまで
+  zh: 即便死亡将你我别离
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 130
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      Till Death Do Us Part.{{n1}}
+      The anti-mind Noble Phantasm that BB bestows upon the Alter Egos.
+      This Noble Phantasm is the product of an illegal modification to a normal Noble Phantasm, so its name and effects deviate slightly from the original.
+      The Servant that became the material used for this Noble Phantasm is the Valkyrie Brynhildr from the <em>Volsunga Saga</em>.
+      This Noble Phantasm is the spear of love and hate that Brynhildr brandishes to get her revenge on her husband Sigurd who betrayed her and damaged her honor and reputation.
+      Strictly speaking it’s not a true spear. It is Brynhildr’s intense feelings of love and hate toward her husband that have taken the shape of a spear.
+      The deeper the love one has for the target of this Noble Phanstasm, the more accurate and damaging it becomes. This weapon will never let their loved one get away, even if their love is completely one-sided.
+      The immediate death effect comes from Passionlip’s Trash & Crash.
+      By the way, the original design had a grab-and-throw move.
+      If it locked on to you, you were done for. It would also increase Passionlip’s defense rating 10x, putting her in a super armored state where there is no worry of being significantly damaged. Passionlip advances like a heavy tank, and her claws that changed into the shape of lips would devour the enemy.
+      Then, due to using too much power when clenching her claws, her claws would pierce through herself, and both her and her target would take huge damage, and both be wiped out… or something like that.
+    note:
+      n1: "Can be translated more literally as ”Until Death Divide the Two Apart.”"
+  ja:
+    content: |-
+      ブリュンヒルデ・ロマンシア。
+      BBがアルターエゴに与えた対心宝具。
+      アルターエゴたちの宝具は正規の宝具を違法改造したもので、その名前も性能も、奪い取った.兀ネタからちょい乖離している。
+      材料になったサーヴァントは『ヴォルスンガ・サガ』に登場するワルキューレ、ブリュンヒルデ。
+      自分を裏切り、その名誉を傷つけた夫シグルズへの復讐のために振るわれた愛憎の槍。
+      厳密には、槍そのものではなく、ブリュンヒルデのシグルズに対する深い愛情と憎悪が槍の形を取ったもの。
+      対象への愛情が深ければ深いほど、命中精度とダメージ数値を増していく。たとえそれが一方通行のものであったとしても、愛した相手は決して逃さない。
+      即死効果が付与しているのは、リップの『トラッシュ＆クラッシュ』によるもの。
+      ちなみに、初期案では投げ技だった。
+      相手をロックオンしたが最後、防御力は十倍に増大。ダメージを受けてもひるまないスーパーアーマー状態で重戦車のように近づいていき、唇を思わせるカタチに変形した爪で相手を捕食する。
+      その際、いきおい余って爪はリップ自身をも貫き、二人とも大ダメージを受け、共倒れになる……みたいな。
+    note: {}
+  zh:
+    content: |-
+      Brynhildr Romantia。
+      BB赋予给Alter Ego的对心宝具。
+      Alter Ego们的宝具是正规宝具违法改造而来的东西，其名称和性能都与所夺来的原出处稍微有些背离。
+      被当作材料的Servant是在《沃尔松格萨迦[Volsunga Saga]》里登场的女武神，布伦希尔德。
+      为了向背叛了自己并且败坏了自身声誉的丈夫齐格鲁德[Sigurd]复仇而挥舞出的爱恨之枪。
+      严密来说并不是枪本身，而是布伦希尔德对齐格鲁德的深厚爱情与憎恶变成了枪的形态。
+      对于对象的爱情越深，命中准确度和伤害数値就越大的宝具。尽管那是单方面的爱情，也绝对不会把心爱的对象放跑。
+      会赋予即死效果，是由于Lip的“Trash & Crash”的缘故。
+      顺道一提，初期方案是摔投技。
+      锁定对手的最后，防御力十倍增大。以就算受到伤害也毫不动摇的super armor状态像是重型坦克一样逼近，以变形成令人想到嘴唇外形的爪子将对手捕食。
+      在那时，剩余的爪子连同Lip自身贯通，二人均受到巨大伤害，一同倒下……像是这样的。
+    note: {}

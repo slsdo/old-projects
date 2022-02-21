@@ -1,0 +1,45 @@
+{
+  "version": "1.4.1",
+  "language": ["en","zh","ja"],
+  "en": {
+    "index": "Home",
+    "about": "About",
+    "site": "Site",
+    "misc": "Misc",
+    "search": "Search",
+    "book": "Book",
+    "link": "Link",
+    "return": "Return",
+    "notes": "Translator's Notes",
+    "report": "report error"
+  },
+  "ja": {
+    "index": "ホーム",
+    "about": "に関して",
+    "site": "サイト",
+    "misc": "その他",
+    "search": "検索",
+    "book": "書",
+    "link": "リンク",
+    "return": "リターン",
+    "notes": "翻訳者注",
+    "report": "エラー報告"
+  },
+  "zh": {
+    "index": "首页",
+    "about": "关于",
+    "site": "网站",
+    "misc": "其他",
+    "search": "搜索",
+    "book": "书本",
+    "link": "链接",
+    "return": "返回",
+    "notes": "译者注",
+    "report": "报告错误"
+  },
+  "side": {
+      "en": "<p>TMdict is a growing collection of glossaries from works by Type-Moon.</p><p>It presents the content in a light-weight, simple format that can be sorted and searched.</p><p>There are currently <span class=\"highlight\">661</span> terms, under <span class=\"highlight\">60</span> categories, from <span class=\"highlight\">12</span> sources, and available in <span class=\"highlight\">3</span> languages: <span class=\"highlight\">English</span>, <span class=\"highlight\">Chinese</span>, and <span class=\"highlight\">Japanese</span>.</p><h3>Contribute</h3><p>Have a question? Find an error? Want to contribute? <a href=\"site.html#site-contact\">Contact us</a>!</p>",
+      "ja": "<p>TMdict は、ゲーム、書籍、アニメなどTYPE-MOON の作品のボキャブラリーを収録していくプロジェクトです。</p><p>コンテンツは軽量かつシンプルなフォーマットで、用語の検索や並べ替えが可能です。</p><p>現時点で<span class=\"highlight\">661</span>の用語を<span class=\"highlight\">12</span>件のソースから収録。<span class=\"highlight\">60</span>のカテゴリーに分類し、<span class=\"highlight\">英語</span>,、<span class=\"highlight\">中国語</span>,、<span class=\"highlight\">日本語</span>,の3ヵ国語で掲載しています。</p><h3>支援</h3><p>ご質問やエラーのご連絡、またご協力については<a href=\"site.html#site-contact\">お問い合わせください</a>。</p>",
+      "zh": "<p>型月辞典是一个在不断扩展的，以Type-Moon游戏，书，动漫等作品的词条为基础的网站。</p><p>本网站注重构造简单，方便快捷的模式，并提供一些简单的分类和搜索功能。</p><p>目前网站整理了<span class=\"highlight\">661</span>个用语，为<span class=\"highlight\">60</span>个类别，来自<span class=\"highlight\">12</span>个来源，提供<span class=\"highlight\">3</span>种语言：<span class=\"highlight\">英文</span>，<span class=\"highlight\">中文</span>和<span class=\"highlight\">日文</span>。</p><h3>应援</h3><p>有问题？碰到错误或不顺的地方了？想帮忙翻译或整理资源？请<a href=\"site.html#site-contact\">联系我们</a>！</p>"
+  }
+}

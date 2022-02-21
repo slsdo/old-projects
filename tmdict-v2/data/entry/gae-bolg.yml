@@ -1,0 +1,95 @@
+---
+id: gae-bolg
+
+en: g
+ja: sa
+furigana: さしうがつしなつめのやり
+title:
+  en: Gáe Bolg
+  ja: 刺し穿つ死棘の槍
+  zh: 刺穿死棘之枪
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 36
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      Piercing Spear of Death Thorns.
+      A cursed spear that always pierces the target’s heart.
+      It is an unfair technique that reverses cause and effect, thrusting the spear only after the reality of the heart being hit has already been created.
+      Because the spear has already hit, no matter what sort of evasive maneuvers the target takes it will always reach them in the end.
+      In order to escape from Gae Bolg, you would either need a Noble Phantasm like Berserker’s capable of automatically resurrecting you after death, or enough good fortune (LCK) to throw off the spear’s curse.
+      Putting it in gaming terms, it’s an outrageous Noble Phantasm that scales its damage based on the enemy’s hit points.
+      For instance, if we assume that Saber has 100 HP, then Gae Bolg’s damage would be (Spear Damage) + (100)! As you can clearly see, being hit means certain death.
+      Such convenience comes at a cost of less than a hundred units of magical energy. It’s hard to believe that such an efficient anti-personnel armament exists.
+      Also, it’s a bit of a digression, but this version of Gae Bolg is something Lancer came up with himself.
+      The original Gae Bolg is actually a throwing weapon, and is anti-army rather than anti-personnel.
+    note: {}
+  ja:
+    content: |-
+      ゲイ・ポルク。
+      突けば必ず相手の心臓を貫く呪いの槍。
+      因果を逆転させ、既に心臓に命中している、という 事実を作った後で槍を放つ反則技。
+      もう槍は当たっているのだから、相手がどんな回避行動をしようと結局は当たるのである。
+      ゲイ・ボルクから逃れる為には、パーサーヵーのように一度死亡してから自動的に蘇る宝具か、槍の呪いを援ね退けられる高い幸運（LCK）が必要となる。
+      ゲーム的に言うなら、ダメージ補正が、狙った相手のHP分プラスされる、というトンデモ宝具。
+      仮にセイバーのHPが100だとしたら、ゲイ・ボルクのダメージは（槍のダメージ）+（100）になるのである1そりゃ絶対死ぬわ。
+      このお手軽さで消費魔力は二桁程度。
+      対人においてこれほど無駄のない武装はあるまい。
+      余談ではあるが、このゲイ・ボルクはランサーが自己涜にアレンジしたもの。
+      本来のゲイ？ポルクは投郷宝具で、対人ではなく対軍宝具である。
+    note: {}
+  zh:
+    content: |-
+      Gáe·Bolg
+      刺出之后必定命中对手心脏的诅咒之枪。
+      逆转因果，在做出已经命中心脏的事实后再放出枪的犯规技能。
+      因为已经被枪命中，所以对方无论采取的何种回避行动其结果还是一样。
+      想要逃避Gáe·Bolg的话，除非有像Berserker那样死亡后自动地复活的宝具，或者，将枪的诅咒斥退的那么高的运气（LCK）是必要的。
+      以游戏来比喻，就是给予对方伤害的同时再加上HP伤害修正的那种宝具。
+      假设Saber的HP是100，Gáe·Bolg的伤害就会变成（枪的伤害）+（100）！所以命中的话绝对会死。
+      如此轻易但消费魔力却只是两位数左右。
+      恐怕在对人（宝具）中没有这么不浪费的武装了吧。
+      顺便说下，这个Gáe·Bolg是Lancer自我加工了的东西。
+      原本的Gáe·Bolg是投掷用的宝具，不是对人而是对军的宝具。
+    note: {}
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 51
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      The Piercing Spear Barbed With Death.
+      This is Lancer’s anti-unit Noble Phantasm.
+      Gae Bolg is a cursed crimson spear that was feared for its ability to always pierce the heart of the enemy in a single thrust. This is achieved by reversing causality. The spear is thrust at the enemy only after the result of piercing their heart has been determined.
+      This power is invoked by calling the spears true name, which makes the spear possess the causal result of piercing the enemy’s heart before the spear is even thrust.
+      The spear doesn’t pierce the enemy’s heart because it was thrust; it is thrust because it pierced the enemy’s heart. It’s an attack that alters destiny itself.
+      Gae Bolg can’t be dodged merely through means of high agility. In order to evade its attack the target must have extremely high luck in order to change their fate from even before Gae Bolg is activated.
+      While Gae Bolg is strictly anti-unit and specifically targeting the heart, it’s actually a manifestation of the super power ability to alter destiny. As a Noble Phantasm Gae Bolg is one step away from being classified as an Authority, but that is only to be expected seeing as its wielder is Cu Chulainn, the child of a god. You can’t underestimate Lancer ever even if he seems like he is a pushover.
+    note: {}
+  ja:
+    content: |-
+      ゲイ・ボルク。
+      ランサーの持つ対人宝具。
+      突けば必ず相手の心臓を貫く、と恐れられた呪いの朱槍。その真相は、槍が『心臓に命中した』結果の後に槍を放つ、因果の逆転である。
+      真名によって解放されたランサーの朱槍は、その槍を放つ前に、既に心臓に命中した結果を持つ。
+      放ったから当たった、ではなく、当たったから放った……という、運命そのものに対する攻撃。
+      ゲイ・ボルクを回避するには敏捷値の高さではなく、ゲイ・ボルクの発動前に運命を逆転させる力……幸運値の高さが重要となる。
+      対人、かつ心臓に対してだけのものだが、これは運命を決定させる超抜能力だ。権能一歩手前の宝具だが、それもそのはず、この槍を扱うクーフーリンは神の子である。かませだからといって侮ってはいけない。
+    note: {}
+  zh:
+    content: |-
+      Gáe·Bolg。
+      Lancer所持有的对人宝具。
+      持有刺出去的话必定贯穿对手的心脏，这样如此恐怖的诅咒的红枪。其真相是，枪是在“命中了心脏”的结果后才放出的，对因果的逆转。
+      解放了真名的Lancer的红枪，在枪放出之前，便已经持有了命中心脏这一结果了。
+      并非是放出后而达成，而是因为达成了所以才放出……这样针对命运的攻击。
+      要回避Gáe·Bolg并非要有多高的敏捷，而是要有在Gáe·Bolg发动前逆转命运的力量……相当高的幸运石必要的。
+      对人，特别是对心脏的，这已经是决定命运的超强能力了。离权能仅有一步之遥的宝具，那也是理所当然的，毕竟挥舞这支枪的库丘林是神之子。因此绝对不能有半点轻视。
+    note: {}

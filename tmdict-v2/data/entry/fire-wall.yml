@@ -1,0 +1,30 @@
+---
+id: fire-wall
+
+en: f
+ja: ka
+furigana: かえんじん
+title:
+  en: Fire Wall
+  ja: 火炎陣
+  zh: 火炎阵
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 15
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      時臣が雁夜戦で使用した攻性防御の陣。遠坂家の家門を模した形状をしており、触れたものすべてを焼き尽くす。
+    note: {}
+  zh:
+    content: |-
+      时臣在雁夜战时使用的攻性防御之阵。做出仿照了远坂家家门的形状，对接触到的东西全部烧尽。
+    note: {}

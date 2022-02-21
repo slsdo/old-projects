@@ -1,0 +1,30 @@
+---
+id: persepolis
+
+en: p
+ja: he
+furigana: ぺるせぽりす
+title:
+  en: Persepolis
+  ja: ペルセポリス
+  zh: 波斯波利斯
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 46
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      イスカンダルに征服された古代ペルシア帝国の都。現代のイランに位置する。
+    note: {}
+  zh:
+    content: |-
+      被伊斯坎达尔[Iskandar]征服的古代波斯[Persia]帝国的都城。位处现代的伊朗[Iran]。
+    note: {}

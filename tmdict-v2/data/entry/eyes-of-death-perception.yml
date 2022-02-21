@@ -1,0 +1,42 @@
+---
+id: eyes-of-death-perception
+
+en: e
+ja: chi
+furigana: ちょくしのめ
+title:
+  en: Eyes of Death Perception
+  ja: 直死の眼
+  zh: 直死之眼
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 32
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      Ryougi Shiki’s special ability. Although it has some characteristics that are similar to the Mystic Eyes in magecraft, it is classified as an psychic power. 
+      Eyes of Direct Death allows the user to perceive the conceptual “Death of an Existence” as visual signals. Death emerges to the surface of an existence{{n2}} as lines. Cutting along the lines will result in “Death,” regardless of the constitution or properties of the object. 
+      Ryougi Shiki acquired this power after spending two years in a comatose state and contacted “ ” (kara) for a prolonged period of time. Shiki’s body already had the ability to perceive the Lines of Death, the accident merely awakened this power. 
+      Of course, Eyes of Direct Death is only one aspect of the powers of this body called “Ryougi Shiki.”
+    note:
+      n1: "Literal translation should be “Eyes of Direct Death.”"
+      n2: "Objects, animals, etc."
+  ja:
+    content: |-
+      式の持つ異能。魔眼と呼ばれる魔術行使と似た性質を持つが、分類的には超能力。
+      概念でしかない『存在の死』を視覚情報として捉える事が出来る。死は線となって存在の表面に浮き彫りにされ、その線を裂かれたモノは材質・性質問わずに『死』に至る。
+      二年間に亘[わた]る昏睡[こんすい]状態によって長く「　」に触れていた為、両儀式が持ってしまった力。もともと式という体に死の線を視る機能があり、事故によって覚醒しただけの話。
+      もっとも、直死の眼は『両儀式』という体が持つ機能の一端にすぎないのだが。
+    note: {}
+  zh:
+    content: |-
+      式持有的异能。虽与被称为魔眼的魔术行使有相似的性质，但分类上是超能力。
+      能将只是概念的“存在之死”作为视觉情报来理解。死成为线浮现在存在的表面，此线被切开之物不问材质、性质而到达“死”。
+      由于长达两年的昏睡状态而长期接触“ ”的关系，两仪式得到的力量。原本式这个身体就有看到死线的机能，只是由于事故而觉醒而已。
+      当然，直死之眼只不过是“两仪式”这个身体持有的机能的一部份。
+    note: {}

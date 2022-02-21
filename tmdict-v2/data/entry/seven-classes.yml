@@ -1,0 +1,30 @@
+---
+id: seven-classes
+
+en: s
+ja: na
+furigana: ななつのくらす
+title:
+  en: Seven Classes
+  ja: 七つのクラス
+  zh: 七个职阶
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 22
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      Each Servant is summoned into a specific class. The seven classes consist of Saber (Knight of the Sword), Archer (Knight of the Bow), Lancer (Knight of the Lance), Rider (Mounted Soldier), Caster (Magus), Berserker (Mad Warrior), and Assassin (Assassin). A hero’s nature and attributes affect the class under which they may be summoned. Servants are typically referred to by their class name, to prevent their True Name from being revealed, which could hint at their weaknesses should an opponent pick up on it.
+    note: {}
+  ja:
+    content: |-
+      召喚されたサーヴァントに割り振られる属性。クラスはセイバー（剣の騎士）、アーチャー（弓の騎士）、ランサー（槍の騎士）、ライダー（騎乗兵）、キャスター（魔術師）、バーサーカー（狂戦士）、アサシン（暗殺者）の全7種類。どのクラスが割り当てられるかは、もとになった英霊の資質が大きく影響する。弱点の露見を防ぐ意味でも、真名ではなくこのクラス名でサーヴァントたちを呼ぶことがほとんど。
+    note: {}
+  zh:
+    content: |-
+      分配给被召唤的Servant的属性。职阶[Class]有Saber（剑之骑士），Archer（弓之骑士），Lancer（枪之骑士），Rider（骑乘兵），Caster（魔术师），Berserker（狂战士），Assassin（暗杀者）全7种类。被分配到哪个职阶[Class]，会很大程度受原本英灵的资质影响。出于防止弱点暴露的意思，基本上不以真名而是以这个职阶[Class]名来称呼Servant。
+    note: {}

@@ -1,0 +1,37 @@
+---
+id: dead-apostle-louvre
+
+en: d
+ja: shi
+furigana: しとルヴァレ
+title:
+  en: Dead Apostle Louvre
+  ja: 死徒ルヴァレ
+  zh: 死徒鲁巴雷
+
+entry:
+- source: character-material
+  section: prelude-explanation
+  order: 2
+  category:
+  - person
+  - apostle
+  img: ""
+  en:
+    content: |-
+      Dead Apostle of the Lake. Even among the Dead Apostles, his lineage was an ancient one. Because Louvre was created by the True Ancestor as a form of amusement, namely to appreciate the “beauty” of mankind, he did not possess any exceptional powers.
+      A few centuries ago, he was pursued by the Executor of the Church to a lake and subsequently destroyed, but somehow he miraculously survived.
+      Since then, he became dedicated in enlarging his “coven” which he previously did not care about. Currently he was the subordinate of White Wing, who led the largest faction of Dead Apostles.
+    note: {}
+  ja:
+    content: |-
+      湖の死徒。使徒の中でも祖に準じる歴史を持つ古い死徒。ルヴァレ自身は愛玩目的で真祖に汲み上げられた“美しい”だけの人間であった為、超抜能力はない。
+      数百年前、教会の代行者によって湖に追い込まれ死滅したものとされていたが、奇跡的な生還を果たす。
+      以後はそれまで関心を持たなかった〝親族〟作りに傾倒し、死徒最大の派閥である白翼公の傘下となった。
+    note: {}
+  zh:
+    content: |-
+      湖之死徒。即使在使徒中，也是拥有可以追溯到祖的历史的古老死徒。因为鲁巴雷是真祖以娱乐为目的制造的“美丽”的人类，所以并不持有超群能力。
+      数百年前，被教会的代行者追逼到湖中并消灭。但在最后却奇迹般地生还了。
+      自那以后，他便热衷于原本并不关心的”亲族”制造，并依附于死徒中最大的派系白翼公的庇护之下。
+    note: {}

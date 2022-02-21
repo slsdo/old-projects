@@ -1,0 +1,142 @@
+---
+id: about.ja
+
+content: |-
+  <div class="page-content">
+    <h3 id="about-intro">イントロダクション</h3>
+
+    <p>TMdict は、ゲーム、書籍、アニメなどType-Moon の作品のボキャブラリーを収録した多言語辞書です。簡単な検索や並べ替え機能を備えた軽量かつシンプルなソリューションで、現在、英語、中国語、日本語でのコンテンツ利用が可能ですが、今後ますます内容を充実させていく予定です。</p>
+
+    <p>TMdictはエンサイクロペディアやWikiのような総合的な情報サイトとなることを目的としていません。そのため、記事や分析、コラムを除く、公式の作品や書籍からのテキストとその翻訳のみを掲載しています。</p>
+
+    <p>TMdictは<a href="https://www.typescriptlang.org/">TypeScript</a>で作成されています。高度なインターフェイスや機能の作成には<a href="https://facebook.github.io/react/">React</a>を使用しています。検索エンジンには<a href="http://www.tipue.com/search/">Tipue Search</a>を採用しています。</p>
+
+    <h3 id="about-contrib">コントリビューター</h3>
+
+    <p>このプロジェクトにはgum、月館のスタッフ、澄空のType-Moon BBSのメンバーが参加しています。翻訳にはコミュニティの多くのメンバーが協力してくれています。</p>
+
+    <ul>
+      <li><span class="highlight">管理者：</span> gum</li>
+      <li><span class="highlight">支援：</span> Sasaki546，都谷捻柏</li>
+      <li><span class="highlight">翻訳：</span> RHuot，浮云般飘过，六条秋分，vt789123, Akiraka</li>
+      <li><span class="highlight">校正：</span> Eclipse，南宫月汐</li>
+      <li><span class="highlight">特別な感謝：</span> <a href="http://tsukikan.com/">Tsuki-kan</a>，<a href="https://bbs.sumisora.net/thread.php?fid=14">SumiSora Type-Moon应援会</a></li>
+    </ul>
+
+    <h3 id="about-translate">翻訳者</h3>
+
+    <p>このサイトの翻訳には複数の翻訳者の方々のご協力を頂いており、誤訳や矛盾をなくすため、訳文のチェックと編集を実施しています。その際、元の翻訳に忠実であることを心がけ、変更は最小限にとどめています。</p>
+
+    <table>
+      <tr class="header">
+        <td style="width:45%;">辞典</td>
+        <td style="width:27%;">英語</td>
+        <td>中国語</td>
+      </tr>
+      <tr>
+        <td>Fate/Apocrypha用語辞典</td>
+        <td><a href="https://fateapocryphathetranslation.wordpress.com/side-materials/fateapocrypha-material/">Eternal Dreamer</a></td>
+        <td><a href="https://bbs.sumisora.net/read.php?tid=11071116">譯月漢化小组</a></td>
+      </tr>
+      <tr>
+        <td>Fate EXTELLA用語辞典</td>
+        <td>RHuot, FEM英語版</td>
+        <td>Eclipse, FEM中国語版</td>
+      </tr>
+      <tr>
+        <td>Fate/EXTRA用語辞典</td>
+        <td>RHuot</td>
+        <td><a href="https://tieba.baidu.com/p/2536360820">agemizy</a>，<a href="https://bbs.sumisora.net/read.php?tid=11051957">syoutsuki</a>，<a href="http://c.tieba.baidu.com/p/2536496031">vt789123</a>，<a href="https://tieba.baidu.com/p/5124843633">偶累瓦刚大木</a>，<a href="https://bbs.sumisora.net/read.php?tid=11045922">冰弑</a><a href="https://bbs.sumisora.net/read.php?tid=11070209">樱霜</a>，<a href="https://tieba.baidu.com/p/2558097923">浮云般飘过</a>，<a href="https://tieba.baidu.com/p/4861921746">貓的薛定諤</a>，<a href="https://home.gamer.com.tw/creationDetail.php?sn=2002017">雪色‧彌斐爾</a></td>
+      </tr>
+      <tr>
+        <td>Fate/Zero用語辞典</td>
+        <td><a href="http://forums.nrvnqsr.com/showthread.php/4880-Mcjon01-Translates-Things">Mcjon01</a></td>
+        <td><a href="http://home.gamer.com.tw/homeindex.php?owner=langrisseriv">七夜蒼月</a></td>
+      </tr>
+      <tr>
+        <td>Fate/Zero第四次聖杯戦争用語集</td>
+        <td>RHuot</td>
+        <td>vt789123</td>
+      </tr>
+      <tr>
+        <td>Fate用語辞典</td>
+        <td><a href="http://z13.invisionfree.com/Mobius_Space/index.php?act=idx">food</a>，<a href="http://forums.nrvnqsr.com/showthread.php/4880-Mcjon01-Translates-Things">Mcjon01</a></td>
+        <td><a href="http://tieba.baidu.com/f?kw=%D4%C2%D2%B9%D6%AE%BF%D5">十三维</a></td>
+      </tr>
+      <tr>
+        <td>空の境界設定用語集</td>
+        <td><a href="http://z13.invisionfree.com/Mobius_Space/index.php?">food</a></td>
+        <td><a href="https://bbs.sumisora.net/read.php?tid=4458241">renshujian0</a></td>
+      </tr>
+      <tr>
+        <td>ロード・エルメロイⅡ世の事件簿用語辞典</td>
+        <td><a href="https://forums.nrvnqsr.com/showthread.php/5943-Lord-El-Melloi-II-Case-Files">TwilightsCall</a></td>
+        <td><a href="https://www.weibo.com/ttarticle/p/show?id=2309404456317354901671">Akiraka</a></td>
+      </tr>
+      <tr>
+        <td>まほうつかいの箱小事典</td>
+        <td> - </td>
+        <td><a href="https://bbs.sumisora.net/read.php?tid=11077935">vt789123</a></td>
+      </tr>
+      <tr>
+        <td>メルティブラッド用語解説</td>
+        <td>RHuot</td>
+        <td><a href="https://bbs.sumisora.net/read.php?tid=10974953">六条秋分</a></td>
+      </tr>
+      <tr>
+        <td>路地裏ナイトメア用語辞典</td>
+        <td>RHuot</td>
+        <td><a href="https://bbs.sumisora.net/read.php?tid=11077729">vt789123</a></td>
+      </tr>
+      <tr>
+        <td>Notes.</td>
+        <td><a href="http://forums.nrvnqsr.com/showthread.php/73-Angel-Notes-Translation-by-Evospace?p=2315">EvoSpace</a></td>
+        <td><a href="http://tieba.baidu.com/p/122814195">jabal，幽远</a></td>
+      </tr>
+      <tr>
+        <td>Prelude Explanation</td>
+        <td><a href="http://z13.invisionfree.com/Mobius_Space/index.php?">food</a></td>
+        <td><a href="https://bbs.popgo.org/bbs/read.php?tid=418222">百岁美萝CM填坑组</a></td>
+      </tr>
+      <tr>
+        <td>Talk.</td>
+        <td><a href="http://forums.nrvnqsr.com/showthread.php/4880-Mcjon01-Translates-Things">Mcjon01</a></td>
+        <td><a href="http://bbs.sumisora.net/read.php?tid=10946479#2831447">zqh1985</a></td>
+      </tr>
+      <tr>
+        <td>月姫用語辞典</td>
+        <td><a href="http://forums.nrvnqsr.com/showthread.php/4880-Mcjon01-Translates-Things">Mcjon01</a></td>
+        <td><a href="http://www02.eyny.com/?4915225">譯月漢化小组</a></td>
+      </tr>
+      <tr>
+        <td>月姫用語辞典（カラフルMOON）</td>
+        <td>RHuot</td>
+        <td><a href="https://bbs.sumisora.net/read.php?tid=10974953">六条秋分</a></td>
+      </tr>
+      <tr>
+        <td>月姫用語辞典（MBAC）</td>
+        <td><a href="http://forums.nrvnqsr.com/showthread.php/4880-Mcjon01-Translates-Things">Mcjon01</a></td>
+        <td><a href="https://bbs.sumisora.net/read.php?tid=10946479">zqh1985</a></td>
+      </tr>
+      <tr>
+        <td>月姬用語詞典改訂新版</td>
+        <td><a href="http://forums.nrvnqsr.com/showthread.php/4880-Mcjon01-Translates-Things">Mcjon01</a></td>
+        <td><a href="http://www.lightnovel.cn/thread-33199-6-1.html">renshujian0</a>，vt789123，<a href="https://bbs.sumisora.net/read.php?tid=11002936">零色ノ夢</a></td>
+      </tr>
+    </table>
+
+    <h3 id="about-guideline">スタイルガイド</h3>
+
+    <p>翻訳は、改行や句読法も含め、日本語の原文フォーマットに従ってください。以下のスタイルガイドとの相違があった場合は、日本語の原文フォーマットおよび句読法が優先するものとします。</p>
+
+    <ul>
+      <li>英語はアメリカ英語の語法および綴りに従う。<em>favourite</em>ではなく<em>favorite</em>、引用符と句読点の位置については<em>“quotation marks are fun”.</em>ではなく<em>“quotation marks are fun.”</em>とする。</li>
+      <li>ハイフン（-）は複合語に、 エヌダッシュ（–）は数値の幅や範囲に使用する。最後に、エムダッシュ（—）はカンマやカッコの代わりに、または小休止の意味で使用する。</li>
+      <li>角カッコ（[ ]）内の記載は明確化やエラー表示の目的で用いられる。注釈が長文となる場合は、各ページ最下部の「翻訳者注」にリンクされる。</li>
+      <li>二重引用符は直線型（" "）ではなく曲線型（“ ”）を使用する。単一引用符およびアポストロフィにはともに右単一引用符（’）の代わりに直線型の単一引用符（'）を使用する。</li>
+      <li>ピリオドを3回入力する（...）のではなく、三点リーダー（…）を使用する。</li>
+      <li>日本語と中国語では、全角の句読点（、，。？！（））を使用する。</li>
+      <li>引用やニックネームなどを示す日本語の鉤カッコ（「　」）および二重鉤カッコ（『　』）は、英語と中国語の翻訳では二重引用符（“ ”）を使用する。</li>
+      <li>ゲームや書籍などのタイトルを示す日本語の二重鉤カッコ（『　』）は、中国語訳では タイトル記号（《 》）を、また英語訳では イタリック体 を使用する。</li>
+    </ul>
+  </div>

@@ -1,0 +1,36 @@
+---
+id: unsealed-amber-kick
+
+en: u
+ja: ka
+furigana: かいだこうじんこはくきゃく
+title:
+  en: Unsealed Amber Kick
+  ja: 開打靠靭琥珀脚
+  zh: 开打靠韧琥珀脚
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 14
+  category:
+  - technique
+  img: ""
+  en:
+    content: |-
+      Kohaku’s Arc Drive. After changing into Chinese clothes, she unleashes a vaguely familiar series of techniques. The mock China feeling here is out of this world.
+      During Blood Heat even more hits are added to the combination, but since this rampaging style is too violent there’s a real chance she’ll be fired after using it… maybe. Sorry, Kohaku.
+      The inspiration for this technique was <em>Kagetsu Tohya</em>, when Kohaku came to Shiki’s school festival and wore a Chinese silk dress in his class’s event.
+    note: {}
+  ja:
+    content: |-
+      かいだこうじんこはくきゃく。琥珀のアークドライブで、チャイナ服に着替えた後、どこかで見たような連続技を繰り出す。ここのエセチャイナぶりがたまらない。
+      ブラッドヒート時は更に長い連続技になるが、その暴れようがあまりにも酷い為、使用後は解雇される恐れがあるとかないとか。琥珀、失脚。
+      出典は“歌月十夜”から。学園祭に遊びに来た琥珀が志貴のクラスの催しものに参加、チャイナ服に着替えたというもの。
+    note: {}
+  zh:
+    content: |-
+      琥珀的Arc-Drive，换上中国风的服装后，接连发出似曾相识的连续技。这里的冒牌中国风真让人受不了。
+      BloodHeat时变成了更长的连续技，但因为其胡闹得太过剧烈了，使用后有没有被解雇的忧虑呢…琥珀，失足。
+      出处来自《歌月十夜》。来到学园祭游玩的琥珀参加志贵的班级的活动，换上了中国风的服装，这么一个东西。
+    note: {}

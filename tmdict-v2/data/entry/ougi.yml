@@ -1,0 +1,31 @@
+---
+id: ougi
+
+en: o
+ja: o
+furigana: おおぎ
+title:
+  en: Ougi
+  ja: 仰木
+  zh: 仰木
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 3
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      F15Jのパイロット。ディアボロ1に搭乗。階級は一尉。小林とともに未遠川の偵察任務につく。僚機が目の前で謎の怪物に喰われたことで混乱。全兵装のセイフティを解除して海魔に飽和攻撃を仕掛けようとするも、バーサーカーの魔力によって機体ごと宝具にされてしまう。そのままヴィマーナとの戦闘で急激なＧを受け内臓破裂により即死。なお、TYPE-MOON10周年記念のオールキャラクター人気投票では、小林の後塵を拝すも110位にランクインしている。
+    note: {}
+  zh:
+    content: |-
+      F15J的机师[Pilot]。搭乘DIABLO1。阶级为一尉{{n1}}。和小林一起执行未远川的侦察任务。因目睹僚机被迷之怪物吞噬而陷入混乱。解除全武器安全装置[Safety]准备对海魔展开饱和攻击之时，连同机体被Berserker的魔力变为宝具。就这样在与维曼那[Vimana]的战斗中因承受了急剧的G力而内脏破裂，当场死亡。顺带，在TYPE-MOON10周年纪念的全角色[All Character]人气投票中，步小林后尘而位居110位。
+    note:
+      n1: "自卫队阶级的一种，尉官的最上级，和旧军队的大尉相当。"

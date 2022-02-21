@@ -1,0 +1,36 @@
+---
+id: chen-gong
+
+en: c
+ja: chi
+furigana: ちんきゅう
+title:
+  en: Chen Gong
+  ja: 陳宮
+  zh: 陈宫
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 41
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The long-anticipated master strategist. He appears in Lu Bu’s ending.
+      You’ll have to play the story to see what he looks like.
+      By the way, in Lu Bu’s story, you’ll finally get to see in detail the meaning behind Lu Bu’s mysterious thoughts. Highly recommended.
+    note: {}
+  ja:
+    content: |-
+      ついに現れた超軍師。呂布ストーリーのEDに登場する。
+      どんな顔をしているかはプレイしてのお楽しみ。
+      ちなみに呂布のストーリーでは、今まで謎とされていた呂布の意訳が細やかに描かれている。これも必見。
+    note: {}
+  zh:
+    content: |-
+      终于现身的超军师。在吕布故事中的ED登场。
+      至于他的外貌，就留到游戏里再揭晓。
+      顺道一提，在吕布的故事中，详细地描绘了吕布至今成谜的台词意译。绝对值得一见。
+    note: {}

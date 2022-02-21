@@ -1,0 +1,64 @@
+---
+id: arima
+
+en: a
+ja: a
+furigana: ありま
+title:
+  en: Arima
+  ja: 有間
+  zh: 有间
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 3
+  category:
+  - family
+  img: dokuhon_arima.png
+  en:
+    content: |-
+      An offshoot of the Tohno family. Of all the branch families, their Tohno blood is the thinnest.
+      The father’s name is Fumiomi, the mother’s name is Keiko, and the eldest daughter’s name is Miyako.
+      They took in Shiki when he was nine years old. Their home includes an Ikebana classroom, and something resembling a Kendo dojo.
+      By the way, since Miyako is still in elementary school she’s positively overflowing with youthful energy. She doesn’t act especially affectionate toward Shiki, but sometimes she’ll tackle him out of nowhere with a beaming smile plastered over her face. …Wait, who wouldn’t consider that being affectionate towards him?
+    note: {}
+  ja:
+    content: |-
+      ありま。遠野家の分家で、遠野としての血が最も薄い。
+      父は文臣、母は啓子、長女は都古。
+      志貴が九歳から預けられた家。華道の教室をやっており、なぜか剣道の道場らしきものまであるとかないとか。
+      ちなみに都古ちゃんはまだ小学生で、むやみやたらに元気いっぱい。志貴に懐いている素振りはないのだが、時折タックルをしてきては楽しそうに笑ったりする。……あれはあれで懐いているのかもしれない。
+    note: {}
+  zh:
+    content: |-
+      念作ARIMA。远野家的分家，与远野的血缘关系最为薄弱。
+      父亲・文臣、母亲・啓子、长女・都古。
+      志贵九岁时被寄养的家庭，经营着花道教室、不知为何连类似剑道场的空间都有…好像吧。
+      顺带一提她还是小学生，精力非常旺盛。虽然没有什么亲近志贵的举动，
+      但有时会飞扑过来然后笑得很开心。……可能那就是在亲近也说不定。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 6
+  category:
+  - family
+  img: plusperiod_arima.png
+  en:
+    content: |-
+      An offshoot of the Tohno family. Of all the branch families, their Tohno blood is the thinnest.
+      The father’s name is Fumiomi, the mother’s name is Keiko, and the eldest daughter’s name is Miyako.
+      They took in Shiki when he was nine years old. Their home includes an Ikebana classroom, and something resembling a Kendo dojo. The picture below is of Keiko.
+    note: {}
+  ja:
+    content: |-
+      ありま。遠野家の分家で、遠野としての血が最も薄い。
+      父は文臣、母は啓子、長女は都古。
+      志貴が九歳から預けられた家。華道の教室をやっており、なぜか剣道の道場らしきものまであるとかないとか。左は啓子さん。
+    note: {}
+  zh:
+    content: |-
+      Arima。远野家的分家，“远野之血”是最稀薄的。
+      父亲叫文臣，母亲叫启子，长女叫都古。
+      志贵从九岁起寄住的家。经营花道教室，但不知为何好像连类似剑道道场的东西也有。下图是启子。
+    note: {}

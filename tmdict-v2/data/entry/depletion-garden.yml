@@ -1,0 +1,39 @@
+---
+id: depletion-garden
+
+en: d
+ja: ko
+furigana: こかつていえん
+title:
+  en: Depletion Garden
+  ja: 枯渇庭園
+  zh: 枯渇庭园
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 25
+  category:
+  - technique
+  img: ""
+  en:
+    content: |-
+      Yumizuka Satsuki’s Last Arc. A reality marble.
+      Satsuki’s powers blossomed after becoming a vampire, and this is her strongest attack. As the name “depletion” suggests, the magical energy in the deployed space is rapidly dissipated. Though it is similar to Akiha’s Origami, the target of Depletion Garden is the world itself. Also, the depleted magical energy does not return to the user, Satsuki, but instead merely vanishes.
+      It is a field effect that could be considered the natural enemy of magi, who require magical energy to attack, and elementals, who require magical energy just to exist.
+      On the other hand, against organisms that are cut off from the world (for instance, humans, who don’t use the magical energy in the atmosphere much at all) there will not be a pronounced effect.
+    note: {}
+  ja:
+    content: |-
+      弓塚さつきのラストアーク。固有結界。
+      吸血鬼化した事で才能を開花したさつきの最大の攻撃。枯渇の名の通り、展開した空間の魔力を急速に減少させていく。秋葉の略奪に似ているが、こちらは世界そのものにかかるもの。また、枯れていった魔力は使用者であるさつきに還元される事はなく、ただ消えゆくのみとなる。
+      攻撃に魔力を必要とする魔術師、生存に魔力を必要とする精霊などには天敵と言える地形効果。
+      反面、世界とは切り離されつつある生物（大気の魔力をあまり使用しない人間）には劇的な効果はない。
+    note: {}
+  zh:
+    content: |-
+      弓冢五月的Last-Arc。固有结界。
+      因吸血鬼化而才能开花结果的五月的最大的攻击。正如枯竭之名，使展开后的空间的魔力急速减少下去。与秋叶的掠夺相似，但这边是涉及到世界本身之物。另外，枯竭了的魔力不会返还给作为使用者的五月，仅仅只会变得消逝。
+      对攻击上魔力作为必需的魔术师、生存上魔力作为必需的精灵等可说是天敌的地形效果。
+      反之，对正与世界切离的生物（不太使用大气魔力的人类）就没有那么戏剧性的效果了。
+    note: {}

@@ -1,0 +1,63 @@
+---
+id: jewel-magecraft
+
+en: j
+ja: ho
+furigana: ほうせきまじゅつ
+title:
+  en: Jewel Magecraft
+  ja: 宝石魔術
+  zh: 宝石魔术
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 79
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      The magecraft that Rin specializes in.
+      Jewels easily accumulate the thoughts of their owners, and make excellent vessels for magical energy.
+      Crystals that have slumbered beneath the earth for eons, in particular, are prone to having nature spirits form within them, and jewels with that property can be used as simple magic crests. For example, a jewel with a nature spirit of fire dwelling within it would become highly flammable just by passing magical energy through it… or something along those lines.
+      Whenever Rin has spare time she transfers her magical energy into jewels, turning them into powerful bullets. However, in the end they are merely disposable items.
+      Because their magecraft reduces expensive jewels to ash after a single use, the Tohsaka magi are fated to be chronically afflicted with a lack of funds.
+    note: {}
+  ja:
+    content: |-
+      凜が得意とする魔術。
+      宝石は持ち主の念を溜めやすく、魔力を宿しやすい。
+      中でも長く地中に眠っていた鉱石には自然霊が形成 されやすく、属性を帯びた宝石はそれだけで簡易的な魔術刻印となる。
+      火の自然霊が宿った宝石は、魔力を通すだけで燃えやすくなるという風に。
+      凜は暇さえあれば宝石に自分の魔力を移し、強力な弾丸としているのだが、宝石魔術は使い捨てである。
+      高価な宝石を一聞きりで灰にしてしまう遠坂の魔術 師は、常に資金不足で悩まされる宿命なのだとか。
+    note: {}
+  zh:
+    content: |-
+      凛所擅长的魔术。
+      宝石容易积蓄所有者的意念，容易寄宿魔力。
+      尤以长久在地下长眠的矿石容易形成自然灵，带有属性的宝石光是如此就会成为简易性的魔术刻印。火的自然灵寄宿的宝石，光是通过魔力就变得容易燃烧，就像这样的。
+      凛若有空暇就会将自己的魔力转移到宝石，虽当作强力的子弹，但宝石魔术是用完即弃的。
+      一次就将高价的宝石化为灰烬的远坂的魔术师，时常为资金不足所苦乃是宿命。
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 23
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      The Tohsaka family specializes in magecraft known as Jewel Magecraft, which relies on accumulating magical energy within jewels. Precious jewels end up being used in a disposable fashion, causing significant and persistent depletion of the Tohsaka family coffers.
+    note:
+      n1: "Also referred to as Jewel Magic."
+  ja:
+    content: |-
+      宝石に魔力を転移させてため込むという、遠坂家が得意とする魔術体系のひとつ。高価な宝石を使い捨てにするため、遠坂家の魔術師は常に資金不足で悩まされる運命にあるとか。
+    note: {}
+  zh:
+    content: |-
+      把魔力转移积蓄到宝石这样的，远坂家所擅长的魔术体系之一。因高价宝石变得一次性使用，远坂家的魔术师时常会卷入为资金不足而苦恼着的命运。
+    note: {}

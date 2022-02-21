@@ -1,0 +1,30 @@
+---
+id: chaldea
+
+en: c
+ja: ka
+furigana: かるであ
+title:
+  en: Chaldea
+  ja: カルデア
+  zh: 迦勒底
+
+entry:
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 4
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Organization for the Preservation of Human Order. Chaldea is a special organization founded with the goal of preventing the [ostensibly] inevitable extinction of mankind. Chaldea monitors that which cannot be perceived by magecraft, nor measured by science. Researchers both magi and scientist alike were impartially gathered to be a part of the organization. In 2015, the near future [time] range observed by the Near-Future Observation Lens SHEBA (developed by Lev) was found to have vanished, and a space-time singularity was discovered. Chaldea is faced with either finding a breakthrough resolution, or destroying the singularity.
+    note: {}
+  ja:
+    content: |-
+      人理継続保障機関。魔術だけでは見えない世界、科学だけでは計れない世界を観測し、人類の決定的な絶滅を防ぐために設立された特務機関。魔術・科学の区別なく研究者が集められた。2015年、レフの開発した近未来観測レンズ「シバ」によって観測されていた未来領域が消失したことをうけ、時空の特異点を探し出し、解明あるいは破壊することで立ち向かっている。
+    note: {}
+  zh:
+    content: |-
+      人理续存保障机构。观察着仅靠魔术就看不到的世界和仅靠科学无法测量的世界，为了预防人类决定性灭绝而设立的特务机构。聚集了兼顾魔术·科学的研究者。2015年，由雷夫开发的近未来观测透镜“示巴”观测到未来领域消失，从而开始了探寻时空特异点，进行解明或破坏的抗争。
+    note: {}

@@ -1,0 +1,30 @@
+---
+id: macedonia
+
+en: m
+ja: ma
+furigana: まけどにあ
+title:
+  en: Macedonia
+  ja: マケドニア
+  zh: 马其顿
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 21
+  category:
+  - place
+  img: fzavg1_macedonia.png
+  en:
+    content: |-
+      The native home of Iskander (Rider). Believed to be founded around 700 BC, situated between Greece and the Persian Empire. The Macedonia of old is a separate place from the modern-day Republic of North Macedonia. Iskander’s Macedonia would lie within Greece’s borders today.
+    note: {}
+  ja:
+    content: |-
+      ライダーことイスカンダルの故国。建国は紀元前7世紀頃と言われており、ギリシアとペルシアの中間に位置していた。現代のマケドニア共和国とは別のもので、イスカンダルが生きた古代マケドニア王国の領域は、現在はギリシャ共和国のいち地方となっている。
+    note: {}
+  zh:
+    content: |-
+      Rider伊斯坎达尔[Iskandar]的故国。建国被认为是约公元前7世纪，位处希腊[Greece]与波斯[Persia]的中间位置。同现代的马其顿[Macedonia]共和国不是一个概念，伊斯坎达尔[Iskandar]所生活的古代马其顿[Macedonia]王国的领域，现在已成为希腊[Greece]共和国的一个地方。
+    note: {}

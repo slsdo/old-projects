@@ -1,0 +1,30 @@
+---
+id: schweinorg
+
+en: s
+ja: shi
+furigana: しゅばいんおーぐ
+title:
+  en: Schweinorg
+  ja: シュバインオーグ
+  zh: 修拜因奥古
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 33
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Kischur Zelretch Schweinorg. One of the five living Magicians. Tohsaka Nagato was once his pupil, and the Tohsaka family took in Zelretch’s teachings. Schweinorg wields the Second Magic, which enables him to move between parallel worlds. He is a complicated and strange man who despises evil and laughs at good deeds.
+    note: {}
+  ja:
+    content: |-
+      現存する5人の魔法使いのひとり、キシュア・ゼルレッチ・シュバインオーグのこと。遠坂家にとっては師匠筋にあたる人物。並行世界を渡り歩くという第二魔法の使い手で、悪に義憤し善を笑う、複雑怪奇な性格だといわれている。
+    note: {}
+  zh:
+    content: |-
+      现存5人的魔法使之一，基修亚·泽尔里奇·修拜因奥古[Kischur·Zelretch·Schweinorg]。对远坂家而言是师父位的人物。奔走于平行世界的第二魔法的使用者，对恶行感到义愤但又嘲笑善行，被认为是复杂奇怪的性格。
+    note: {}

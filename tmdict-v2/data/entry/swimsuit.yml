@@ -1,0 +1,55 @@
+---
+id: swimsuit
+
+en: s
+ja: mi
+furigana: みずぎ
+title:
+  en: Swimsuit
+  ja: 水着
+  zh: 泳衣
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 143
+  category:
+  - item
+  img: ""
+  en:
+    content: |-
+      This item provides Servants with a wearable swimsuit.
+      CCC is filled with relatively outrageous stuff, but implementing this item in CCC is what made me think “Well, we’ve done it now” the most.
+      Before the release of CCC we revealed information about the game which included stuff about “Caster’s Swimsuit.” The incredible perverseness of this led to an outpouring of players announcing thing like,
+      “This is only to be expected of Cas-ko seeing as she was the primary sexy character in EXTRA. Honestly this is so lewd that I can’t even look at it straight, but for now I’ll keep stealing peeks of Cas-ko’s under-boob.”
+      But we should note that Cas-ko’s EXTRA bikini really isn’t worth mentioning.
+      For all it’s worth, Caster’s revealing swimsuit was simply a bikini with a very small surface area of cloth.
+      On the other hand, Red Saber’s bikini takes things even further with a Brazilian bikini that is no more than some string.
+      Saber’s swimsuit was even more aggressively lacking in string coverage until CERO got angry about it. Prior to that the shot from behind made her look stark naked. Truly a ~ situation.
+      But really the most outrageous swimsuits are worn by the guys. Especially the combination of Archer and the male version of the protagonist (both wearing swimsuits). Their terrible combination has the power to crush all reason even in the most serious of scenes.
+    note:
+      n1: "CERO is Japan’s content rating board, like the ESRB or PEGI."
+  ja:
+    content: |-
+      サーヴァント用の着せ替えアイテム。
+      やっちゃった感ただようCCCにおいてナンバーワンのやっちゃった感。
+      CCC発売前には『キャスターの水着』が情報公開された。その露出度の高さから、
+      「さすがEXTRAで一番のお色気担当。ハレンチすぎて正視できません。できないのでチラ見でキャス狐さんの下乳を観察します」
+      というプレイヤーが続出したが、キャス狐なぞEXTRA水着においては一番の小物だった。
+      キャスターなぞ所詮、布面積の少ないビキニ。
+      「方、赤セイバーは面積が少ないという次元ではなくもはや線にすぎないブラジル水着だった。
+      セイバーの水着はCEROさんに怒られる前はもっと攻め攻めの紐量で、後ろから見るとただのマッパです、本当に～状態でした。
+      でもいちばんヤバイのは男性陣。特にアーチャーと男主（水着装備）の組み合わせは、どんなシリアスなシーンであろうと打ち砕く悪魔の粗み合わせ。
+    note: {}
+  zh:
+    content: |-
+      Servant用的替换着装的道具。
+      在感到“做了”的CCC中，NO.1的做了的感觉。
+      CCC发售前“Caster的泳衣”公开了情报。从其露出度之高，
+      “不愧是EXTRA第一的色气担当。太过不知廉耻无法直视。但无法办到而偷偷瞄着，观察Cas狐的下乳”
+      这样的玩家不断出现，Cas狐什么的EXTRA泳装当中是最不值一提的。
+      Caster充其量不过是，不料面积较少的比基尼。
+      另一方面，红Saber是与面积较少的次元不同的，已经就是条线的巴西泳装了。
+      Saber的泳装是在惹怒CERO之前更加进攻进攻的纽量，从后面看的话就是全裸了。真是个~~状况。
+      但是最不妙的是男性阵容。特别是Archer与男主（泳衣装备）的组合，是怎样的严肃场景都会打破气氛的恶魔组合。
+    note: {}

@@ -1,0 +1,30 @@
+---
+id: spiritual-evocation-department
+
+en: s
+ja: ko
+furigana: こうれいか
+title:
+  en: Spiritual Evocation Department
+  ja: 降霊科
+  zh: 降灵科
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 20
+  category:
+  - organization
+  img: fzavg1_spiritual-evocation-department.png
+  en:
+    content: |-
+      One of the departments at the Clock Tower. Kayneth is a lecturer in the Spiritual Evocation Department. He is engaged to Sola-Ui, whose father heads the department. Waver also belongs to the department.
+    note: {}
+  ja:
+    content: |-
+      時計塔に設置された学部のひとつで、ケイネスが教鞭を執る。彼の婚約者であるソラウは、この降霊科学部長の娘でもある。ウェイバーも所属。
+    note: {}
+  zh:
+    content: |-
+      于时计塔所设学部之一，肯尼斯[Kayneth]执教。他的婚约者索菈乌[Sola-Ui]乃是这个降灵科学部长的女儿。也是韦伯[Waver]所属。
+    note: {}

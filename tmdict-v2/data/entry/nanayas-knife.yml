@@ -1,0 +1,59 @@
+---
+id: nanayas-knife
+
+en: n
+ja: na
+furigana: ななやのたんとう
+title:
+  en: Nanaya’s Knife
+  ja: 七夜の短刀
+  zh: 七夜的短刀
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 46
+  category:
+  - weapon
+  img: ""
+  en:
+    content: |-
+      A treasured blade of the Nanaya family, that Makihisa kept for some reason instead of getting rid of it. Of course, even though it’s called a “treasured blade” it isn’t actually valuable, it’s just a sturdily-built knife. Though, mysteriously it has a complex switchblade design despite its considerable age.
+      It is a high-quality good with the words “Seven Nights” carved into the handle, clearly marking it as property of the Nanaya family.
+      In <em>Tsukihime</em>, Kohaku brought this knife to Shiki saying it was a memento left to him by Makihisa, but in reality she had retrieved it from Makihisa’s room of her own accord.
+    note: {}
+  ja:
+    content: |-
+      槙久が処分せずに持っていた七夜家の宝刀。宝刀といっても値打ちはなく、たんに頑丈なだけ。わりと昔の物のくせに飛び出しナイフ。
+      柄には七つ夜と刻まれていて、一目で七夜の物と判る優れものだ。
+      本編では槙久から志貴への形見、と琥珀さんが持ってくるが、実は琥珀さんが勝手に槙久の部屋から持ち出した。
+    note: {}
+  zh:
+    content: |-
+      没有被槙久处理掉而是保存着的七夜家的宝刀，说是宝刀不是指它很有价值，只是它很坚固而已。
+      明明是老旧的东西但却是弹簧刀的神奇样子。
+      刀柄上刻着“七夜”，一眼就能看出是七夜的东西。
+      本篇里说是槙久给志贵的纪念，才让琥珀取来，但事实上是琥珀擅自从槙久房间里拿出来的。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 72
+  category:
+  - weapon
+  img: ""
+  en:
+    content: |-
+      A treasured blade of the Nanaya family, that Makihisa kept for some reason instead of getting rid of it. Of course, even though it’s called a “treasured blade” it isn’t actually valuable, it’s just a sturdily-built knife. Though, mysteriously it has a complex switchblade design despite its considerable age. It is a high-quality good with the words “Seven Nights” carved into the handle, clearly marking it as property of the Nanaya family.
+      In <em>Tsukihime</em>, Kohaku brought this knife to Shiki saying it was a memento left to him by Makihisa, but in reality she had retrieved it from Makihisa’s room of her own accord.
+      …Kohaku herself never looked to see what was in the box. Perhaps she was expecting it to jog Shiki’s memory of his past due to it being property of the Nanaya…?
+    note: {}
+  ja:
+    content: |-
+      槙久が処分せずに持っていた、七夜家の宝刀。宝刀といっても値打ちはなく、単に頑丈なだけである。わりと昔の物のクセに飛び出しナイフという謎仕様。柄には七つ夜と刻まれていて、一目で七夜の物と判る優れ物だ。
+      本編では槙久から志貴への形見、と琥珀が持ってくるが、実は琥珀が勝手に槙久の部屋から持ち出した。……琥珀さんも箱の中身は見ていなくて、七夜の遺産だから何らかの形で志貴が昔を思い出せれば、と計算しての事だったのだろうか……？
+    note: {}
+  zh:
+    content: |-
+      慎久没有处理而留下的七夜家的宝刀、虽说是宝刀，但没什么价值 只是比较坚固而已。明明是个老东西但却是弹簧刀的神奇式样。刀柄上刻着七夜，一眼就能认出是七夜家的东西。
+      本篇中是慎久留给志贵的纪念物，由琥珀转交，但实际上是琥珀擅自从慎久的房间中拿出来。琥珀本人也没有看过箱子里，只是算计着，七夜的遗产不管是什么东西都能让志贵回想起过去记忆来吧。
+    note: {}

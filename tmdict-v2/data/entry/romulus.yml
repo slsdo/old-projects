@@ -1,0 +1,39 @@
+---
+id: romulus
+
+en: r
+ja: ro
+furigana: ろむるす
+title:
+  en: Romulus
+  ja: ロムルス
+  zh: 罗慕路斯
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 61
+  category:
+  - servant
+  img: ""
+  en:
+    content: |-
+      A Heroic Spirit of the Lancer class. He would no doubt be a Top Servant if he were to appear in SE.RA.PH.
+      He is a Hero who appeared in the myths surrounding the beginning of ancient Rome, and is credited with helping build the country.
+      Born to the War God Mars and the beautiful princess Rhea Silvia, he was raised by wolves and went on to become the founding father of the empire.
+      A divine ancestor of Nero, evidence of him can be seen in this tale when an emotional Nero shouts, “Magna Voluisse Magnum,” the name of his Noble Phantasm.
+    note: {}
+  ja:
+    content: |-
+      SE.RA.PHに現れれば問違いなくトップ　サーヴァントとして召喚される英霊。クラスはランサー。
+      古代ローマ建国神話に登場する国造りの英雄。
+      軍神マルスと美しき姫シルウィアとの間にて生まれ、神の獣たる狼を友に育った。ローマ建国の父。
+      今回、感極まったネロがマグナ　ウォルイッセ　マグヌムといった奇声をあげるが、これは彼女にとって神祖であるロムルスの宝具名である。
+    note: {}
+  zh:
+    content: |-
+      一旦现界于SE.RA.PH，将会毫无疑问地以顶级英灵身份被召唤的英灵。职阶为枪兵。
+      登场于古罗马建国神话中的建国英雄。
+      军神玛尔斯与美丽公主西尔维亚之子，由神兽——狼养育成人，并建立友谊。罗马建国之父。
+      这一次，感动不已的尼禄忍不住发出怪声大喊：“Magna voluisse magnum [对伟大的追求本身即为伟业]。”这正是她心目中的神祖——罗慕路斯的宝具名称。
+    note: {}

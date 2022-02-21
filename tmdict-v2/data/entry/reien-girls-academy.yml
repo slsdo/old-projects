@@ -1,0 +1,37 @@
+---
+id: reien-girls-academy
+
+en: r
+ja: re
+furigana: れいえんじょがくいん
+title:
+  en: Reien Girls Academy
+  ja: 礼園女学院
+  zh: 礼园女学院
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 50
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      Kokutou Mikiya’s sister, Kokutou Azaka’s school.
+      A mission style all-girls academy. A sterile boarding school.
+      Originally it was a sister school of some seminary in England, but recently other girls academies had emerged using Reien as the template. The sponsor seemed to be Asagami Fujino’s father.
+    note: {}
+  ja:
+    content: |-
+      黒桐幹也の妹、黒桐鮮花が通う学校。
+      ミッション系のお嬢様学院で、全寮制の無菌室。
+      もともとはイギリスにある神学校の姉妹校なのだが、最近は礼園を手本にした女学院が出来たらしい。出資者は浅上藤乃のお父さんだとか。
+    note: {}
+  zh:
+    content: |-
+      黑桐干也的妹妹，黑桐鲜花就读的学校。
+      Mission系的贵族女校，全寄宿制的无菌室。{{n1}}
+      原本是位于英国的某所神学校的姐妹校，但最近好像出现了以礼园为范本的女学院。出资者是浅上藤乃的父亲什么的。
+    note:
+      n1: "Mission在这里指宗教的传教，尤指基督教。"

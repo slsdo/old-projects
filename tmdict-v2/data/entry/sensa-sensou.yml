@@ -1,0 +1,36 @@
+---
+id: sensa-sensou
+
+en: s
+ja: se
+furigana: せんさ、せんそう
+title:
+  en: Sensa, Sensou
+  ja: 閃鞘、閃走
+  zh: 闪鞘、闪走
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 43
+  category:
+  - technique
+  img: ""
+  en:
+    content: |-
+      Flash sheathe and flash step. Unique space-utilization techniques passed down by the Nanaya, that make use of the walls and ceiling to move. Sensa refers to the arm techniques, while Sensou refers to the leg techniques.
+      As a member of the Nanaya bloodline, these come quite naturally to Nanaya Shiki, but it seems Tohno Shiki can also pull off similar movements when he’s been backed into a corner. In fact, it could probably be called Shiki’s trump card.
+      Also, as the name of Nanaya Shiki’s Last Arc, Kyokushi Nanaya, suggests, it is the ultimate technique of the Nanaya family. It was first demonstrated in <em>Kagetsu Tohya</em>.
+    note: {}
+  ja:
+    content: |-
+      せんさ、せんそう。七夜に伝わる、壁や天井を利用して移動する独特の空間利用術。閃鞘は腕を、閃走は脚を意味する。
+      七夜志貴は七夜の血族として当然のように用い、遠野志貴は窮地に追い込まれるととっさに似たような動きをしてしまうようだ。志貴にとっては切り札と言えるものだろう。
+      また、七夜志貴のラストアークである極死·七夜はその名が示す通り、七夜という一族の最秘奥である。出典は“歌月十夜”より。
+    note: {}
+  zh:
+    content: |-
+      七夜所传承的，利用墙壁与天花板移动的独特的空间利用术。闪鞘表示臂、闪走表示脚。
+      七夜志贵作为七夜的血族理所当然一样地使用，远野志贵被逼入穷境的话好象就会一下子做出相似的动作。对志贵来说可说是王牌的东西吧。
+      另外，作为七夜志贵Last-Arc的极死·七夜正如其名所示的那样，是七夜这一族的最秘奥。出处来自《歌月十夜》。
+    note: {}

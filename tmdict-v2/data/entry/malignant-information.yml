@@ -1,0 +1,79 @@
+---
+id: malignant-information
+
+en: m
+ja: a
+furigana: あくせいじょうほう
+title:
+  en: Malignant Information
+  ja: 悪性情報
+  zh: 恶性情报
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 5
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      A requirement for the appearance of the Tatari. Shared common knowledge circulating throughout a closed community.
+      Develops by making use of things like anonymous accusations, improbable testimonies, and popular trends. It will take on various forms depending on the circumstances, but at its core is “nothing.” It is for this very reason that the Tatari itself is said to have no true identity.
+      The “Bad News” used by the Night of Wallachia and the “Terror News” used by Vampire Sion were both forms of this, materialized with magical energy. The creation and control of malignant copies is a particularly advanced application.
+    note:
+      n1: "Also known as Malicious Information."
+  ja:
+    content: |-
+      タタリ発生の条件となる、閉じたコミュニティーで流布される共有常識。
+      匿名性の告発、蓋然性のない証言、浸透率の優れた流行、といったものを利用して成長していく。状況によって様々な形に変化するが、その中心たる核には“何もない”。タタリが正体不在と呼ばれるのはこの為だ。
+      ワラキアの夜が扱う『バッドニュース』、吸血鬼シオンが扱う『テラーニュース』はこれを魔力によって具現化したもの。更に高度な悪性情報の利用法に、悪質なコピーを捏造して操るというものがある。
+    note: {}
+  zh:
+    content: |-
+      成为Tatari发生的条件的、被在封闭的群落里传布的共有常识。
+      利用匿名性的告发、没有盖然性的证言、渗透率优秀的流行这类东西来成长。根据状况而变化为各种各样的形态，但作为其中心的核里“什么都没有”。Tatari被称为没有原形就是这个缘故。
+      瓦拉齐亚之夜所使用的“Bad News”、吸血鬼紫苑所使用的“Terror News”即藉由魔力而具现化了这个的东西。更高度的恶性情报的利用法，有捏造恶质的复制品来操纵等。
+    note: {}
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 1
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      Just as there are curses in real life, curses, known as “malicious information,” also exist in the Photonic Abyss that is SE.RA.PH.
+      This malicious information is comprised of negative thoughts and sentiments born from the actions of sentient beings.
+      Proclamations of evil. Self-serving lies, compounding upon themselves endlessly. Demagoguery that leverages straw men to enslave the masses. All of these forms of negative information are cancers that afflict the entirety of a community by corrupting that which is positive: the truth.
+      In the material world, this negativity would eventually fade away per its transient nature, but in SE.RA.PH., a world made entirely of data, malicious information is a foulness that erodes its territories.
+      All of the malicious information that has been recorded since humanity created a language-based culture is disposed of on the Far Side of the Moon. At first, only “useless information” was thrown away there, but once billions of pieces of malicious information accumulated, the mass began to manifest as a sludge that bled into reality.
+      The idealized, clean history of human society is recorded on the Near Side of the Moon, while the dreadful history of humanity’s terrible crimes is recorded on the Far Side of the Moon.
+      For virtual beings, who subsist on spiritrons, malicious information could be considered “junk food,” complete with the accompanying rush.
+      In the past, a certain Al planned to consume this massive amount of energy and control the Moon Cell, but it gave up on its plan in the final stages. It is said to have sunk into the depths of the Far Side of the Moon.
+    note: {}
+  ja:
+    content: |-
+      現実に呪いがあるように、量子虚構世界であるSE.RA.PHにも呪いは存在する。
+      それが悪性情報───知性活動から生まれた負の情報活動だ。
+      悪質なアジテート、純粋に利益を求める為に重ねられた嘘、核になる対象が空洞のまま広がっていくデマゴギー、と、情報的にただマイナスなだけである筈のものがプラスである真相を汚染し、コミュニティ全体をマイナスのものにしてしまう癌（キャンサー）である。
+      物質世界であれば一過性のものとして流されるが、情報が基になるSE.RA.PHにおいてこれらの悪性情報は領域を浸食する穢れとして扱われる。
+      月の裏側には人類か言葉による文明を築き上げた時から記録され続けた悪性情報が投棄されている。はじめはただの「使われないデータ」にすぎなかったが、何千万、何億万{{n1}}という悪性情報を溜め込むにいたり、ついには現実を犯す泥となってしまった。
+      月の表側には人間社会の正しい歴史が記録され、裏側には棄てられた忌まわしい犯罪の歴史が記録された。
+      これら等価値か、あるいは、表以上の悪性情報は表以上の霊子熱量を持つ。
+      かつてこの莫大なエネルギーを飲み干してムーンセルを支配するに至ったAIがいたが、最終段階でその目的を諦め、月の裏側に沈んでいったという。
+    note:
+      n1: "何億万 → 何億"
+  zh:
+    content: |-
+      量子虚构世界SE.RA.PH如同现实一般，也存在著诅咒。
+      那就是恶性情报———自知性活动所生的负面资讯活动。
+      诸如恶意煽动、纯粹为了追求利益而反复说谎、核心空虚却仍然广为流传的谣言等，皆为只有负面的资讯。当其污染正面的真相时，将如同癌症（Cancer）一般，使整个社群都变为负面的存在。
+      在物质世界，流传的恶性情报只是一时性的东西。然而在以资讯为基础的SE.RA.PH，这些恶性情报被视为侵蚀领域的秽物。
+      自人类构筑出语言文明以来持续记录下来的恶性情报，皆被丢弃于月的里侧。虽然恶性情报起初不过是“用不上的资料”，但在蓄积了上千万、上亿万之后，终于变成了侵犯现实的污泥。
+      月之表侧记录着人类社会的正确历史。
+      背侧则记录着被舍弃的不祥犯罪史。
+      它们具有同等价值的灵子热量——又或者，远超过表侧的恶性情报也具有远超过表侧的灵子热量。
+      据说，过去也曾有饮尽这莫大能量并支配Moon Cell的AI，但在最终阶段放弃了目标，随即沉入了月的里侧。
+    note: {}

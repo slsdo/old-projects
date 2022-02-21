@@ -1,0 +1,42 @@
+---
+id: geraff
+
+en: g
+ja: ke
+furigana: げらふ
+title:
+  en: Geraff
+  ja: ゲラフ
+  zh: 盖拉弗
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 24
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The master of Flueger, residing with the Spiritual Tomb of Albion.
+      One of the survivors.
+      At the hands of a certain mercenary magus, his Magic Circuits and Magic Crest were destroyed, after which he returned to the Tomb. Content to bear the title of a traitorous disciple, Flueger assisted his master in faking his death.
+      The source of his tenacity was his desire to stand triumphant over the chosen ones of the Clock Tower.
+      Once Lord El-Melloi II, the one who could be called at the top of those chosen ones, bowed his head in deference to him, he at long last felt he had been repaid for the trials of his life, and he agreed to cooperate.
+    note: {}
+  ja:
+    content: |-
+      霊墓アルビオンに住まう、フリューガーの師匠。
+      元生還者。
+      とある傭兵の魔術師によって、魔術回路と魔術刻印を破壊され、かつて過ごしていた霊墓アルビオンに舞い戻っていた。フリューガーが師父殺しの悪名を甘んじて受けたのも、彼の死を偽装するため。
+      その執着の源泉は時計塔の選民どもを見返してやりたい、ということ。
+      そうした選民の頂点ともいえるロード・エルメロイII世に真摯に頭を下げられたことから、最後の最後で自らの人生が報われたと感じて、彼に協力することとなる。
+    note: {}
+  zh:
+    content: |-
+      居住于灵墓阿尔比昂，富琉加的师父。
+      原生还者[Survivor]。
+      被某位佣兵魔术师破坏了魔术回路与魔术刻印后，回到了曾经生活过的灵墓阿尔比昂。富琉加甘愿承受弑师者的恶名，也是为了伪装他的死。
+      他那份执着的源泉就是想要给时钟塔的天选之子们报以颜色。
+      而可谓是立于那些天选之子顶点的君主·埃尔梅罗二世真挚地向他低头致歉，因此他感觉自己的人生在最后的最后得到了回报，并愿意协助对方。
+    note: {}

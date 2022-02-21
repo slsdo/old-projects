@@ -1,0 +1,42 @@
+---
+id: sword-camelot
+
+en: s
+ja: so
+furigana: そーどきゃめろっと
+title:
+  en: Sword Camelot
+  ja: ソード・キャメロット
+  zh: Sword Camelot
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 100
+  category:
+  - codecast
+  img: ""
+  en:
+    content: |-
+      Sword Camelot is a special kind of codecast known as a Finality. It is a greatly prized spell passed down through generations of a famous magus family.
+      Sword Camelot is the Harwey family’s prized codecast.{{n1}} Sword Camelot is a castle which is used as a place for two knights who considered honor to be of great importance to do battle without anyone else interfering.
+      There is a wall of flame that surrounds the two knights, and it can only be destroyed by a wielder of a holy sword who objects to the duel taking place.
+      By the way, the magic missile that a certain magic user used to destroy a certain priceless relic also falls into the category of Finality.{{n2}}
+    note:
+      n1: "The literal meaning of Sword Camelot written in kanji in this text is: The Gorgeous Castle where Holy Swords Congregate."
+      n2: "The magic user here is probably Aoko, the priceless relic is most likely Flat Snark. Fun fact: “Finality” is also the name of the music that plays during Aoko’s battle with Flat Snark."
+  ja:
+    content: |-
+      決着術式[ファイナリティ]と呼ばれる特殊なコードキャスト。かつて魔術の名家に伝わっていた、その一族秘蔵の術式。
+      聖剣集う絢燗の城[ソード・キャメロット]はハーウェイ秘蔵のコードキャスト。名誉を重んじるふたりの騎士が、余人に阻まれる事なく雌雄を決する為の城である。
+      周囲を覆う炎の壁は騎士たちの戦いに異を唱えられる聖剣の担い手でなければ破壊できない。
+      ちなみに、ある魔法使いがスッゲー高価な遺産をぶっ壊す時に使用した魔弾も、いずれ決着術式のカテゴリーに含まれる。
+    note: {}
+  zh:
+    content: |-
+      被称为决战术式[Finality]的特殊Code Cast。过去魔术的名门所传承的，其一族秘藏的术式。
+      圣剑汇集的绚烂之城[Sword Camelot]是哈维秘藏的Code Cast。为了重视名誉的两位骑士，不受到旁人阻碍一决雌雄的城堡。
+      覆盖周围的炎之壁，不是对骑士们的战斗提出异议的身负圣剑者的话就无法破坏。
+      顺道一提，某个魔法使在破坏某个非常高度评价的遗产时所使用的魔弹，总有一天也会归入决战术式的分类。{{n1}}
+    note:
+      n1: "应该是指青子和月之油（Flat Snark）。"

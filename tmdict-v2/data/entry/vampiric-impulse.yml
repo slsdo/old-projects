@@ -1,0 +1,34 @@
+---
+id: vampiric-impulse
+
+en: v
+ja: ki
+furigana: きゅうけつしょうどう
+title:
+  en: Vampiric Impulse
+  ja: 吸血衝動
+  zh: 吸血冲动
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 19
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      The base desire possessed by both True Ancestors and Dead Apostles.
+      In True Ancestors it is merely a bad habit, but in Dead Apostles it is a means of staying alive.
+      For those Dead Apostles who used to be human, it is something not entirely dissimilar from an expression of love.
+    note: {}
+  ja:
+    content: |-
+      真祖、死徒が持つ行動原理。
+      真祖のそれは病であり、死徒のそれは生存手段である。人間から死徒になったものは、それが人間でいうところの愛情表現に近いのだと論じている。
+    note: {}
+  zh:
+    content: |-
+      真祖，死徒所具有的行动原理。
+      真祖的其（吸血冲动）为病，死徒的其（吸血冲动）为生存手段。由人类变成死徒者，其接近于人类所说的爱情表现，有这种说法。
+    note: {}

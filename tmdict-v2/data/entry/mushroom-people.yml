@@ -1,0 +1,30 @@
+---
+id: mushroom-people
+
+en: m
+ja: ki
+furigana: きんしるいのにん
+title:
+  en: Mushroom People
+  ja: 菌糸類の人
+  zh: 菌丝类人类
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 21
+  category:
+  - designation
+  img: hibichika_mushroom-people.png
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      TYPE-MOONにおける左姉様。この人が忙しいのをいい事に「まほうつかいの箱」はほぼ野放しで好き勝手やらせてもらっているのである。てへり。
+    note: {}
+  zh:
+    content: |-
+      TYPE-MOON中的左姐姐。这人以忙碌为由几乎放任《魔法使之箱》随意去做了。如此。
+    note: {}

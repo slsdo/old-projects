@@ -1,0 +1,32 @@
+---
+id: walther-wa-2000
+
+en: w
+ja: wa
+furigana: わるさー WA 2000
+title:
+  en: Walther WA 2000
+  ja: ワルサーWA2000
+  zh: 瓦尔特WA 2000
+
+entry:
+- source: fate-zero-material
+  section: fate-zero-encylopedia
+  order: 44
+  category:
+  - armament
+  img: ""
+  en:
+    content: |-
+      The sniper rifle used by Emiya Kiritsugu in the Holy Grail War. Despite being relatively compact due to its bullpup design, it is an extremely heavy and hard to use weapon. On top of that, Kiritsugu’s is decked out with a preposterous night vision system. The night vision scopes that existed during the time period of the Fourth Holy Grail War were a long way off from where they are today, and were often bulkier and heavier than the guns they were attached to. Also, one of the gun’s major flaws was its prohibitive cost, which is one of the reasons it never saw widespread use, but thanks to the Einzberns’ considerable funds that was no problem at all. And besides, it was probably less expensive than running telephone lines all the way out to a castle in the middle of nowhere.
+    note: {}
+  ja:
+    content: |-
+      衛宮切嗣が聖杯戦争において使用する狙撃銃。
+      せっかくブルバップ構造にして全長をコンパクトに抑えたにも拘わらず、重量が重すぎて実用性にケチがついたという困った銃。切嗣の場合、さらに出鱈目だ暗視システムをくっつけて益々色々と台無しにしている。第四次聖杯戦争当時の暗視スコープはまだ洗練には程遠く、銃より重くて嵩張る照準器とかザラだったのです。またこの銃は、コスト馬鹿高いという欠点も普及に繋がらなかった原因なのだが、そこはアインツベルンの財力のおかげで無問題。たふんお城に電話線引くよりは安い買い物だったんでしょう。
+    note: {}
+  zh:
+    content: |-
+      卫宫切嗣在圣杯战争中使用的狙击枪。
+      好不容易藉着后置式弹夹构造使的全长能够小型化，但因为重量过重让实用性为人诟病的麻烦的枪。切嗣的情况中更加上了乱来的夜视系统让它更加难以使用。第四次圣杯战争当时的夜视镜离洗练还有一段距离，比枪还重的夜视镜举目皆是。另外这把枪还有价钱高的吓人这个缺点使它难以普及，不过这点靠着爱因兹贝伦家的财力不成问题。比起把电话线牵到城里来说应该算是便宜的东西吧。
+    note: {}

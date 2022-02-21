@@ -1,0 +1,56 @@
+---
+id: araya-souren
+
+en: a
+ja: a
+furigana: あらやそうれん
+title:
+  en: Araya Souren
+  ja: 荒耶宗蓮
+  zh: 荒耶宗莲
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 6
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A man looks to be about 45 years old. Magus.
+      A face carved with grief, a robust body unusual for a magus. These characteristics exert immense pressure on his opponents that seems almost nauseating.
+      Although Araya is average as a magus, his talents relating to Bound Field construction is exceptional.
+      A bound field divides what is inside from the outside. In order to construct a complete world from his own body, first Araya must complete himself. 
+      Araya, who has no exceptional talents, is able to become a first-class bound field master by completing himself through the accumulation of ages and sheer determination.
+      That which divides the inside from the outside, <em>Kara no Kyoukai</em> is his story.
+      Araya symbolizes the paradoxical spiral, the most important event in this tale.
+      Talking about the impossible, what Araya accomplished is like achieving the pinnacle within a field while being completely oblivious of even the name of this subject field.
+      Araya embodies the “accident of not knowing what is true and false,” and the “accident of not learning the truth that has become common knowledge.” As a result, it is absolute that the paradox will persist until the very end.
+    note: {}
+  ja:
+    content: |-
+      外見、四十代半ばの男性。魔術師。
+      苦悩が刻まれた貌と、魔術師にあるまじき強靭[きょうじん]な体が、対峙[たいじ]した者に嘔吐[おうと]感に似た重圧を与える。
+      魔術師としては平凡だが、『結界』作りに関しては屈指[くっし]の冴えを見せる。
+      結界とは内と外を分けるもの。それ自体で完結した世界を作り上げる為には、まず自身を完成させなくてはならない。
+      特殊な才能を持たない荒耶は、歳月と信念を積み重ねる事で自己を完成させ、一流の結界師となった。
+      外と内とを隔[へだ]てるもの。『空の境界』は彼の物語でもある。
+      物語中最大の事件・矛盾螺旋[むじゅんらせん]を象徴する人物。
+      何があり得ないかと言うと、彼は学んでいた学問の名前も知らずに、その教えを極めていたようなものなのである。
+      間違いを知らないままでいられる偶然、当然の事実を他人から教えられなかった偶然。故に、その矛盾は、最後まで抱えるべき必然。
+    note: {}
+  zh:
+    content: |-
+      外表45岁左右的男性。魔术师。
+      刻着苦恼的脸，与魔术师不相称的强韧的身体，给予与其对峙者和呕吐感相似的重压。
+      虽然作为魔术师是平凡的，但关系到制作“结界”的话展现出屈指可数的才智。
+      结界是分隔内外的东西。要以其自身{{n1}}做出完结的世界的话，首先不能不完成自己{{n2}}。
+      没有特殊才能的荒耶，通过积淀岁月与信念而完成自己，成为了一流的结界师。
+      分隔内外之物。《空之境界》也是他的故事。
+      象征故事中最大事件·矛盾螺旋的人物。
+      要说什么不可能的话，就是他连学的学问的名字都不知道，却将所学达到了极致这样的事。
+      能够一直不知道差错的偶然，没有从他人那儿得知当然的事实的偶然。因此，那个矛盾，将抱持到最后的必然。
+    note:
+      n1: "结界。"
+      n2: "魔术师。"

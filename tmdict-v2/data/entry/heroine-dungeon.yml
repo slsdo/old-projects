@@ -1,0 +1,60 @@
+---
+id: heroine-dungeon
+
+en: h
+ja: hi
+furigana: ひろいんだんじょん
+title:
+  en: Heroine Dungeon
+  ja: ヒロインダンジョン
+  zh: 女主角迷宫
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 123
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      This is a special dungeon that opens up at the end of the fifth chapter.
+      In order to help Sakura, who has been infected by the Melt Virus, the protagonist uses the codecast Ten Thousand Colored Stagnation to dive into Sakura’s cyber body.
+      This dungeon is essentially Sakura’s inner space. Diving into someone to take medical action is a well known science fiction gimmick of old.
+      The earliest key concept for CCC was “Diving into the minds of the heroines.” So even though the concept changed, this event was left over.
+      Part of the scenario was cut during development. Originally there was going to be a Heroine Dungeon for Sakura, Rin, and Rani, and Meltlilith would attack the one who had the most affection for the protagonist.
+      But then Rin and Rani were sacrifi—err, were promoted to be early game bosses, so Sakura was the only one left in the game with a Heroine Dungeon.
+      Frankly this was kind of implemented in the place of the erotic scenes you can experience in Fate/stay night. You build a deep relationship with the heroine in an RPG-styled way.
+      Just think of it as playing cyber doctor, okay?
+      But when Takeuchi Takeshi (BIG BOSS) heard about this he said,
+      “I see. That’s a good idea. ——Of course, there’s one for Red Saber as well, right?”
+      Certainly, having a Heroine Dungeon for only Sakura would let down the expectations of the players, so the writers thought about what they could do, and adjusted the scenario so that Servant Dungeons would also be implemented. As always, our BOSS has great intuition for things like this.
+    note: {}
+  ja:
+    content: |-
+      五章ラストに展開される特殊ダンジョン。
+      メルトウイルスに侵された桜をケアするため、主人公はコードキャスト・万色悠滞によって桜の電脳体に潜入した。
+      要はインナースペースである。医療行為として人体に潜るのは古典SFによく見られたギミック。
+      CCCの初期基本コンセプトは『ヒロインへのサイコダイブ』だったため、仕様が変更してもこのイベントはきっちり残された。
+      没になったシナリオでは、ヒロインダンジョンにされるのは桜・凛・ラニの三名であり、この中でもっとも好感度の高いヒロインがメルトリリスに襲われる設計だった。
+      のちに凛とラニが序盤のいけに……もとい、ボスに格上げされたため、ダンジョン化するのは桜ひとりになった。
+      端的に言ってしまうとstay nightにおけるＨシーンの代わりというか、ヒロインと深く結びつく行為をRPG的に落とし込んだもの。電脳お医者さんごっこと思いねえ。
+      しかし、その話を聞いた武内崇（BIG BOSS）は
+      「なるほど。それはいいアイデアだ。───当然、赤セイバーのもあるんだよね？」
+      と切り返してきた。
+      確かに桜だけではユーザーの期待に応えていない、とライターは反省し、サーヴァントダンジョンも実装するようシナリオを付け足した。あいかわらず、このあたりの勘どころは凄まじいBOSSである。
+    note: {}
+  zh:
+    content: |-
+      第五章最后出现的特殊迷宫。
+      为了拯救被Melt病毒入侵的樱，主角用Code Cast·万色悠滞潜入樱的电脑体。
+      简单来说就是《惊异大奇航》啦。作为医疗行为而潜入人体是古典SF的常套剧情。
+      CCC初期的基本概念就是“精神潜入女主角”，所以即使改变了方式，这个剧情还是保留了下来。
+      被驳掉的剧情里，能变成女主角迷宫的有樱·凛·拉尼三人，其中好感度最高的人被Meltlilith袭击。
+      但是之后凛和拉尼在游戏初期就成为了祭品……不对，是提升为BOSS，所以最后迷宫化的就只有樱一个人了。
+      简单来说可以算是代替stay night的H剧情吧，把和女主角加深感情的行为也RPG化了。
+      能看成是电脑版医生游戏呢。
+      但是，风闻此事的武内崇（BIG BOSS）跑来如此说道
+      “原来如此。这主意真赞。——当然啦，肯定也有红Saber版的吧？”
+      的确，只是樱的话，应该不能满足玩家们的期待吧。剧本作者也如此反省道，于是在剧情中添加了Servant迷宫。真是的，BOSS依旧在这方面的嗅觉敏锐到不行啊。
+    note: {}

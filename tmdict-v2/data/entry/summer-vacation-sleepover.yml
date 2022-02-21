@@ -1,0 +1,30 @@
+---
+id: summer-vacation-sleepover
+
+en: s
+ja: na
+furigana: なつやすみのおとまりかい
+title:
+  en: Summer Vacation Sleepover
+  ja: 夏休みのお泊り会
+  zh: 暑假的住宿会
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 36
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      千鍵の家に初お呼ばれしたひびきが、入浴イベントや添い寝イベントを繰り広げた夏の一夜。ただし相手は千鍵の姉だったりする。
+    note: {}
+  zh:
+    content: |-
+      响初次被招待到千键家，展开了入浴活动[Event]和陪睡活动[Event]的夏天一夜。不过对象也有千键的姐姐什么的。
+    note: {}

@@ -1,0 +1,110 @@
+---
+id: black-key
+
+en: b
+ja: ko
+furigana: こっけん
+title:
+  en: Black Key
+  ja: 黒鍵
+  zh: 黑键
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 21
+  category:
+  - weapon
+  img: ""
+  en:
+    content: |-
+      No, not the black keys on a piano. The throwing swords wielded by Ciel.
+      As for why they’re called black keys, refer to the entry on purification.
+    note: {}
+  ja:
+    content: |-
+      こっけん。ピアノの黒い盤の事、ではない。シエルが扱う投剣のコト。
+      どうしてアレを黒鍵と呼ぶかは、用語・浄化を参照に。
+    note: {}
+  zh:
+    content: |-
+      Kokken。并不是指钢琴上的黑色琴键。而是雪儿所使用的投剑。
+      至于为什么要叫做黑键，请参照用语·净化。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 29
+  category:
+  - weapon
+  img: ""
+  en:
+    content: |-
+      No, not the black keys on a piano. The throwing swords wielded by Ciel.
+      As for why they’re called black keys, refer to the entry on purification.
+      Ciel carries a large number of these concealed on her person, but what’s under her robes is actually just the hilts. She materializes the blades by passing magical energy through pages of the bible. The maximum number she is able to conceal at one time is close to 100. Also, since black keys are designed specifically for throwing and not for swordplay, in a way they could be considered a kind of bullet.
+      Though they are counted as one of the basic weapons of the Church, the fact that they’re relatively hard to use means that very few executors favor them.
+    note: {}
+  ja:
+    content: |-
+      こっけん。ピアノの黒い盤のコト、ではない。シエルが扱う投剣のコト。
+      どうしてアレを黒鍵と呼ぶかは、用語・浄化を参照に。
+      シェルは大量に黒鍵を隠し持つが、法衣の下にあるのは黒鍵の柄だけである。シエルの黒鍵の刀身は聖書のぺージを展開し、魔力を通して物質化したもの。シエルは最大百近い黒鍵を法衣の下に隠している。黒鍵は斬り合う為の武器ではなく射ち貫く為の武器、つまりは弾丸という事。
+      教会では基本武装の一つと数えられるが、扱いが難しい為愛用する代行者は少ない。
+    note: {}
+  zh:
+    content: |-
+      指钢琴的黑色键，才怪。是指雪儿使用的投剑。
+      为什么把那个叫做黑键，请参照用语·净化。
+      雪儿藏了大量黑键，但法衣下的只是黑键的柄。雪儿的黑键刀身是展开圣经的书页通以魔力而物质化的。雪儿最多在法衣下藏了近百的黑键。黑键不是用于互砍的武器而是用于射穿的武器，也就是说是子弹。虽然在教会被作为基本武装之一，但因为使用困难所以爱用的代行者不多。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 27
+  category:
+  - weapon
+  img: ""
+  en:
+    content: |-
+      The throwing swords wielded by Ciel.
+      Weapons for use against vampires, monsters that distort the laws of nature. These “keys of providence” call forth the original laws of nature the vampire was subject to as a human.
+      Ciel carries a large number of these concealed on her person, but what’s under her robes is actually just the hilts. She materializes the blades by passing magical energy through pages of the bible. Because the black keys are quite compact before this transformation, the maximum number she is able to conceal at one time is close to 100.
+      Despite their appearance black keys are not designed for swordplay, but are in fact throwing weapons. The Burial Agency even has a secret technique called the Iron Plate Effect that allows them to throw more effectively. Because Ciel has mastered this technique, her black keys are capable of boring through concrete walls.
+      They are counted as one of the basic weapons of the Church, but the fact that they’re relatively hard to use means that very few executors favor them.
+      Also, besides the Iron Plate Effect, there are other secret throwing techniques such as the Cremation Rite and Internment Rite. The Cremation Rite, in particular, is used in Ciel’s Last Arc.
+    note: {}
+  ja:
+    content: |-
+      こっけん。シエルが扱う投剣の事。
+      対吸血鬼用の武器で、生物としての法則をねじ曲げる吸血鬼に元の法則を呼び起こす“摂理の鍵”としての効力がある。
+      シエルは大量に黒鍵を隠し持つが、法衣の下にあるのは黒鍵の柄だけである。シエルの黒鍵の刀身は聖書のページに魔力を通して物質化したもの。武器化していない黒鍵はコンパクトで、シエルは最大百近い黒鍵を法衣の下に隠している。
+      黒鍵は斬り合う為の武器ではなく、射ち貫く為の武器。これを効果的に投擲する為、埋葬機関には鉄甲作用と呼ばれる秘術がある。これを修得しているシエルの黒鍵はコンクリートの壁を貫通する。
+      教会では基本武装の一つと数えられるが、扱いが難しい為愛用する代行者は少ない。
+      鉄甲作用の他に火葬式典、土葬式典と呼ばれる投擲秘術があり、シエルのラストアークはこの火葬式典を使用したもの。
+    note: {}
+  zh:
+    content: |-
+      雪儿所使用的投剑。
+      作为对吸血鬼用的武器，对以扭曲作为生物的法则的吸血鬼有作为唤起原法则的“事理之钥”的效力。
+      雪儿藏有大量地黑键，但法衣下有的只是黑键的柄。雪儿的黑键的刀身是在圣书的书页上流通魔力而物质化了的东西。未武器化的黑键很紧密，雪儿在法衣下藏着最大近百把黑键。
+      黑键并非用于互砍的武器，而是用于射穿的武器。为了有效地投掷它，埋葬机关有被称为铁甲作用的秘术。学会这个的雪儿的黑键能贯穿混凝土墙。
+      在教会被算作基本武装之一，但因为使用困难所以喜欢用的代行者不多。
+      铁甲作用之外还有被称为火葬式典、土葬式典的投掷秘术，雪儿的Arc-Drive就使用了这个火葬式典。
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 75
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      聖堂教会の代行者が使用する投擲用の剣。刃は魔力によって編まれることから、普段は柄の部分だけを持ち歩いている。
+    note: {}
+  zh:
+    content: |-
+      圣堂教会代行者所使用的投掷用的剑。因为刃由魔力编织，故平常只有柄的部分随身携带。
+    note: {}

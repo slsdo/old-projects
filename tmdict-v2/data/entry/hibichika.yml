@@ -1,0 +1,30 @@
+---
+id: hibichika
+
+en: h
+ja: hi
+furigana: ひびちか
+title:
+  en: HibiChika
+  ja: ひびちか
+  zh: 响键
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 41
+  category:
+  - designation
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      ひびきと千鍵でひびちか。命名はカプコンの投影魔術師・日暮竜二さんだったりする。時々携帯サイト宛てにひび×ちかなのか、ちか×ひびなのかという問い合わせを頂きますが、あの二人は天然誘い受けとヘタレ攻めだと思うの。
+    note: {}
+  zh:
+    content: |-
+      响与千键合称响键。命名的是CAPCOM的投影魔术师·日暮竜二桑。时而在手机网站[Site]上会收到类似是响x键，还是键x响这样的问题，我想这两人是天然诱受和土下座攻吧。
+    note: {}

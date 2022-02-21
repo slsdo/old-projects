@@ -1,0 +1,39 @@
+---
+id: elite-neco-corps
+
+en: e
+ja: e
+furigana: えりーとねこぶたい
+title:
+  en: Elite Neco Corps
+  ja: エリートネコ部隊
+  zh: 精英猫咪部队
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 12
+  category:
+  - technique
+  img: ""
+  en:
+    content: |-
+      The Neco Arcs summoned by Neco Arc. The GCV’s only military unit.
+      It is a self-defense force composed solely of specially chosen Neco Arcs whose overflowing savage nature, excellent physical ability, and unmatched intelligence cannot be controlled. These chosen few are known as Abaddon’s Beret, and are the envy of all the Neco Arcs.
+      Of course, that’s completely unrelated to its power as a technique. There is a high degree of randomness involved, so it’s really only useful as a provocation. Probably, this was done in order to faithfully translate the idea that even Neco Arc cannot control the Neco Arcs into game mechanics.
+      Also, recently there have been rumors swirling about a Dark Chaos Corps, but…?
+    note: {}
+  ja:
+    content: |-
+      ネコアルクが召喚するネコアルクたちの事。GCVの唯一の軍事機能。
+      野性をたぎらせ、優れた身体能力と知性を抑えられない選ばれたネコアルクたちによる自衛部隊である。選ばれた者はネコアルクたちから羨望をこめてアバドン☆ベレーと呼ばれる。
+      技としての性能は論外。ランダム性が高い為、挑発としてしか使い道がない。これはネコアルクですらネコアルクを制御できない、という事を忠実にゲーム化した為だろう。
+      また、最近は更なる暗黒混沌部隊が組織されたというが……？
+    note: {}
+  zh:
+    content: |-
+      猫Arc所召唤的猫Arc们之事。GCV唯一的军事机能。
+      基于野性高涨、无法抑制的优秀的身体能力与知性被选中的猫Arc们的自卫部队。被选中者被猫Arc们倾注羡慕地称为地狱☆贝雷帽[Abaddon☆Beret]。
+      作为技的性能不值一谈。因为随机性高，无法作为挑衅以外使用。这是因为即使以猫Arc也不能控制猫Arc，这件事被忠实地游戏化了吧。
+      另外，据说最近组织了更进一步的暗黑混沌部队……吗？
+    note: {}

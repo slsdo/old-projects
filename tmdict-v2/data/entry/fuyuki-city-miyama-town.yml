@@ -1,0 +1,32 @@
+---
+id: fuyuki-city-miyama-town
+
+en: f
+ja: fu
+furigana: ふゆきしみやままち
+title:
+  en: Fuyuki City Miyama Town
+  ja: 冬木市深山町
+  zh: 冬木市深山町
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 76
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      {{missing}}
+    note:
+      n1: "Also known as Miyama City or Miyama-chou."
+  ja:
+    content: |-
+      冬木市の西側にある住宅街。古くからの住宅が建ち並ぶ。マッケンジー宅や間桐邸、アインツベルン城から移したセイバー陣営の拠点（後の衛宮邸）などがある。
+    note: {}
+  zh:
+    content: |-
+      在冬木市西侧的住宅街。林立自古以来的住宅。有着麦肯锡[Mackenzie]宅和间桐邸，自爱因兹贝伦[Einzbern]城搬来的Saber阵营的据点（之后的卫宫邸）等。
+    note: {}

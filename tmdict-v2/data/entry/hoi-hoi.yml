@@ -1,0 +1,30 @@
+---
+id: hoi-hoi
+
+en: h
+ja: ho
+furigana: ほいほい
+title:
+  en: Hoi Hoi
+  ja: ほいほい
+  zh: 吼啊吼啊
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 50
+  category:
+  - phrase
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      「はーい」の意味だと思われる。本多陽子さんの演技が素晴らしい。
+    note: {}
+  zh:
+    content: |-
+      “好的”的意思。本多阳子桑的演技真的赞啊。
+    note: {}

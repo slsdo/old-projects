@@ -1,0 +1,36 @@
+---
+id: moderation-treachery-ruin
+
+en: m
+ja: se
+furigana: せっせいはんぎゃくぼつらく
+title:
+  en: Moderation, Treachery, Ruin
+  ja: 節制・反逆・没落
+  zh: 节约·反叛·没落
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 96
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      These are Red Saber’s hated words.
+      Moderation goes without saying, but treason and ruin are related to events from when she was alive. No matter how many times the sun sets, she is a tyrant who doesn’t learn her lesson.
+      By the way, in CCC, Red Saber’s rival Red Lancer’s hated words are desertion, treason, and back talk.
+    note: {}
+  ja:
+    content: |-
+      赤セイバーの嫌いな言葉。
+      節制は言わずもがな、反逆と没落は彼女の生前の出来事から。何度落陽を眺めようと懲りない暴君である。
+      ちなみに、CCCでライバルになる赤ランサーの嫌いな言葉は、脱走、反逆、くちごたえ。
+    note: {}
+  zh:
+    content: |-
+      红Saber所讨厌的词语。
+      节约自不用说，反叛和没落是因为她生前的经历所致。无论目睹几次落日，暴君都完全不会学乖。
+      顺便，她在CCC中的宿敌——红Lancer小姐讨厌的词是，逃跑、反叛和顶嘴。
+    note: {}

@@ -1,0 +1,54 @@
+---
+id: clock-tower
+
+en: c
+ja: to
+furigana: とけいとう
+title:
+  en: Clock Tower
+  ja: 時計塔
+  zh: 时钟塔
+
+entry:
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 25
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      The supreme headquarters of the Mage’s Association. Clock Tower refers to The British Museum. Shiki’s “teacher” was a pupil of the Clock Tower. The mechanisms of magic and magecraft are only briefly touched upon in <em>Tsukihime</em>, so if you want to know more please check out the novel <em>Kara no Kyoukai</em> (Garden of Sinners - doujinshi/self-published version) in which the main scenario writer Kinoko Nasu explains in more detail.
+    note: {}
+  ja:
+    content: |-
+      魔術師たちの基本にして至高の魔術協会であり、ロンドンの大英博物館のことを指す。志貴の「先生」もここの出身。魔術に関しては『月姫』本編でもさわり程度しか解説されていない。詳しくはシナリオ担当の奈須きのこ氏の小説『空の境界』（同人誌）で語られているので、興味がある人は読んでみてはいかがだろうか。
+    note: {}
+  zh:
+    content: |-
+      魔术师们基本而又至高的魔术协会，指伦敦的大英博物馆。志贵的“老师”也是这里出身。《月姬》本篇对魔术也只有表面程度的解说。详细的在担当剧本的奈须蘑菇氏的小说《空之境界》（同人志）中有讲述，有兴趣的人可以读读看。
+    note: {}
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 35
+  category:
+  - organization_alt
+  img: ""
+  en:
+    content: |-
+      The stage for this work, the largest of the three branches of the Mage’s Association.
+      It’s headquarters is in the suburbs of London. For more details, please see the secret files.
+      <span style="float:right;">⮕Secret File: “Clock Tower,” “Chronology of the Clock Tower”</span><br />
+    note: {}
+  ja:
+    content: |-
+      本編の舞台にして、三つの魔術協会でも最大の組織。
+      本部はロンドン郊外に存在している。詳しくはシークレットファイルを読むべし。
+      <span style="float:right;">⮕シークレットファイル／『時計塔』『時計塔の年表』</span><br />
+    note: {}
+  zh:
+    content: |-
+      本篇的舞台，在三大魔术协会中也是最大的组织。
+      本部位于伦敦郊外。详情请阅读Secret File。
+      <span style="float:right;">⮕Secret File／『时钟塔』『时钟塔的年表』</span><br />
+    note: {}

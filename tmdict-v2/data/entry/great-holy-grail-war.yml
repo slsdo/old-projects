@@ -1,0 +1,42 @@
+---
+id: great-holy-grail-war
+
+en: g
+ja: shi
+furigana: ひじりはいたいせん
+title:
+  en: Great Holy Grail War
+  ja: 聖杯大戦
+  zh: 圣杯大战
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 57
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      To describe it in a single phrase, it is a distorted, exceptional version of the Fuyuki-style Holy Grail War. In the case where the battle between seven Servants doesn’t start for an overly long period of time, the Holy Grail will make preparations to summon seven new Servants. However, that is an action that once again sucks up the Grail’s stored mana that it gradually amassed over sixty years from the ley lines, and if done improperly, the ley lines will become completely dried up forever.
+      Due to the work of the only magus who managed to escape from Vlad III’s hands, the Greater Grail activated the Great Holy Grail War system and, though normally it would have made the Holy Grail War enter a standby waiting period, it was instead made to immediately recognize the summoning of seven additional Servants to fight in a great war.
+      However, the Great Holy Grail War was within the scope of Darnic’s predictions. Because even if he formed a new organization using the Greater Grail as a symbol, the Mage’s Association would definitely seek to obstruct it. As such, he judged that it would be best if they had a showdown against the Mage’s Association once with their full power—that is, their Servants. Darnic was also farsighted enough to include increasing reactionary forces within the Association by thoroughly beating them here and bringing them into his own faction.
+      If his plans had all gone well, the Association’s forces would have been diminished and brought about an era similar to the turbulent Sengoku Era in Japan.
+      …Well, it all came to nothing due to Shirou-san and Rider of “Black,” though.
+    note: {}
+  ja:
+    content: |-
+      一言で言ってしまうと、冬木式聖杯戦争がねじ曲がった例外戦争である。七騎のサーヴァントによる戦いが長期間に渡って開始されない場合、聖杯は新たな七騎を召喚する準備を整える。ただし、それは六十年掛けて霊脈から少しずつ溜めた魔力を再度吸い上げる行為であり、下手をすると霊脈は永遠に枯れ果ててしまう。
+      ヴラド三世の手からただ一人逃れた魔術師の手によって大聖杯は聖杯大戦システムを起動、本来なら聖杯戦争の待機期間であるが、いち早く大戦用の七騎召喚が承認された。
+      とは言えダーニックにとっては聖杯大戦は予想内の出来事だった。と言うのも、大聖杯を象徴として掲げて新規組織を起ち上げたとしても、魔術協会は必ず妨害活動を行う。それならば、自身の最大戦力―――即ち、サーヴァントたちで一度魔術協会と対決しておくのが良いと判断していた。ここで協会を徹底的に叩くことで反動勢力を活発化させ、自陣営に組み込むこともダーニックは視野に入れていた。
+      彼の試みが全て上手くいった場合、魔術協会の勢力は減退し、日本における戦国乱世もかくやという時代が幕を開けていただろう。
+      ……まあ、どれもこれもシロウさんと“黒”のライダーのお陰で台無しになった訳ですが。
+    note: {}
+  zh:
+    content: |-
+      用一句话简单来说的话，就是扭曲了冬木式圣杯战争的例外战争。如果七骑从者的战斗过了太长时间没有开始，圣杯就会开始召唤另外七骑的准备。不过那是再次吸收把花费六十年从灵脉一点一点吸收的魔力的行为，一个弄不好可能会造成灵脉永远枯竭。
+      因为弗拉德三世手下唯一生存的魔术师，使大圣杯启动圣杯大战系统的缘故，使得原本明明该是圣杯战争的待机期间的，却提早承认了大战用的七骑从者召唤。
+      虽说如此，对达尼克来说圣杯大战也是预想内的事情。就算以大圣杯为象征创造新的组织，魔术协会也一定会出手妨害。他判断既然如此，那就让自己的最大战力──也就是先让从者们去和魔术协会对决一场比较好。也想过可以在这里彻底打垮协会让反动势力活跃起来，然后组入自身阵营。
+      如果他的尝试顺利的话，魔术协会的势力将会大幅衰退，开始类似日本乱世的时代吧。
+      ……嘛，虽然一切都被四郎和“黑”Rider给糟蹋掉了就是了。
+    note: {}

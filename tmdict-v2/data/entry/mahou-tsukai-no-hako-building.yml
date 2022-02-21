@@ -1,0 +1,32 @@
+---
+id: mahou-tsukai-no-hako-building
+
+en: m
+ja: ma
+furigana: まほうつかいのはこ
+title:
+  en: Mahou Tsukai no Hako (Building)
+  ja: 魔法使いの匣
+  zh: 魔法使之匣
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 57
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      {{missing}}
+    note:
+      n1: "Same name as the other “Mahou Tsukai no Hako” entries, this one is written in kanji, and focuses on the “lore” of Mahou Tsukai no Hako (Magician’s Box)."
+  ja:
+    content: |-
+      とある魔法使いが世界の3ヶ所に建設させたといわれる、特異点を備えた建物。地下に至るほど巨大かつ高度な術式が敷かれており、この場所を通過する事で色々と面倒くさい工程をすこーんとすっ飛ばせるとは本人の弁。その代わりに周辺の次元がわやくちゃとなり、余計な面倒事が頻発しているとか何とか。あのジジィ本当にろくな事しませんねー！
+    note: {}
+  zh:
+    content: |-
+      据说某个魔法使建在世界上3个地方，具备特异点的建筑物。因直至地底都铺设着巨大且高程度的术式，通过这个地方就要以第一人称猛跑各种各样麻烦的机关。作为代替周边的次元也变得狂乱起来，频发着多余的麻烦事什么的。那个老爷子真是不像话啊~！
+    note: {}

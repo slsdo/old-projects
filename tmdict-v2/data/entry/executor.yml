@@ -1,0 +1,127 @@
+---
+id: executor
+
+en: e
+ja: ta
+furigana: だいこうしゃ
+title:
+  en: Executor
+  ja: 代行者
+  zh: 代行者
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 54
+  category:
+  - other
+  img: fsm_executor.png
+  en:
+    content: |-
+      Executor
+      Inquisitors of the Holy Church. Those who eliminate heresies that do not exist in the Church’s doctrine.
+      What makes them different from exorcists is that they do not exorcize demons, but eliminate them.
+      For a more detailed explanation, consult the latter half of the Sakura route.
+    note: {}
+  ja:
+    content: |-
+      エクスキューター。
+      聖堂教会における異端審問員で、教義に存在しない 異端を排除するモノたち。
+      悪魔払いではなく悪魔退治であるところがエクソシストとは異なる点。
+      詳細は本編・桜ルート後半でちょろっと語られます。
+    note: {}
+  zh:
+    content: |-
+      Executor。
+      圣堂教会里的异端审问员，排除不存在教义中的异端的人们。
+      不是驱逐恶魔而是退治恶魔，这点是与驱魔人[exorcist]的不同之处。
+      详细在正编·樱线后半简略地被说过。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 56
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      Inquisitors of the Holy Church. Those who eliminate heresies that do not exist in the Church’s doctrine.
+      What makes them different from exorcists is that they do not exorcize demons, but eliminate them. If exorcists are those who drive out devils from the possessed, then executors are those who exterminate devils on the spot. Not banishing, but defeating; not rescuing, but erasing. They are more like professional killers than priests.
+      However, according to the Church, humans do not have the authority to defeat demons, because even demons are the creations of God. The name “executor” comes from the fact that the executors transcend that teaching, and act as God’s proxy on earth to stamp out heresy. They are an army of believers, devised of by the 120 Cardinals supporting the Pope. It wouldn’t be a mistake to call them the Church’s greatest treasure.
+    note: {}
+  ja:
+    content: |-
+      エクスキューター。
+      教会における異端審問員で、教義に存在しない異端を排除するモノたち。
+      悪魔払いではなく悪魔退治であるところがエクソシストとは異なる点。エクソシストは人に取り付いた悪魔を追い払う者であり、エクスキューターは悪魔をその場で消滅させるのである。払うのではなく斃す、救うのではなく消し去るという、神父というよりは殺し屋じみた聖職者。
+      教会において、人には魔を斃す権限はない。魔さえも神の創造物だからだ。その教えを超越し、神の代行として異端を“消滅”させる為、彼らは代行者と呼ばれている。法王を支える百二十の枢機卿たちが立案した武装した戦闘信徒で、教会の虎の子部隊と思えば間違いなし。
+    note: {}
+  zh:
+    content: |-
+      Executor。
+      教会中的异端审查员，排除异端的人员。
+      退治恶魔而非驱魔是Excutor和Exorsict的不同。Exorsict驱散附着在人类身上的恶魔， 而Excutor则就地消灭之。并非驱散而是杀死，并非救赎而是毁灭，比起神父更像是杀手般的神职人员。
+      教会中，人并没有消灭魔的权利。因为即使是魔也是神的创造物。为了越过教义，剿灭异端，他们于是被称为代行者。支持教皇的一百二十名主教们组织武装的战斗信徒，可以当做是教会的秘密武器。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 44
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      Inquisitors of the Holy Church. Those who eliminate heresies that do not exist in the Church’s doctrine.
+      If exorcists are those who drive out devils from the possessed, then executors are those who exterminate devils on the spot. “Not to banish, but defeat. Not to rescue, but erase.” That is the ideology that drives the executors.
+      However, according to the Church, humans do not have the authority to defeat demons, because even demons are the creations of God. The name “executor” comes from the fact that the executors transcend that teaching, and act as God’s proxy on earth to stamp out heresy.
+    note: {}
+  ja:
+    content: |-
+      エクスキューター。
+      聖堂教会における異端審問員。教義に存在しない異端を排除するモノたち。
+      エクソシストは人に取り付いた悪魔を追い払う者であり、エクスキューターは悪魔をその場で消滅させる者である。払うのではなく斃す、救うのではなく消し去るという行動理念を持つ。
+      教会において、人には魔を斃す権限はない。魔さえも神の創造物であるからだ。その教えるを超越し、神の代行として異端を“消滅”させる事から代行者と呼ばれている。
+    note: {}
+  zh:
+    content: |-
+      Executer。
+      圣堂教会里的异端审问员。排除在教义中不存在的异端的人们。
+      Exorcist是驱逐附身于人的恶魔者，而Executer是当场消灭恶魔者。有着并非驱赶而是杀掉、并非拯救而是消去这样的行动理念。
+      在教会，人是没有杀掉魔的权限的。因为连魔也是神的创造物。由于超越其教义，作为神的代理使异端“消灭”而被称作代行者。
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 27
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      Inquisitors of the Holy Church mandated with the punishment and elimination of heresy. Executors are exceptional at combat, and operate on the front lines, wielding great power. They are called “executors” because they execute the mission of the “elimination of evil” as permitted by God.
+    note: {}
+  ja:
+    content: |-
+      聖堂教会に所属する異端狩りの実行部隊。卓越した戦闘者の集団であり、常に最前線でその力をふるう。主より許された「魔の消滅」を代行することから、このような通称で呼ばれている。
+    note: {}
+  zh:
+    content: |-
+      所属于圣堂教会的狩猎异端的执行部队。卓越的战斗者集团，时常会在最前线施展其力量。因为是代行主所允许“魔的消灭”，所以用这样的通称来称呼。
+    note: {}
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 13
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Those who work as executioners for the Church. Combat personnel employed to kill the blood-sucking species. Executors also work to exterminate any other heresy that violates the Church’s doctrine.
+    note: {}
+  ja:
+    content: |-
+      聖堂教会お抱えの処刑人。吸血種などの“聖堂教会の教義に存在しない異端”を排撃するための戦闘要員。
+    note: {}
+  zh:
+    content: |-
+      圣堂教会专职的处刑人。为排除吸血种之类的“不存在于圣堂教会教义中的异端”而产生的战斗要员。
+    note: {}

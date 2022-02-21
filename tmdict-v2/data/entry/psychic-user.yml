@@ -1,0 +1,33 @@
+---
+id: psychic-user
+
+en: p
+ja: chi
+furigana: ちょうのうりょくしゃ
+title:
+  en: Psychic User
+  ja: 超能力者
+  zh: 超能力者
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 21
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      ① An individual born with psychic powers.
+      ② Since psychic powers are completely different than interference with nature, an individual is capable of using abnormal powers despite not having a magic circuit.
+    note: {}
+  ja:
+    content: |-
+      ①超能力を持って生まれた人間。
+      ②超能力は自然干渉法とは全く異なる能力であるが故、彼等は魔術回路を用いずとも超常現象を起こす事が可能である。
+    note: {}
+  zh:
+    content: |-
+      ①天生拥有超能力的人类。
+      ②由于超能力是与自然干渉法完全不同的能力，所以他们即使不利用魔术回路也能够引起超常现象。
+    note: {}

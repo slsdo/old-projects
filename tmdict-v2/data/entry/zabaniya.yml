@@ -1,0 +1,49 @@
+---
+id: zabaniya
+
+en: z
+ja: mo
+furigana: もうそうしんおん
+title:
+  en: Zabaniya
+  ja: 妄想心音
+  zh: 妄想心音
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 95
+  category:
+  - noble-phantasm
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      Delusional Heartbeat. The cursed arm.
+      It is the arm of the elemental of malice, Shayṭān, and excels at cursing humans to death.
+      Using an ether lump, it creates a dual existence from the reflected image of the assassination target.
+      By crushing this imposter resonating with the original, it curses the target to death without ever laying a single finger upon them.
+      It is a convoluted method of killing, but one well-suited for assassinations.
+      For instance, even if the target was wearing armor with a defense score of 1000, Zabaniya would grab hold of the false heart from above the armor and deal direct internal damage.
+      Somehow, it feels a little bit like an illusionist’s trick.
+    note: {}
+  ja:
+    content: |-
+      呪いの腕、ザパーニーヤ。
+      悪性の精霊シャイターンの腕であり、人間を呪い殺す事に長けている。
+      エーテル塊を用いて、鏡に映した殺害対象の反鏡存在から本物と影響しあう二重存在を作成する。
+      殺害対象と共鳴したその偽者を潰す事で、本物には指一本触れずに殺害対象を呪い殺す。
+      回りくどい殺害方法だが、暗殺には適している。
+      たとえ防御カ1000の鎧で身を守ろうが、妄想心音は鎧の上から擬似心臓を掴み上げ、直接内部にダメージを与えるのである。
+      なんか、見た目奇術師のトリックっぽい宝具。
+    note: {}
+  zh:
+    content: |-
+      诅咒之臂·Zabaniya。
+      作为恶性的精灵撒旦[Šayṭān]的手臂，长于咒杀人。
+      用以太块，由映在镜中的杀害对象的反镜存在制作出与本体互相影响的二重存在。
+      通过碾碎与杀害对象共鸣的那个伪物，一根手指不碰到实物地咒杀杀害对象。
+      虽然是迂回的杀害方法，但适合于暗杀。
+      纵令想以防御力1000的铠甲护身，妄想心音也会从铠甲上抓起拟似心脏，直接对内部给予伤害。
+      感觉看起来就像奇术师的戏法一样的宝具。
+    note: {}

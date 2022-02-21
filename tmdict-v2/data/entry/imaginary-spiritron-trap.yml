@@ -1,0 +1,51 @@
+---
+id: imaginary-spiritron-trap
+
+en: i
+ja: ri
+furigana: りょうしきょこうかんせい
+title:
+  en: Imaginary Spiritron Trap
+  ja: 霊子虚構陥穽
+  zh: 灵子虚构陷阱
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 163
+  category:
+  - concept
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      Ryoushi Kyokou Kansei.
+      This is BB’s imaginary number space which is depicted as black noise and black tentacles in game. Anyone who comes into contact will be unable to do anything as BB takes ownership of their data.
+      As far as an intelligent lifeform’s existence in cyberspace is concerned, their data is the foundation of their existence, and after being trapped BB can freely alter that data… essentially throwing their existence into disorder.
+      Wizards maintain themselves with an “unshakable ego” that is defined in cyberspace using pseudo-spiritrons, but BB’s tentacles, like the tongue of an enchantress, can even take control of those spiritrons and invade and prey upon them.
+      This is the biggest bug ever to exist in the history of Moon Cell.
+      The true nature of the tentacles is the very being of the far side of the Moon;
+      Negative, Cursed, Cutting, Crater.
+    note:
+      n1: "Literally translates to “Spiritron Imaginary Pitfall.”"
+  ja:
+    content: |-
+      りょうしきょこうかんせい。
+      ゲーム中、黒いノイズや黒い触手として描かれるBBの虚数空間のこと。これに触れられたデータはなす術なくBBに取りこまれてしまう。
+      電脳空間では、知性生命体の存在基盤は自在に変革……というか、たやすく変化・乱雑化してしまう。
+      ウィザードたちが自分自身を『確固たる自我』として保ち続けられるのは疑似霊子で自我を固定しているからなのだが、BBの触手はそれすら捕らえ、侵食し、捕食する妖女の舌だ。
+      ムーンセル史上、最大のバグ。
+      その本質は月の裏側そのもの───即ち、
+      負の感情[ネガティブ]、怨念[カース]、切断[カット]、えぐられた穴[クレーター]である。
+    note: {}
+  zh:
+    content: |-
+      Ryoushi Kyokou Kansei。
+      游戏中、作为黑色noise和黑色触手被描写的BB的虚数空间。只要是被这个碰触到的Data就会无法抵抗的被BB给吸收。
+      在计算机空间中，Data是智能生命体的本质，而BB在吸收它后则可以自由改变其存在的形式和基础……等同于把它的存在变得更混乱。
+      就算是本来能自在地变化的计算机空间和保持着“确实的自我”的疑似灵体也会被捕捉、侵蚀，为了捕食而存在的妖女之舌。
+      Moon Cell史上最大的bug。
+      那个本质就是月的里侧本身——也就是、
+      负面感情[negative]、怨念[curse]、切断[cut]、被挖出来的空洞[crater]。
+    note: {}

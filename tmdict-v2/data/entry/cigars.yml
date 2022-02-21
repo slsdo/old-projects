@@ -1,0 +1,34 @@
+---
+id: cigars
+
+en: c
+ja: ha
+furigana: はまき
+title:
+  en: Cigars
+  ja: 葉巻
+  zh: 雪茄
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 43
+  category:
+  - mystic-code_alt
+  img: ""
+  en:
+    content: |-
+      One of the few Mystic Codes carried by El-Melloi II. The tobacco inside was specially put together by El-Melloi II himself. There are many varieties, from those used for defence, for setting up Bounded Fields, for stabilizing the mind, and for activating Magic Circuits.
+      As to why he decided on cigars, after being forced into the position of El-Melloi II, a panicked Waver Velvet was searching for some way to make himself look more Lord-like, to which some drunk magus mentioned that “A cigar and a suit are a man’s weapons.” Or something like that.
+    note: {}
+  ja:
+    content: |-
+      エルメロイII世が持ち歩く、数少ない魔術礼装。中身のタバコはII世が自分なりに配合したもの。防御用、結界用、精神安定用、魔術回路の賦活用などの種類がある。
+      なぜ葉巻を選んだかというと、エルメロイII世に封じられた後、なんとか君主として取り繕わねばならないと焦っていたウェイバー・ベルベットに、「葉巻とスーツは男の武装だ」と諭した酒浸りの魔術師がいたからだとか。
+    note: {}
+  zh:
+    content: |-
+      埃尔梅罗二世随身携带的，为数不多的魔术礼装。
+      里面的烟草是二世配合自身情况放入的。有着防御用、结界用、稳定精神用、催化魔术回路用等种类。
+      若问为什么会选择雪茄，据说韦伯·维尔维特被封为埃尔梅罗二世后，焦急着不知道该怎样装出身为君主[Lord]的门面时，有一位酗酒成性的魔术师告诫他说「雪茄和西装就是男人的武装」。
+    note: {}

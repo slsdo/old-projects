@@ -1,0 +1,68 @@
+---
+id: enkidu
+
+en: e
+ja: te
+furigana: てんのくさり
+title:
+  en: Enkidu
+  ja: 天の鎖
+  zh: 天之锁
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 58
+  category:
+  - armament
+  img: ""
+  en:
+    content: |-
+      The Chains of Heaven. One of Gilgamesh’s favorite Noble Phantasms.
+      As the chain that captured the Bull of Heaven, which had driven Uruk into a seven year famine, it is Gilgamesh’s most trusted Noble Phantasm—even more so than Ea. Its power is to “restrain the gods.”
+      It is a Noble Phantasm which grows more sturdy in proportion to the target’s divinity, making it one of the few anti-god weapons.
+      Consequently, for Berserker (Heracles), Enkidu was an even more troublesome Noble Phantasm than Excalibur.
+      On the other hand, for Servants with no divinity like Saber, Assassin, or Archer, it is nothing more than a normal, sturdy chain.
+    note: {}
+  ja:
+    content: |-
+      ギルガメッシュが好んで使用する宝具。
+      真名はエルキドゥ。
+      かつてウルクを七年間飢健に陥れた“天の牡牛”を捕縛した鎖で、ギルガメッシュがエアと同様‘否、それ以上に信頼する宝具である。
+      その能力は“神を律する”もの。
+      捕縛した対象の神性が高ければ高いほど硬度を増す
+      宝具で、数少ない対神兵装と言える。
+      故に、バーサーカー(へラクレス)にとって天の鎖はエクスカリバー以上に厄介な宝具となった。
+      逆に神性のないセイバーやアサシン、アーチャーに はただ頑丈なだけの鎖にすぎない。
+    note: {}
+  zh:
+    content: |-
+      吉尔伽美什喜好使用的宝具。真名为Enkidu。
+      曾捕缚了让乌鲁克陷入七年饥荒的“天的公牛”的锁链，是吉尔伽美什与Ea同样，不，尚在其之上信赖的宝具。
+      其能力为“律神”之物。
+      是捕缚的对象神性越高越是增加硬度的宝具，可说是为数不多的对神兵装。
+      因此，对Berserker（赫拉克勒斯）来说天之锁链就成了比Excalibur更为棘手的宝具。
+      反之对没有神性的Saber、Assassin和Archer而言只不过是仅仅算是坚固的锁链罢了。
+    note: {}
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 57
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      ギルガメッシュがもつ宝具のひとつで、神獣「天の雄牛」を捕らえたとされる鎖。標的を拘束する能力をもち、神性の高い相手ほどより強い効果を発揮する。
+    note:
+      n1: "エルキドゥ"
+  zh:
+    content: |-
+      {{n1}}
+      吉尔伽美什[Gilgamesh]所持宝具之一，将神兽“天之公牛”捕捉住的锁。持有束缚目标能力，对神性高的对手会发挥更强的效果。
+    note:
+      n1: "Enkidu"

@@ -1,0 +1,52 @@
+---
+id: ccc-true-end-protagonist
+
+en: c
+ja: shi
+furigana: しししまことendしゅにゅうこう
+title:
+  en: CCC True End Protagonist
+  ja: CCC真ENDの主入公
+  zh: CCC真END的主角
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 72
+  category:
+  - spoiler
+  img: ""
+  en:
+    content: |-
+      In the True End the protagonist wakes up, but not in the facility in Japan where “his/her original” was sleeping, but an abandoned facility in a completely different location.
+      At the conclusion of Heaven’s Fall, Sakura mentions something at the end about a “big cheat.” This refers to her mobilizing all of Moon Cell’s technology to send the protagonist to Earth.
+      This means that the protagonist’s consciousness is reincarnated in the real world with an artificially created human body.
+      (Since Sakura is an AI, the base of her body is different from that of humans.)
+      After that, since they are now far from the Moon, Sakura and the protagonist have no means of finding out what happened with the Holy Grail War.
+      Perhaps Leo won and is facing off against “him”{{n1}} in Moon Cell‘s core. Is it Rin or Rani who survived?
+      Or is it true to history where the weakest Master, not involved in the events of CCC, made it to the core?
+      It’s a future filled with the hope of endless possibilities.
+    note:
+      n1: "“Him” is in reference to Twice, who‘s waiting for the winner."
+  ja:
+    content: |-
+      真ENDで目覚める主人公ですが、あれは『元になった彼／彼女』が眠っている日本の私設ではなく、まったく違う場所にある、放棄された医療施設での話。
+      天の逆月の終わり、最後に桜が言った「すごいズル」とは、ムーンセルの技術を総動員して、CCCの主人公を地上に送り出す事でした。
+      ようは人工的に作られた完全な人間体に意識を転生させたということ。
+      （桜は元がAIなので、人間とは違うまた別の素体）
+      その後、月の聖杯戦争がどうなったのかは月から離れた二人に知るよしはない。
+      レオが勝者になってムーンセル中枢で彼と対決するのか、はたまた生き残るのは凛かラニか。
+      あるいは正史通り、CCCという出来事を切り離した、最弱のマスターが中枢に至るのか。
+      それは数限りない、可能性という名の希望に満ちた未来の話である。
+    note: {}
+  zh:
+    content: |-
+      关于真END中苏醒的主角，那并非是“原型的他／她”所沉睡着的日本的设施。是发生在完全不同的地方，一个被废弃掉的医疗设施之中。
+      天之逆月的终结，最后樱所说的“非常大的诈”，正是总动员了Moon Cell的技术，将CCC的主角送到地面一事。
+      简单来说，就是将意识完全转生到人工制造出来的完全的人体里。
+      （而樱本人因为是AI，所以是用得是完全不同的素体）
+      月球的圣杯战争之后究竟如何，离开月球的两人已经无从得知了。
+      是雷欧获胜，在Moon Cell中枢与“他”对决了呢，还是说凛或者拉尼幸存下来了呢。
+      又或者跟正史一样，脱离了CCC事件的最弱的Master抵达了中枢呢
+      那是充满了名为无限可能性的希望的未来的故事。
+    note: {}

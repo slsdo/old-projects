@@ -1,0 +1,30 @@
+---
+id: okeanos
+
+en: o
+ja: o
+furigana: おけあのす
+title:
+  en: Okeanos
+  ja: オケアノス
+  zh: Okeanos
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 104
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      ギリシア神話に謳われている大陸を取り巻くという大河。イスカンダルが夢見た大地の果て。オーシャン（大洋）の語源ともなった。
+    note: {}
+  zh:
+    content: |-
+      于希腊[Greece]神话中被讴歌着的围绕大陆的大河。伊斯坎达尔[Iskandar]所梦见的大地的尽头。也是Ocean（大洋）的语源。
+    note: {}

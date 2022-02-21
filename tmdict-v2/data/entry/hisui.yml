@@ -1,0 +1,158 @@
+---
+id: hisui
+
+en: h
+ja: hi
+furigana: ひすい
+title:
+  en: Hisui
+  ja: 翡翠
+  zh: 翡翠
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 51
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A sub-heroine in <em>Tsukihime</em>. A servant working at the Tohno mansion. Sympath.
+      She is a maid who sports an apathetic expression and an inflexible attitude.
+      Though she seems to be the exact opposite of her older sister Kohaku in that regard, if you look carefully you can see she’s actually demonstrating a wide variety of subtle expressions.
+      Compared to Kohaku, who only ever wears an expression of “happiness,” Hisui actually seems much more human.
+      She has been working as a servant ever since she was taken in by the Tohno family as a child.
+      After Shiki left the mansion, she began working there, and stopped talking to people of her own accord.
+      She’s a bit ashamed of it, but it seems that even though she tries her best to maintain conduct befitting a servant when she’s in Shiki’s presence, every once in a while her true colors slip out.
+      Just as Kohaku has absolutely no sense for keeping things tidy and in order, Hisui’s palate is hellishly out of sync with most people’s. The reason she never cooks for Shiki is because she doesn’t want to make him sad.
+      …Geez, that’s so cute. I want a maid like that!
+    note: {}
+  ja:
+    content: |-
+      月姫におけるサブヒロイン。遠野のお屋敷で働く使用人。感応能力者。
+      無感動な表情とかたくなな態度をとるメイドさん。
+      姉である琥珀とは対照的だが、よく見れば表情はころころ変わる。
+      表情が喜しかない琥珀さんに比べれば、喜怒哀楽のある翡翠はよっぽど人間らしいのかも。
+      子供の頃、遠野家に引きとられてから使用人として働いている。
+      志貴が屋敷を出た後は屋敷の中の仕事をするようになり、自分から誰かに話しかける事はなくなった。
+      自分を恥じていて、志貴の前では使用人として振る舞おうと頑張っているが時折地が出てしまうようだ。
+      琥珀さんが整理整頓に必要な片付けのセンスがないように、翡翠は味覚が地獄的にズレている。翡翠が志貴に対して食事を作らないのは、一重に志貴をがっかりさせたくないからなんだって。
+      ……かわいいじゃん。こんなメイドさんなら自分もほしいです、はい。
+    note: {}
+  zh:
+    content: |-
+      月姬中登场的女配角，于远野家工作的佣人，感应能力者。
+      总是面无表情、并拥有冷漠态度的一位女仆。
+      与姐姐琥珀形成对比，不过如果仔细看的话可以发现表情有不少变化。
+      和除了开心以外没有其他表情的琥珀相比，有着喜怒哀乐的翡翠还比较像人。
+      从小就被带进远野家，之后做为佣人工作。
+      总是在志贵外出后才开始打扫房子，没有自己主动跟任何人说过话。
+      自己感到羞愧而努力在志贵面前做好佣人的工作，不过似乎有时还是会露出本性
+      如同琥珀对于整理的概念极度缺乏，翡翠的味觉可以说是地狱级的。
+      翡翠从来没有为志贵作过饭，一个原因是怕志贵失望。
+      …这不是很可爱吗。
+      我也想要有一个这样的女仆，嗯。
+    note: {}
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 29
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      A servant of the Tohno family, and Kohaku’s twin sister. She is in charge of caring for Shiki. Shiki isn’t a morning person, so she probably has it pretty tough trying to get him up. She seems quiet and emotionless at first, but if you pay attention she actually displays a greater variety of emotion than Kohaku. She is the complete opposite of Kohaku, so that means she is great at cleaning and tidying, but her sense of taste (food-wise) is terrible, so don’t make her spend too much time or effort on kitchen work. Even when she puts her all into making something, the best she could come up with was a plum sandwich (!), but Shiki still ate it seeing as he is that kind of guy. You can find this scene in <em>Kagetsu Tohya</em>.
+    note: {}
+  ja:
+    content: |-
+      遠野家の使用人で、琥珀の双子の妹。志貴の世話担当。なかなか起きない志貴に毎朝苦戦している……んだろうなぁ多分。物静かで無感動に見えるが、よく見多と感情の動きは琥珀よりも多彩。琥珀とは正反対に片付けや掃除が得意。だが、やはり壊滅的に味音痴という欠点もあり、料理だけは頑なに作ろうとしない。一念発起して作ってみると梅サンド（！）だったりするのだが、ちゃんと食べてあげるのが志貴らしい。このへんのエピソードは『歌月十夜』参照のこと。
+    note: {}
+  zh:
+    content: |-
+      远野家的佣人，琥珀的双胞胎妹妹。负责照料志贵。每天早晨跟怎么也不起来的志贵苦战……应该是吧大概。虽然看来既文静又不动心，但看多了会发现感情活动比琥珀更多采多姿。和琥珀相反的擅长收拾和打扫。不过，果然有歼灭级的味觉迟钝这个缺点，只有料理别打算硬去要她做。下定决心要做的话会做出梅子三明治（！）不过志贵好像是好好地吃掉了。这个奇怪的事件请参照《歌月十夜》。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 77
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A sub-heroine in <em>Tsukihime</em>. A servant working at the Tohno mansion. Sympath.
+      She is a maid who sports an apathetic expression and an inflexible attitude. Though she seems to be the exact opposite of her older sister Kohaku in that regard, if you look carefully you can see she’s actually demonstrating a wide variety of subtle expressions. Compared to Kohaku, who only ever wears an expression of “happiness,” Hisui actually seems much more human.
+      She has been working as a servant ever since she was taken in by the Tohno family as a child. After Shiki left the mansion, she began working there, and stopped talking to people of her own accord. Also, because of what Kohaku went through as a child, she forbade herself from leaving the mansion.
+      Though, perhaps it’s because her mental fortitude improved during the events of <em>Tsukihime</em>, but in <em>Kagetsu Tohya</em> she actually leaves the mansion of her own accord to bring Shiki his lunch.
+      She’s a bit ashamed of it, but it seems that even though she tries her best to maintain conduct befitting a servant when she’s in Shiki’s presence, every once in a while her true colors slip out.
+      Just as Kohaku is incapable of cleaning up inside, Hisui’s palate is hellishly out of sync with most people’s. It seems the reason she never cooks for Shiki is entirely because she doesn’t want to make him sad.
+      In the <em>Kagetsu Tohya</em> side story Imogirisou, she gets possessed by an evil spirit and demonstrates a strange form of martial arts. This was the inspiration for the Dark Jade Fist, her Arc Drive in <em>Melty Blood</em>.
+      Her super maid action in <em>Melty Blood</em> is a must see. The way her skirt flutters during her backdash is just… yeah.
+    note: {}
+  ja:
+    content: |-
+      ひすい。月姫におけるサブヒロイン。遠野のお屋敷で働く使用人。感応能力者。
+      無感動な表情とかたくなな態度をとるメイドさん。姉である琥珀とは対照的だが、よく見れば表情はころころ変わる。表情が喜しかない琥珀に比べれば、喜怒哀楽のある翡翠はよっぽど人間らしいのかも。
+      子供の頃、遠野家に引き取られてから使用人として働いている。志貴が屋敷を出た後は屋敷の中の仕事をするようになり、自分から誰かに話しかける事はなくなった。幼年期の琥珀とのトラブルから、屋敷から外に出る事を禁じている。
+      自分を恥じていて、志貴の前では使用人として振舞おうと頑張っているのだが時折地が出てしまうようだ。極度の潔癖性&男性恐怖症。
+      琥珀に室内の掃除ができないように、翡翠は味覚が地獄的にズレている。翡翠が志貴に対して食事を作らないのは、偏に志貴をがっかりさせたくないからだそうだ。
+      歌月十夜では月姫本編で精神的に強くなったのか、自分から屋敷を出て志貴にお弁当を届けに行く事も。
+      歌月十夜の番外編・妹切草では悪霊に取り憑かれ、おかしな拳法を披露する。この拳法こそメルティブラッドで使用される、暗黒翡翠拳の原型だ。
+      メルティブラッドでのメイドさんアクションは必見。バックダッシュのスカートの翻りようがなんとも……。
+    note: {}
+  zh:
+    content: |-
+      Hisui。月姬中的女配角。在远野宅内工作的佣人。感应能力者。
+      没有情感的表情和态度生硬的女仆小姐。和姐姐琥珀形成对比。仔细看的话会发现表情会有明显的变化。和脸上只挂着笑容的琥珀比更加显得更加有人情味。
+      还是小孩子的时候被领进了远野家，之后作为佣人工作。自志贵离开后，就开始负责屋内的工作，变得和谁都不说话。因为年幼时和琥珀的摩擦而被禁止从大屋走出去。
+      为自己感到羞愧而努力在志贵面前做好佣人的工作，却时不时地露出本性。有极度的清洁癖和男性恐惧症。
+      就像琥珀不能打扫室内一样，翡翠的味觉也是骇人的诡异。翡翠不替志贵做吃的，主要是怕志贵吃得昏过去。
+      在歌月十夜里比在月姬本篇里精神上变得坚强了，自己从大屋里走了出来并且还给志贵送去了便当。
+      在歌月十夜中被恶灵附身，展露了奇怪的拳法。正是这个拳法在 Melty Blood中被使用。暗黑翡翠拳的原型。
+      Melty Blood的女仆小姐Action值得一看。Back Dash的裙子飘荡实在是……。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 58
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The younger of the twin sisters working as servants in the Tohno mansion.
+      The maid assigned to Shiki, she sports an apathetic expression and an inflexible attitude. Though she seems to be the exact opposite of her older sister Kohaku in that regard, if you look carefully you can see she’s actually demonstrating a wide variety of subtle expressions. Compared to Kohaku, who only ever wears an expression of “happiness,” Hisui actually seems much more human.
+      Characterized by extreme fastidiousness and a fear of men. Just as Kohaku is naturally unsuited for cleaning up inside, Hisui’s palate is hellishly out of sync with most people’s. It seems the reason she never cooks for Shiki is entirely because she doesn’t want to make him sad.
+      Normally she’s not a character than can fight, but in <em>Melty Blood</em> due to the Tatari’s generous interpretation of a maid as “one who protects their master by any means necessary,” she acquired the legendary Maid-style Killing Arts.
+    note: {}
+  ja:
+    content: |-
+      ひすい。遠野のお屋敷で働く使用人姉妹の妹。
+      志貴付きのメイド。無感動な表情とかたくなな態度をとる。姉である琥珀とは対照的だが、よく見れば表情はころころ変わる。表情が『喜』しかない琥珀に比べれば、喜怒哀楽のある翡翠の方が人間らしいと言える。
+      極度の潔癖性&男性恐怖症。琥珀が生まれつき室内の掃除に向いていないように、翡翠は味覚が地獄的にズレている。翡翠が志貴に対して食事を作らないのは、ひとえに志貴をがっかりさせたくないからだそうだ。
+      本来戦いなど出来る人物ではないのだが、MELTY BLOODでは“メイドとはいかなる手段をもってしても主人を守るもの”というタタリの拡大解釈を受け、メイド流殺法とも言うべき戦闘スタイルを身につけた。
+    note: {}
+  zh:
+    content: |-
+      在远野家宅邸工作的佣人姊妹中的妹妹。
+      志贵专属的女仆。持着无动于衷的表情和固执的态度。与作为姐姐的琥珀对比鲜明，但若仔细地看表情常常在变化。可以说与表情只有“喜”的琥珀相比的话，有喜怒哀乐的翡翠这边比较像人类。
+      极度的洁癖&男性恐怖症。就像琥珀天生不适合室内的扫除那样，翡翠是味觉地狱性地错位。翡翠不给志贵做饭，据说完全是不想让志贵失望。
+      本来并非是能战斗的人物，但在MELTY BLOOD里受到“所谓的女仆，是以怎样的手段也要保护主人之人”的Tatari的扩大解释，掌握了可谓是女仆流杀法的战斗风格。
+    note: {}
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 18
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Younger sister of the twins serving the Tohno family. Unlike her older sister she is expressionless and stiff.
+    note: {}
+  ja:
+    content: |-
+      遠野家の屋敷で働く双子の使用人の妹。姉と対照的に無感動な表情とかたくなな態度をとる。
+    note: {}
+  zh:
+    content: |-
+      于远野家宅邸工作的双子佣人里的妹妹。和姐姐形成对照的是，无触动的表情和执着的态度。
+    note: {}

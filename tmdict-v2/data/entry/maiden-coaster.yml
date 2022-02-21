@@ -1,0 +1,57 @@
+---
+id: maiden-coaster
+
+en: m
+ja: o
+furigana: おとめコースター
+title:
+  en: Maiden Coaster
+  ja: 乙女コースター
+  zh: 少女的云霄飞车
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 30
+  category:
+  - terrain
+  img: fem_maiden-coaster.png
+  en:
+    content: |-
+      This is the road that goes down to the bottom of one’s heart.
+      From the very start of game development it was called “Maiden Coaster” but in the final game it was of course changed to just “Coaster.”
+      When you first enter the area, the visuals and background music give you the feeling that something crazy is about to start.
+      If you stopped and wondered, “Really? What the heck is going on?” it’s thanks to the great effort of the development team.
+      The speed of the coaster and scattering objects differ from heroine to heroine, and reveals their special characteristics.
+      For example Passionlip’s coaster features flowers.
+      Rani’s features astrological star constellations.
+      Rin’s features… gorgeous… jewels….
+      It’s a gimmick that resembles the elevator in EXTRA, but here there is no conversation with the maidens, you just listen to their monologue of poems and enjoy a passive turn.
+      By the way, the monologue of the boss heroines who come down in the coaster once again discusses their “day-to-day pain,” but the boss heroines who show up in the final battle area have no idea they told the protagonist such poems.
+    note: {}
+  ja:
+    content: |-
+      心の最中[さなか]に落ちていく路[みち]。
+      開発当初から乙女コースターと呼ばれていたが、ゲーム中ではさすがに“コースター”とのみ表記された。
+      映像、BGM等の演出力のおかげで、初突入時の「なんかおかしなの始まったーー!?」感は異常。
+      ほんと、このゲームどこにいくんだ、と思ってもらえれば開発陣の苦労も報われます。
+      コースターの速度や散っていくオブジェクトはヒロイン毎に違い、それぞれの特色を現している。
+      たとえばリップは花。
+      ラニは星占いの星。
+      凛は……ゴージャスな……宝石……。
+      EXTRAにおけるエレベーターを彷彿させるギミックだが、こちらは相手との対話はなし。一方的に乙女ポエムを聞き、ぐんにょりするターンである。
+      ちなみに、コースターで流れるボスヒロインのモノローグは彼女たちの『日々の痛み』が再生されているだけなので、決戦場にいるヒロインたちはあんなポエムを主人公に聞かれているなんて露も知らないのであった。
+    note: {}
+  zh:
+    content: |-
+      落入内心深处的道路。
+      虽然从开发阶段就被称为少女的云霄飞车，游戏中还是仅仅标记为“云霄飞车”而已。
+      多亏影像和BGM的演出能力，初次突入时“这什么鬼东西开始了啊？！”的感觉简直高得异常。
+      真是的，这游戏到底要驶向何方啊，要是你们这么觉得的话，开发部门的汗水也就算得到回报了。
+      云霄飞车的速度和不停飘散的特效，每个女角都各不相同，突显着各自的特色。
+      比如说Lip的是花。
+      拉尼是占星术的星星。
+      凛的……则是高贵的……宝石……。
+      虽然是对应EXTRA的电梯，但这次没有和对方的对话。只是单方面倾听少女的叙述诗，然后消沉的模式。
+      顺带一提，云霄飞车中所播放的BOSS女角们的叙述诗只是由她们“平时的痛楚”再生而成的。身处于决战场上的女角们对于主角有听到那种叙述诗一事，完全毫不知情。
+    note: {}

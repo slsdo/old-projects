@@ -1,0 +1,80 @@
+---
+id: lord-el-melloi-ii
+
+en: l
+ja: ro
+furigana: ろーどえるめろいIIよ
+title:
+  en: Lord El-Melloi II
+  ja: ロード・エルメロイII世
+  zh: 君主·埃尔梅罗二世
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 106
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Waver Velvet, who appeared in <em>Fate/Zero</em>. This is him roughly ten years after those events. He was half-forced to inherit the title of El Melloi II by Reines and spend his days working hard to repay his debt and repair the family’s Magic Crest while teaching students as a professor.
+      To find out more about him, go check out “Character material.” Even in the <em>Fate/Apocrypha</em> world, he fought alongside Rider, Iskander, in a subspecies Holy Grail War against Kayneth—that’s the setting here, anyway.
+      After the end of the novels, Caules Forvedge Yggdmillennia also ends up joining El Melloi II’s class.
+    note: {}
+  ja:
+    content: |-
+      「Fate/Zero」に登場したウェイパー・ベルベット。彼の約十年後の姿。ライネスより、半ば強制的にエルメロイII世の名を継がされ、教授として生徒たちに魔術を教えつつ借金返済や刻印修復に勤しむ毎日。
+      彼に関しては「Character material」を参照のこと。「Fate/Apocrypha」世界においても、やはりケイネスと対立、亜種聖杯戦争でライダー、イスカンダルと共に戦いを繰り広げた———ということになっている。
+      本作終了後、カウレス・フオルヴェッジ・ユグドミレニアもエルメロイII世の教室に合流予定。
+    note: {}
+  zh:
+    content: |-
+      《Fate/Zero》登场的韦伯·维尔维特，这大约是他十年后的模样。被莱妮丝半强制地继承了埃尔梅罗之名，作为教授过着每天一边教导学生魔术、一边还债又一边修复刻印的日子。
+      与他相关的部分请参照《Character Material》。即使在《Fate/Apocrypha》的世界里，果然还是演变成与肯尼斯对立、在亚种圣杯战争中与Rider伊斯坎达尔共同展开了大战───这样的状况吧。
+      在本作结束后，盖列斯·沃尔温·千界树也会依照预定，前往埃尔梅罗二世的教室。
+    note: {}
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 68
+  category:
+  - person
+  - title
+  img: "casefile_lord-el-melloi-ii.png"
+  en:
+    content: |-
+      It goes without saying, the main character of this story.
+      His real name is Waver Velvet. One of the few survivors of the Fourth Holy Grail War.
+      His elemental affinity is Earth. His specialty in magecraft is Counteraction{{n1}}. A destroyer of Mystery — though his talent for magecraft is mediocre, he was blessed with an incredible talent for deconstructing.
+      In reality, he doesn’t really possess all that much more knowledge than other magi. When he became the head of the Faculty of Modern Magecraft, he gained access to an incredible amount of materials, but with the amount of work he is saddled with, the amount of those materials he actually has time to study is limited.
+      His real talent is the speed and accuracy with which he can connect the people and events happening before him with his knowledge.
+      Just as Gray pointed out several times, rather than the Mystery or the incidents themselves, he looks more at the magi behind them. Why does such a Mystery exist? Why did they reach for such a Mystery?  His eye for judgment is, in the end, reserved for judging people.
+      In particular, his impression that “this riddle is meaningless” that he expressed at the beginning of the Castle of Separation incident shows how well that ability of his was suited to that incident.  In contrast, after the Rail Zeppelin incident, once he began pursuing Heartless, that same eye for judgment is what allowed Heartless to drag him along. Without cooperating with Heartless, the riddle couldn’t be solved — such a methodology was the perfect kind of hacking to use against El-Melloi II.
+      After the events of Case Files, in order to stop Gray’s transformation, he turned to the numerous thesis and essays left behind by his predecessor, Kayneth El-Melloi Archibald. As a result, he ended up reanalyzing and reclassifying the huge number of theories his predecessor had idly scribbled down…
+      And that was the beginning of the grimoire known as “Lord Kayneth’s Encyclopedia of Secret Arts,” which would someday be written.
+    note:
+      n1: "The kanji used for the term Counteraction are 解毒, literally “undo, cancel” and “poison”. Thus another possible reading of it would be “Detoxification,” making it precisely opposite of Adashino Hishiri’s specialty of “毒” (Poison). "
+  ja:
+    content: |-
+      いわずとしれた、本編の主人公。
+      本名ウェイバー・ベルベット。第四次聖杯戦争の、数少ない生き残り。
+      属性は地。得意とする魔術の特性は解毒。魔術の才能は凡庸だが、魔術を解体する才能には恵まれた、神秘の破壊者。
+      実のところ、エルメロイII世は知識においてほかの魔術師を圧倒しているわけではない。現代魔術科の学部長となって、アクセスできる資料は膨大なものとなったが、激務の中で読み込める資料の数などたかがしれている。
+      II世が卓越しているのは、目の前の事象や人物と、知識を結びつける速度と精度である。
+      何度かグレイが指摘しているように、彼は神秘や事件そのものよりも、むしろ神秘の裏にある魔術師を視ている。なぜ、そのような神秘があるのか、なぜそのような神秘に手を出さねばならなかったのか。彼の鑑定眼とは、結局人を鑑定するものなのだ。
+      とりわけ「この謎に意味がない」と見切った剥離城アドラの一件は、その特性が大いに活かされた事件と言えただろう。逆に、魔眼蒐集列車編以降、ハートレスを追うようになってからは、この鑑定眼ゆえにハートレスの思惑に引きずり込まれることもあった。謎を解くほど、ハートレスに協力せざるを得なくなる----という追い込み方は、II世の解体に対する極めて有効なハッキング方法だった。
+      事件簿本編の後、グレイの変化を止めるために、先代のケイネス・エルメロイ・アーチボルトが中途で遺した数々の論文へ、ついに手を出すこととなる。結果としてII世は先代が手慰みに書き散らしていた大量の理論を再解釈・分類統合することになるのだが……。
+      いつか、『ロード・ケイネス秘術大全』と題される魔導書の始まりであった。
+    note: {}
+  zh:
+    content: |-
+      不言而喻，本篇的主人公。
+      本名是韦伯·维尔维特。第四次圣杯战争中为数不多的幸存者。
+      属性是地。擅长的魔术特性是解毒。魔术的才能很平庸，但富有解体魔术的才能，是神秘的破坏者。
+      其实埃尔梅罗二世在知识方面并没有压倒其他魔术师。成为现代魔术科的学部长之后，虽然能够入手的资料变得很庞大，但在繁重的职务中能够通读的资料数量非常有限。
+      二世卓越的地方在于将眼前的事象或人物与知识结合起来的速度与精准度。
+      就像格蕾指出过好几次的那样，他与其说是在看着神秘或事件本身，不如说是在看着位于神秘背后的魔术师。为何会存在那样的神秘呢，为何一定要染指那样的神秘呢。他的鉴定能力归根结底就是鉴定人的能力。
+      尤其是看清了「这个谜题没有意义」的剥离城阿德拉那个事件，可谓是有效活用了该特性的事件吧。相反，在魔眼搜集列车篇之后，他开始追踪哈特雷斯时，却因这份鉴定能力而被牵扯进哈特雷斯的意图之中。越是解开谜题，就越是不得不协助哈特雷斯——这种步步紧逼的手段，正是对二世的解体极其有效的骇入方法。
+      在事件簿本篇之后，为了遏止格蕾的变化，终于对前代肯尼斯·埃尔梅罗·阿奇博尔德中途遗留下来的诸多论文出手。二世究竟是否能将前代为了解闷而信笔书写的大量理论重新解释并分类统整呢……
+      这就是日后以『君主·肯尼斯秘术大全』为题的魔导书的由来。
+    note: {}

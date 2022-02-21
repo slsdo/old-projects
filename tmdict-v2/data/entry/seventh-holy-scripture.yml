@@ -1,0 +1,143 @@
+---
+id: seventh-holy-scripture
+
+en: s
+ja: ta
+furigana: だいななせいてん
+title:
+  en: Seventh Holy Scripture
+  ja: 第七聖典
+  zh: 第七圣典
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 34
+  category:
+  - weapon
+  img: dokuhon_seventh-holy-scripture.png
+  en:
+    content: |-
+      The conceptual armament that Ciel is authorized to carry. An iron hammer created by Christianity in order to renounce the heretical doctrine of reincarnation.
+      …Although, if reincarnation didn’t really exist then it seems like it would be kind of unnecessary to prepare an anti-reincarnation weapon, right?
+      Originally created by felling a miraculous beast said to consume souls, then using its horn as a key. The surface of the horn is inscribed with tightly-packed complaints about how “reincarnation is really lame.”
+      It was sanctified over the course of many years, but eventually fell into Ciel’s hands.
+      “A horn!? That’s not practical at all. The higher-ups are totally out of touch!”
+      Unable to hold herself back, she set about improving it.
+      At any rate, since it’s been almost a thousand years since it was first created, it even has an elemental living within it… though the essence of its personality may have been a bit warped by Ciel’s remodeling.
+    note: {}
+  ja:
+    content: |-
+      シエルが所有を許されている概念武装。
+      転生というものが教義にはない基督教が作り上げた、転生批判の鉄槌である。
+      ……まあ、転生が無いっていうんならそんなモノ用意しなくてもいいんだろうけどね。
+      もともとは魂を食べる、と言われていた霊験あらたかな獣を仕留めて、その角を鍵として利用したもの。角の表面にはびっしりと『転生、かっこわるい』という文句が刻まれている。
+      長い年月をかけて神聖化していったが、「角なんて飾りですよ。お偉いさんにはそれが分からないんです！」とのたまったシエルの手によって改良されてしまう。
+      なにぶん作られてから千年近く経っているので精霊だって宿っているが、シエルに改造されてからは性格骨子が歪んでしまったとかなんとか。
+    note: {}
+  zh:
+    content: |-
+      雪儿被允许持有的概念武装。
+      教义中不承认转生的基督教所制造，批判转生的铁锤。
+      ……嘛，既然没有转生的话不用准备这种东西也很好不是吗。
+      杀掉传说中会吞噬灵魂的灵性之兽，将牠的角拿来当作钥匙利用的东西。角的表面上满满地刻着“转生，不帅气”的文字。
+      虽然花费长久的时间圣化，不过被上奏道“角什么的只是装饰，上级的人就是不懂这些”的雪儿给改良了一番。
+      制造后过了几千年，所以上面连精灵都寄宿着，不过被雪儿改造后个性似乎开始扭曲。
+    note: {}
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 20
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Ciel’s conceptual weapon. The iron hammer of reincarnation judgement. More than 1,000 years have passed since it was first created, and a spirit resides within (the figure you see when Ciel appears is the spirit). The spirit is called Seven, and she takes care of a wide range of things for Ciel, from sewing to being the target of Ciel’s stress relief. The spirit is also called Nanako (refer to <em>Kagetsu Tohya</em> for details).
+    note: {}
+  ja:
+    content: |-
+      シエルの概念武装。転生批判の鉄槌。作られてから千年以上経っており、その内には精霊が宿っている（シエル登場時に姿を見せるのがそれ）。精霊はセブンと呼ばれ、お裁縫からシエルの鬱憤睛らしの対象としてまで幅広く大活躍。別名ななこ（『歌月十夜』参照のこと）。
+    note: {}
+  zh:
+    content: |-
+      雪儿的概念武装。转生批判的铁锤。从被制作出来后过了千年以上，其中更宿有精灵（雪儿登场时现身的那就是）。精灵被称为Seven，从裁缝到作为雪儿的解恨对象都广泛地大活跃。别名奈奈子（参照《歌月十夜》）。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 58
+  category:
+  - weapon
+  img: ""
+  en:
+    content: |-
+      The conceptual armament that Ciel is authorized to carry. An iron hammer created by the Church in order to renounce the heretical doctrine of reincarnation.
+      It was created by felling a miraculous beast said to consume souls, then using its horn as a key. The surface of the horn is inscribed with tightly-packed complaints about how “reincarnation is really lame.”
+      Since it’s been almost a thousand years since it was first created, it even has an elemental living within it.
+      It was sanctified over the course of many years, but eventually fell into Ciel’s hands.
+      “A horn!? That’s not practical at all. The higher-ups are totally out of touch!”
+      Unable to hold herself back, she set about improving it, and because of that the Scripture’s elemental ended up having the essence of its personality warped.
+      Before Ciel remodeled it, it was only effective against spiritual entities. Now, however, it has been transformed into a lump of iron that can pound a vampire to death with its physical attack power alone. It has a gross weight of 60 kilograms, and a maximum weight of twice that with optional attachments. It’s a… Gatling scripture!?
+    note: {}
+  ja:
+    content: |-
+      シエルが所有を許されている概念武装。転生というものが教義にはない教会が作り上げた、転生批判の鉄槌である。
+      魂を食べると言われていた霊験あらたかな獣を仕留め、その角を鍵として利用したもの。角の表面にはびっしりと『転生、かっこわるい』という文句が刻まれている。
+      作られてから千年近く経っているので精霊だって宿っている。長い年月をかけて神聖化していったが「角なんて飾りですよ。お偉いさんにはそれが分からないんです！」とのたまったシエルの手によって改良されてしまう。その為か、シエルに改造されてからは第七聖典の精霊は性格骨子が歪んでしまった。
+      シエルが改造するまでは霊体に対してのみ有効な概念武装だったが、今では物理的攻撃力だけでも吸血鬼を殴殺できる鉄塊と化している。総重量、実に60kg。オプションパーツをつけると最大で二倍になるとか。ガトリング聖典……？
+    note: {}
+  zh:
+    content: |-
+      雪儿被允许配备的概念武装，教义中不承认转生的教会所制作出的，批判转生的利器。
+      猎取传闻中吞噬灵魂的灵性之兽，以其角作为钥匙利用。在角的表面上密密麻麻的刻满着“转生万恶”的句子。
+      制成之后历经近千年，因而有精灵寄宿着。通过长年累月而神圣化，被“角只是装饰，上面的大人物是不会明白的。”如是道的雪儿亲手改造。
+      由此被雪儿改造的第七圣典的寄宿精灵的性格框架发生了扭曲。过去只对灵体有效，直到第七圣典被雪儿改造后， 变为只用物理攻击就能吧吸血鬼打烂的铁块。总重量60公斤。加上选装配件的话翻倍。加特林机枪……
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 45
+  category:
+  - weapon
+  - technique
+  img: ""
+  en:
+    content: |-
+      Ciel’s Arc Drive.
+      The conceptual armament that Ciel is authorized to carry. Although it is called a scripture, it’s actually an enormous pile bunker.
+      An iron hammer created by the Church in order to renounce the heretical doctrine of reincarnation. Over a millennium has passed since it was first forged, and there’s even an elemental dwelling within it, but…
+      Before Ciel remodeled it, it was only effective against spiritual entities. Now, however, it has been transformed into a lump of iron that can pound a vampire to death with its physical attack power alone. It has a gross weight of 60 kilograms, and a maximum weight of twice that with optional attachments.
+      During Ciel’s Arc Drive, she drives the stake into her opponent. Afterward, what is ejected from the magazine is not an empty cartridge, but pages of the holy scripture. For vampires, this is no different from being directly injected with the holy scripture itself. There is no doubt that it is a surefire “Immortal Killer.”
+    note: {}
+  ja:
+    content: |-
+      シエルのアークドライブ。
+      シエルが所有を許されている概念武装。聖典と呼ばれながらも、その実体は巨大な杭打ち銃器（パイルバンカー）である。
+      転生というものが教義にはない教会が作り上げた、転生批判の鉄槌。鋳造されてから千年が経っており、精霊も宿っているのだが……。
+      シエルが改造するまでは霊体に対してのみ有効な概念武装だったが、今では物理的攻撃力だけでも吸血鬼を殴殺できる鉄塊と化している。総重量、実に60kg。オプションパーツをつけると最大で二倍になるとの説がある。
+      アークドライプ使用成立時に杭を打ち出すが、その後に弾倉から排出されているものは薬莢ではなく聖典のぺージ。吸血鬼にとっては聖典を打ち込まれるに等しい、まさに必殺の“不死殺し”と言える。
+    note: {}
+  zh:
+    content: |-
+      雪儿的Arc-Drive。
+      雪儿被准许所有的概念武装。尽管也被称作圣典，其实体却是巨大的打桩枪械（Pile Bunker）。
+      没有转生这种教义的教会所作成的、转生批判的铁锤。从被铸造至今已过千年，连精灵都寄宿着了啊……
+      直至雪儿改造之前是仅对灵体有效的概念武装，但现今化为即便光是物理性攻击力也能殴杀吸血鬼的铁块。总重量，足足60kg。有安装上选配件的话最大将变成两倍之说。
+      在Arc-Drive使用成立时打出桩子，但其后从弹匣被排出的东西并非弹壳而是圣典的书页。对吸血鬼来说可说是等同于被打入圣典，真正必杀的“不死杀手”。
+    note: {}
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 28
+  category:
+  - weapon
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      みんな大好きシエル先輩が所有する概念武装。総重量は60㎏。アーネンエルベ店内に置き去りにされた後、一向に持ち主が引き取りに来ない為に放置の憂き目に合う。何故かななこが視えるひびきとは良好な関係を、同じくケータイと険悪な関係を築き上げつつあった矢先に、ふらりと現れたシエルによってドナドナと回収されていくのであった。馬なのに。
+    note: {}
+  zh:
+    content: |-
+      大家最喜欢的雪儿学姐所持有的概念武装。总重量60kg。在被遗落Ahnenerbe店内后，一贯的持有者没过来取走而被放置的悲惨之时。不知何故看到了奈奈子的响并与其构建了良好关系，但同样的，却和手机交恶，此刻被突然现身的雪儿Dana Dana地回收了。明明是马。
+    note: {}

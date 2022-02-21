@@ -1,0 +1,45 @@
+---
+id: papilio-magia
+
+en: p
+ja: ha
+furigana: ぱぴりおまぎあ
+title:
+  en: Papilio Magia
+  ja: 蝶魔術
+  zh: 蝶魔术
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 42
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      In this work, the magecraft used by Orlocke Caesermund.
+      Its premise is the inherent Mystery in the process of a butterfly changing to an effectively entirely different mode of life between the larval, pupal, and mature stages of its development.
+      As Orlocke himself described it, it is “the manipulation of the gap between what is certain and what is uncertain,” interference in the act of transformation itself being the core of this strain of magecraft. That was why he was able to transplant his memory and personality into a homunculus made from his own blood and semen.
+      Having caught the eye of the master of the Castle of Separation Geryon Ashbourne, he enlisted Orlocke’s help, and was able to create a method for transplanting Magic Crests into others. …though as the story describes, it was far from complete, and came with heavy side effects (though those side effects were Geryon’s goal from the start).
+    note:
+      n1: "Butterfly Magecraft"
+  ja:
+    content: |-
+      {{n1}}
+      本編では、オルロック・シザームンドの使用した魔術。
+      その根幹は、幼虫、蛹、成虫とほぼ別の生態に蝶が変じていく神秘性にある。
+      オルロックがこの魔術を「確かなものと確かならざるもののあわいを操る」と言ったように、変化そのものに干渉することがこの魔術の特徴だ。自分の血と精液からつくりあげたホムンクルスに、記憶や人格を移植しえたのも、その特性あればこそである。
+      剥離城のかつての主人ゲリュオン・アッシュボーンはその特性に目をつけて、オルロックに協力させることで、魔術刻印を他者に移植する方法を見出した。……とはいえ、本編の通り、これはけして完成はせず、多大な副作用（ゲリュオンからすればこちらが目的） を伴うものだったのだが。
+    note:
+      n1: "パピリオ・マギア"
+  zh:
+    content: |-
+      {{n1}}
+      在本篇中，欧尔洛克·西萨蒙德所使用的魔术。
+      其基础在于幼虫、蛹与成虫几乎是不同生态的蝴蝶依次变化的神秘性。
+      正如欧尔洛克对该魔术的形容，「能够操纵确切之物与不确切之物的浓淡」，该魔术的特征就是能够干涉变化本身。也是因为有着该特征，才能做到将记忆与人格移植到用自己的血液与精液制造出来的人造人身上。
+      剥离城曾经的主人革律翁·阿修伯恩看中了这份特性，通过欧尔洛克的协助，发现了将魔术刻印移植到他人身上的方法。……不过就正如本篇所述，这样绝对算不上是完成，这方法还带有巨大的副作用（根据革律翁的角度来看，这点才是目的）
+    note:
+      n1: "Papilio Magia"

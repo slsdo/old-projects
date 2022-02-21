@@ -1,0 +1,73 @@
+---
+id: tsukihime-souka
+
+en: t
+ja: tsu
+furigana: つきひめあおいかおり
+title:
+  en: Tsukihime Souka
+  ja: 月姫蒼香
+  zh: 月姬苍香
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 37
+  category:
+  - person
+  img: dokuhon_tsukihime-souka.png
+  en:
+    content: |-
+      A student enrolled at the Asagami Academy for Girls. Akiha is her roommate and mentor. Her tone of speech is incredibly stern, and she always tries to be as succinct as possible.
+      Her outward appearance is that of a petite, charming young girl, but according to Akiha she has the personality of a handsome man. However, she’s not a girl that’s cool like a man, she’s just a stylish girl.
+      Her development progressed far enough that she even had sprites prepared, but unfortunately she ended up not appearing in Tsukihime at all.
+    note: {}
+  ja:
+    content: |-
+      つきひめそうか。秋葉の通っている浅上女学院の生徒。秋葉とはルームメイトで、いい相談相手。秋葉以上に厳しい口調で、何事も簡潔に処理しようとする。
+      外見は小柄で可愛らしく女性的だが、秋葉曰く男前な性格、だそうだ。男のようにかっこいい女の子、ではなく、かっこいい女の子。
+      立ち絵まで用意されておきながら、月姫本編での登場はなくなってしまった。
+    note: {}
+  zh:
+    content: |-
+      Tsukihime Souka 。秋叶就读的浅上女子学校的学生，与秋叶是室友，是个很好的聊天对象。
+      讲话的口吻比秋叶还要严厉，什么事都是以最简洁的方式处理。
+      秋叶评价她的风度很潇洒，并不是像男生般帅气的女生，而是帅气的女生。
+      虽然连立绘都有了，不过并没有在本篇登场。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 60
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A student enrolled at the Asagami Academy for Girls. Akiha is her roommate and mentor. Her tone of speech is incredibly stern, and she always tries to be as succinct as possible.
+      Her outward appearance is that of a petite, charming young girl, but according to Akiha she has the personality of a handsome man.
+      An unparalleled lover of rock music, she slips out of the dorms at least once a week to go to live shows at clubs.
+      However, she’s not a girl that’s cool like a man, she’s just a stylish girl.
+      She appears in <em>Kagetsu Tohya</em>, where she is the balance between her two roommates, Akiha and Hanepin. In the dorms she is secretly popular as a reliable but hard to talk to student, and despite her demeanor she is actually extremely caring.
+      Her parents’ home is a temple deep in the mountains of Nagano. As landlords of the entire region, they are also known as the “mountain kings.” Her love of rock music can be considered a form of rebellion against her family.
+      After graduating from high school, she plans to attend college while living together with Hanepin.
+    note: {}
+  ja:
+    content: |-
+      つきひめそうか。秋葉の通っている浅上女学院の生徒。秋葉とはルームメイトで、いい相談相手。秋葉以上に厳しい口調で、何事も簡潔に処理しようとする。
+      外見は小柄で可愛らしく女性的だが、秋葉曰く男前な性格、だそうだ。
+      無類のロック好きで、週に一度は寮を抜け出してライブハウスにでかけている。
+      男のようにかっこいい女の子、ではなく、かっこいい女の子。
+      歌月十夜で登場。秋葉と羽ピンという両極端なルームメイトのバランスをとる参謀役。寄宿舎内では頼れる生徒だけど話かけ辛い、と密かに人望があったりする。寄宿舎の皆さんの期待通り、蒼香本人ものすごく面倒見がよかったり。
+      実家は長野の山奥にあるお寺。地域一帯の地主で、山王と呼ばれているとか。ロック好きは家への反動と思われる。
+      卒業後は羽ピンと共同生活しながら大学に通うコトに。
+    note: {}
+  zh:
+    content: |-
+      Tsukihime Souka。秋叶在读的浅上女子学院的学生。和秋叶是室友，不错的聊天对象。比秋叶更加严厉的口吻，什么事情都能简单的应付。
+      外表小巧可爱的女性，但就秋叶说，性格好似男孩子。
+      无比喜欢摇滚，每周一次从寝室溜出去Live House。
+      帅气地像男孩子一样的女孩子，不对，帅气的女孩子。
+      歌月十夜中登场。担任平衡着秋叶和羽居两个极端室友的参谋一职。在宿舍内只和信赖的学生讲话，背地里很有人望。
+      家在长野的深山寺庙中。地方上的地主，被称为山王。喜欢摇滚猜想是对家里的抗拒。
+      毕业之后和羽居一起生活升入大学。
+    note: {}

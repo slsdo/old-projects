@@ -1,0 +1,30 @@
+---
+id: curse-of-restoration
+
+en: c
+ja: fu
+furigana: ふくげんじゅそ
+title:
+  en: Curse of Restoration
+  ja: 復元呪詛
+  zh: 复原诅咒
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 22
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      The curse that restores the bodies of vampires. It doesn’t heal injuries normally. Rather the curse restores body parts that are damaged or destroyed to their previous state by reversing the flow of time for that part.
+    note: {}
+  ja:
+    content: |-
+      吸血鬼の肉体を復元する呪詛。傷を治療するのではなく破損した個所を元通りにするために時間を逆行させている。
+    note: {}
+  zh:
+    content: |-
+      复原吸血鬼肉体诅咒。并不是治疗伤患而是为了将破损部分恢复原状而使时间逆行。
+    note: {}

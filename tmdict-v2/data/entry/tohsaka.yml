@@ -1,0 +1,30 @@
+---
+id: tohsaka
+
+en: t
+ja: to
+furigana: とおさか
+title:
+  en: Tohsaka
+  ja: 遠坂
+  zh: 远坂
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 14
+  category:
+  - family
+  img: ""
+  en:
+    content: |-
+      One of the Three Founding Families, the Tohsaka family provided Fuyuki City as the grounds for the Holy Grail War. The distinguished magus family has long resided in Fuyuki, managing the leylines in the region. Although the family has been based in Japan for generations, its chants and incantations are recited in German. 200 years ago, the first head of the family, Tohsaka Nagato, was a pupil of Kischur Zelretch Schweinorg, one of the five living Magicians. Hence why the family still uses German today. Nagato’s ancestors were hidden Christians in Japan, which translated into Nagato having half-decent connections to the Holy Church. He was also well treated by the Mage’s Association due to his position as the pupil of a Magician.
+    note: {}
+  ja:
+    content: |-
+      聖杯戦争にあたり冬木の地を提供した、始まりの御三家のひとつ。古くから冬木に根を下ろす魔術の名家で、この地に眠る霊脈を管理してきた。代々を日本で過ごしてきた家系だが、呪文の詠唱などはドイツ語で行われる。これは200年前の遠坂家の当主・遠坂永人が、世界に5人しかいないという「魔法使い」のひとり、キシユア・ゼルレッチ・シュバインオーグに師事したことに起因しているという。また、永人の先祖が国外宗教の信徒だったことから聖堂教会に多少の顔が利き、魔法使いの弟子ということから魔術協会でも優遇されていたという。
+    note: {}
+  zh:
+    content: |-
+      在圣杯战争时提供了冬木之地，初始的御三家之一。自古就植根于冬木的魔术的名门，管理着长眠于此地的灵脉。虽是在日本度过了世世代代的家系，咒文咏唱却是用德语[German]。这是因为200年前的远坂家的家主·远坂永人，师从世界上仅有5人的“魔法使”中的一人，基修亚·泽尔里奇·修拜因奥古[Kischur·Zelretch·Schweinorg]这样的缘由。另外，因为永人的先祖为国外宗教的信徒所以圣堂教会稍微会给点面子，又因为是魔法使的弟子所以魔术协会也会给予优待。
+    note: {}

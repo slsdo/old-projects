@@ -1,0 +1,62 @@
+---
+id: matou-byakuya
+
+en: m
+ja: ma
+furigana: まきりつるの
+title:
+  en: Matou Byakuya
+  ja: 間桐鶴野
+  zh: 间桐鹤野
+
+entry:
+- source: fate-zero-material
+  section: fate-zero-encylopedia
+  order: 42
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The true father of our beautiful wakame, Matou Shinji.
+      Though his suitability as a magus was inferior to his younger brother Kariya’s, he was forced into becoming the next family head after Kariya turned his back on his inheritance and ran away.
+      However, this wasn’t a terrible deal for Byakuya. Since Zouken never expected anything from him to begin with, he was never actually taught anything. He was essentially a glorified assistant, while the real responsibility of being the successor was passed on to his adopted child, Sakura.
+      Probably, Byakuya thought that the shame of being a family head in name only—as well as his abhorrence of sorcery—would be more than compensated for by his
+      access to the Matou fortune and a life free of worries. But ultimately, it seems it was far more stressful than he ever could have anticipated, and he ended up taking refuge in alcoholism.
+      He made his first and last appearance in the fourth volume. At first, the scene was going to end with Kiritsugu going to the Matou mansion while searching for Irisviel, but turning up nothing. However, on a whim I decided that I hadn’t written enough violence that day, so Byakuya, a character that never should have appeared at all, was thrust onto the stage as a sacrifice. My deepest condolences, Byakuya.
+    note: {}
+  ja:
+    content: |-
+      我らが麗しのワカメ、間桐慎二の実父。
+      魔術師としての適正は弟の雁夜に劣っていたものの、雁夜が魔道の継承を断固として拒否して出奔したため、仕方なく彼が間桐の家督を継ぐこととなった。
+      それが鶴野にとって災難だったかといえばそうでもなく、元から鶴野の素養を諦めきっていた臓硯からは何の教導もされず、せいぜいが助手程度の雑用を任されたに過ぎない。実質的な後継者としての重責はすべて養子の桜に課された。
+      名目だけの頭首という屈辱も、魔道に対する嫌悪の念も、間桐家の資産と何不自由ない暮らしを手に入れた対価と考えれば悪い取引ではなかった、というのが鶴野の感慨だったのだが、まぁそれでも結局は酒に逃げ込む羽目になるようなストレスに、日々苛まれていたらしい。
+      四巻において初登場＆電撃退場。当初、「切嗣はアイリスフィールを探して間桐邸に行ったけど無駄足でした」という一文だけで済まされていたはずの場面だったのに、「今日はバイオレンスが足りない」という作者の気まぐれスラッシュロードのせいで、本来登場するはずもなかった彼が生贄としてめでたく舞台を踏むことに。ご愁傷様でした。
+    note: {}
+  zh:
+    content: |-
+      我们华丽的海藻头，间桐慎二的父亲
+      以魔术师的适性来说逊于弟弟雁夜，但因为雁夜坚拒继承魔道而出走，在不得已之下由他继承间桐家督的位置。
+      不过就鹤野来说那也并非是个灾难，原本就已经放弃鹤野素养的脏砚没有教他任何东西，最多只让他负责助手程度的杂事。实质上后继者的重责权都压在养女的桜身上。
+      不管是有名无实的首领，或是对魔道的嫌恶，只要想做是得到间桐家的资产和无忧无虑生活的代价的话也是不坏的交易，虽然鹤野的感想是如此，但他还是被压力所苛责，日日沉醉在酒乡的样子。
+      在第四卷初次登场&闪电退场。当初理应是“切嗣为了寻找爱丽丝菲尔去了间桐家，不过白跑一趟。”这么一句话就完结的场面而已，却因为作者的一时兴起“今天的暴力不太够”的关系，{{n1}}本来根本不会登场的他就可喜可贺的成为祭品粉墨登场。真是太悲惨了。
+    note:
+      n1: "原文是スラッシュロード，不知道究竟是slash或是slush，又或者是road、load还是lord…"
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 44
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      雁夜の兄にして間桐家の現当主。桜を間桐の次期当主に仕立て上げるため蟲蔵での調教を行う。アイリスフィールを捜す切嗣の尋問を受け右手を失ってしまうことに。
+    note: {}
+  zh:
+    content: |-
+      作为雁夜兄长的间桐家现家主。为了把樱培养为间桐的下届家主而进行在虫仓的调教。因受到了搜寻爱丽丝菲尔（Irisviel）的切嗣的盘问而失去了右手。
+    note: {}

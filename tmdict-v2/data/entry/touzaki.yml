@@ -1,0 +1,66 @@
+---
+id: touzaki
+
+en: t
+ja: to
+furigana: とうざき
+title:
+  en: Touzaki
+  ja: 刀崎
+  zh: 刀崎
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 39
+  category:
+  - family
+  img: ""
+  en:
+    content: |-
+      One of the Tohno branch families.
+      Known as the Bone Masters, they temper their own bones into swords.
+      Though normally swords are forged from iron, the Touzaki present their own arms upon meeting a worthy recipient, and craft them a sword from the bones.
+      Their final and greatest work as blacksmiths is a bone sword with qualities that are superficially similar to the legendary mountain destroying sword of mainland China.
+    note: {}
+  ja:
+    content: |-
+      とうざき。遠野家の分家筋の一つ。
+      骨師と呼ばれる一族で、自らの骨を刀として鍛え上げる。
+      普段は鉄で刀を鍛えるが、これは、という使い手に出会った時に自らの腕を差し出し、その骨で刀を作る。
+      鍛冶師として最期にして最高の逸品となる骨刀は、大陸に伝わる破山剣と似て非なる性質を持つという。
+    note: {}
+  zh:
+    content: |-
+      Touzaki。远野的分家之一。
+      被称为骨师的一家，以自己的骨头来打造刀。
+      一般来说都是用铁来锻造刀具，但高手则会献出自己的手骨，作为锻造刀的材料，作为锻造师最后也是最棒的杰作。
+      与在大陆传说的破山刀有着似是而非的特性。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 62
+  category:
+  - family
+  img: ""
+  en:
+    content: |-
+      One of the Tohno branch families.
+      Known as the Bone Masters, they temper their own bones into swords.
+      Though normally swords are forged from iron, the Touzaki present their own arms upon meeting a worthy recipient, and craft them a sword from the bones.
+      Their final and greatest work as blacksmiths is a bone sword with qualities that are superficially similar to the legendary mountain destroying sword of mainland China.
+    note: {}
+  ja:
+    content: |-
+      とうざき。遠野家の分家筋の一つ。骨師と呼ばれる一族で、自らの骨を刀として鍛え上げる。
+      普段は鉄で刀を鍛えるが、これは、という使い手に出会った時に自らの腕を差し出し、その骨で刀を作る。
+      鍛冶師として最期にして最高の逸品となる骨刀は、大陸に伝わる破山剣と似て非なる性質を持つという。
+    note: {}
+  zh:
+    content: |-
+      Touzaki。远野家的分家之一。
+      被称作为骨师的一族。将自己的骨打造成刀具。
+      一般用铁来锻制刀剑，若遇到高手，就会献手取骨，以骨做刀。
+      作为锻造师最后也是最高的杰作的骨刀，有着流传于大陆的破山剑类似的性质。{{n1}}
+    note:
+      n1: "破山剑在FSN也有提及。"

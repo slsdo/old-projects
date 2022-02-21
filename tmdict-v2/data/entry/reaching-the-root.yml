@@ -1,0 +1,30 @@
+---
+id: reaching-the-root
+
+en: r
+ja: ko
+furigana: こんげんへのとうたつ
+title:
+  en: Reaching the Root
+  ja: 根源への到達
+  zh: 根源的到达
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 15
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      The Root, a record of everything in the universe, is said to reside outside the World. It is the beginning and end of all creation. It is the ultimate goal of all Magi. The Three Founding Families created the Holy Grail War system as a means to reach the Root.
+    note: {}
+  ja:
+    content: |-
+      「世界」の外郭にあるという、この世のすべてが記録された、万物の始まりにして終焉の場所。あらゆる魔術師たちの最終目標であり、始まりの御三家もまた、根源に至るために聖杯召喚システムを構築した。
+    note: {}
+  zh:
+    content: |-
+      在“世界”外围的，记录此世之全部，万物开始且终焉之地。所有魔术师的最终目标，初始的御三家也是为了到根源而构筑了圣杯召唤系统[System]。
+    note: {}

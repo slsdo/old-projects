@@ -1,0 +1,46 @@
+---
+id: old-tsukihime
+
+en: o
+ja: ki
+furigana: きゅうつきひめ
+title:
+  en: Old Tsukihime
+  ja: 旧月姫
+  zh: 旧月姬
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 16
+  category:
+  - lost-item
+  img: ""
+  en:
+    content: |-
+      The pilot version of <em>Tsukihime</em> created in 1999.
+      Believe it or not, the game period was one month! Shiki’s personality was really aggressive in this version. Perhaps it was influence from the visual novel “One: To the Radiant Season,” which the scenario director had just played.
+      …Honestly, he must have been out of his mind.
+      “Too long! At this rate, you’re never gonna finish!”
+      The sagacious art director offered words of wisdom, but the scenario director stubbornly refused to heed them.
+      January 2000. In the end, he finally admitted his mistake and lowered the span of the game from one month to ten days.
+      However, because the plot had to be redone from scratch to account for the new time frame, the two weeks that had already been written were torn up and thrown out entirely. Given that the planned release date for the finished work had been that summer, it was painful act that felt close to giving up.
+    note: {}
+  ja:
+    content: |-
+      1999年に作られた月姫のパイロット版。
+      なんと、ゲーム期間は一ヶ月！シナリオ担当がプレイしたヴュジュアルノベル『輝く季節へ』（PS版なのがミソ）の影響か、志貴の性格はとても攻撃的だった。
+      ……まったく、正気の沙汰ではない。
+      聡明な原画担当は「長いよー、こんなんじゃ終わらないぞー」と言っていたが、シナリオ担当は書き終わると信じていた。
+      が、2000年一月。そんな長いゲームは自分もしたくない、という結論に気づき、一ヶ月から十日というスパンにまとめ直す。
+      一から直した為、それまで書いていた二週間分の原稿は破棄。ゲーム完成を夏に予定していたので、ほとんど自棄に近い自爆行為だった。
+    note: {}
+  zh:
+    content: |-
+      在1999年制作，月姬的先行版。
+      没想到游戏时间竟然是一个月！剧情负责人可能受到他玩的视觉小说《光辉的季节》（令人自豪的是PS版）的影响，志贵的性格非常的有攻击性。
+      ……真是的，多不正经的话题。
+      虽然聪明的原画负责人说“太长了啦，这样会写不完喔”，但剧情负责人深信能写得完。
+      不过，2000年一月，意识到“这么长的游戏我也不想玩”的这个结论，把长度重新从一个月整理成十天。
+      因为全部从头开始，所以舍弃了写到一个段落的两周份原稿。因为游戏预定是在夏天完成，所以几乎是自暴自弃般的自爆行为。
+    note: {}

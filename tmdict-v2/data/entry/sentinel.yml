@@ -1,0 +1,56 @@
+---
+id: sentinel
+
+en: s
+ja: se
+furigana: せんちねる
+title:
+  en: Sentinel
+  ja: センチネル
+  zh: 卫士
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 99
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      Sentinels are the special guards of Sakura Labyrinth. They are beings that were remodeled by BB.
+      They are the main core of each level of the Labyrinth. They are part of the Labyrinth itself.
+      Only girls who have good quality magic circuits and a “heart” can become a Sentinel, so it’s not possible to mass produce them like Attack Programs.
+      From among the Masters, Rin or Rani, and Jinako become sacrifices and are transformed into Sentinels.
+      When creating a Sentinel BB acts as an external terminal, and inserts her consciousness into the victim.
+      The process ends up imprinting some of BB’s personality on the victim. Surely. Probably. For the sake of Rin’s and Rani’s honor, let’s assume that’s what happens.
+      Any girl who has been made into a Sentinel has had her spiritron core (their soul) sealed away by making it into part of the core of the Labyrinth, and furthermore all her five senses are used as building materials to expand the Labyrinth.
+      This means that changing the structure of the Labyrinth, or increasing the number of traps is a very painful procedure for the Sentinels.
+      Also, while the essence of the ego (the atman) is sealed away as part of the Labyrinth core, the more personal bits of the ego, such as the individual interests/preferences part of the personality, become avatar (bunshin off-shoots) which are called “Ego” (desire bodies). These “Ego” become managers of the various areas of the Labyrinth.
+      While this is digression, high level computational ability is necessary to change or reform the Labyrinth. Rin and Rani have enough ability to fulfill the basic requirements, but Jinako does not. This is probably the reason why her part of the Labyrinth is so plain and simple.
+    note: {}
+  ja:
+    content: |-
+      BBによって改造されたサクラ迷宮の衛士。
+      各階層のメインコアであり、迷宮そのもの。
+      良質な魔術回路と“心”を持つ少女にしか務まらないため、攻性プログラムのように量産はできない。
+      マスターからは凛やラニ、ジナコが犠牲となり、センチネル化してしまった。
+      センチネル化のさい、外付けの端末としてBBの意識を差し込まれるため、多少なりとも性格が淀んでしまうようだ。きっと。たぶん。凛やラニの名誉のため、とりあえずそう言っておきたい。
+      センチネルになった少女は、その霊子核……魂を迷宮の核[コア]として封印され、五感すべてを迷宮の増築材料として使用される。
+      迷宮の構造を変えたりトラップを増やしたりするのはセンチネルにとっても苦痛をともなう行為なのだ。
+      また、大我は核となって封じられるが、小我……それそれ独立した趣味・嗜好の人格は『欲身[エゴ]』と呼ばれる分身になり、それぞれ担当する迷宮内の管理人となる。
+      余談ではあるが、迷宮を変革させるため高度な演算能力を必要とされる。凛とラニは基準値を満たしていたが、ジナコは基準値を満たしていなかった。彼女の迷宮の作りが簡素なのはその現れだろう。
+    note: {}
+  zh:
+    content: |-
+      经过BB改造而成的Sakura迷宫的守护者。
+      同时也是各层的主要核心、所谓的迷宫的本体。
+      只有持有良好的魔术回路与“心”的少女能担任的关系，不能像攻击性程序一样量产。
+      Master里凛，拉尼和吉娜可有被转化成Sentinel。
+      Sentinel化的同时，以追加的方式置入了BB的意识的关系，
+      多多少少个性也会扭曲掉。大概。总之为了保护凛和拉尼的名誉，就当成是这样吧。
+      成为了卫士的少女，该灵子核……灵魂会被当作迷宫的核心封印起来、将五感全部作为迷宫的增建材料使用。
+      把迷宫的构造改变或增加陷阱之类的行为对于卫士们来说是相当痛苦的。
+      另外、大我的部分虽然被封印住，但小我……各自独立的兴趣、嗜好等人格，则会成为被称为Ego的分身、同时也是各自担当着各层迷宫的管理人。
+      虽然是多余的话，将迷宫变革需要高度的演算能力。凛和拉尼虽然满足了基准值，吉娜可没有达到基准值。她的迷宫制作很简朴就是提示吧。
+    note: {}

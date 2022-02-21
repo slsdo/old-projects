@@ -1,0 +1,104 @@
+---
+id: holy-grail
+
+en: h
+ja: se
+furigana: せいはい
+title:
+  en: Holy Grail
+  ja: 聖杯
+  zh: 圣杯
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 48
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      The cup that received the blood of God.
+      It is one of the greatest holy relics, a wish-granter that fulfills its owner’s desires.
+      It is believed to have its origins in the “wish-granting cauldron” that appears in numerous myths.
+      The Holy Grail that appears in <em>Fate/stay night</em> is not the original, but rather a replica made to function as a “wish-granter.”
+      When Heroic Spirits are defeated, they return to their original forms as fragments of power and vanish from the time axis.
+      However, before that can happen the Einzbern Holy Grail intercepts and stores them until the ritual to open the “hole” can be enacted by the Great Holy Grail.
+    note: {}
+  ja:
+    content: |-
+      神の血を受けた杯。
+      最高位の聖遺物であり、持ち主の願いを叶える願望機。
+      その起源は多くの神話で顔を見せる、“願いを叶える大釜”と言われている。
+      「Fate」で登場する聖杯はオリジナルではなく、“願望機”として機能するように作られたレプリカである。
+      英霊は地上で破れた後、元の形である「力の一端」に戻り、時間軸から消え去る。
+      それを押し留め、一時的に蓄えるものがアインツベルンの聖杯である。
+      その後に続く“孔”を開く儀式は、聖杯ではなく大聖杯が執り行う。
+    note: {}
+  zh:
+    content: |-
+      接到了神之血的杯子。
+      作为最高位的圣遗物，能实现所有者愿望的愿望机。
+      其起源被认为是在很多神话现身的，“能实现愿望的大锅”。
+      《Fate》中登场的圣杯并非真品，而是作出的发挥“愿望机”功用的复制品。
+      英灵在地面上被击破后，会回到作为原本形态的“力的一面”，从时间轴上消失。
+      强行留下那个，暂时性地储存的东西就是爱因兹贝伦的圣杯。
+      继其之后打开“孔”的仪式，并非圣杯而是大圣杯来执行。
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 5
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      A miraculous wish-granting machine that can grant any wish. The Holy Grail was created 200 years ago by the Three Founding Families. It has its origins as the “wish-granting cauldron” that appears in numerous myths and legends. The Holy Grail that appears in the Fuyuki Holy Grail War is not the original, but rather a replica made to function only as a wish-granting machine.
+    note: {}
+  ja:
+    content: |-
+      どんな願いも叶えられるという奇蹟の願望器。200年前に始まりの御三家によって造り出された。「願いを叶える大釜」として、多くの神話にその名を残しているが、冬木の聖杯は願望器としての機能だけをもつ、聖遺物としての聖杯を模した、いわばレプリカ。
+    note: {}
+  zh:
+    content: |-
+      什么愿望都能实现的奇迹的许愿机。200年前被初始的御三家造出来。作为“实现愿望的大釜”，在许多神话都留有其名，但冬木的圣杯只持有许愿机的机能，模仿了作为圣遗物的圣杯，也可说是复制品[Replica]。
+    note: {}
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 92
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      In previous works the term Holy Grail referred to a wish granting machine that could grant any wish, but in EXTRA this term refers to the right to use Moon Cell.
+      If you browse through the massive amount of records and simulated data that Moon Cell holds, you will certainly be able to find a version of Earth with the future that you desire.
+      The you who has obtained the right to use Moon Cell need only say the following to Moon Cell:
+      “Recreate my ideal future.”
+      Moon Cell will quickly set about to bring the state of Earth to match the shape of the future you desire. The Moon has all the necessary knowledge and physical means to change the world.
+      For example, if you were to wish “Make all the girls on Earth my little sisters.” In about ten years or so societies on Earth would have changed to be so.
+      Or alternatively, all of Earth would be managed and directed to work in order to make a device to allow one to experience that dream realistically.
+      There’s nothing that the human race can’t realize as long as it’s within the scope of human imagination. No matter what kind of fantasy, no matter how unrealistic, there is a way to realize and experience it.
+    note: {}
+  ja:
+    content: |-
+      かつては『あらゆる願いを叶える願望機』を指した言葉だったが、EXTRAでは『ムーンセルの使用権』を示す。
+      膨大な地球のシミュレート記録を保管するムーンセルを閲覧すれば、そこにはかならず『貴方が望む未来の地球』が存在している。
+      ムーンセルを使える事になった『貴方』は、ただ一言、ムーンセルに告げればいい。
+      『この、私にとって理想の未来を再現しろ』と。
+      ムーンセルは速やかに地球をその未来のカタチに運んでいくだろう。そのための方法を、実行手段を、月はすべて識っているのだから。
+      例えば『地球人類の女の子ぜんぶワイの妹にしてほしい』と願えば、きっと十年ぐらいで地球はそのような社会形式になると思われる。
+      あるいは、その夢が『リアルに見られる』装置を作るため、地球全体がそのように運営される。
+      人間は人間が想像する範囲において、実現できないものはない。それがどのような幻想、絵空事であっても、体験する手段はあるのである。
+    note: {}
+  zh:
+    content: |-
+      过去虽然是指的“能够实现任何愿望的愿望机”的词汇。于EXTRA之中则是指的“Moon Cell的使用权”。
+      浏览管理着庞大的地球的模拟记录的Moon Cell的话，其中一定会有着“你所期望的未来的地球”的存在。
+      能够使用Moon Cell的“你”，只要对Moon Cell说上一句，便可以了。
+      “将这，对于我来说理想的未来再现出来”。
+      之后Moon Cell就会迅速的将地球向那个未来的“形”运算的吧，因为达到那个目标的方法、实践手段等，月亮早已在之前[许愿之前]就编织出来了。
+      假如是“让地球人类的女孩子全部都成为俺的妹妹”的愿望的话，一定只需十年左右就能让地球发展成那种社会形式；
+      或者是，制造让这个梦想“在现实看到”的装置，而让地球全体往那个方向运营。
+      只要是人类能够想象到的自身的范围内，不能实现的愿望就根本不存在。即便那是多么的幻想、或是多么的如童话故事般，都有着能够体验其的手段。
+    note: {}

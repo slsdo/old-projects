@@ -1,0 +1,129 @@
+---
+id: neco-arc
+
+en: n
+ja: ne
+furigana: ねこアルク
+title:
+  en: Neco-Arc
+  ja: ネコアルク
+  zh: 猫ARC
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 48
+  category:
+  - unknown
+  img: ""
+  en:
+    content: |-
+      Ciel-sensei’s student. Originally a feline, but it’s hard to say if this thing can even be called a cat anymore.
+      In class, she constantly acts up in retaliation for having such little screen time.
+      Details are unknown, but it seems she wants people to think she’s smart.
+      …Of course, the Arcueid in the main story wasn’t smart, either, she just had grandmotherly wisdom.
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      知得留先生の生徒。もともとネコ科だったがまさかここまでネコだとは。
+      授業では出番が少ないという腹いせに縦横無尽に暴れまくる。
+      詳細は不明だが、あたまがいいと思われたいらしい。
+      ……確かに本編でのアルクは頭がいいというより、おばあちゃんの知恵袋。
+    note:
+      n1: "ねこアルク"
+  zh:
+    content: |-
+      得知留老师的学生，原本就是猫科，没想到会如此像猫。
+      课堂上出场的机会不多，轮到她时就会一个劲的闹事。
+      详细不明，不过头脑似乎很好。
+      ……的确本篇中的ARC与其说是头脑好，不如说像是老婆婆的知识袋。
+    note: {}
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 27
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      A mysterious lifeform that flies on top people’s head when they are close to passing out. Once she’s on you try not to take damage or do any crazy moves… how unfortunate. Originally from the <em>Tsukihime</em> help corner “Teach Me! Ciel-sensei” in which she played the straight man through and through. In <em>Kagetsu Tohya</em> she also appeared in an Arcueid event graphic, and her fame has continued to rise. Now she is basically TYPE-MOON’s mascot character.
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      意識朦朧状態になるとキャラの頭上に飛び交う謎の生命体。コイツが消えるまで受け身は取れないわ相殺はできないわのけぞりは大きくなるわ……と、いいことはない。元々は『月姫』本編でのヒントコーナーである「教えて！ 知得留先生」に登場ツッコんでツッコんでツッコミまくる役どころ。『歌月十夜』以降、アルクェイドのイベントグラフィックとしても登場し、ますます地位が向上。現在ではTYPE-MOONのマスコットキャラとも言える立場に……。
+    note:
+      n1: "猫アルク（ネコアルク）"
+  zh:
+    content: |-
+      进入意识朦胧状态就会在角色的头上飞来飞去的谜之生命体。这家伙消失前不能受伤啊不能对冲啊后仰会变大啊……都没啥好事情。本来是在《月姬》本篇的提示环节“告诉我！知得留老师”中登场激烈地吐糟吐糟又吐糟的角色。《歌月十夜》以后，也作为爱尔奎特的事件图像登场，地位越发提高。现正站在可说是TYPE-MOON吉祥物角色的立场上……。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 74
+  category:
+  - unknown
+  img: ""
+  en:
+    content: |-
+      Ciel-sensei’s student. Originally a feline, but it’s hard to say if this thing can even be called a cat anymore. In class, she constantly acts up in retaliation for having such little screen time. Details are unknown, but it seems she wants people to think she’s smart.
+      In <em>Melty Blood Re-ACT</em>, she finally made her debut as a boss character. Of course, we loaded her up with a bunch of ridiculous skills.
+      With the eye beams, “True Ancestor Beam,” the vaguely familiar blast, “Opuba!,” the warp skill, “Cat Out of Hell,” the uppercut that sends the opponent flying into the heavens, “Dead Neco-ning,” and many more, she destroys everything in her path.
+      Though it seems that she is the biggest small-fry in the Cat Kingdom, to begin with the Cat Kingdom itself is getting smaller every time it appears.
+      By the way, we actually recorded lines for Arcueid, Akiha, Len, and Ciel-type Neco Arcs. They were all pleasantly strange characters. Unfortunately, due to capacity problems we were only able to implement the Yuzuki Ryouka version. Still, if the chance ever comes around, I’d really like to debut the other Neco Arcs, too.
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      知得留先生の生徒。元々ネコ科だったが、まさかここまでネコだとは。授業では出番が少ないという腹いせか縦横無尽に暴れまくる。詳細は不明だが、あたまがいいと思われたいらしい。
+      メルティブラッド・リアクトでは遂にボスキャラとして登場。そのメチャクチャぶりを思う存分披露した。
+      目からビームだ真祖ビーム、なんかどっかで見た事のあるブラスト、おぷばっ！、ワープ技の黄泉返りキャット、相手をアッパーでヘブンへ突き上げるネコニング・ザ・レインボー等々、もう何もかもブチ壊しである。
+      猫王国では一番の小者らしいが、そもそもこの猫王国、登場する度に規模が小さくなっている。
+      余談だが、猫アルクの声はアルクェイド役、秋葉役、レン役、シエル役の方々に演じてもらい、みなそれぞれいい感じのヘンなキャラを作っていただいた。容量の問題で猫アルク柚木嬢バージョンしか実装できなかったが、何か機会があれば他の猫アルク達も登場させたい所存である。
+    note:
+      n1: "猫アルク"
+  zh:
+    content: |-
+      知得留老师的学生。原本就是猫科，想不到会竟会是猫。课堂上出场的机会不多就尽情捣乱。详细不明，不过头脑似乎很好。
+      Melty Blood·Re-Act竟作为Boss角色登场。那个荒谬的想法充分展现了。眼睛发出的Beam是真祖Beam，那类的玩意儿也见过啊Blast，puba！Warp技的黄泉返Cat，把对手用Upper Heaven顶到 Nekoning-The-Rainbow等等，不管什么都破坏掉。
+      大概是猫王国第一的后生吧，说到底这个猫王国，每次登场的规模都变小了。
+      题外话，猫Arc的声音是请爱尔奎特役，秋叶役，莲役，雪儿役的各位出演，大家各自表现了感觉不错的奇怪角色。因为容量的问题所以猫Arc只安装了柚木小姐的版本，有机会的话也有想让其他猫Arc们登场的打算。
+    note: {}
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 37
+  category:
+  - cat
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      ネコ科ネコ目ネコ類に属するナマモノ。目からビームを出しジェットで空を飛ぶ、と書くと本当に生物なのか疑わしくなってくる。今をときめくねんどろいどの記念すべき第一弾商品にもなった。一時期は記憶を失った事で綺麗なネコアルクと化し、ランサーと友情を育んだりして感動を誘ってくれた事もある。ちなみに猫は三日経つと恩を忘れるらしい。
+    note: {}
+  zh:
+    content: |-
+      属于猫科猫目猫类的生物。从眼睛射出Beam，喷气式地腾空飞翔，这么写就会可疑起来“真的算生物吗？”。也是如今依然会心动的值得纪念第一弹商品粘土人。有一阵子因记忆丧失而华丽地猫ARC化，和Lancer孕育了令其感动的友情。顺带猫似乎过三日便会忘掉恩情。
+    note: {}
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 16
+  category:
+  - "-"
+  img: baa_neco-arc_w.png
+  en:
+    content: |-
+      Enigmatic creature (real creature{{n1}}).
+    note:
+      n1: "ナマモノ refers to “real people fiction,” characters based on real, existing figures (as opposed to a created character). Probably mentioned as a joke here."
+  ja:
+    content: |-
+      正休不明の生物（ナマモノ）。
+    note: {}
+  zh:
+    content: |-
+      正体不明的生物（活物）。
+    note: {}

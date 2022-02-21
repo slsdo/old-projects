@@ -1,0 +1,44 @@
+---
+id: blossom-sensei
+
+en: b
+ja: fu
+furigana: ぶろっさむせんせい
+title:
+  en: Blossom-sensei
+  ja: ブロッサム先生
+  zh: Blossom老师
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 132
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The host of the Q&A corner.
+      She first appears in the <em>Fate/EXTRA Omake Theater</em> (Bonus Theater)
+      No matter how you look at it Blossom-sensei is actually Sakura, but she insistently refers to herself as Blossom-sensei. She seems to fall somewhere in between Sakura and BB.
+      It’s no exaggeration to say that one of the major reasons we could make CCC is because of the new super cute drawings of Sakura that the character designer Ms. Wada Aruko did for us.
+      By the way, when we were writing the scenario for the Omake Theater it had already been decided that we would be developing the sequel CCC. If you insistently persevere, your dream will come true! Something like the whim of a fungus{{n1}}.
+    note:
+      n1: "Probably refers to Nasu Kinoko, who is often referred to as a fungus/mushroom."
+  ja:
+    content: |-
+      Q＆Aコーナーの司会役。
+      初出は『Fate/EXTRAおまけ劇場』。
+      どう見ても桜なのだが、かたくなにブロッサム先生と名乗る。桜とBBの中間みたいな位置づけ。
+      EXTRAのキャラデザイン＆イラストを担うワダアルコ女史の書き下ろし桜の可愛さが、後のCCCに繋がったといっても過言ではない。
+      ちなみにおまけ劇場を執筆していた時、既にCCCの開発は可決されていた。しつこく主張すれば夢は叶う。菌糸の一念、というヤツである。
+    note: {}
+  zh:
+    content: |-
+      Q＆A单元的司仪。
+      初登场是《Fate/EXTRA 附属剧场》。
+      怎么看都是樱，但以Blossom老师自称。感觉大概是介于樱和BB之间的位置。
+      说是因EXTRA的角色设计＆插画担当的ウダアルコ女士所绘制的樱过度可爱，而联系了之后的CCC也不为过。
+      顺带一提在制作附属剧场时、CCC的草案已经被提出了。只要努力主张自己的权益的话梦也会实现的。菌丝{{n1}}的一念、的感觉吧。
+    note:
+      n1: "蘑菇的意味？"

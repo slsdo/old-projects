@@ -1,0 +1,30 @@
+---
+id: fuyuki-bridge
+
+en: f
+ja: fu
+furigana: ふゆきおおはし
+title:
+  en: Fuyuki Bridge
+  ja: 冬木大橋
+  zh: 冬木大桥
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 37
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      Fuyuki Bridge is located at the center of Fuyuki City bridging both Miyami Town and Shinto. Rider often rests atop the bridge, commanding a great view of the surrounding area.
+    note: {}
+  ja:
+    content: |-
+      未遠川によって隔てられた新都と深山町を結ぶ橋。見晴らしがよく、ライダーが頻繁に登っている。
+    note: {}
+  zh:
+    content: |-
+      连通被未远川隔开的新都与深山町的桥。视野很好，Rider经常登上去。
+    note: {}

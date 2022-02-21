@@ -1,0 +1,99 @@
+---
+id: roa
+
+en: r
+ja: ro
+furigana: ろあ
+title:
+  en: Roa
+  ja: ロア
+  zh: 罗亚
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 64
+  category:
+  - person
+  - dead-apostle
+  img: dokuhon_roa.png
+  en:
+    content: |-
+      Though the Dead Apostles themselves merely see him as a normal Dead Apostle, the Church counts him among the 27 Dead Apostle Ancestors.
+      Known as the Infinite Reincarnator, he attempted to realize an immortality fundamentally different from that of the other Dead Apostles.
+      Originally he was a priest, but for the sake of surpassing his limits he had no choice but to become a vampire.
+      He tricked Arcueid, the strongest True Ancestor at the time, into drinking his blood, and immediately became a powerful Dead Apostle. Then, by unifying the factions of those Dead Apostle Ancestors who had already been sealed by the Church, he established his influence.
+      In response, Altrouge set out to put the newcomer Dead Apostle in his place, but by that time Roa was already powerful enough to defeat her instead.
+      As a result, the 27 Ancestors left Roa to his own devices. It wasn’t until many years later that he was finally defeated by Arcueid and the Church working together.
+      After that, he reincarnated into new hosts a total of seventeen times, locked in a never-ending deathmatch with Arcueid.
+      He harbored deep emotions for Arcueid, who had stolen away his purity, but he was never able to realize that what he felt was love.
+      …Nevertheless, he was by no means a good person. In fact, you could say his amoral nature made him the hardest kind of person to deal with.
+      Similar to Nrvnqsr, the identity called “Roa” was fading even as he clung to eternity.
+      Though he did not actually become weaker with each successive reincarnation, none of his host bodies held the same potential as the very first Michael Roa Valdamjong.
+      At the very end he reincarnated into Ciel, whose body had potential close to his own, and Tohno Shiki, whose body would be his last.
+    note: {}
+  ja:
+    content: |-
+      死徒たちは一介の死徒と見ているが、教会側は死徒二十七祖に数えている吸血鬼。
+      転生無限者と呼ばれ、他の死徒たちとは異なる不老不死を実現しようとした。
+      もとは教会の神官だったが限界に辿りつき、さらなる上を目指すために仕方なく吸血種となる。
+      当時最強の真祖であるアルクェイドを騙して自らの血を吸わせたロアはすぐさま力のある死徒となり、教会によって封印されていた空席の二十七祖の派閥を纏めあげ、一大勢力を築き上げた。
+      この新参者の死徒をいさめるためにアルトルージュが出向くが、逆に返り打ちにするほど当時のロアは強大だった。
+      結果、二十七祖はロアを放置し、数年後に教会と共同戦線をはったアルクェイドによって打ち滅ぼされる。
+      以後自らが選抜した赤子に転生を繰り返し、実に十七回もの間、アルクェイドと終わりのない殺し合いをするに至る。
+      自身を純真なモノではなくしたアルクェイドに深い感情を抱いていたが、ついぞそれが愛情なのだという事に気がつかなかった人物。
+      ……だからといって善人な訳はなく、物の善悪がない分もっとも始末のおけない人種と言えるだろう。
+      ネロと同じく、永遠に固執するあまりロアという自我が薄れてしまっている。
+      転生を重ねるごとに弱体化していく、という訳ではないが、どの転生体も一番初めのミハイル・ロア・バルダムヨォンという肉体のポテンシャルに並ばなかった。
+      そういった経歴の果てに、当時の自分に近い潜在能力があったシエルの肉体に転生し、最期の転生体として遠野シキに辿りつく。
+    note: {}
+  zh:
+    content: |-
+      被死徒们当作一般的死徒，但教会将他算入死徒二十七祖。
+      称号是无限转生者，试图实现和其他死徒不同的不老不死。
+      原本是教会的神官但也到达了极限，为了追求更高的目标只好成为吸血种。
+      欺骗当时最强的真祖爱尔奎特，使她吸了自己的血后拥有强大的力量，统合被教会封印的二十七祖派阀，构筑了一大势力。
+      罗亚当时强大到就连爱尔特璐琪亲自出马、要这个新来的死徒收敛点也被打了回去。
+      结果二十七祖对罗亚置之不理，数年后教会和爱尔奎特共同组成战线，将他消灭。
+      之后反复转生到自己选择的孩童身上，在十七次转生的过程中与爱尔奎特展开了无止尽的厮杀。
+      虽然对使他失去纯粹的爱尔奎特有着深厚的感情，但却没发现那其实就是爱情，他就是这样的人物。
+      但就算这么说也不是个善人，可以说是事物不分善恶就很难做出结论的人吧。
+      和尼禄相同，因为太过执着于永远，而使得罗亚的自我逐渐薄弱。
+      虽然不是转生次数越多就变得越弱，不过每个转生体的潜在能力都没有最原始、名为米海尔·罗亚·法丹杨的肉体来得好。
+      上述经历的后续，转生到和初代的潜在能力相当接近的雪儿的肉体后，最后转生到远野四季身上。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 102
+  category:
+  - person
+  - dead-apostle
+  img: plusperiod_roa.png
+  en:
+    content: |-
+      Full name, Michael Roa Valdamjong. A Dead Apostle. Though the Dead Apostles themselves merely see him as a normal Dead Apostle, the Church counts him among the 27 Dead Apostle Ancestors. Known as the Infinite Reincarnator, he attempted to realize an immortality fundamentally different from that of the other Dead Apostles. Originally he was a priest of the Church, but for the sake of surpassing his limits he had no choice but to become a vampire.
+      He tricked Arcueid, the strongest True Ancestor at the time, into drinking his blood, and immediately became a powerful Dead Apostle. Then, by unifying the factions of those Dead Apostle Ancestors who had already been sealed by the Church, he established his influence. In response, Altrouge set out to put the newcomer Dead Apostle in his place, but by that time Roa was already powerful enough to defeat her instead. Of course, it was only natural. Not only was Roa an excellent magus in his own right, but he was able to wield the power of the strongest True Ancestor, Arcueid, at the same time.
+      As a result, the 27 Ancestors left Roa to his own devices. It wasn’t until many years later that he was finally defeated by Arcueid and the Church working together. After that, he reincarnated into new hosts a total of seventeen times, locked in a never-ending deathmatch with Arcueid.
+      Similar to Nrvnqsr, the identity called “Roa” was fading even as he clung to eternity.
+      Though the Roa that appears in Tsukihime has a rather brutal personality, that’s because he’s using Tohno SHIKI as his base. The original Roa was a calm intellectual.
+      …Well, he was still cruel and utterly selfish at heart.
+      He was obsessed by his thesis of eternity and was convinced he needed nothing else. However, the moment he laid eyes on Arcueid he was captivated, even though he should have seen her as nothing more than a tool. After that, Roa’s plan spiraled totally out of control… though he himself never noticed.
+    note: {}
+  ja:
+    content: |-
+      フルネ—ムをミハイル・ロア・バルダムヨォン。死徒。死徒たちは一介の死徒と見ているが、教会側は死徒二十七祖に数えている吸血鬼。転生無限者と呼ばれ、他の死徒たちとは異なる不老不死を実現しようとした。元は教会の神官だったが限界に辿りつき、更なる上を目指す為に仕方なく吸血種となる。
+      当時最強の真祖であるアルクェイドを騙して、自らの血を吸わせたロアはすぐさま力のある死徒となり、教会によって封印されていた空席の二十七祖の派閥を纏めあげ、一大勢力を築き上げた。この新参者の死徒を諫める為にアルトルージュが出向くが、逆に返り討ちにされるほど当時のロアの力は強大だった。それもその筈、優れた魔術師としてのロアと当時最高潮のアルクェイドの力を同時に使用できたのだから。
+      結果、二十七祖はロアを放置し、数年後に教会と共同戦線を張ったアルクェイドによって打ち滅ぼされる。以後、自らが選抜した赤子に転生を繰り返し、実に十七回もの間、アルクェイドと終わりのない殺し合いをするに至る。
+      ネロと同じく、永遠に固執するあまりロアという自我が薄れてしまっている。
+      月姫本編で登場するロアは遠野シキをべースにしている為凶暴性の高い人格となっているが、オリジナルのロアは理知的で穏やかな人物だった。まあ、根は冷酷で徹底した利己主義だった訳だが。
+      永遠という命題に取り憑かれ、それ以外は要らぬという信念を持っていたが、道具として扱う筈のアルクェイドを一目見た瞬間に心を奪われ、以後、ロア本人が気づかないまま、彼の計画は狂っていく事になる。
+    note: {}
+  zh:
+    content: |-
+      全名是米海尔·罗亚·法丹杨[Michael·Loa·Valdamjong]。死徒。死徒中被当做是普通的一员。而教会方面将其列做二十七祖的死徒。被称为无限的转生者。采取与其他死徒不同的方式来实现不老不死。原本是 教会的神官。因为达到了极限，为了 更上一层楼而不得已成为吸血种。
+      欺骗了当时最强的真祖爱尔奎特，让她喝下了自己血的罗亚成为了拥有强大力量的死徒，统合了被教会封印的空席的二十七祖们的门下，形成了一大势力。为了收敛下这个死徒新人，爱尔特璐琪出马迎战，结果却被大破，可见当时罗亚的 强大。那是自然的，作为优秀魔术师的罗亚和当时处于顶峰的爱尔奎特的力量能够同时使用的缘故。
+      结果，二十七祖对罗亚弃之不理，数年后，被同教会组成共同战线的爱尔奎特消灭。之后他就开始重复转生到自己选中的孩子身上。事实上在十七次的转生过程中都一直在和爱尔奎特相互厮杀。
+      同过于执着于永恒的尼禄一样，自我意识变得渐渐稀薄。
+      月姬本篇中登场的罗亚以远野四季作为基础的缘故，变成了十分凶暴的人格。原本的罗亚是一个理性而稳健的人物。不过其本性冷酷又彻底的自私自利。
+      被永远这个命题所迷惑，抱着除此之外一切都不需要信念的他，对本该视作道具的爱尔奎特一见倾心，在本人没有意识到这一点的情况下，他的计划一步步走向疯狂。
+    note: {}

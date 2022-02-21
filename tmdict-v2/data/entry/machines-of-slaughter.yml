@@ -1,0 +1,77 @@
+---
+id: machines-of-slaughter
+
+en: m
+ja: sa
+furigana: さつりくきこう
+title:
+  en: Machines of Slaughter
+  ja: 殺戮機構
+  zh: 杀戮机构
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 29
+  category:
+  - weapon
+  img: ""
+  en:
+    content: |-
+      The numerous inventions of Archimedes.
+      They were each created with some other use in mind, but ended up being turned into tools of war.
+
+      For example, the Archimedes screw (Syrakouson Methodos, or Syracusan Method) made it possible to create the giant warship Syracusia. In short, it’s a screw pump.
+      (Syracusia sailed only once, to berth in Alexandria, where she was later given to Ptolemy — Ptolemaios III Euergetes of Egypt — and renamed “Alexandria.”)
+      The versatile ancient Greek war ship is said to have used a screw-shaped mechanism to expel water from the ship. These screws are also said to have been used in the Hanging Gardens of Babylon.
+      Archimedes expounded on the principle of the spiral, which his screw employs, in the treatise <em>On Spirals</em>, which he addressed to Dositheus of Pelusium, a student under Conon of Samos. It is known as one of the first considerations of a curved line that includes a spiral in the mathematics of ancient Greek era.
+
+      Another invention was the Claw of Archimedes (Syrakouson Harpage, or Syracusan Plunderer), a giant weaponized crane.
+      Archimedes employed many variations of this device as his main weapon.
+      It was originally a machine set on the coast, used to destroy ships that tried to land in Syracuse. Variations on the Claw could lift invading ships, using a pendular motion to throw them afar, or capture them by throwing a net.
+
+      Finally, there’s the Scale of Archimedes (Wizard of the Balances),
+      A transportation device that would move even Heaven and Earth if it had the minimum required tools and output to do so.
+      Archimedes theorized about levers and balance in <em>The Method of Mechanical Theorems</em> and <em>On the Equilibrium of Planes</em>.
+      According to Pappus of Alexandria, who flourished in the otherwise stagnant period of mathematical studies in the fourth century AD, it was Archimedes’ work on levers that prompted his famous quote: “Give me a place to stand, and I will move the Earth.” Plutarch, as well, claimed that Archimedes was able to use the pulley and scale to transport objects.
+      Because of this, Archimedes is called “The Wizard of Balance” within the world of mathematics. In fact, a certain study published on the works of Archimedes, by Kyoritsu Shuppan Co., Ltd., is called <em>The Wizard of Balance - The Numbers of Archimedes</em>.
+    note: {}
+  ja:
+    content: |-
+      アルキメデスが用いる数々の発明品。
+      それぞれ別の用途で考案されたものだが、結果的に戦いの道具にされてしまったものたち。
+
+      たとえば、アルキメデスの螺旋（シュラクーシア　メトドス）。巨大戦艦シュラコシア号を成立させた発明。ようはスクリューである。
+      （後にシュラコシアンはプトレマイオス三世にに{{n1}}贈られ、アレクサンドリア号と改名された）
+      万能戦艦であったシュラコシア号が船内にたまった水を船外に排出するためにスクリュー状の装置を備えており、これはバビロンの空中庭園を灌槪する際にも使用されたとの説もある。
+      アルキメデスには、サモスのコノンの元で学ぶペルーシオンのドシセオス宛ての手紙という形で現存する『螺旋について』という書物が現存しており、これは古代ギリシャ時代の数学における「螺旋」を含む曲線についての初期の考察として知られている。
+
+      あるいは、アルキメデスのかぎ爪（シラクソン　ハルパゲー）。巨大クレーン兵器。様々なバリエーションがあり、これがアルキメデスの主武装になる。
+      もとは海岸に接近し、シラクサに上陸しようとする船を破壊するための兵器。船を掴んで持ち上げる、粉砕する、振り子運動で投げ飛ばす、網を投げて捕獲する、といった用途があった。
+
+      さらには、アルキメデスの天秤（ウィザード　オブ　バランス）。
+      わずかな道具と必要な出力さえあれば天地を返す運搬装置。アルキメデスは『方法』『平面のつり合いについて』の中で天秤のつり合いについて論じている。4世紀エジプトの数学者パップスは、「我に支点を与えよ。されば、地球を動かしてみせよう」というアルキメデスの言葉を紹介している。アルキメデスが天秤と滑車を物の運搬に活用したことは、プルタルコスも述べている。
+      このため、数学の世界において彼は「天秤の魔術師The Wizard of Balance」と呼ばれることがある。共立出版刊行のアルキメデス理論の研究書タイトルが、まさに『天秤の魔術師 アルキメデスの数学』となっている。
+    note:
+      n1: "にに → に"
+  zh:
+    content: |-
+      阿基米德所使用的种种发明。
+      这些发明虽是为不同用途所设计，最后却全都被作为战斗道具来使用。
+
+      比如说，阿基米德的螺旋（Syracusiamethodos）。 
+      这项发明简单来说就是螺旋推进器，它使巨大战舰叙拉古号得以成立。
+      （其后叙拉古号被赠送给托勒密三世，而改名为亚历山大号。）
+      全能战舰叙拉古号装备了能将蓄积船内的水排出船外的螺旋状装置，有一说是，这种装置也用于灌溉巴比伦的空中庭园。
+      阿基米德现存至今的著作中，有一部名为《论螺旋》，内容是他寄给拜于科农[Conon of Samos]门下学习的友人“多西修斯[Dositheus of Pelusium]”的书信。这部著作被公认为古希腊时代的数学中，对“螺旋”曲线的初步考察。
+
+      又或者是，阿基米德的起重爪（SimcusonHarpage ）。
+      这是巨大的起重兵器，有着各式各样的类型，是阿基米德的主要武装。
+      这种兵器原先用于破坏欲登陆叙拉古海岸的船只。用途包括将船只抓住后再吊起、粉碎，来回摆动后抛出、掷网捕捉等。
+
+      此外还有阿基米德的天秤（Wizard of Balance）。
+      只要使用少许的道具与必要的力道，就能使天地都为之翻覆的搬运装置。
+      阿基米德在《方法》、《平面的平衡》中讨论到天秤的平衡。据4世纪的埃及数学家帕普斯所述，阿基米德曾说过：“给我一个支点，我可以举起整个地球。”
+      普鲁塔克亦曾述及阿基米德活用天秤与滑车来搬运物品的事迹。
+      因此，在数学界，他又被称为“天秤的魔术师The Wizard of Balance”。由共立出版发行的阿基米德理论研究书，其标题正是《天秤的魔术师阿基米德的数学》。
+    note: {}

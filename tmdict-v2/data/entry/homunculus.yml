@@ -1,0 +1,88 @@
+---
+id: homunculus
+
+en: h
+ja: ho
+furigana: ほむんくるす
+title:
+  en: Homunculus
+  ja: ホムンクルス
+  zh: 人造人
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 61
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      アインツベルンの錬金術によって錬成された人造人間。魔術回路を基礎とし、人間として形作られた存在であることから、高い魔術能力を持つ。本編ではアイリスフィールやイリヤスフィールがこれにあたり、彼女らは200年前のアインツベルン当主、ユスティーツァを鋳型として鋳造された。それゆえに彼女らもまた、聖杯にまつわる「ある機能」に特化している。
+    note: {}
+  zh:
+    content: |-
+      靠爱因兹贝伦[Einzbern]的炼金术炼成的人造人类。因为是以魔术回路为基础，作为人类形成的存在，故持有很高的魔术能力。本篇的爱丽丝菲尔[Irisviel]和依莉雅苏菲尔[Illyasviel]都属于这个类别，她们是以200年前爱因兹贝伦[Einzbern]的家主，羽斯缇萨[Justeaze]作为铸型铸造而成。因此她们也特化于圣杯有关的“某机能”。
+    note: {}
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 135
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      Homunculus used to refer to babies that were created by alchemists in the old world, but that is all in the past now.
+      In the world of EXTRA homunculus and clone technology have become popular in underground society.
+      Such technology is forbidden by religious ethics, but due to the global birthrate decline which caused there to be a lack of manpower this unlawful technology has continued to thrive.
+      In areas controlled by the West Europe Plutocracy homunculus technology is considered unethical meaning it is unable to be used openly. However, in areas like Africa, the Middle East, and poor Asian countries, which lie outside of the Plutocracy’s sphere of control, the technology is used to mass produce low quality homunculus that are used as prostitutes, laborers, and for human organ sales.
+      The West Europe Plutocracy’s monopoly on resources has caused already poor countries to become even poorer which in turn leads them to use create homunculus as a way to obtain foreign capital and goods. This creates a vicious cycle where the poor countries sell their created organs and laborers which improves the Plutocracy’s labor force which in turn leads to the Plutocracy further profiting and solidifying their hold over the world.
+      Homunculus in the true sense of the word were only created at the Atlas Institute, but its doors have already been closed for all eternity.
+    note: {}
+  ja:
+    content: |-
+      旧世界では錬金術によって作られた『嬰児』を意味していたが、それは既に過去のものだ。
+      EXTRA世界では、クローン、ホムンクルスの技術は裏社会ではポビュラーなものとなっている。
+      宗教的倫理観から禁止されていた技術だが、少子化問題、出産率の低下、労働力の不足から、非合法に取引される商品となっている。
+      西欧財閥の管理下に置かれているような地域ではホムンクルスの製造は倫理的な問題もあり公に行われる事はないが、西欧財閥管理外のアフリカや中東、アジア地域の貧しい国では、売春、労働力の増強、臓器売買の目的で質の悪いホムンクルスが大量生産されている。
+      西欧財閥による資源の独占→貧しい国が更に貧しくなる→外貨を得るための手段としてホムンクルス作成→西欧財閥に臓器、労働力が還元される→西欧財閥潤うという悪循環。
+      真の意味でのホムンクルスはアトラス院でのみ鋳造されるが、アトラス院の扉は未来永劫、閉ざされたままである。
+    note: {}
+  zh:
+    content: |-
+      有着旧世界时借由炼金术制造的“婴儿”的意思，然而这已经成为了过去。
+      在EXTRA的世界中，克隆和人造人技术在里社会成为了流行着的事物。
+      虽然是因为宗教的伦理观问题而被禁止的技术，但是因为少子化问题、出产率下降、劳动力不足的缘故，成为了非合法的交易商品。
+      置身于西欧财阀管理下的地域对于人造人的制造，虽因为伦理的问题而不能公然进行。
+      然而在西欧财阀管理外的非洲、中东和亚洲地域的贫困国家，则为了出卖身体、增强劳动力、贩卖脏器的目的而进行着性质恶劣的人造人大量生产。
+      西欧财阀造成的资源独占→贫困国家变得更加贫穷→做为获得外币的手段而生产人造人→在西欧财阀进行脏器和劳动力的归还→西欧财阀获得利润的恶性循环。
+      真正意义上的人造人只有阿特拉斯院才会铸造。然而阿特拉斯院的大门已经未来永劫，永远的关闭上了。
+    note: {}
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 92
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      An artificial life-form made with alchemy. The ones that Yggdmillennia created as part of their army and as sources of mana supply were made using the techniques of the Einzberns, one of the Three Families who held the ritual of the Holy Grail War in Fuyuki. Einzbern homunculi are made using Magic Circuits as their foundation; to put it another way, they are like deteriorated spirits which were spontaneously produced. As a result, they are extremely useful as mana supply batteries.
+      However, unlike those made by the Einzberns, which are like works of art, the ones made by Yggdmillennia are a mass-produced product made in large numbers. They are inconsistent in their respective quality, but on the other hand this aspect expresses itself in the homunculi who have some slight individuality. Sieg was a mana supply homunculus and at first couldn’t even walk properly. Mana supply homunculi were made with the concept that they just need to produce mana, so many of them very defective as living beings, such as not being able to breathe from the time they were born.
+      The one put in charge of making them was the most prominent alchemist within Yggdmillennia, Gordes Musik Yggdmillennia… He’s no good at fighting, but he’s actually quite capable when it comes to alchemy.
+    note: {}
+  ja:
+    content: |-
+      錬金術によって鋳造される、人工生命体。ユグドミレニアが戦力、そして魔力供給源として鋳造したのは、冬木の聖杯戦争を執り行った御三家の一家、アインツベルンの技術を流用している。アインツベルンのホムンクルスは魔術回路を基礎として鋳造される、言うなれば自然発生した劣化精霊のようなもの。そのため、魔力供給用の電池としては極めて有用。
+      ただし、アインツベルンによる芸術品の如き存在とは異なりユグドミレニアが鋳造したものはあくまで数打ち、量産工業品である。品質にムラがあるが、逆にそれがわずかながらの個性となってホムンクルスたちに表出している。ジークは魔力供給用のホムンクルスであり、当初は満足に歩くことすらもできなかった。魔力供給用のホムンクルスは、魔力を搾り取れれば良いといぅ考えなので、生まれつき呼吸ができないなど生物としては不具合ありすぎる者が多い。
+      鋳造の指揮を執ったのはユグドミレニアの中でも有数の錬金術師ゴルド・ムジーク・ユグドミレニア。……戦闘はダメなんだけど錬金術に関してはかなりマシな部類に入るのですよ、あの人。
+    note: {}
+  zh:
+    content: |-
+      用炼金术铸造出来的人工生命体。千界树的战力，能作为魔力供给源是因为利用了冬木圣杯战争的御三家其一，爱因兹贝伦的技术。爱因兹贝伦的人造人是以魔术回路作为基础制作的，也就是像是自然产生的劣化精灵一类。因此，作为供给魔力用的电池十分优秀。
+      但是，和爱因兹贝伦造出来、有如艺术品般的存在不同，千界树的只是粗糙的工业量产品。虽然品质上良莠不齐，但这也成了人造人们各有各的个性。齐格原先是供给魔力用的人造人，连行走都有着困难。供给用的人造人因为只要能够榨取魔力就行，所以也有天生无法呼吸、作为生物有着巨大缺陷的人。
+      指挥铸造的是在千界树中也是屈指可数的炼金术师－哥尔德·姆吉克·千界树。……那个人虽然战斗完全不行，但是在炼金术这方面可是相当有才的喔。
+    note: {}

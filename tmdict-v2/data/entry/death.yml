@@ -1,0 +1,36 @@
+---
+id: death
+
+en: d
+ja: te
+furigana: です
+title:
+  en: DEATH
+  ja: DEATH
+  zh: DEATH
+
+entry:
+- source: character-material
+  section: prelude-explanation
+  order: 6
+  category:
+  - _qm_qm_qm
+  img: ""
+  en:
+    content: |-
+      Assassin. One who could slice the unbreakable like butter, and dismember the indestructible Dead Apostles. As the name suggested, a shadow who was like a Death God.
+      Like the Avenger, he was deemed an elusive calamity in the world of Dead Apostles.
+      …running around doing errands with no pay, what a hard working guy.
+    note: {}
+  ja:
+    content: |-
+      暗殺者。切れぬ筈のものを、バターナイフを入れるかのように切り裂く。不滅である死徒をたやすく解体する、文字通り死神の如き影。
+      復讐騎同様、死徒社会において噂になりだした神出鬼没の災禍。
+      ……しっかし。大した報酬もなく西へ東へ、ホントに働き者だこと。
+    note: {}
+  zh:
+    content: |-
+      暗杀者。能将本应无法切开的东西，有如切奶油般割裂。将不灭的死徒轻易解体，正如字面意思般仿佛死神一样的影子
+      和复仇者同为死徒世界中流传的神出鬼没的灾难之源。
+      ……不过，没什么报酬却总是东奔西跑，还真是一个勤劳的人呢。
+    note: {}

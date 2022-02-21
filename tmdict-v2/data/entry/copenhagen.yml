@@ -1,0 +1,39 @@
+---
+id: copenhagen
+
+en: c
+ja: ko
+furigana: こぺんはーげん
+title:
+  en: Copenhagen
+  ja: コペンハーゲン
+  zh: 哥本哈根
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 32
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      A liquor store in Shinto.
+      Shirou has been working there part-time for the past five years.
+      The store manager is practically attached to his kotatsu, and his daughter went to high school with Fuji-nee.
+      There’s a connection to cats…?
+    note: {}
+  ja:
+    content: |-
+      新都にあるお酒屋さん。
+      五年前から士郎がアルバイトしている。
+      いつも炬燵に入っている店長の娘さんは、藤ねえと 高校の同期だとか。
+      猫科繋がり……？
+    note: {}
+  zh:
+    content: |-
+      地处新都的一家小酒店。
+      五年前士郎开始在那儿打着工。
+      总是进入钱爆的店长的女儿女士，是和藤姐同期的高中吗？
+      猫科关联的感觉……？
+    note: {}

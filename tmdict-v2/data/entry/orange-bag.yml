@@ -1,0 +1,36 @@
+---
+id: orange-bag
+
+en: o
+ja: o
+furigana: おれんじのかばん
+title:
+  en: Orange Bag
+  ja: オレンジの鞄
+  zh: 橙色的皮包
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 13
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      Aozaki Touko’s bag. She seems to be very fond of using it.
+      It is not used as a bag, and is stuffed with a projector-like mechanism.
+      A projection machine that perjures a magical creature of shadow.
+    note: {}
+  ja:
+    content: |-
+      蒼崎橙子の鞄。わりと愛用しているらしい。
+      鞄として使われる事はなく、中は映写じみた機構で埋まっている。
+      影の魔物を偽証する幻灯機械。
+    note: {}
+  zh:
+    content: |-
+      苍崎橙子的皮包。她似乎相当锺爱使用。
+      并不是被当作皮包来使用，里面塞满了像是投映般的机关。
+      把影之魔物伪证出来的幻灯机械。
+    note: {}

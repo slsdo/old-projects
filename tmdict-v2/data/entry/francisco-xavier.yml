@@ -1,0 +1,39 @@
+---
+id: francisco-xavier
+
+en: f
+ja: fu
+furigana: ふらんしすこざびえる
+title:
+  en: Francisco Xavier
+  ja: フランシスコ・ザビエル
+  zh: 方济各·沙勿略
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 129
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      A Christian Saint.
+      A missionary who arrived in Japan in 1594.
+      He was posthumously designated as a Saint after spending his life traveling around the world spreading the word of God.
+      In the main storyline of Fate/EXTRA, upon entering the nameless forest the protagonist might suddenly let loose a mysterious strange voice saying something that resembles the name of this great man… This is one of the seven great mysteries of SE.RA.PH.
+    note: {}
+  ja:
+    content: |-
+      キリスト教の聖人。
+      西暦1594年、日本に上陸した宣教師。
+      世界を巡り、広く主の教えを布教した事から死後、聖人の列に加わった。
+      Fate/EXTRA本編、名無しの森に踏み入った主人公があげるかもしれない謎の奇声が、この偉人の名前と酷似している……というSE.RA.PH七不思議がある。
+    note: {}
+  zh:
+    content: |-
+      基督教的圣人。
+      西历1594年，登陆日本的传教士。
+      自他周游世界，广泛传播主的教义起，在死后被列入圣人之列。
+      Fate/EXTRA本篇，也许是踏入无名之森的主角所放出的迷之奇声，与这位伟人的名字酷似……这样的SE.RA.PH七大不可思议也是有的。
+    note: {}

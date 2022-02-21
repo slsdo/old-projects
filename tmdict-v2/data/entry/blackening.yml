@@ -1,0 +1,39 @@
+---
+id: blackening
+
+en: b
+ja: ko
+furigana: くろか
+title:
+  en: Blackening
+  ja: 黒化
+  zh: 黑化
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 29
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      A change caused by the taint of an unknown curse.
+      Blackening primarily affects Servants, and corrupted Servants will have the personality aspect of their alignment inverted.
+      Also, because they receive a physical body, they become more powerful.
+      It’s a bit like the people resurrected as villains by evil organizations in tokusatsu shows, but since they come back with a different name and a whole new design, it’s probably best to think of them as entirely separate characters.
+    note: {}
+  ja:
+    content: |-
+      正体不明の呪いに汚染され、変貌してしまう事。
+      おもにサーヴァントが黒化し、汚染されたサーヴァントは属性の性格が反転する。
+      確かな使い魔として肉体を与えられる為、より強力なサーヴァントとなる。
+      悪の組織による再生怪人と似たようなものなのだが、若干一名、デザインを大幅に変えほとんど新キャラとして登場する事に。
+    note: {}
+  zh:
+    content: |-
+      被正体不明的诅咒污染，外貌改变了。
+      主要是Servant会黑化，被污染的Servant属性性格会反转。
+      因为能给予作为确实的使魔的肉身，所以会成为更强力的Servant。
+      虽与邪恶组织的再生怪人相似，但某个人，大幅改变设计几乎作为新人物登场。
+    note: {}

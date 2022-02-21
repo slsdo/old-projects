@@ -1,0 +1,36 @@
+---
+id: linden-leaf
+
+en: l
+ja: ho
+furigana: ぼだいじゅのは
+title:
+  en: Linden Leaf
+  ja: 菩提樹の葉
+  zh: 菩提树之叶
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 55
+  category:
+  - other_alt
+  img: ""
+  en:
+    content: |-
+      The great sacrifice of a Grand class doll maker.
+      After trying so desperately to acquire it from that black market auction, learning that the Talisman had been burned and destroyed, it was no wonder Byron called her an idiot.
+      By the way, as far as catalysts that would be able to summon that great hero, this wasn’t the only one.
+    note: {}
+  ja:
+    content: |-
+      冠位人形師による、大いなる犠牲。
+      必死の思いで闇オークションから購入したバイロンが、この呪体が焼かれたと知った途端、あの蒼崎澄子に馬鹿と言いかけたのもむべなるかな。
+      ちなみに、かの大英雄を召喚しうる触媒はこれだけというわけではない。
+    note: {}
+  zh:
+    content: |-
+      冠位人偶师所造成的巨大牺牲。
+      拜隆抱着拼命的觉悟在黑市拍卖会中将其买下，也难怪他在知道该咒体被烧毁的瞬间，就破口大骂那位苍崎橙子是笨蛋。
+      顺带一提，能够召唤那位大英雄的触媒并不只有这一个。
+    note: {}

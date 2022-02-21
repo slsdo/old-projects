@@ -1,0 +1,34 @@
+---
+id: gae-buidhe
+
+en: g
+ja: hi
+furigana: ひつめつのきばらとは
+title:
+  en: Gáe Dearg
+  ja: 必滅の黄薔薇
+  zh: 必灭的黄蔷薇
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 66
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      黄色（ボウ）の意味を持つランサーの短槍。ランクBの対人宝具。回復不能の傷を与える呪いの槍で、この槍によって出来た傷はいかなる治癒魔術、再生能力をもってしても治癒できない。解呪するには槍を破壊するか、所有者であるランサーを倒すしかない。なお、普段は呪符によって束縛されている。
+    note:
+      n1: "ゲイ・ボウ"
+  zh:
+    content: |-
+      {{n1}}
+      持有黄色（Buidhe）意思的Lancer的短枪。Rank B的对人宝具。给予不能回复之伤的诅咒之枪，因这把枪造成的伤无论怎样的治愈魔术，就算持有再生能力也不能治愈。解咒只能是把枪破坏，或把作为所有者的Lancer打倒。顺带，平常都被咒符束缚着。
+    note:
+      n1: "Gae·Buidhe"

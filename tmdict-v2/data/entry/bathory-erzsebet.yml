@@ -1,0 +1,58 @@
+---
+id: bathory-erzsebet
+
+en: b
+ja: ha
+furigana: ばーとりえるじぇーべと
+title:
+  en: Báthory Erzsébet
+  ja: 鮮血魔嬢
+  zh: 鲜血魔女
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 115
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      Fresh Blood Demoness.
+      Red Lancer’s (Elizabeth Bathory) Noble Phantasm.
+      The naming of her Noble Phantasm (which uses the native reading of her name) follows the style also used in EXTRA for Lancer Prince Vlad.
+      As we all know, both the lives of Elizabeth and Vlad were used as a base for modern vampire legends.
+      Fresh Blood Demoness is Elizabeth’s anti-pig…err anti-army Noble Phantasm. It is her Dragon Breath attack used to its maximum potential.
+      Elizabeth brings out the Csejte Castle that she controlled during her life, and booms out a terrifying supersonic attack from her acoustically destructive weapon.{{n1}}
+      According to Cas-ko it’s just like the monstrous combination of gorilla and whale breath.
+      After learning about Japanese culture, she got hooked on the idea of becoming an extreme idol, “As a noble, I will confer the greatest of honors and rewards to those who are heading to their death!” Apparently.
+      However, as expected, she is too radical and ahead of the curve, and the only one who understands her is Red Saber. Certainly a sad turn of events.
+      Will it happen? The second debut of a golden star?
+    note:
+      n1: "In the game her castle is a giant speaker."
+  ja:
+    content: |-
+      バートリ・エルジェーベト。
+      赤ランサーことエリザベート・バートリーの宝具。
+      宝具名が本人の名前の母国読みなのは、EXTRAのランサー・ヴラド公爵と同じ法則。
+      言うまでもなく、どちらも吸血鬼のモデルとして扱われた人物である。
+      エリザベートのドラゴンブレスを最大限に発揮した対豚……じゃなくて対軍宝具。
+      エリザベートがその生涯に渡り君臨したチェイテ城を展開し、周囲に恐るべきスーパーソニックを叩きつける音響破壊兵器。
+      キャス狐曰く、ゴリラとクジラを元ネタにして創造された怪獣王のブレスと変わらない、とか。
+      日本の文化を知り、究極の偶像[アイドル]を夢見るようになったエリザベートにとって、この歌こそ「貴族として、死にいくものに与える最大の栄誉と褒美よ！」なのだそうだ。
+      しかし当然ながら先鋭的すぎて地球での理解者は赤セイバーだけという、まことに悲しい結果となった。
+      なるか、金星での再デビュー。
+    note: {}
+  zh:
+    content: |-
+      Bathory Erzsebet。
+      红Lancer伊丽莎白·巴托里的宝具。
+      宝具名是本人名字的母国读音，与EXTRA的Lancer弗拉德公爵是同一个法则。
+      不用说，二者都是被当作吸血鬼的原型的人物。
+      将伊丽莎白的龙息最大限度发挥出来的对猪……啊不对，对军宝具。
+      伊丽莎白展开终其一生君临的Csejte城，令周围陷入恐怖的super sonic的音响破坏兵器。
+      Cas狐曰，与猩猩与鲸鱼为原neta创造出来的怪兽王的长裙没什么两样，之类的。
+      对于知晓日本文化，梦想着成为究极的偶像[idol]的伊丽莎白来说，这首歌正是“作为贵族，对去死的人所赋予的最大的荣誉与赞美”似乎是这样。
+      但是当然了，由于过于激进，在地球上的理解者只有红Saber一个，真是可悲的结果。
+      会有吗，金星的再次出道。
+    note: {}

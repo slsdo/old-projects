@@ -1,0 +1,78 @@
+---
+id: command-spells
+
+en: c
+ja: re
+furigana: れいじゅ
+title:
+  en: Command Spells
+  ja: 令呪
+  zh: 令呪
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 4
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      Command Spells provide a Master with three absolute commands that can be used on their Servant. Command Spells are indispensable to ensure the obedience of a Servant. Considered to be a Servant’s shackles. Over the course of a Holy Grail War, Command Spells can be used up to three times to compel Servants with an undefiable command. Depending on how they are used, Command Spells can empower a Servant to exceed its normal strength or capabilities. However, after using it for the 3rd time, the Command Spell will be lost.
+    note: {}
+  ja:
+    content: |-
+      聖杯に選ばれたマスターに宿る三つの絶対命令権、切り札でもある。魔術師が強力無比なサーヴァントを使役するために不可欠な、「枷」とも呼べる力。この令呪による命令はサーヴァントに対して絶対的な強制力をもっており、聖杯戦争を通して3回のみ使用できる。使い方次第ではサーヴァントの能力以上の力を引き出すことも可能。ただし、3回目を使ってしまうと令呪は失われてしまう。
+    note: {}
+  zh:
+    content: |-
+      寄于被圣杯选中的Master的三道绝对命令权，也是王牌。魔术师为了使役无比强力Servant所必需的，也被称为“枷”的力量。由令咒下的命令有着针对Servant的绝对强制力，通过圣杯战争仅能使用3回。根据使用方法引出Servant能力之上的力量也是可能的。不过，使用第3次后就会失去令咒。
+    note: {}
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 165
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      Reiju. Command Spells.
+      They are proof that someone is a Master. They provide a Master with three absolute commands that can be used on their Servant.
+      When all three have been have been used up (or taken) the magi loses their qualification as a Master and is eliminated by Moon Cell.
+      However, there are a few special circumstances and exceptions:
+
+      - A Master has no more command spells, but their Servant still remains.
+      - A Master has defeated their set opponent on the current level.
+      - The battles on the next level have not yet begun (before the announcement of a Master’s next opponent).
+
+      Depending on these, Moon Cell will put off elimination.
+      Even if you use up all your command spells in the battle arena, as long as you immediately supplement them before leaving the area, you’ll be spared from Moon Cell’s punishment.
+    note: {}
+  ja:
+    content: |-
+      れいじゅ。コマンドスペル。
+      マスターの証であり、サーヴァントを絶対服従させる、三回のみの命令権。
+      これが無くなったものはマスター資格を失い、ムーンセルによって消去される。
+      ただし幾ばくかの執行猶予があり、
+
+      ・令呪を失ってもサーヴァントが残っている。
+      ・その階層での対戦相手との戦いに勝利している。
+      ・次の階層での戦いが始まっていない（対戦相手の発表前）。
+
+      場合、ムーンセルによる消去は保留となる。
+      決戦場での戦いで令呪をすべて使ってしまっても、何らかの方法ですぐさま令呪を補填し、決戦場を後にすればムーンセルからの処罰は免れる。
+    note: {}
+  zh:
+    content: |-
+      れいじゅ。Command Spell。
+      Master的证明，令Servant绝对服从的，仅有三回的命令权。
+      失去这个的会丧失Master资格，被Moon Cell消去。
+      但是，有数个可以犹豫执行的地方
+
+      ·失去令咒但Servant仍残留着
+      ·在与这个阶层的对战对象战斗中取胜
+      ·下个阶层的战斗尚未开始（对战对象发表前）
+
+      在其场合，Moon Cell的消去会进行保留。
+      就算在决战场上用掉了所有令咒，用什么办法迅速补充令咒，然后再离开决战场的话，就能免于Moon Cell的处罚。
+    note: {}

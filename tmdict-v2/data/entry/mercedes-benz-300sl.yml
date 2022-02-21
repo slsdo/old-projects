@@ -1,0 +1,53 @@
+---
+id: mercedes-benz-300sl
+
+en: m
+ja: me
+furigana: めるせですべんつ300SL
+title:
+  en: Mercedes-Benz 300SL
+  ja: メルセデス・ベンツ300SL
+  zh: 梅赛德斯·奔驰 300SL
+
+entry:
+- source: fate-zero-material
+  section: fate-zero-encylopedia
+  order: 43
+  category:
+  - other
+  img: fzavg1_mercedes-benz-300sl.png
+  en:
+    content: |-
+      A toy that Kiritsugu bought for his wife, in order to enlighten her about the wonders of modern science.
+      …Well, it’s sort of an old-fashioned choice as far as education is concerned, but I’m sure Irisviel must have preferred it that way. Since it was customized by Kiritsugu, you might expect it to be decked out with machine guns, missile launchers, ejector seats, and oil slicks, but it isn’t. Probably.
+      After the war ended, it was stashed away in the castle on the outskirts of Fuyuki, where happily it was eventually inherited by Illya.
+      By the way, in Japan it is well-known as the actor and singer Ishihara Yuujirou’s favorite car.
+    note: {}
+  ja:
+    content: |-
+      切嗣が妻の近代科学啓蒙のために買い与えた玩具。なんか啓蒙にしてはクラシカルなチョイスだが、おそらくアイリスフィールの好みもあったのだろう。切嗣カスタムである以上は機開銃やミサイルや射出式助手席やオイル噴霧器といったオプション装備も期待したいところだが、たぶんない。
+      第四次戦の後は冬木郊外の森のアインツベルン城に保管され、めでたくイリヤの玩具として継承される。ちなみに日本では石原裕次郎の愛車として有名。
+    note: {}
+  zh:
+    content: |-
+      切嗣为了启蒙妻子的近代科学买给她的玩具。虽然就启蒙来说是有点古典的选择，不过多半也是因为爱丽丝菲尔的喜好吧。因为是切嗣特装型所以让人期待机枪或飞弹或射出式副驾驶座或汽油喷雾器等选择装备，不过多半是没有的。
+      第四次战后保存在冬木郊外森林里的爱因兹贝伦城，可喜可贺的成为依莉雅的玩具。附带一提，在日本以石原裕次郎的爱车而闻名。
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 70
+  category:
+  - car
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      切嗣がアイリに買い与えた年代物の白いベンツ。深夜の冬木市国道を高速で駆け抜けた。40万ドルもするとか。
+    note: {}
+  zh:
+    content: |-
+      切嗣买给爱丽[Iri]的古物奔驰[Benz]。在深夜的冬木市国道高速驱驰。值美元[Dollars]40万。
+    note: {}

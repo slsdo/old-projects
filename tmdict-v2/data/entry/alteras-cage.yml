@@ -1,0 +1,36 @@
+---
+id: alteras-cage
+
+en: a
+ja: a
+furigana: あるてらのらん
+title:
+  en: Altera’s Cage
+  ja: アルテラの檻
+  zh: 阿提拉之笼
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 5
+  category:
+  - item_alt
+  img: ""
+  en:
+    content: |-
+      A prison for the Main Character, hastily constructed by Titan Altera.
+      Although from the outside, it looks like there’s ample space to squeeze through the bars, it goes without saying that even the “gaps” are barred shut, so breaking free is impossible.
+      The reason why Titan Altera created the cage is revealed in the game.
+    note: {}
+  ja:
+    content: |-
+      巨神アルテラが急造で作った主人公用の懢。
+      画面で見ると隙問が大きいので出られそうに見えるが、無論、隙問に見える部分も障壁が作られているので脱出はできませんよ。
+      なぜ巨神アルテラがこんなものを作ったのかはゲーム中で語られる。
+    note: {}
+  zh:
+    content: |-
+      巨神阿提拉急忙制造出的主角用牢笼。
+      从画面上来看空隙很大，似乎能够出入。但看似空隙的部分都设有屏障，让人无法逃脱。
+      关于巨神阿提拉为何创造出这种东西的理由，将在游戏中述说。
+    note: {}

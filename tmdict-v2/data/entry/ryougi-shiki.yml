@@ -1,0 +1,144 @@
+---
+id: ryougi-shiki
+
+en: r
+ja: ra
+furigana: りょうぎしき
+title:
+  en: Ryougi Shiki
+  ja: 両儀式
+  zh: 两仪式
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 62
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The protagonist of <em>Kara no Kyoukai</em>. Able to see lines of death, just like Tohno Shiki.
+      The last name “Ryougi” and first name “Shiki” both have an appropriate meaning. Consequently as a user of the mystic eyes of death perception it can be said she is several ranks higher than Tohno Shiki.
+      Tohno Shiki is pretty much her polar opposite. In fact, his personality is actually close to Kokutou Mikiya’s.
+      If you called her Tohno Shiki’s prototype, I wouldn’t know how to answer.
+      Because, even though as a completed work <em>Kara no Kyoukai</em> predates <em>Tsukihime</em> by two years, I had the idea for <em>Tsukihime</em> first.
+      However, at the time the idea refused to become a story, so I stored it away and came back to it later when I finally made <em>Tsukihime</em> for real.
+      Before that, though, I ended up making something completely different, only keeping the protagonist from the original idea. The resulting work was <em>Kara no Kyoukai</em>.
+      Geez, I never imagined I’d end up working with the same “lines of death” idea for three whole years…
+    note: {}
+  ja:
+    content: |-
+      空の境界の主人公。志貴と同じく死の線が視えてしまう体質。
+      両儀という苗字にも、式という名前にもしかるべき意味があり、そのために志貴より数段上の直死の魔眼の保持者といえる。
+      志貴とは何もかもが正反対。月姫における志貴の性格は黒桐幹也に近い。
+      志貴の原型……といわれると、返答に困る。
+      作品的に両儀式は志貴より二年早いが、その元になるアイデアは月姫のアイデアであるからだ。
+      当時「あー、こりゃ話にならないや」と倉庫に仕舞われていたアイデアをそのままで使用したのが月姫。
+      「このままじゃ話になんないんで別物にしよう」と主人公だけ採用したのが空の境界ということ。
+      まさか三年間も『死の線』に付き合う事になるとは夢にも思いませんでした、はい。
+    note: {}
+  zh:
+    content: |-
+      空之境界的主人公。和志贵一样是能看见死之线的体质。
+      无论是姓的“两仪”，还是名字的“式”都有它的意义，因此可说是比志贵还要高上数阶的直死之魔眼持有者。
+      和志贵无论什么都是相反的。月姬里志贵的性格和黑桐干也相似。
+      如果被说是志贵的原型……会很难回答。
+      以作品来说，虽然两仪式比志贵早了两年，不过原本的构想是来自月姬。
+      把当时说着“啊─，这个不行啊”收进仓库的构想就这样直接使用的就是月姬。
+      而说着“因为这样下去不行所以改成别的吧”并只采用主人公的就是空之境界。
+      竟然会和死之线来往三年的时间，连作梦都没想过，嗯。
+    note: {}
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 48
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A girl in her late teens. One of the main characters of the story, possessing the characteristic of Yin. A killer who could not kill.
+      She used a coarse male speech pattern, and used Ore as her first person pronoun. She had a cold personality and appeared to care about nothing.
+      She had only worn kimono up to the age of 16, but due to the comment of her high school peers, she bought a leather jacket. After that, she began this strange getup of wearing a leather jacket over a kimono during winter.
+      Although it seemed that she was concerned about her attire, but really she did not care.
+      She just wore what she wanted, but the result was consistently “always kimono,” “laced-up boots or geta,” “…red leather jacket.”
+      Mean, heartless, and merciless, but occasionally she would react in a surprisingly feminine way. Like Mikiya said, it you want to compare her to an animal, it would be a rabbit or something like that.{{n1}}
+      She was the second child of House Ryougi, who artificially induced dual personalities in their offspring. Due to her confirmed multiple personality, her brother was abandoned as the heir in favor of her.
+      Because she was aware of her abnormality since childhood, Ryougi hated people as well as herself. Although she developed a cold personality as a result, secretly she wished to experience a normal person’s happiness.
+      …Ever since she encountered the materialization of that dream, her fate changed drastically.
+      She had a male personality known as “SHIKI,” but he was lost due to an accident. Subsequently she developed the ability to perceive Lines of Death. Was it a compensation, or was it a sequela of the accident?
+      After awakening from the coma, she did not have a realistic sense of living. Although in frustration she attempted to feel this sense of living through killing, due to various accidents and benevolent obstructions she never succeeded.
+      With a uncertain sense of living, this listless girl continued to come to Touko’s office day in and day out.
+      By the way, Shiki’s emotions towards people were quite animalistic.
+      Regardless of good or evil, Shiki first divided people into “those she can be with” and “those she cannot be with.”
+      For those “she can be with,” she would stay with them even if she hated them. Touko was “dislike,” Azaka was “like,” such were the categories.
+      As to Mikiya, in the words of Shiki, “I don’t know.”
+    note:
+      n1: "A mean, heartless and merciless bunny."
+  ja:
+    content: |-
+      十代後半の少女。物語の主役の一人。陰性。人を殺せない殺人鬼。
+      男のような乱暴な口調で、一人称はオレ。冷めた性格で、万事がどうでもいいように振る舞う。
+      十六歳まで和服しか着てこなかったが、高校で出会った同級生のちょっとした台詞から皮のジャンパーを購入。以後、冬は着物の上に革ジャンを羽織[はお]る、という妙な服装になった。
+      服装に拘[こだわ]っているように見えるが、実は本人何も考えていない。
+      好きなものを着るだけという考えで、その結果として『いつも着物』『履物[はきもの]は編み上げブーツかゲタ』『……気に食わないけど赤い革ジャン』という格好になっている。
+      ぶっきらぼうで薄情[はくじょう]で容赦[ようしゃ]がないが、時折びっくりするほど少女らしい反応をする。幹也曰く、動物に例えるのならウサギだとか。
+      人為的に二重人格者を生み出す両儀家の次女として生まれ、多人格の素質を認められ、兄を差し置いて両儀家の跡取りとなった。
+      幼い頃から自分が異常だと知っていた為、極度の人間嫌い＆自分嫌い。それ故に冷めた性格になってしまったのだが、心のどこかで人並みの幸福を夢見ていた。
+      ……その夢の具現に出会ってしまった事から、彼女の運命は大きく変動していく。
+      『識』という男性人格を持っていたが、事故によって失われた。その代償か事故の後遺症か、以後、死の線が視えてしまう体質になってしまった。
+      昏睡から目覚めた後は生の実感がなく、人を殺す事で生の実感を得ようと躍起[やっき]になるが、色々な偶然とか善意の妨害とかで上手くいったためしがない。
+      不確かな生の実感を抱きながら、今日も今日として橙子の事務所に通いつめるアンニュイ少女。
+      余談ではあるが、式の対人感情は中々に動物的。
+      好き嫌いに関係なく、まず一緒にいていい人間と一緒にいたくない人間とに分かれるのだとか。
+      一緒にいていい人間なら嫌いだろうと付き合っていくらしく、橙子は嫌い、鮮花は好き、というカテゴリーらしい。
+      幹也はと言うと、本人曰く「知らない」だそうで。
+    note: {}
+  zh:
+    content: |-
+      15–19岁的少女。故事的主角之一。阴性。不能杀人的杀人鬼。
+      像男性一样粗暴的口吻，第一人称是オレ。冰冷的性格，表现得什么事都无所谓。
+      到十六岁为止只穿过和服，却因为在高中遇到的同级生的一些台词而购入皮jumper。以后，成了冬天在和服的上面披上革制jumper这样奇怪的着装。
+      看起来像是拘泥于服装，其实本人什么都没考虑。
+      只是穿喜欢的衣服这样的想法，作为其结果就成了“总是和服”、“鞋类是编织长筒靴或木屐”、“……赤色革制jumper”这样的样子。
+      粗鲁又薄情又不留情面，然而有时会做出足以让人惊讶的符合少女的反应。干也说，比作动物的话就是兔子什么的。
+      作为人为地生出双重人格者的两仪家的次女出生，多人格的素质得到承认，抛下兄长成为两仪家的继承人。
+      因为从小知道自己是异常的，所以极度讨厌人类&讨厌自己。虽然因此养成冷淡的性格，但心中某处仍梦想着普通人的幸福。
+      ……从遇见那个梦想的体现之后，她的命运开始剧烈地变动。
+      拥有“织”这个男性人格，但由于事故而失去了。是其补偿呢还是事故的后遗症呢，之后，成了能看到死线的体质。
+      从昏睡中醒来后没有活着的真实感，虽然急躁地想通过杀人得到活着的真实感，但由于各种各样的偶然呀善意的妨碍呀而没有成功的先例。
+      一边抱着不确定的|生活的真实感，今天也不断地来往于橙子的事务所的ennui{{n1}}少女。
+      虽是余谈，式的对人感情挺动物的。
+      与好恶无关，首先分成可以一起的人与不想一起的人什么的。
+      可以一起的人的话即使讨厌也会奉陪的样子，橙子是讨厌，鲜花是喜欢，好像是这样的分类。
+      说到干也的话，好像本人曰：“不知道”。
+    note:
+      n1: "法语，无趣、倦怠。"
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 100
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The protagonist of <em>Kara no Kyoukai</em>. Able to see lines of death, just like Tohno Shiki.
+      She wears a traditional kimono paired with a leather jacket and high-laced boots. Though she always carries a knife, her true talent is with the katana.
+      The last name “Ryougi” and first name “Shiki” both have an appropriate meaning. Consequently as a user of the mystic eyes of death perception it can be said she is several ranks higher than Tohno Shiki, who is pretty much her polar opposite. In fact, his personality is actually close to Kokutou Mikiya’s.
+      For more details on this Shiki, please consult <em>Kara no Kyoukai</em>.
+    note: {}
+  ja:
+    content: |-
+      りょうぎしき。空の境界の主人公。志貴と同じく死の線が視えてしまう体質。
+      着物に革ジャン、編み上げブーツという出で立ち。ナイフを常備しているが、本当の得物は日本刀。
+      両儀という苗字にも、式という名前にもしかるべき意味があり、そのために志貴より数段上の直死の魔眼の使い手といえる。志貴とは何もかもが正反対。月姫における志貴の性格は黒桐幹也に近い。
+      詳しくは空の境界本編を参照のコト。
+    note: {}
+  zh:
+    content: |-
+      Ryougi Shiki。空之境界的主人公。同志贵一样能够看见死线的体质。
+      身穿皮质夹克脚踏束带深靴。小刀常带在身上但真正的得意武器是日本刀。
+      两仪这个姓也好，式这个名字也好，都有着相应的意义，为此可以说她是比志贵高几截的直死魔眼使用者。
+      什么都和志贵反过来的。月姬中志贵的性格类似于黑桐干也。
+      关于这个式的详细情况，请参照空之境界。
+    note: {}

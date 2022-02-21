@@ -1,0 +1,42 @@
+---
+id: fujou-kirie
+
+en: f
+ja: fu
+furigana: ふじょうきりえ
+title:
+  en: Fujou Kirie
+  ja: 巫条霧絵
+  zh: 巫条雾绘
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 37
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A woman in her late twenties. One of the three who made contact. A descendant of an ancient shaman lineage. A character defined by day-dreaming and floating.
+      Kirie was a woman plagued by disease and spent her life in the hospital ward. After losing her sight, she viewed the world with renewed clarity, and was set free by Araya Souren with another body.
+      However, without a goal, Kirie had nowhere to go. She lingered and floated, resulting in several victims.
+      As an aside, the Fujous made a living by channeling{{n1}}. They are a house as ancient as the Ryougis and Asakamis. Although the itako of Mount Osore lost their sight due to looking into the realm of the dead, Kirie’s power blossomed as a result of losing her sight to illness.
+    note:
+      n1: "Wayward spirits, Gods, etc."
+  ja:
+    content: |-
+      二十代後半の女性。接触する三人のうちの一人。古い呪[まじな]い師の家系。白昼夢と浮遊。
+      病魔に蝕[むしば]まれ、病室で一生を過ごした女性。失明した事からより明確に外界を認識できるようになり、荒耶宗蓮によって自由になるもう一つの体を与えられた。
+      が、もとより目的のなかった彼女には行くあてはなく、ただ浮遊するにとどまり、何人もの被害者を生み出してしまった。
+      また、巫条は口寄せを生業とする一族で、両儀、浅神に並ぶ古い家柄。恐山のイタコは冥界を見る為視力を失うというが、彼女は病魔に視力を奪われる事でその力を開花させてしまったのだ。
+    note: {}
+  zh:
+    content: |-
+      25–29岁的女性。接触的三人中的一人。古老咒术师的家系。白日梦与浮游。
+      被病魔侵蚀，在病房度过一生的女性。从失明之后变得能更加明确地认识外界，由荒耶宗莲给予了变得自由的另一个身体。
+      然而，原本就没有目的的她无处可去，只是停留在（空中）浮游，产生了数个被害者。
+      另外，巫条是靠口寄せ{{n1}}营生的一族，是与两仪、浅神相当的古老家族。虽然据说恐山的イタコ{{n2}}因为看了冥界而失去视力，但她是被病魔夺去视力而使其力量发挥出来。
+    note:
+      n1: "巫女招来灵魂，通过自己的嘴将灵的想法传达给他人。根据招来的灵的不同有生口(失踪者)、死口(死者)、神口(神仙)的区别。"
+      n2: "日本东北地方等进行口寄せ的巫女，巫的一种。先天或后天失明、弱视的女性的职业。日本东北地方常见的习俗、民间信仰，特别有名的是夏天的恐山大祭(青森县)。"

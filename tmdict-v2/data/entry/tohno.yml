@@ -1,0 +1,88 @@
+---
+id: tohno
+
+en: t
+ja: to
+furigana: とおの
+title:
+  en: Tohno
+  ja: 遠野
+  zh: 远野
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 40
+  category:
+  - family
+  img: ""
+  en:
+    content: |-
+      Suzerain of all the “demon hybrids” living in the region where Tsukihime takes place. Perhaps because of their long history, the Tohno and all their numerous branch families are quite wealthy, and together make up a prominent business conglomerate.
+      Going purely by financial power, the Tohno are actually beaten out by the Kugamine branch family. However, to these people blood is more important than anything else, and as the inheritors of the most precious blood of all, the Tohno family naturally fell into a leadership position.
+      Allegedly, they are the descendants of a powerful family that intermingled with oni (not kishin—humans that became oni—but actual, born and bred oni) and ruled the land for generations.
+    note: {}
+  ja:
+    content: |-
+      とおの。月姫本編の舞台となった地域に根を張る『混血』たちの宗主。古い血族であるためか遠野もその分家も決まって資産家で、財閥めいた一大グループを築いている。
+      財力でいえば遠野家は分家である久我峰に劣るが、彼らにとって重要なのは血であり、尊い血を受け継いだ遠野家が一族の宗主となっている。
+      遥かな昔、鬼種（人が鬼となった鬼人ではなくもとから鬼であるもの）と交わり、長く土地を治めた豪族の末裔だとかなんとか。
+    note: {}
+  zh:
+    content: |-
+      Tohno。在月姬本篇作为舞台的地区扎根的“混血”们的宗主。
+      也许因为是古老的血族，远野家及其分家都是资产家，形成财阀般的大组织。
+      论财力远野家比起分家的久我峰还要来的差，不过对他们来说重要的是血缘，因此有着尊贵血液的远野家便成为了宗主。
+      远野家是在遥远的过去与鬼种（并不是由人所变成的鬼人，而是原本就身为鬼）交合，长久治理土地的豪族末裔。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 63
+  category:
+  - family
+  img: ""
+  en:
+    content: |-
+      Suzerain of all the “demon hybrids” living in the region where <em>Tsukihime</em> takes place.
+      Perhaps because of their long history, the Tohno and all their numerous branch families are quite wealthy, and together make up a prominent business conglomerate.
+      Going purely by financial power, the Tohno are actually beaten out by the Kugamine branch family. However, to these people blood is more important than anything else, and as the inheritors of the most precious blood of all, the Tohno family naturally fell into a leadership position. Allegedly, they are the descendants of a powerful family that intermingled with oni (not kishin—humans that became oni—but actual, born and bred oni) and ruled the land for generations.
+    note: {}
+  ja:
+    content: |-
+      とおの。月姫本編の舞台となった地域に根を張る『混血』たちの宗主。
+      古い血族である為か遠野もその分家も決まって資産家で、財閥めいた一大グループを作っている。
+      財力でいえば遠野家は分家である久我峰に劣るが、彼らにとって重要なのは血であり、尊い血を受け継いだ遠野家が一族の宗主となっている。遥かな昔、鬼種（人が鬼となった鬼人ではなくもとから鬼であるもの）と交わり、長く土地を治めた豪族の末裔だとかなんとか。
+    note: {}
+  zh:
+    content: |-
+      Tohno。扎根月姬本篇舞台地区的“混血”们的宗主。
+      作为古老血族的远野家以及其分家自然都是大户，形成了一个财阀般的大组织。
+      说起财力的话，远野家不及作为分家的久我峰，但对他们来说重要的是血脉，因而继承着尊贵血液的远野家被他们视为宗主。大致是很久很久以前 ，同鬼种（不是由人变成鬼的鬼人，而原本就是鬼）交合，长久以来一直治理土地的豪族的末代吧。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 48
+  category:
+  - family
+  img: ""
+  en:
+    content: |-
+      Suzerain of all the “demon hybrids” living in the region where <em>Tsukihime</em> takes place.
+      Perhaps because of their long history, the Tohno and all their numerous branch families are quite wealthy, and together make up a prominent business conglomerate.
+      Going purely by financial power, the Tohno are actually beaten out by the Kugamine branch family. However, to these people blood is more important than anything else, and as the inheritors of the most precious blood of all, the Tohno family naturally fell into a leadership position.
+      Allegedly, they are the descendants of a powerful family that intermingled with oni (not kishin—humans that became oni—but actual, born and bred oni) and ruled the land for generations.
+    note: {}
+  ja:
+    content: |-
+      とおの。月姫本編の舞台となった地域に根を張る『混血』たちの宗主。
+      古い歴史を持つ故か、遠野本家、数ある分家もみな資産家で、財閥めいた一大グループを作っている。
+      財力でいえぱ遠野家は分家である久我峰に劣るが、彼らにとって重要なのは血であり、尊い血を受け継いだ遠野家が一族の宗主となっている。
+      遥かな昔、鬼種（人が鬼となった鬼人ではなくもとから鬼であるもの）と交わり、長く土地を治めた豪族の末裔と言われている。
+    note: {}
+  zh:
+    content: |-
+      扎根于成为了月姬正篇舞台的地区的“混血”们的宗主。
+      是拥有古老的历史的缘故吗？远野本家、许多的分家也都是资产家，形成财阀式的一大集团。
+      若以财力而言远野家次于作为分家的久我峰，但对他们来说重要的是血，继承了尊贵的血的远野家成为了一族的宗主。
+      被认为是遥远的往昔，与鬼种（并非人成了鬼的鬼人而是原本即为鬼者）往来，长久地统治当地的豪族的后裔。
+    note: {}

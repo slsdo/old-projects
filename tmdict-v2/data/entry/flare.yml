@@ -1,0 +1,30 @@
+---
+id: flare
+
+en: f
+ja: shi
+furigana: しょうめいだん
+title:
+  en: Flare
+  ja: 照明弾
+  zh: 照明弹
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 21
+  category:
+  - armament
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      切嗣がゴムボートの上から放った照明弾。「王の軍勢（アイオニオン・ヘタイロイ）」に足止めされた巨大海魔を落下させる最適ポイントを知らせた。
+    note: {}
+  zh:
+    content: |-
+      切嗣从橡皮艇[Inflatable Boat]上放出的照明弹。告知了被禁足于“王之军势（Ionian·Hetairoi）”的巨大海魔落下的最适点[Point]。
+    note: {}

@@ -1,0 +1,2 @@
+# Exclude data from Github language statistics
+src/data/* linguist-documentation

@@ -1,0 +1,66 @@
+---
+id: jeanne-darc
+
+en: j
+ja: shi
+furigana: じゃんぬだるく
+title:
+  en: Jeanne d’Arc
+  ja: ジャンヌ・ダルク
+  zh: 贞德·达尔克
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 71
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      キャスターが妄信する中世フランスの救国の英雄にして悲劇の聖女。一介の羊飼いの少女だったジャンヌは、神の啓示を受けて百年戦争に参加。イングランド連合軍に包囲されたオルレアンを解放し、フランス軍の勝利に貢献したと言われている。だが、その戦いの最中、次第にフランス国王との軋轢が生じ始め、孤立したジャンヌはコンピエーニュの戦いでイギリス軍の捕虜となる。そして、異端裁判にかけられた彼女は異端として火刑に処された。復活すべき肉体が失われてしまう火刑という処刑法は、キリスト教カトリックの教義において最も苛烈な刑罰であったという。このジャンヌのあまりに悲惨な最期から救うことのなかった神に対して、キャスターは絶望・反抗し、神を冒涜する狂気な行為へと駆り立てることになる。
+    note: {}
+  zh:
+    content: |-
+      Caster所妄信的作为中世纪法兰西[France]救国英雄的悲剧圣女。区区一介牧羊少女的贞德[Jeanne]，受到了神之启示而参加到百年战争。被认为解放了被英格兰[England]联合军所包围的奥尔良[Orleans]并向法兰西[France]军贡献了胜利。但是，那场战斗的正中，渐渐地开始和法兰西[France]国王产生摩擦，被孤立的贞德[Jeanne]在贡比涅[Compiegne]之战中成了英国[English]军的俘虏。然后，被异端裁判的她被当作异端处以火刑。使复活应需的肉体丧失的火刑这一处刑法，在基督[Christ]教天主信徒[Catholic]的教义中是最猛烈的刑罚。对于未能将这个贞德[Jeanne]从如此悲惨的最后中拯救的神，Caster变得绝望·并反抗，向亵渎神的疯狂行为驱策。
+    note: {}
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 32
+  category:
+  - servant
+  img: ""
+  en:
+    content: |-
+      Jeanne is a Ruler-class Servant in Altera’s army.
+      She is world-renowned as the “Holy Maiden” and the savior of France in the Hundred Years War. Although the end of her story was far too tragic and cruel, she does not curse her own fate, but accepts it as she fights on with a soul of steel.
+      Like Iskandar, she is a Top Servant.
+      She acts as a peacekeeper after being summoned by the Moon Cell.
+      However, after she fights Altera, she realizes that Altera’s true nature is not evil, but that she is full of uncertainty. Jeanne joins Altera’s side in order to develop a better understanding of her.
+      She is much closer to Altera than the other two knight-class Servants.
+      “The Ruler who was trusted to handle the situation is making waves once again…” the rumor mill might say. It would seem that Jeanne’s penchant for running off and stirring up trouble remains a hot topic even in the Servant world. “…what a cruel twist of fate.”
+    note: {}
+  ja:
+    content: |-
+      アルテラ陣営のサーヴァント。クラスはルーラー。
+      フランスは百年戦争における救国の聖女。その最期はあまりにも悲劇的かつ残酷なものだったが、その運命を恨む事なく、すべてを受け入れた上で戦い抜いた鉄の乙女。
+      イスカンダルと同様、トップ　サーヴァントのひとり。
+      ムーンセルが召喚した調停の乙女。
+      しかし、英霊アルテラとの戦いで彼女の本性が邪悪なものではなく、むしろ迷っている事を看破し、アルテラを見定めるためにアルテラ陣営につく。
+      アルテラへの親近感が他の二騎より強い。
+      「信じて送り出したルーラーがまた勝手な行動を取りだした……」と、サーヴァント界隈ではまたもジャンヌ好き勝手やりすぎ問題が囁かれているという。「……残酷な事だ」
+    note: {}
+  zh:
+    content: |-
+      阿提拉阵营的英灵。职阶为裁定者。
+      法国百年战争中的救国圣女。生涯的结局虽无比残酷且具悲剧性，却从未憎恨命运，在接受一切的前提下战斗到最后一刻的铁之少女。
+      和伊斯坎达尔相同，皆为顶级英灵的一员。
+      由Moon Cell所召唤而出的调停少女。
+      但在与英灵阿提拉的战斗中，贞德看出她的本性并不邪恶且存在着迷惘，因此为调查阿提拉而加入其阵营。
+      相较其他两名英灵，对阿提拉怀抱更深的亲近感。
+      “基于信赖才把裁定者送出去的，但她又擅自采取行动了。”据说在英灵界，大家如此私下议论着贞德过于自作主张的问题。“……真是残酷啊。”
+    note: {}

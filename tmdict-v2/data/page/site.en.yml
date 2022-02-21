@@ -1,0 +1,190 @@
+---
+id: site.en
+
+content: |-
+  <div class="page-content">
+    <h3 id="site-banner">Link To Us</h3>
+
+    <div class="center"><img title="Link to us!" src="../src/img/banner.png" alt="banner" /></div>
+
+    <h3 id="site-usage">Usage</h3>
+
+    <p>The contents of this site may be used in non-commercial derivative works on the condition that proper credit and linkbacks are provided, attaching additional reference to the translators would also be greatly appreciated. We also ask that you refrain from hotlinking to images found on this site.</p>
+
+    <p>This policy applies to all content excepting translations by translators who have additional policies regarding usage of their work. When in doubt, we recommend you contact the translator for permission.</p>
+
+    <h3 id="site-collab">Collaborate</h3>
+
+    <p>If you are interested in contributing, please <a href="../contact/">send us a message</a>.</p>
+
+    <p>Alternatively, there is a “Report Error” link on each page for user to easily report errors or inconsistencies while browsing the site.</p>
+
+    <h3 id="site-version">Version</h3>
+
+    <p>The glossary uses a vX.Y.Z (for example v3.1.4) versioning system to keep track of changes. Z changes when modifications, such as correcting errors or adding missing texts, happen to existing contents. Y changes whenever glossary from a new source or a new language is added. X changes only when significant modification of the glossary takes place, such as entire new sections being added or a change in data format.</p>
+
+    <h3 id="site-update">Updates</h3>
+
+    <p><strong>v2.5.3 <span class="highlight">[2020-04-09]</span></strong></p>
+
+    <p>Full glossary translation for <em>Lord El-Melloi II Case Files material</em>, from TwilightsCall (English) and Akiraka (Chinese), is now a part of our collection.</p>
+
+    <ul>
+      <li>Added Lord El-Melloi II Case Files Glossary (English, Chinese, Japanese).</li>
+      <li>Renamed the Chinese translation of “El-Melloi” from “艾尔梅洛伊” to “埃尔梅罗.”</li>
+      <li>Fixed formatting and translation inconsistencies.</li>
+      <li>Fixed minor site display and filter bugs.</li>
+    </ul>
+
+    <p><strong>v2.4.2 <span class="highlight">[2020-03-17]</span></strong></p>
+
+    <p>First update of 2020! With this update, the <em>Fate/EXTELLA</em> glossary is now complete. As always, we are always looking for help, please <a href="../contact/">notify us</a> if you notice any translation errors!</p>
+
+    <ul>
+      <li>Added English translation of Fate/EXTELLA glossary.</li>
+      <li>Fixed many translation inconsistencies.</li>
+    </ul>
+
+    <p><strong>v2.4.1 <span class="highlight">[2019-12-06]</span></strong></p>
+
+    <ul>
+      <li>Added Fate/EXTELLA glossary (Japanese/Chinese).</li>
+      <li>Added portions of Fate/Zero Animation Visual Guide I English glossary.</li>
+      <li>Fixed glossary formatting, grammar, and translation inconsistencies.</li>
+    </ul>
+
+    <p><strong>v2.3.1 <span class="highlight">[2019-06-09]</span></strong></p>
+
+    <p>With this update, the <em>Fate/EXTRA</em> glossary is finally complete; missing entries in the Chinese glossary have been filled, and proofreading of the English glossary is now finished. If you notice any more errors, please <a href="../contact/">notify us</a>!</p>
+
+    <ul>
+      <li>Added missing entries to Fate/EXTRA Chinese glossary.</li>
+      <li>Fixed formatting, grammar, and translation inconsistencies in Fate/EXTRA English glossary.</li>
+      <li>Renamed the term “Virtual Spiritron” to “Pseudo-Spiritron.”</li>
+    </ul>
+
+    <p><strong>v2.3.0 <span class="highlight">[2019-05-19]</span></strong></p>
+
+    <p>The site’s stylesheet has been updated to use responsive design, making it more mobile friendly. There’s also a new glossary, it comes from a small booklet, <em>HibiChika Complete Capture Book</em>, found in the <em>Mahou Tsukai no Hako Box Set</em> sold at the TYPE-MOON booth in C78, its content is mostly random facts and jokes.</p>
+
+    <ul>
+      <li>Site style is now responsive to screen size.</li>
+      <li>Added Mahou Tsukai no Hako Small Encylopedia (Japanese/Chinese).</li>
+      <li>Added images for <em>Fate/Zero Animation Visual Guide I + II</em>.</li>
+    </ul>
+
+    <p><strong>v2.2.0 <span class="highlight">[2019-05-01]</span></strong></p>
+
+    <p>A content-focused update: added glossary entries from <em>Fate/Zero Animation Visual Guide</em> I and II, as well as fixed many mistakes found in other glossaries.</p>
+
+    <ul>
+      <li>Added Fate/Zero Animation Visual Guide I glossary (Japanese/Chinese).</li>
+      <li>Added Fate/Zero Animation Visual Guide II glossary (Japanese/Chinese).</li>
+      <li>Edited Melty Blood Back Alley Alliance Nightmare Chinese entries.</li>
+      <li>Edited many data/translation/spelling mistakes found in several glossaries.</li>
+    </ul>
+
+    <p><strong>v2.0.0 <span class="highlight">[2019-02-10]</span></strong></p>
+
+    <p>TMdict is now 2.x.x!</p>
+
+    <ul>
+      <li>Big update to site’s backend architecture, website now uses TypeScript, along with improvements all around.</li>
+      <li>Added Fate/EXTRA English glossary translation into main glossary.</li>
+      <li>Added Fate/EXTRA Japanese glossary.</li>
+      <li>Added partial Fate/EXTRA Chinese glossary.</li>
+      <li>Added Melty Blood Back Alley Alliance Nightmare Japanese, English, and Chinese glossaries.</li>
+    </ul>
+
+    <p><strong>v1.4.1 <span class="highlight">[2016-10-23]</span></strong></p>
+
+    <p>Minor update, fixed a bunch of transcription errors in the Japanese text of <em>Fate/Apocrypha material</em> and <em>Kara no Kyoukai</em>.</p>
+
+    <ul>
+      <li>Edited transcription errors in Fate/Apocrypha glossary and Kara no Kyoukai glossary (Japanese)</li>
+    </ul>
+
+    <p><strong>v1.4.0 <span class="highlight">[2016-07-30]</span></strong></p>
+
+    <p>Translation for <em>Fate/Apocrypha material</em>, a collaboration project with 譯月漢化小组 and NanoDesu’s Eternal Dreamer, is now available!</p>
+
+    <ul>
+      <li>Added Fate/Apocrypha Encylopedia (English, Chinese, Japanese)</li>
+      <li>Changed Kara no Kyoukai glossary Chinese entry title to “「 」”</li>
+      <li>Fixed an issue with some entries not sorting correctly in Japanese</li>
+    </ul>
+
+    <p><strong>v1.3.0 <span class="highlight">[2016-06-11]</span></strong></p>
+
+    <p>Another big update! Aside from correcting various errors and fixing an issue with entry sorting, this update also adds two all new glossaries the site: Tsukihime Dictionary (<em>Colorful MOON Tsukihime</em>) and Melty Blood Glossary (<em>Melty Blood Official Strategy Guidebook</em>).</p>
+
+    <ul>
+      <li>Added Tsukihime Dictionary (English, Chinese, Japanese)</li>
+      <li>Added Melty Blood Glossary (English, Chinese, Japanese)</li>
+      <li>Edited English and Chinese translation errors in Tsukihime and Fate/Zero glossaries</li>
+      <li>Fixed an issue with entries not sorting alphabetically based on EN index</li>
+    </ul>
+
+    <p><strong>v1.1.2 <span class="highlight">[2016-05-01]</span></strong></p>
+
+    <p>Long time no see! The past few months we’ve been busy upgrading the site’s backend and porting contents to a better database, the codebase is now a lot cleaner and the dictionary database much more scalable and easier to update. This upgrade will also make porting TMdict to mobile apps in the future a reality.</p>
+
+    <p>For those who like to see everything on one page, we’ve also added a “Books” section, where you can browse the contents by glossary. The diff feature has been taken down, as everything (including the database) is now available on GitHub and version controlled. Finally, minor edits have been made to several categories and entry translations.</p>
+
+    <ul>
+      <li>Major overhaul of site backend</li>
+      <li>Moved glossary database to SQLite</li>
+      <li>Added books/glossary section</li>
+      <li>Removed glossary diff feature</li>
+      <li>Edited several incorrectly translated/assigned categories</li>
+      <li>Edited Chinese translation errors in <em>Tsukihime</em> glossary</li>
+    </ul>
+
+    <p><strong>v1.1.1 <span class="highlight">[2015-08-16]</span></strong></p>
+
+    <p>A glossary diff feature has been implemented in order to keep track of changes to site content. Missing entries in the Chinese version of Tsukihime Dictionary Revised (<em>Plus Period</em>) have also been added.</p>
+
+    <ul>
+      <li>Added glossary diff feature to keep track of change</li>
+      <li>Added missing Chinese entries from Tsukihime Dictionary Revised (<em>Dokuhon</em>)</li>
+    </ul>
+
+    <p><strong>v1.1.0 <span class="highlight">[2015-07-29]</span></strong></p>
+
+    <p>Some big backend changes, the site now supports 3 kinds of entries: 1) entry with a common category, a normal glossary entry with one or more sortable category/tag 2) entry with unique category, an entry with a one-of-a-kind category, non-filterable (since by definition there’s already only one of it), this is to account for a select few glossary formats, and 3) entries with no category, this opens up the possibility to add “non-glossary” entries such as those from <em>Fate/Complete Material 3</em>, think of it more as a future-proof change. Categories are now also clickable and will lead you to a filtered list when clicked. Most of the changes are under-the-hood. In terms of content, entries from Nasu’s <em>Notes.</em> have been added, bumping out version number to 1.1.0.</p>
+
+    <ul>
+      <li>Changed site categorization scheme for future expansion</li>
+      <li>Added Notes. glossary (<em>Dokuhon</em>) Japanese/English/Chinese content</li>
+    </ul>
+
+    <p><strong>v1.0.0 <span class="highlight">[2015-05-12]</span></strong></p>
+
+    <p>Japanese content from Tsukihime Dictionary (<em>Dokuhon</em>) and Tsukihime Dictionary Revised (<em>Plus Period</em>) have been completely transcribed, proofread, and added to the site. With this update, the version has been incremented to v1.0.0 :)</p>
+
+    <ul>
+      <li>Added Tsukihime Dictionary (<em>Dokuhon</em>) Japanese content</li>
+      <li>Added Tsukihime Dictionary Revised (<em>Dokuhon</em>) Japanese content</li>
+    </ul>
+
+    <p><strong>v0.10.1 <span class="highlight">[2015-03-22]</span></strong></p>
+
+    <p>Thanks to feedback and suggestions we received from the past week, the site’s backend and database has been completely revamped, and the default ordering and URL of the glossary terms is now Japanese instead of English.</p>
+
+    <ul>
+      <li>Added missing <em>Kara no Kyoukai</em> Japanese entry “Orange Bag”</li>
+      <li>Changed default sorting and URL order changed from English to Japanese</li>
+      <li>Changed database format to support flexible sorting based on language</li>
+      <li>Changed standardized Chinese name (Arcueid, Ciel, Sion, Roa, etc.)</li>
+      <li>Edited Japanese entry typos (コペンハーゲン, 両儀識)</li>
+      <li>Edited overall Chinese content as result of comprehensive proofreading/editing</li>
+    </ul>
+
+    <p><strong>v0.9.5 <span class="highlight">[2015-03-14]</span></strong></p>
+
+    <p>Hello, World!</p>
+
+    <ul>
+      <li>Site launched!</li>
+    </ul>
+  </div>

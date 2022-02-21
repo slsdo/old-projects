@@ -1,0 +1,30 @@
+---
+id: incarnation
+
+en: i
+ja: shi
+furigana: じゅにく
+title:
+  en: Incarnation
+  ja: 受肉
+  zh: 受肉
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 62
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      英霊がこの世に再び肉体を得ることを指す。ライダーの願いは受肉して再び世界を征服することだった。聖杯の黒い泥を浴びたギルガメッシュは受肉を果たす。これによってギルガメッシュは、10年後の第五次聖杯戦争まで現界し続けることになる。
+    note: {}
+  zh:
+    content: |-
+      指英灵在这个世界上再次获得肉体。Rider的愿望是受肉并再次征服世界。淋浴了圣杯的黑泥的吉尔伽美什[Gilgamesh]完成了受肉。由此，吉尔伽美什[Gilgamesh]直到10年后的第五次圣杯战争都持续着现界。
+    note: {}

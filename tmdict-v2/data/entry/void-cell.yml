@@ -1,0 +1,36 @@
+---
+id: void-cell
+
+en: v
+ja: u
+furigana: ゔぉいどせる
+title:
+  en: Void Cell
+  ja: ヴォイドセル
+  zh: 虚无晶体
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 11
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      A Void Cell is a spiritron-gathering entity. Although it is of the same standing as the Moon Cell, its existence appears to be of a different nature.
+      This particular Void Cell dwells at the core of Altera’s Ark of the Stars.
+      The moment Archimedes came in contact with the Ark, he was contaminated by the Void Cell, and it was subsequently passed on to Elizabeth as well.
+    note: {}
+  ja:
+    content: |-
+      霊子収集体と呼ばれるもの。ムーンセルと同格のものだが同質のものではないようだ。
+      星舟の内部にあったコアはこのヴォイドセル。
+      アルキメデスは星舟に接触した際、自らこのヴォイドセルに汚染され、その後、エリザベートにも移植してしまつた。
+    note: {}
+  zh:
+    content: |-
+      又被称为灵子收集体。虽与Moon Cell同位阶，但性质似乎并不相同。
+      位于星舟内部的核心正是虚无晶体。
+      阿基米德接触星舟时，主动接受了虚无晶体的污染，其后更移植给伊丽莎白。
+    note: {}

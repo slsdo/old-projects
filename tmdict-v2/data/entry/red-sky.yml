@@ -1,0 +1,39 @@
+---
+id: red-sky
+
+en: r
+ja: ka
+furigana: そらが、あかい
+title:
+  en: Red Sky
+  ja: 空が、赤い
+  zh: 天空，好红
+
+entry:
+- source: angel-voice
+  section: notes
+  order: 16
+  category:
+  - blood-sky
+  img: ""
+  en:
+    content: |-
+      The Sky in this world. Above the gray sea of clouds, there is not a blue, but a red sky.
+      It’s not because of a pollution, but from the blood of one of the Aristoteles that appeared near the end of the Great War, Type-Pluto.
+      In order to not let Pluto enter the planet’s atmosphere, the Six Sisters fought it and killed each other at the same time, and its blood covered the whole planet as a result. The gray cloud is said to be a shield that the Six Sisters placed.
+      Within this red sky, the two Aristoteles that are prevented from entering the planet is floating like fishes that swim in the sea.
+    note: {}
+  ja:
+    content: |-
+      この世界の空のこと。灰色の雲海を越えた上には青ではなく赤い空が広がっている。
+      大気汚染のためではなく、大戦末期に飛来したタイプ・プルートーの血液のためである。
+      プルートーを侵入させまいと対決した六人姉妹と相討ちになり、その血液はこの惑星を覆ってしまった。空を包む灰色の雲は、六人姉妹が張った防御膜と思われる。
+      この赤い空の中、侵入を阻まれた残る二体のアリストテレスは海を泳ぐ魚のように浮遊しているという。
+    note: {}
+  zh:
+    content: |-
+      是说这个世界的天空。穿越灰色的云海，在其上展开的不是蓝色而是红色的天空。
+      这不是由大气污染，而是由大战末期飞来的亚里士多德之一，Type-Pluto的血液造成的。
+      六姐妹为阻止Pluto入侵而与其对决，与它不分伯仲，而之后它的血液覆盖了这颗行星。而包裹着天空的灰色云层，想来是六姐妹所布下的防护膜。
+      而在这赤红的天空之中，入侵受阻的剩下两只亚里士多德，如遨游于海里的鱼儿一般浮游着。
+    note: {}

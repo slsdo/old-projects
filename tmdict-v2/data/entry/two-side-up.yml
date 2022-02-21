@@ -1,0 +1,31 @@
+---
+id: two-side-up
+
+en: t
+ja: tsu
+furigana: つーさいどあっぷ
+title:
+  en: Two-Side-Up
+  ja: ツーサイドアップ
+  zh: 不完全双马尾
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 32
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      髪の大部分をそのままに左右で小さくまとめた髪型。遠坂凛とさっちんはこっちらしい。
+    note: {}
+  zh:
+    content: |-
+      将头发的大部分保持原样的同时于左右以小股扎起来的发型。就像远坂凛和纱酱{{n1}}这种。
+    note:
+      n1: "纱酱，弓冢五月的爱称。"

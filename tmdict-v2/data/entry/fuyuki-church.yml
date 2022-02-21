@@ -1,0 +1,30 @@
+---
+id: fuyuki-church
+
+en: f
+ja: fu
+furigana: ふゆききょうかい
+title:
+  en: Fuyuki Church
+  ja: 冬木教会
+  zh: 冬木教会
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 50
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      聖杯戦争の監督役を務める言峰璃正が居を構える教会。聖杯戦争に敗れたマスターの保護も行う。第三次聖杯戦争では、この場所に聖杯が降臨した。
+    note: {}
+  zh:
+    content: |-
+      充当圣杯战争的监督者的言峰璃正所住居的教会。也执行对圣杯战争中败北的Master的保护。在第三次圣杯战争时，圣杯降临在这个地方。
+    note: {}

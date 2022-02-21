@@ -1,0 +1,34 @@
+---
+id: knight-of-owner
+
+en: k
+ja: na
+furigana: ないとおぶおーなー
+title:
+  en: Knight of Owner
+  ja: 騎士は徒手にて死せず
+  zh: 骑士不死于徒手
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 11
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      手にした武器・兵器にみずからの属性を与え、ランクD相当の宝具に変えるランクA++の対人宝具。もとの武器がランクD以上ならば従来のランクのままバーサーカーの支配下に置かれる。生前のバーサーカーが策により丸腰になった際に、楡の木の枝で戦ったという故事に由来する。
+    note:
+      n1: "ナイト・オブー・オーナー"
+  zh:
+    content: |-
+      {{n1}}
+      赋予到手的武器·兵器自身的属性，变成相当于Rank D的宝具的Rank A++的对人宝具。如果原来的武器是在Rank D以上的话，就会照原本的Rank置于Berserker的支配下。由来自生前Berserker因策略变得空身徒手之时，持榆树之枝作战这样的典故。
+    note:
+      n1: "Knight·of·Owner"

@@ -1,0 +1,30 @@
+---
+id: olga-marie-animusphere
+
+en: o
+ja: o
+furigana: おるがまりーあにむすふぃあ
+title:
+  en: Olga Marie Animusphere
+  ja: オルガマリー・アニムスフィア
+  zh: 奥尔加玛丽·阿尼姆斯菲亚
+
+entry:
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 3
+  category:
+  - "-"
+  img: baa_olga-marie-animusphere_w.png
+  en:
+    content: |-
+      Scion of the famed magecraft family Animusphere. Despite her young age, she serves as the head of Chaldea.
+    note: {}
+  ja:
+    content: |-
+      魔術の名門・アニムスフィア家出身の女性で、若くしてカルデアの所長を務める才媛。
+    note: {}
+  zh:
+    content: |-
+      魔术的名门·阿尼姆斯菲亚家出身的女性，年纪轻轻便任职迦勒底所长的才女。
+    note: {}

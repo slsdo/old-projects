@@ -1,0 +1,79 @@
+---
+id: master
+
+en: m
+ja: ma
+furigana: ますたー
+title:
+  en: Master
+  ja: マスター
+  zh: 御主
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 8
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      Master is a designation given to a magus who has formed a contract with a Servant. Seven Masters are selected at the start of the Holy Grail War (a member from each of the Three Founding Families will always be selected). Masters are bestowed with Command Spells by the Holy Grail, earning the right to participate in the Holy Grail War. Each Master has a wish and pursues the Holy Grail as a means to grant that wish, which drives the fierce battles between Masters. However, there are exceptions, such as Uryuu Ryuunosuke.
+    note: {}
+  ja:
+    content: |-
+      聖杯によって選ばれ、サーヴァントの召喚に成功した魔術師をマスターと呼び、最初に7名が選ばれる（始まりの御三家は必ず選ばれる）。彼らは聖杯から令呪を授かり、聖杯戦争の参加資格を得る。それぞれが何らかの願望を抱えており、その願いを叶えるために願望器たる聖杯を求め、他の陣営と熾烈な戦いを繰り広げていく（龍之介のような例外も存在する）。
+    note: {}
+  zh:
+    content: |-
+      把被圣杯选中，成功召唤了Servant的魔术师称为Master，首先选出7名（初始的御三家必定被选中）。他们被圣杯授予令咒，获得圣杯战争的参加资格。怀抱各种各样的愿望，为了实现那个愿望而追求许愿机的圣杯，展开同其他阵营的激烈战斗（也存在龙之介这样的例外）。
+    note: {}
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 139
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      Master is the title given to the humans who participate in the Holy Grail War.
+      In principle you must be a magus to become a Master, but in extremely rare circumstances a normal person who possesses magic circuits can become a Master.
+      Regardless of how, if someone makes it to the Moon, clears the preliminaries, and summons and contracts a Servant, they will be able to participate in the main tournament as a Master.
+    note: {}
+  ja:
+    content: |-
+      聖杯戦争に参加した者たちの呼称。
+      原則として魔術師がなるものだが、ごく稀に魔術回路があるだけの一般人もマスターとして登録される。
+      どのような手段であれ、月に登り、予選を突破し、サーヴァントを召喚・契約すればマスターとして本選に参加できる。
+    note: {}
+  zh:
+    content: |-
+      对圣杯战争的参加者的称呼。
+      原则上是只有魔术师才能成为，但是罕见的也会有持有魔术回路的一般人作为Master而登陆。
+      不管使用怎样的手段，只要能登上月球，突破预选，召唤·契约Servant就可以作为Master参加本选。
+    note: {}
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 49
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      The title held by those who previously participated in the Holy Grail Wars.
+      For the most part, they are Wizards (or, in the days of magic in the physical world, Mages), but sometimes normal people who happen to have magical circuits are registered as Masters
+      as well.
+      They form contracts with Servants who will fight on their behalf, and command them in battle. When the new SE.RA.PH was created, the only remaining Master who was present there was the Main Character, but following the ending of EXTELLA, many Masters should begin to appear as new inhabitants.
+    note: {}
+  ja:
+    content: |-
+      かつて聖杯戦争に参加した者たちの呼称。
+      原則として魔術師がなるものだが、ごく稀に魔術回路があるだけの一般人もマスターとして登録されていた。
+      戦闘の代行役としてサーヴァントと契約し、これを使役する。新SE.RA.PHになってからは主人公のみがマスターだが、ED後、新しい住人として多くのマスターたちが訪れる事だろう。
+    note: {}
+  zh:
+    content: |-
+      对过去曾参加过圣杯战争者们的称呼。
+      原则上只有魔术师才能成为御主，但也有少数单纯持有魔术回路的一般人会被登录为御主。
+      与代替自己战斗的英灵缔结契约，并役使他们。新SE.RA.PH出现后，御主只有主角一人。但在ED后，想必会有更多御主成为新居民造访吧。
+    note: {}

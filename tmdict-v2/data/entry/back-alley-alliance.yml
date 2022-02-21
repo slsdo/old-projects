@@ -1,0 +1,33 @@
+---
+id: back-alley-alliance
+
+en: b
+ja: ro
+furigana: ろじうらどうめい
+title:
+  en: Back Alley Alliance
+  ja: 路地裏同盟
+  zh: 小巷子同盟
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 73
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      A congregation of heroines forced to live in back alleys. Right now, Yumizuka Satsuki and Sion are the only official members, though sometimes White Len stops by as well.
+      In <em>Tsukihime</em>, back alleys were a terrifying place full of corpses, where girls that should have been dead chased you down and cornered you, and classmates hid their blood-drenched arms. However, it seems that ever since the BAA was founded, safety in the alleys has improved remarkably.
+    note: {}
+  ja:
+    content: |-
+      路地裏での生活を余儀なくされたヒロインたちの会。今のところ、会員は弓塚さつきとシオンの二名。たまに白レンが混ざったりする。
+      月姫で路地裏と言えば殺した筈の美女に追いかけられて追いつめられたり被害者たちの山があったり血塗れの両手を後ろに隠した同級生と出会ったり、と実に恐ろしい場所だが、彼女たちが住むようになってからは安全度があがったようだ。
+    note: {}
+  zh:
+    content: |-
+      不得已在小巷子里生活的女主角们之会。目前，会员有弓冢五月与紫苑二名。偶尔有白莲混进来什么的。
+      说起月姬里的小巷子，被理应杀掉了的美女追赶着追逼着之类的有着被害者们之山之类的遇见把沾满鲜血的双手藏在后面的同级生之类的，的确是可怕的地方，不过，自从她们住入之后就变得安全度提高了似的。
+    note: {}

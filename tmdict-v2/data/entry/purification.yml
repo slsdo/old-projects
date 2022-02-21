@@ -1,0 +1,75 @@
+---
+id: purification
+
+en: p
+ja: shi
+furigana: じょうか
+title:
+  en: Purification
+  ja: 浄化
+  zh: 净化
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 31
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      In <em>Tsukihime</em>, the Church’s method of dealing with the undead.
+      Dead Apostles… beings which were once human, but became bloodsucking monsters. In order to return them to dust, a religious symbol that they were familiar with in life is required.
+      The process works by driving the natural law from when they were a human into the vampire’s body, baptizing and restoring their flesh, then returning them to dust. The conceptual armaments required to perform the ceremony of forcibly opening the composition of the flesh and locking it into its original state are called “Keys of Providence.”
+      To put it simply, a crucifix would be a typical example.
+      However, a crucifix will only be effective on vampires that were originally Christians. If the official religion when they were human wasn’t Catholicism, it becomes much more difficult for the crucifix to generate an effect.
+      On the other hand, if the vampire used to be a Christian, then even if the human under attack is not a believer the crucifix will have an effect on its own.
+      Of course, it goes without saying that the effect will be greatest if they are both believers.
+    note: {}
+  ja:
+    content: |-
+      『月姫』における、教会のアンデッド処置方法。
+      死徒……人間から吸血種になったモノを塵に還すには、人間だったころに馴染みが深かった宗教のシンボルがキーになる。
+      人間である事を止めた吸血鬼の肉体に、人間だったころの自然法則をたたき込んでもとの肉体に洗礼しなおして塵に返す、という手順をとるのだが、この、肉体の構成を無理やり開いて元に施錠する、という儀式の為に必要となる概念武装を『摂理の鍵』と呼ぶ。
+      解りやすく言うのなら十字架が代表的な物。
+      が、十字架が効く、というのは元がキリスト教の信徒だった吸血鬼のみ。人間だった頃に国教がカトリックではなかった吸血鬼には十字架は通じにくくなる。
+      逆に吸血鬼がキリスト教の信徒であったのならなら、襲われた人間がキリスト教の信徒でないとしても十字架はそれなりの効力を持つ。
+      無論、どちらも信徒であるのならその効果は絶大だ。
+    note: {}
+  zh:
+    content: |-
+      月姬中对不死系物种的处刑法。
+      要使死徒……人类变成的吸血种回归尘土，关键在于从还是人类时就很熟悉的宗教标志。
+      采取“对不再身为人类的吸血鬼的肉体，打入还是人类时期的自然法则，重新洗礼肉体，使其回归尘土”的程序，为了完成强制解开肉体构成再锁回原状的仪式所需要的概念武装名为“定理之键”。
+      简单来说十字架是最具代表性的物品。
+      不过，十字架只对原本是基督徒的吸血鬼有用。对还是人类时期的国教不是天主教的吸血鬼，十字架则很难发挥效用。
+      反过来看，如果吸血鬼是基督教徒，就算被袭击的人类不是基督教徒，十字架还是会有一定的效力。
+      当然，如果双方都是信徒的话效果将会极大。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 48
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      In <em>Tsukihime</em>, the Church’s method of dealing with the undead.
+      Dead Apostles… beings which were once human, but became bloodsucking monsters. In order to return them to dust, a religious symbol that they were familiar with in life is required.
+      The process works by driving the natural law from when they were a human into the vampire’s body, baptizing and restoring their flesh, then returning them to dust. The conceptual armaments required to perform the ceremony of forcibly opening the composition of the flesh and locking it into its original state are called “Keys of Providence.”
+      To put it simply, a crucifix would be a typical example. However, a crucifix will only be effective on Christians. If the official religion when the vampire human wasn’t Catholicism, it becomes much more difficult for the crucifix to generate an effect. On the other hand, if the vampire is a Christian, then even if the human under attack is not a believer the crucifix will have an effect on its own. Of course, it goes without saying that the effect will be greatest if they are both believers.
+    note: {}
+  ja:
+    content: |-
+      「月姫」における、教会のアンデッド処置方法。
+      死徒……人間から吸血種になったモノを塵に還すには、人間だったころ馴染みが深かった宗教のシンボルがキーになる。
+      人間である事を止めた吸血鬼の肉体に、人間だったころの自然法則をたたき込んで肉体を洗礼し直し塵に返す、という手順をとるのだが、この、肉体の構成を開いて元に施錠する、という儀式の為に必要となる概念武装を『摂理の鍵』と呼ぶ。
+      端的に言うと、十字架が代表的なもの。が、十字架が効く、というのはキリスト教の信徒だけ。人間だった頃に国教がカトリックではなかった吸血鬼には十字架は通じにくくなる。逆に吸血鬼がキリスト教の信徒で、襲われた人間がキリスト教の信徒でないとしても、十字架はそれなりの効力を発揮する。無論、どちらも信徒であるのならその効果は絶大だ。
+    note: {}
+  zh:
+    content: |-
+      《月姬》中教会的Undead处刑法。
+      将死徒……由人类而变化成的吸血种归于尘土，以身为人类时熟悉的深刻的宗教符号作为钥匙。
+      将原来人类时的自然法则打入离弃人类之身的吸血鬼的肉体，重新对肉体洗礼归为尘土，通过这个程序，解开肉体构成再锁回原状，“定理之键”是这个仪式的必须品。
+      明白地讲就是十字架的象征物。不过十字架只会对基督教徒有效果。对于人类时是信仰国教而非天主教的吸血鬼，十字架很难起到效果。反过来吸血鬼是基督教教徒，被袭击的人即使不是基督教教徒，十字架也能发挥其效力。当然，两方都是信徒的话效果效果会超大。
+    note: {}

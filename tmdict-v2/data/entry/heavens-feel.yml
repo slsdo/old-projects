@@ -1,0 +1,33 @@
+---
+id: heavens-feel
+
+en: h
+ja: te
+furigana: てんのはい
+title:
+  en: Heaven’s Feel
+  ja: 天の杯
+  zh: 天之杯
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 67
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      Cup of Heaven.
+      →See entry on the Third Magic.
+    note: {}
+  ja:
+    content: |-
+      へヴンズフィール。
+      →第三魔法を参照せよ
+    note: {}
+  zh:
+    content: |-
+      Heaven’s Feel。
+      →参照第三魔法
+    note: {}

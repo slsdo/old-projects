@@ -1,0 +1,65 @@
+---
+id: amita-amitabha
+
+en: a
+ja: a
+furigana: あみたあみたーば
+title:
+  en: Amita Amitabha
+  ja: 一に還る転生
+  zh: 归一转生
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 7
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      Transmigration into One.
+      Amita Amitabha is Saver’s major Noble Phantasm. It is the final and greatest stage of his minor Noble Phantasm, Chakravartin: Turner of the Wheel.
+      According to the reincarnation ideology centered on the Hindu God of Creation Brahma, all humans are a reincarnation of Brahma, and thus the entire human race is part of the same individual. (The Hindu reincarnation and transmigration timeline is sometimes ignored in our (Type-Moon) works, so don’t be silly and nitpick.)
+      According to this ideology, all humans will certainly attain nirvana. (become a Buddha)
+      This is because all humans will ultimately attain enlightenment and transmigrate.
+      …Uhhh—Well I have no idea what I’m saying anymore, all this transmigration and immortality business isn’t easy you know! Wow! So anyways… (Remainder omitted
+      To cut a long story short Amita Amitabha saves mankind from all its pain and suffering. “Everyone will become one with me through the wheel of reincarnation.”
+      It deals heavy damage that no living thing, no human can take, but the protagonist isn’t alive in the first place (spoiler!) so he has a small chance of withstanding it, since the protagonist has yet to be afflicted by the suffering of life or the four noble truths.
+      If the production budget of EXTRA were 10 times larger, we would have included a gimmick where the protagonist would achieve enlightenment (gain strong convictions) over the course of the game and overcome this attack.{{n1}}
+      When fighting against Saver we wanted to evoke the feeling that if players don’t win the battle in one turn, this “inescapable game-over attack” would activate.
+      By the way, in the game the actual damage is 5,670,000,000.
+    note:
+      n1: "Attain enlightenment = become a Buddha = be able to survive the attack."
+  ja:
+    content: |-
+      アミタ・アミターバ。
+      セイヴァーの大宝具。転輪聖王[チャクラ・ヴァルティン]の最大展開。
+      インドのブラフマー思想によるなら、すべての人間はブラフマーの転生であり、すべての人類は同一の個人であると言う事になる。
+      （インドの転生は時間軸を無視する事が往々にしてあるので、細かいツッコミは野暮天）
+      この思想に立った場合、全人類は必ず成仏する。
+      何故なら、すべての人間が究極的には覚者[ブッダ]に転生するからだ。
+      ……えー、もう自分でも何を言っているか分からねーが、転生とか不死とかそんなチャチなもんじゃねえ、すげえ（以下略
+      ようするにあらゆる衆生の苦しみを救う、『人間はみんな私になるのだ転生輪廻』。
+      生有るもの、人であれば決して逆らえない大ダメージだが、主人公はそもそも生きていない（ネタバレ）ので耐えきれる可能性が微レ在。主人公にはまだ生の苦しみ、四苦がないので。
+      EXTRAの制作費が十倍ぐらいあったら、ゲーム過程で悟り（信念）を開くと、この攻撃を乗り越えられる、という仕掛けにしたかったところ。
+      ゲームでは対セイヴァー戦、一定ターン内に決着をつけないと展開される“絶対ゲームオーバー攻撃”として描写されている。
+      ちなみにダメージは五十六億七千万。
+    note: {}
+  zh:
+    content: |-
+      Amitā Amitābha。
+      Saver的大宝具。转轮圣王（Chakra Vartin）的最大展开。
+      如果依照印度的婆罗门思想，一切的人类都是梵天的转生，一切的人类就都成了是同一个人。
+      （因为印度的转生无视时间轴是常有的事，所以细细吐槽就太不知趣了）
+      立于这个思想的场合，全人类必定成佛。
+      要问何故，便是因为一切的人类终究会转生成觉者（佛陀）。
+      ……呃…虽然已经连我自己都不知道在说什么了，但是并不是转生啊不死啊这种粗陋的东西，而是超厉害的（以下略
+      总之解救所有众生之苦，“人类全都会成为我啊转生轮回”。
+      若为生有者{{n1}}、人就决对无法抗拒的大伤害[Damage]，但主人公因为原本就并非活着（剧透）所以存在能够承受的微小的可能性。因为主人公还未有生之苦·四苦。
+      如果EXTRA的制作费有十倍左右，就要做成“在游戏[Game]过程中一旦开悟（信念）的话，就能跨越这个攻击”这种规模了。
+      在游戏里被描写成对Saver战，不在一定回合[Turn]内了结的话就会被展开的“绝对Game Over攻击”。
+      顺便一提伤害为五十六亿七千万{{n2}}。
+    note:
+      n1: "生有，佛语，四有之一，指众生出生的刹那。"
+      n2: "五十六亿七千万，释迦佛入灭至弥勒佛出世之年数，有说法认为弥勒佛即是转轮圣王。也有认为是指人口的，不过这个数字56亿常见，7千万就不常见了。"

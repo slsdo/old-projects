@@ -1,0 +1,30 @@
+---
+id: bluebeard
+
+en: b
+ja: a
+furigana: あおひげ
+title:
+  en: Bluebeard
+  ja: 青髭
+  zh: 蓝胡子
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 42
+  category:
+  - alias
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      キャスターの異名。近隣の少年を拉致しては虐殺を繰り返したという、ジル・ド・レェをモデルとした同名の童話も存在している。
+    note: {}
+  zh:
+    content: |-
+      Caster的异名。也存在着重复绑架邻近的少年并虐杀的，以吉尔斯·德·莱斯[Gilles·de·Rais]为模型[Model]的同名童话。
+    note: {}

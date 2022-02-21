@@ -1,0 +1,33 @@
+---
+id: red-devil
+
+en: r
+ja: a
+furigana: あかいあくま
+title:
+  en: Red Devil
+  ja: あかいあくま
+  zh: 红色恶魔
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 2
+  category:
+  - other_alt
+  img: ""
+  en:
+    content: |-
+      An assassin from the far east that would one day find her way to the El-Melloi Classroom.
+      Even with Svin’s graduation and the separation of that matchless pair, the chaos within that classroom would not abate.
+    note: {}
+  ja:
+    content: |-
+      いずれエルメロイ教室にやってくる、極東よりの刺客。
+      スヴィンの卒業によって、ついにエルメロイ教室の双璧が解散した後も、かの教室から騒乱が途絶えることはないのだった。
+    note: {}
+  zh:
+    content: |-
+      终将来到埃尔梅罗教室的来自远东的刺客。
+      就算斯芬毕业，埃尔梅罗教室的双壁终于解散之后，那个教室传来的骚动仍然不得停歇。
+    note: {}

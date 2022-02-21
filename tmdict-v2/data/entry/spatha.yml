@@ -1,0 +1,30 @@
+---
+id: spatha
+
+en: s
+ja: su
+furigana: すぱた
+title:
+  en: Spatha
+  ja: スパタ
+  zh: 斯帕塔
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 38
+  category:
+  - armament
+  img: ""
+  en:
+    content: |-
+      The lightweight sword Rider uses to summon his Noble Phantasm “Gordius Wheel.” The hilt is decorated with the likeness of a lion. Also called the “Sword of the Kupriotes” as it was gifted to Alexander the Great in life by the King of the Cypriots.
+    note: {}
+  ja:
+    content: |-
+      ライダーが「ゴルディアス・ホイール」を召喚する際に使用する、獅子の意匠が施された軽量の剣。キュプリオト族の王から献上されたことから「キュプリオトの剣」と呼ばれている。
+    note: {}
+  zh:
+    content: |-
+      Rider召唤“Gordius·Wheel”时所使用的，被施以狮子之意匠轻量剑。因为是塞普路特[Cypriots]族之王献上来所以称呼为“塞普路特[Kupriotes]之剑”。
+    note: {}

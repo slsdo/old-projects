@@ -1,0 +1,46 @@
+---
+id: head-of-the-newspaper-club
+
+en: h
+ja: shi
+furigana: しんぶんぶぶちょう
+title:
+  en: Head of the Newspaper Club
+  ja: 新聞部部長
+  zh: 新闻部部长
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 84
+  category:
+  - npc
+  img: fem_head-of-the-newspaper-club.png
+  en:
+    content: |-
+      Extra Makidera. Abbreviated as ExMa.
+      She guides the Master candidates through the preliminaries of the Holy Grail War. She is our Super Heroine who is rather rough around the edges, speaks vaguely and is not particularly quick to think.
+      Her original setting was to be the very talented captain of the track and field club, but as a character who specializes in being extremely annoying, we changed her as she fit better as the head of the newspaper club.
+      Regrettably she only makes a brief appearance in CCC.
+      For those of you who want to see more of her, check out (and buy) the manga <em>Himuro no Tenchi</em> (Mashin Eiichirou / Ichijinsha), <em>Makiji Daisakusen</em>{{n1}}).
+      
+      {{n2}}
+    note:
+      n1: "<a href='https://twitter.com/eiitirou'>https://twitter.com/eiitirou</a>, or google マキジ大作戦 (Makiji Daisakusen)."
+      n2: "Yes, all this stuff (aside from the twitter link, which I included for convenience) is actually written in the original Japanese text. I didn’t randomly add in this shout out to that manga."
+  ja:
+    content: |-
+      エクストラ蒔寺。略してエトマ。
+      聖杯戦争の予選でマスター候補たちを導く、野性味と曖昧味、そしてとろ味の混じったスーパーヒロイン。
+      もともと陸上部部長の設定であり、たいへん素晴らしい俊足なのだが、得意科目につかせると張り切ってうざい事この上ないので新聞部の部長に変更された。
+      CCCでは一瞬しか出番がないのが悔やまれる。
+      彼女の活躍が見たい人は漫画『氷室の天地』（磨伸映一郎／著一迅社）をポチるか、『マキジ大作戦』でぐぐれ。
+    note: {}
+  zh:
+    content: |-
+      エクストラ[EXTRA]莳寺。略称ETMA[エトマ]。
+      在圣杯战争预选时引导着Master候补们、有着野性感与暧昧感，还混有黏稠感的Super Heroine。
+      本来是设定成陆上部的部长、有着非常厉害的俊足，但由于只要提到擅长的项目就会非常烦躁啰嗦的关系被变更成了新闻部长。
+      在CCC只有一瞬间登场而以所以很不甘心。
+      如果想看见她活跃的模样请参照漫画《冰室の天地》（磨伸映一郎／一迅社），《小寺大作战》。
+    note: {}

@@ -1,0 +1,37 @@
+---
+id: drama-cd
+
+en: d
+ja: to
+furigana: どらましーでぃー
+title:
+  en: Drama CD
+  ja: ドラマCD
+  zh: Drama CD
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 34
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      These seemed to be sold quite a while ago. They are quite rare right now. There were all sorts of mature matters in it and its existence is being erased.
+      By the way, the chapter converted to Drama CD was Overlooking View. It seemed the portion of the story with the least action made it into the Drama CD.
+      The voice actors were all veterans. It was an all-star cast that boggled the mind at that time.
+    note: {}
+  ja:
+    content: |-
+      なんでも大昔に発売されたらしい。今となってはレアアイテム。色々と大人な事情があり、存在自体が殺されかけている。
+      ちなみに、ドラマ化されたのは『俯瞰風景[ふかんふうけい]』。なんと言おうか、よりにもよって地味な話をドラマ化したものである。
+      声をあてていただいた声優の方々は皆ベテランで、当時の立場からすると考えられない豪華メンバーだった。
+    note: {}
+  zh:
+    content: |-
+      好像是很久以前发售的。到了现在是稀有物品。有各种各样大人的事情，存在本身正在被抹杀。
+      附带一提，被广播剧化的是《俯瞰风景》。要说些什么的话，就是偏偏将不华丽的故事广播剧化了。
+      献声的声优们都是veteran{{n1}}，从当时的立场是无法想象的豪华阵容。
+    note:
+      n1: "对某件事有丰富的经验，展现出优秀技术的人。"

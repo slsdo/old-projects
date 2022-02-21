@@ -1,0 +1,100 @@
+---
+id: excalibur
+
+en: e
+ja: ya
+furigana: やくそくされたしょうりのけん
+title:
+  en: Excalibur
+  ja: 約束された勝利の剣
+  zh: 誓约胜利之剑
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 96
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      Sword of Promised Victory.
+      Sword of light. It is not a man-made weapon, but rather a divine construct tempered by the planet. It is the Noble Phantasm standing at the very pinnacle of holy swords.
+      The strongest illusion (Last Phantasm), crystallized and refined from the wishes of humanity stored in the planet.
+      Though it was entrusted to elementals, who act as the planet’s sense of touch, it temporarily passed into the hands of a human king for a time.
+      Because it is so recognizable as the symbol of King Arthur, Saber had no choice but to keep it hidden while she fought.
+      But despite the fact that it’s a Noble Phantasm that’s almost synonymous with Saber herself, the number of times she actually uses it can be counted on two hands.
+      That is, three times in the Saber route, once in the Rin route, and twice in the Sakura route.
+      Because it is too powerful, it cannot be used carelessly at ground level.
+      Whether it be dark or light, it could be argued that Excalibur’s clash with Rider’s Bellerophon is <em>Fate/stay night</em>’s grandest splendor.
+    note: {}
+  ja:
+    content: |-
+      エクスカリパー。
+      光の剣。
+      人造による武器ではなく、星に鍛えられた神造兵装。
+      聖剣というカテゴリーの中では頂点に立つ宝具である。
+      人々の“こうであってほしい”という想念が地上に蓄えられ、星の内部で結晶・精製された“最強の幻想（ラスト・ファンタズム）”。
+      星の触覚たる精霊に管理されていたが、一時的に人の王の手に渡る。
+      アーサー王のシンボルとしてあまりにも有名な為、 セイバーはこれを隠して戦わざるをえなかった。
+      セイバーの代名詞とも言える宝具だが、その使用回数は数えるほど。
+      セイバールートでは三回、凜ルートで一回、桜ルートで二回のみ。
+      強力すぎる宝具な為、下手に地上では使えない。
+      ライダーのベルレフォーンとの激突は、白黒ともに「Fate」最大の華と言えよう。
+    note: {}
+  zh:
+    content: |-
+      Excalibur。
+      光之剑。
+      并非人造的武器，而是被星球锻造的神造兵装。
+      在圣剑这个范畴中是屹立于顶点的宝具。
+      是人类“(长久以来)想要如此”的思念在地上被积蓄，于星球内部被结晶·精制的“最强之幻想（Last·Fantansy）”。
+      由作为星球触觉的精灵管理，一时交付给人类的王者之手。
+      因作为亚瑟王的标志实在太有名， Saber不得不遮隐之进行战斗。
+      可以说是Saber的代名词般的宝具，不过那使用次数却是屈指可数的。
+      在Saber线是三次，凛线是一次，在樱线也只有二次。
+      因为是太过强力的宝具，在地是不能轻易使用的。
+      与Rider骑英之手缰的剧烈冲突，黑白相交可以说是《Fate》最大的华丽吧。
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 31
+  category:
+  - noble-phantasm
+  img: fzavg1_excalibur.png
+  en:
+    content: |-
+      Excalibur is Saber’s ultimate weapon, the sword said to have been bestowed on King Arthur by the Lady of the Lake. Rank A++ Anti-Fortress Noble Phantasm. Excalibur is a Divine Construct forged by the planet as the crystallization of the wishes of mankind for how they want the world to be. Refined and perfected within the planet itself, it is the “Strongest Illusion” (Last Phantasm). Excalibur transforms its wielder’s magical energy into light, emitting an all-destroying beam of converging, accelerating light from the tip of the sword. Its overbearing strength massively affects the surrounding area, which limits how (where) it can be used. It also consumes significant magical energy.
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      セイバーの切り札であり、かつてアーサー王が湖の乙女から授かったと言われる聖剣。ランクA++の対城宝具。星に鍛えられたという神造兵装であり、地上で蓄られた人々の「こうであってほしい」という理念が、星の内部で結晶・精製された「最強の幻想（ラスト・ファンタズム）」。所有者の魔力を光に変換し、収束・加速された光を剣先から放出することで万物を焼き払う。強力すぎるがゆえに周囲の影響も大きく、使う場所が制限されがちなうえに魔力消費も激しい。
+    note:
+      n1: "エクスカリバー"
+  zh:
+    content: |-
+      {{n1}}
+      Saber的王牌，被认为是过去亚瑟[Arthur]王从湖中少女那被授予的圣剑。Rank A++的对城宝具。作为在星球被锻造的神造兵装，积蓄了地上人们的“如此希望”的理念，在星球内部结晶·提纯的“最强的幻想（Last·Phantasm）”。把所有者的魔力变换成光，通过将收束·加速的光从剑尖放出来焚烧万物。过于强力因而对周围的影响也很大，不仅使用地方有所限制且魔力消耗也很激烈。
+    note:
+      n1: "Excalibur"
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 22
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      A Rank A++ Anti-Fortress Noble Phantasm that emits an all-destroying beam of energy rivaling Saber’s total magical energy. Being sung as “humanity’s most revered” even in the hellish extremes of a battlefield, shining brightly as the crystallization of everything imaginable in the hearts of those who have passed. Because its use requires swinging with both hands, Lancer intentially breaks his Gáe Buidhe to release Saber’s left hand from its curse. The resulting blow from Excalibur that was released is a torrent of light that destroyed the giant sea demon.
+    note: {}
+  ja:
+    content: |-
+      セイバー自身の総魔力に匹敵する膨大なエネルギーを一気に解き放つランクA++の対城宝具。戦場という極限の地獄においても“ヒトよ尊くあれ”と謳い、輝きに散りゆく者たちが胸に思い描く全ての結晶。使用には両手を使った振り抜きが必要なため、ランサーはみずから「必滅の黄薔薇（ゲイ・ボウ）」を折ることで、セイバーの左手の呪いを解き放った。こうして放たれた「約束された勝利の剣（エクスカリバー）」による一撃は、光の奔流となって巨大海魔を消滅させた。
+    note:
+      n1: "エクスカリバー"
+  zh:
+    content: |-
+      将匹敌Saber自身总魔力的庞大能量[Energy]一口气解放的Rank A++对城宝具。就算是战场这种极限之地狱里也被讴歌为“人类所尊贵之”，闪耀于逝者们心中所能想象之一切的结晶。出于使用时需要用双手猛力挥动的必要，Lancer亲自将“必灭的黄蔷薇（Gae·Buidhe）”折断后，解放了Saber左手的诅咒。如此释放出的“应许胜利之剑（Excalibur）”一击，化作为光之激流把巨大海魔消灭了。
+    note:
+      n1: "Excalibur"

@@ -1,0 +1,54 @@
+---
+id: etherlite
+
+en: e
+ja: e
+furigana: えーてらいと
+title:
+  en: Etherlite
+  ja: エーテライト
+  zh: Etherlight
+
+entry:
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 5
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      A nanofilament made by spinning ether (the fifth imaginary element). For generations the Eltnam family has employed this filament to hack people’s brains, and make the knowledge of the hacked target their own. This modus operando has earned them the name “spirit hackers.” After connecting to a target just once, the filament can be extended up to 5,000 meters. Sion uses etherlite to incapacitate, attack, and steal knowledge among other things.
+    note: {}
+  ja:
+    content: |-
+      エーテル（第五架空元素）によって紡がれたミクロン単位のフィラメント。エルトナムの家系は代々このエーテライトを使って他人の脳をハッキング、その知識を自分のものとしてきた。彼らが霊子ハッカーと呼ばれる所以である。一度接続してしまえば最大5000メートルまで伸ばすことができる。シオンはこれを麻酔、攻撃、知識の読み取りなど、様々なことに使用する。
+    note: {}
+  zh:
+    content: |-
+      利用以太（第五架空元素）纺织而成的微米单位的纤维。艾尔特拉姆家系代代使用这个エーテライト入侵他人的脑，将其知识当成自己的东西。这就是他们被称为灵子骇客的原因。一旦连接后最大能够伸长到5000米。紫苑将它使用在麻醉、攻击、知识的读取等各式各样的事情上。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 11
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      The nanofilament wire wielded by Sion.
+      Although it’s used like a whip in the game, it’s actually designed to attach to the opponent’s skin, integrate with their central nervous system, and read their thoughts and memories. It is because of this technique that the name Eltnam has become synonymous with spiritual hacking.
+      Though the thought-reading function seems vile enough, its ability to “merge with and copy memories and experiences” is actually even more dangerous. This inhumane and demonic “acquisition of another’s life,” which even the Atlas Institute shuns, is a technique unique to the Eltnam family.
+    note: {}
+  ja:
+    content: |-
+      正式にはエーテル・ライトと呼ぶ。シオンが使用するナノフィラメント。
+      ゲーム上では鞭のように使っているが、本来相手の皮膚に繋げ、脳神経に接続して記憶や思考を読む為のもの。この技術から、エルトナムの者は霊子ハッカーと呼ばれている。
+      相手の思考を読む、という機能に目が向きがちだが、“知識・経験を共有・複写する”という事の方が脅威と言えよう。非人道的かつ悪魔的な“相手の人生の獲得”としてアトラス院でも忌避されているエルトナム独特の技法である。
+    note: {}
+  zh:
+    content: |-
+      正式称呼为Ether-Light。紫苑所使用的纳米纤维。
+      在游戏上象鞭子一样地使用着，但本来是为了连接到对象的皮肤，接续到脑神经而读取记忆和思考之物。因为这个技术，Eltnam之人被称呼为灵子黑客。
+      往往容易着眼于读取对方的思考这个功能，但“知识·经验的共有·复制”这方面更可说是威胁吧。不人道且恶魔般的“获得对象的人生”——这正是连阿特拉斯院都忌避的Eltnam独特的技法。
+    note: {}

@@ -1,0 +1,33 @@
+---
+id: daiteito
+
+en: d
+ja: ta
+furigana: だいていと
+title:
+  en: Daiteito
+  ja: 大帝都
+  zh: 大帝都
+
+entry:
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 57
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      A yakiniku restaurant in Misaki. Well, to be precise it’s actually in the neighboring town, but…
+      As a paradise of meat that competes not on quality but price, it’s a popular hangout for students who want to get a lot of bang for their buck. They have an all-you-can-eat special available that tests the limits of human endurance, and the rankings are updated monthly. However, it seems that the monsters occupying the first and second place spots are unlikely to be displaced any time in the foreseeable future.
+    note: {}
+  ja:
+    content: |-
+      三咲町にある焼肉屋。正確に言うと志貴の住む町の隣町にある。
+      品質ではなく安さで勝負するお肉の楽園。ちょっとリッチにいきたい学生たちの憩いの場。スペシャルメニューとして人間の限界に挑戦する食べ放題があり、一月単位で上位メンバーが変動する。が、一位と二位の化け物はむこう数年は変わらないだろう、と噂されているとか。
+    note: {}
+  zh:
+    content: |-
+      三咲町的烤肉店。准确来说是在志贵居住街区的相邻街。
+      不是质量而是以便宜来分胜负的肉的乐园。有点小钱的学生们想去的休息处。有着作为挑战人类畅食极限的特别菜单，以月为单位变动着上位Member。然而却传闻着第一位和第二位的两位怪物数年都不变。
+    note: {}

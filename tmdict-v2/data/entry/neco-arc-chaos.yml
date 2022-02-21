@@ -1,0 +1,33 @@
+---
+id: neco-arc-chaos
+
+en: n
+ja: ne
+furigana: ねこあるくかおす
+title:
+  en: Neco-Arc Chaos
+  ja: ネコアルク・カオス
+  zh: 猫ARC·CHAOS
+
+entry:
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 17
+  category:
+  - "-"
+  img: baa_neco-arc-chaos_w.png
+  en:
+    content: |-
+      Enigmatic creature (real creature{{n1}}).
+    note:
+      n1: "ナマモノ refers to “real people fiction,” characters based on real, existing figures (as opposed to a created character). Probably mentioned as a joke here."
+  ja:
+    content: |-
+      {{n1}}
+      正休不明の生物（ナマモノ）。
+    note:
+      n1: "ネコアルク＝カオス（路地裏ナイトメア用語辞典）。"
+  zh:
+    content: |-
+      正体不明的生物（活物）。
+    note: {}

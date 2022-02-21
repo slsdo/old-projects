@@ -1,0 +1,44 @@
+---
+id: masochistic-constitution
+
+en: m
+ja: hi
+furigana: ひぎゃくたいしつ
+title:
+  en: Masochistic Constitution
+  ja: 被虐体質
+  zh: 被虐体质
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 122
+  category:
+  - skill
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      This is one of Passionlip’s id_es skills.
+      In group battles Passionlip uses this skill to focus the enemies’ hate on her and increase the chance that she will end up as the target of their attacks.
+      Players tend to think there is no benefit to this skill, but if a character with strong defensive stats is given this skill, they can function as an amazing defender.
+      This skill also slightly increases defensive stats, and when it is upgraded to A Rank the skill gains yet another special effect; the more an enemy attacks the user of this skill, the more they lose their ability to reason, and before they know it the only thing they can think of is the user of this skill.
+      In one-on-one battles using this skill will just end up with you dying, but it’s incredibly useful in party battles. In modern hack-and-slash games it’s hard to make it through a dungeon without a character to tank lots of damage.
+    note:
+      n1: "Also known as “Masochistic Predisposition,” “Quality as a Target of Abuse” and “Predisposition to Suffering.”"
+  ja:
+    content: |-
+      パッションリップのイデススキル。
+      集団戦闘において、相手の敵意[ヘイト]を自分に集め、攻撃対象になる確率を増す。
+      マイナスのように思われがちだが、強固な防御力を持つ者がこのスキルを持っていると優れた護衛役として機能する。
+      若干の防御値プラスも含まれ、Aランクともなると更なる特殊効果が付き、攻撃側は攻めれば攻めるほど冷静さを欠き、ついにはこのスキルを持つ者の事しか考えられなくなる。
+      一対一の戦闘では死にスキルだが、パーティー戦においてはたいへん役立つスキル。今時のバクスラでは、盾役なくしてダンジョン探索は難しい。
+    note: {}
+  zh:
+    content: |-
+      Passionlip的id_es技能。
+      在集团战斗时，可以把敌方的敌意集中到自己身上、让被攻击的确率增加。
+      虽然看起来是对本身不利的技能，但若是同时持有坚固防御力的人，就能成为相当优秀的护卫角色。
+      含有些许防御plus，若达到了A Rank更能增加特殊效果、使攻击方越来越失去冷静、最后脑中只剩这个技能的持有者的事情。
+      一对一战斗时是个致死的技能，但集团战时就是非常有用的技能了。现在的成长系游戏倾向通常不需要防御性角色的迷宫探索，所以这个技能很难使用。
+    note: {}

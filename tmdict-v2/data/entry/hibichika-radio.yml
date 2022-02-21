@@ -1,0 +1,30 @@
+---
+id: hibichika-radio
+
+en: h
+ja: hi
+furigana: ひびちからじお
+title:
+  en: HibiChika Radio
+  ja: ひびちからじお
+  zh: 响键广播
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 43
+  category:
+  - radio-program
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      千鍵役の仙台エリさん、ひびき役の本多陽子さんをパーソナリティに迎えて送る喫茶店型情報バラエティ番組。企画時のタイトルは「MAGI・BOX」とかだったのを泣いて頼んで変えてもらった。アニメイトTVにて毎月2回、月曜更新ですのでヨロシクネ！
+    note: {}
+  zh:
+    content: |-
+      千键役的仙台惠理桑，响役的本多阳子桑以角色[Personality]形式播送的咖啡店型情报综艺[Variety]节目。哭着拜托改掉了其企划当初的标题[Title]“MAGI·BOX”。AnimateTV每月2回，周一更新，还请多关注哟！
+    note: {}

@@ -1,0 +1,30 @@
+---
+id: great-person
+
+en: g
+ja: e
+furigana: えらいにん
+title:
+  en: Great Person
+  ja: 偉い人
+  zh: 那位大人
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 13
+  category:
+  - designation
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      TYPE‐MOONにおける右姉様。時々無茶な事を言い出す困った人だが、何故か大抵が上手くいったりするのでスタッフ一同は困りながらも頑張ってしまうのである。
+    note: {}
+  zh:
+    content: |-
+      TYPE-MOON中的右姐姐。虽然是有时会说出乱来之事而令人困扰的人，不过不知为何大体上还算上道，所以Staff都一起边头疼着边努力工作着。
+    note: {}

@@ -1,0 +1,36 @@
+---
+id: gun-god
+
+en: g
+ja: shi
+furigana: じゅうしん
+title:
+  en: Gun God
+  ja: 銃神
+  zh: 枪神
+
+entry:
+- source: angel-voice
+  section: notes
+  order: 18
+  category:
+  - godo
+  img: ""
+  en:
+    content: |-
+      …“His” nick name given upon the mission of the “Bird Drop” Some sarcastically called him a god imitator.
+      A rare pure human. He excavated the Black Barrel from a sealed area, and made it his gun.
+      Died during the intercept mission of Type-Saturn.
+    note: {}
+  ja:
+    content: |-
+      …彼の別名。タイプ・ヴーナスを撃ち落とした“鳥堕し”の際につけられた俗称。皮肉をこめて“神もどき”ともよばれた。
+      数少ない生粋の人間。ブラックバレルを封印区より発掘し、愛銃とする。
+      タイプ・サターン迎撃戦において死去。
+    note: {}
+  zh:
+    content: |-
+      …他的别名。在击落type:venus的“猎鸟”之时得到的俗称。也有人讽刺地称他为“驱神（神也要躲开）”。
+      为数不多的纯人类。以被封锁地区发掘出的Black Barrel作为爱枪。
+      在对type:saturn展开的迎击战中死去。
+    note: {}

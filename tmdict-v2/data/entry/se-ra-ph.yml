@@ -1,0 +1,82 @@
+---
+id: se-ra-ph
+
+en: s
+ja: se
+furigana: せらふ
+title:
+  en: SE.RA.PH
+  ja: SE.RA.PH
+  zh: SE.RA.PH
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 97
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      SERIAL PHANTASM.
+      The fabricated spiritron world that was made inside Moon Cell.
+      It’s a “moon-powering, city-like engine” made to manage the inside of the massive Moon Cell.
+      In short, it is an additional engine and additional memory that Moon Cell added on while expanding itself.
+      From the perspective of a normal human, Moon Cell’s network is only seen as light, but a magus who can transform their soul into spiritron is able to perceive the information held within that light, and join in as a unit attached to the network. SE.RA.PH is also used to carry out the Holy Grail War, which is for the purpose of better knowing and understanding humans.
+      SE.RA.PH is scattered around within Moon Cell, and includes, among other things, parts which are already old, obsolete and abandoned, and also independent areas which still haven’t collapsed.
+    note: {}
+  ja:
+    content: |-
+      SERIAL PHANTASM。
+      ムーンセル内に作られた霊子虚構世界。
+      規模が巨大になったムーンセルが自身を運営するために作った“月を回す都市型エンジン”。
+      要はムーンセルが後から増築した追加エンジン、追加メモリである。
+      人間の視点ではムーンセルのネットワークは光としか認識できないが、魂を霊子化できる魔術師なら情報として知覚し、一ユニットとして参加する事ができる。
+      人間を知るために行われる聖杯戦争も、このSE.RA.PHを利用して行われている。
+      SE.RA.PHはムーンセル内に点在し、中には既に旧型として廃棄されたものの、いまだに崩壊していない独自領域もあるとか。
+    note: {}
+  zh:
+    content: |-
+      SERIAL PHANTASM。
+      在Moon Cell内创建的灵子虚构世界。
+      是规模变得巨大的Moon Cell为了自身的运营，而创造的“为了运转月亮的都市形态引擎”。
+      简单的说的话，就是Moon Cell之后增建的追加引擎，追加memory。
+      在人类的视角中Moon Cell的network只能被认知为时光，然而对于能够将灵魂灵子化的魔术师们[A级黑客]来说，不仅能将这些化作情报知晓察觉到，还能身为其中的unit的一员参与到其中。
+      为了了解人类而举办的圣杯战争也是利用这个SE.RA.PH进行的。
+      SE.RA.PH在Moon Cell内是点状存在，其中也有已经老旧而被淘汰、但依旧存在着的独自领域。
+    note: {}
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 37
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      SERIAL PHANTASM.
+      The virtual spiritron world that was created within the Moon Cell.
+      When the Moon Cell grew to a great size, it created this city-shaped engine in the form of an additional layer in order to manage itself.
+      A human can only view the Moon Cell’s network as pure light, but a Wizard who can turn his or her being into spiritrons can perceive a network of pure information, and join as a node of the network.
+      The “Moon’s Holy Grail War,” which was held for the purpose of understanding humans, made use of SE.RA.PH as well.
+      SE.RA.PH was fragmented within the Moon Cell, and although some pieces were deemed obsolete and deleted, there were still individual areas that have yet to crumble. However, when it was reborn as the new SE.RA.PH, all of the scattered territories merged together, and they are still in the process of becoming one giant open world.
+    note: {}
+  ja:
+    content: |-
+      SERIAL PHANTASM。
+      ムーンセル内に作られた霊子虚構世界。
+      規模が巨大になったムーンセルが自身を運営するために作った“月を回す都市型エンジン”。
+      要はムーンセルが後から増築した追加エンジン　追加レイヤーである。
+      人間の視点ではムーンセルのネットワークは光としか認識できないが、魂を霊子化できる魔術師なら情報として知覚し、一ユニットとして参加する事ができる。
+      人間を知るために行われた『月の聖杯戦争』も、このSE.RA.PHを利用して行われた。
+      SE.RA.PHはムーンセル内に点在し、中には既に旧型として廃棄されたものの、いまだに崩壊していない独自領域もあったが、新SE.RA.PHになった事で点在していた領域は融合し、今は衝突を繰り返しながら、『開かれた、一つの大きな世界』になろうとしている。
+    note: {}
+  zh:
+    content: |-
+      SERIAL PHANTASM。
+      于Moon Cell内建构成形的灵子虚构世界。
+      规模巨大化的Moon Cell为让自身顺利营运而创造的“环月都市型引擎”。
+      简单来说，就是Moon Cell之后增建的追加引擎、追加阶层。
+      从人类的角度看来，只能将Moon Cell的网路辨识为光。但如果是能将灵魂灵子化的魔术师，就能将其辨识为资讯，并且作为单位参与其中。
+      为了理解人类而发起的“月之圣杯战争”也是利用SE.RA.PH来进行。
+      SE.RA.PH散布在Moon Cell中，里头也包含了因属于旧型而被废弃却尚未崩坏的独自领域。新SE.RA.PH的诞生使散布的领域互相融合，至今也一边反复着冲突，一边试图成为 “一个开放的广大世界”。
+    note: {}

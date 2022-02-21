@@ -1,0 +1,89 @@
+<?
+
+/************************
+* Variables you can change
+*************************/
+
+$user = "gumugum";
+$mailserver = "gmail.com";
+$mailto = $user . "@" . $mailserver;
+$cc = "";
+$bcc = "";
+$subject = "TMdict Feedback: ";
+$vname = "Anonymous";
+
+
+/************************
+* do not modify anything below unless you know PHP/HTML/XHTML
+*************************/
+
+
+$email = $_POST['email'];
+
+function validateEmail($email)
+{
+   if(eregi('^[a-zA-Z0-9._-]+@[a-zA-Z0-9-]+\.[a-zA-Z]{2,4}(\.[a-zA-Z]{2,3})?(\.[a-zA-Z]{2,3})?$', $email))
+      return true;
+   else
+      return false;
+}
+
+$subject .= htmlspecialchars($_POST['subject']);
+
+if((strlen($_POST['name']) < 1 ) || (strlen($email) < 1 ) || (strlen($_POST['url']) > 0) || (strlen($_POST['message']) < 1 ) || validateEmail($email) == FALSE){
+    $emailerror .= 'Error:';
+
+    if(strlen($_POST['name']) < 1 ){
+        $emailerror .= '<li>Enter name</li>';
+    }
+
+    if(strlen($email) < 1 ){
+        $emailerror .= '<li>Enter email</li>';
+    }
+
+    if(validateEmail($email) == FALSE) {
+        $emailerror .= '<li>Enter valid email</li>';
+    }
+
+    if(strlen($_POST['url']) > 0 ){
+        $emailerror .= '<li>Leave the spam textbox empty</li>';
+    }
+
+    if(strlen($_POST['message']) < 1 ){
+        $emailerror .= '<li>Enter message</li>';
+    }
+
+} else {
+
+    $emailerror .= "<span>Your email has been sent successfully!</span>";
+
+
+
+    // NOW SEND THE ENQUIRY
+
+    $timestamp = date("F j, Y, g:ia");
+
+    $messageproper ="\n\n" .
+        "Name: " .
+        ucwords(htmlspecialchars($_POST['name'])) .
+        "\n" .
+        "Email: " .
+        ucwords($email) .
+        "\n" .
+        "Comments: " .
+        htmlspecialchars($_POST['message']) .
+        "\n" .
+        "\n\n" ;
+
+        $messageproper = trim(stripslashes($messageproper));
+        mail($mailto, $subject, $messageproper, "From: \"$vname\" <".$_POST['e_mail'].">\nReply-To: \"".ucwords($_POST['first_name'])."\" <".$_POST['e_mail'].">\nX-Mailer: PHP/" . phpversion() );
+
+}
+?>
+
+<div id='emailerror'>
+    <ul>
+        <? echo $emailerror; ?>
+    </ul>
+</div>
+

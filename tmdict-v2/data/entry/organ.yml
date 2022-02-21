@@ -1,0 +1,57 @@
+---
+id: organ
+
+en: o
+ja: o
+furigana: おるがん
+title:
+  en: Organ
+  ja: オルガン
+  zh: Organ
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 7
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      Components of an organism. Independent structural units with a specific function. Not the musical kind of organ.
+      Here it refers specifically to the spiral tube formation within the inner ear. When Shiki said that his organ had broken, he was probably talking about how the ringing in his ears had stopped.
+      Shiki is something of a poet, don’t you think?
+    note: {}
+  ja:
+    content: |-
+      organ．
+      生物の器官。特定の機能を持つ独立した構造体のこと。楽器のオルガンではない。
+      ここでは内耳の一部を形成するうずまき管の意。オルガンが壊れた、という事は耳鳴りが止まった、という反則じみた表現なんだろう。
+      志貴って、わりと詩人。
+    note: {}
+  zh:
+    content: |-
+      生物的器官，指拥有特定机能的独立构造体。并不是指乐器管风琴。
+      这里是指形成内耳一部分的耳蜗的意思。所谓“Organ坏掉了”大概就是“耳鸣停止了”的犯规版表现方式吧。
+      是说志贵还满诗人的嘛。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 13
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      Components of an organism. Independent structural units with a specific function. Not the musical kind of organ. Here it refers specifically to the spiral tube formation within the inner ear. When Shiki said that his organ had broken during one of the routes, you can interpret that as meaning that the ringing in his ears had stopped.
+    note: {}
+  ja:
+    content: |-
+      organ。
+      生物の器官。特定の機能を持つ独立した構造体のこと。楽器のオルガンではない。ここでは内耳の一部を形成するうずまき管の意。オルガンが壊れた、という事は耳鳴りが止まった、という反則じみた表現と思われる。とあるルートで、志貴が壊れかけた時に用いられる表現。
+    note: {}
+  zh:
+    content: |-
+      生物的器官。拥有特定机能的独立的构造体。不是乐器里的organ{{n1}}。在这里指构成内耳一部分的蜗牛管。Organ坏了，也就是说耳鸣停止了，这种犯规一样的表现。在某条路线中，志贵要坏掉时所用的表现。
+    note:
+      n1: "风琴。"

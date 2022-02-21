@@ -1,0 +1,44 @@
+---
+id: add
+
+en: a
+ja: a
+furigana: あっど
+title:
+  en: Add
+  ja: アッド
+  zh: 亚德
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 5
+  category:
+  - mystic-code_alt
+  - other_alt
+  img: ""
+  en:
+    content: |-
+      The Mystic Code sealing the Noble Phantasm Rhongomyniad, possessed by Gray.
+      Created by the Witch Morgan, she based the artificial personality within it on the knight with the least adoration for King Arthur from the Round Table. Thinking about the Atlas Contract Incident, that trick seemed more like a plot to “prevent the return of King Arthur” at that time. It was like a strange trick to say “I’ll help with your revival, but I don’t want it to succeed.”
+      Before being created, its true form was that of the Logos React Replica. Using the extreme calculative ability inherited from the Seven Superweapons of the Atlas Institute, it continues to seal Rhongomyniad within it. In its released form, it can of course take the shape of a scythe, but also that of a hammer, shield, hook spear, or even a boomerang. It is also able to use its immense calculative ability to display a portion of the power of Rhongomyniad itself. The appearance of the knight in “The Atlas Contract” occurred due to the same theoretical principle. Their personality was a result of a complex merger of that original knight’s and the present day Add’s, so strictly speaking it belonged to neither of them. That was likely why it was able to finally deploy the Pseudo Phantasm.
+      For Gray, Add was her only friend for a long time.
+      The name Add comes both from the word “addition” and from the tail end of the word “Rhongomyniad.”
+    note: {}
+  ja:
+    content: |-
+      グレイの持つ宝具・最果てにて輝ける槍に付与された封印礼装。
+      魔女モルガンによって加工され、彼女の知る中で最もアーサー王に心酔していない円卓の騎士が、人工人格の基礎となった。『アトラスの契約』の事件を考えれば、その細工はむしろあのタイミングで「アーサー王の復活をとどめる」ために仕組まれた形跡がある。まるで、「復活に協力するが復活してほしくない」とでもいうような、奇妙な仕掛けであった。
+      加工される以前の正体は、ロゴスリアクト・レプリカ。かのアトラス院の七大兵器から引き継いだ超演算機能こそが、内側の最果てにて輝ける槍を封印しつづけている。限定解除の鎌はもちろん、ハンマーや盾や鉤槍、果てはブーメランにまで変形するのも、この演算機能の応用によって、ロンゴミニアドの能力の一部を表出させたものだ。『アトラスの契約』で顕現した騎士も理論的には同様。その性格は過去の騎士と現在のアッドが複雑にまじりあった、厳密にはどちらでもないものだったが、だからこそ最後の疑似宝具を展開できたのだろう。
+      グレイにとっては、本当に長い間唯一の友達だった。
+      なお、アッドの名前は、加えるのアッドと、ロンゴミニアドのアドから。
+    note: {}
+  zh:
+    content: |-
+      格蕾所持有的宝具·闪耀于终焉之枪[Rhongomyniad]被赋予的封印礼装。
+      由魔女摩根加工，以她的认知中最不醉心于亚瑟王的圆桌骑士，作为人造人格的基础。考虑到『阿特拉斯的契约』那个事件，这个工艺品反倒是带有为了「仅止于亚瑟王的复活」而组装的痕迹。简直就像是「协助其复活，但并不希望其复活」般的奇妙构造。
+      在被加工之前的真面目是Logos React·Replica。正因为有着继承自那个阿特拉斯院七大兵器的超演算机能，才能一直封印内部的闪耀于终焉之枪[Rhongomyniad]。限制解除的镰刀自不用说，之所以能变形为铁锤、盾牌、钩枪，最终甚至变形为飞镖，都是因为应用了该演算机能，令伦戈米尼亚德的一部分能力表露出来。
+      在『阿特拉斯的契约』中显现的骑士（凯爵士）理论上也是一样。其性格是过去的骑士与现在的亚德复杂交错地混合在一起，严格上来说并不属于哪一方，但也正因如此，才能够展开最后的拟似宝具吧。
+      对格蕾而言，它其实是很长一段时间中唯一的朋友。
+      另外，亚德的名字，是源自增加的Add与伦戈米尼亚德的亚德。
+    note: {}

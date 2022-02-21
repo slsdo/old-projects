@@ -1,0 +1,33 @@
+---
+id: girls-talk
+
+en: g
+ja: o
+furigana: おんなのはなし
+title:
+  en: Girl’s Talk
+  ja: 女の話
+  zh: 女性故事
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 31
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      This refers to the passage beautifully read aloud at the beginning of each chapter.
+      It hints at the main boss of the chapter, but actually if you examine all of the passages together you will notice that they are about a certain character. However, BB’s talk from “interludes” and the passages in chapter 7 of the main route are about BB.
+    note: {}
+  ja:
+    content: |-
+      各章開始時に朗読される詩。
+      その章の主題であるボスを暗示してはいるが、その実、全てを通して見ると『ある人物』を語るものになっている。ただし『幕間』の語りはBBによるものなのでこのかぎりではなく、通常ルート七章のものはBBだけにむけられたもの。
+    note: {}
+  zh:
+    content: |-
+      各章开始时被朗读的诗。
+      虽然暗示着各章主题的BOSS，但实际上游戏通关后来看，会发现全部都指向“某个人物”。但是“幕间”由BB所朗读的部分，以及通常路线的第七章则是属于BB的。
+    note: {}

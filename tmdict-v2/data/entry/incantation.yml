@@ -1,0 +1,49 @@
+---
+id: incantation
+
+en: i
+ja: e
+furigana: えいしょう
+title:
+  en: Incantation
+  ja: 詠唱
+  zh: 咏唱
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 10
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      An action required to activate spells.
+      Includes one step (single-action) spells activated just by running magical energy, one bar spells that anchor something within the body, and instant contract (ten count) spells, which are simple rituals composed of ten or more bars.
+      Rin’s Gandr Shot and Rider’s mystic eyes are both classified as single-action, while the long incantations used by Shirou and Archer exceed five bars, making them closer to ten count.
+      Caster’s incantations are technically one bar, but since their activation is instantaneous they’re actually as fast as or even faster than single-action. However, despite their brevity, the power of Caster’s spells is equivalent to magecrafts of over five bars. For proper magi, you could call her an insurmountable opponent.
+      By the way, because Caster’s spells themselves are “divine words,” they can’t really be described in terms of steps or bars.
+      Thus, the conditions outlined in Magic Resistance ranks B and C do not apply.
+    note: {}
+  ja:
+    content: |-
+      魔術を起動させる為の動作。
+      魔力を通すだけで魔術を起動させる一工程（シングルアクション）から、つの事柄を自身の中で固定化する一小節、十以上の小節を以って簡易的な儀式と成す瞬間契約（テンカウント）等が確認されている。
+      凛のガンド撃ち、ライダーの魔限はシングルアクションに属し、士郎、アーチャーの詠唱は五小節以上の、ほとんど テンカウントに近い長詠唱。
+      キャスターの詠唱は一小節ではあるが、その発動が瞬間的である為シングルアクションより速いか、同レベルのスピードを誇る。
+      そのクセ威力は五小節以上の魔術に相当するのだから、まっとうな魔術師には手におえない相手と言ヲえよう。
+      ちなみに、キャスターの呪文自体が“神言”である為、一工程、一小節といった括りにはとらわれない。
+      スキル・対魔力のB、C辺りの条件には該当しないという事だ。
+    note: {}
+  zh:
+    content: |-
+      为使魔术启动的动作。
+      从只通过魔力就让魔术启动的一工程（Single Action），
+      将一件事情在自身之中固定化的一小节，
+      以十以上的小节构成简易性仪式的瞬间契约（Ten Count）等被确认。
+      凛的Gandr射击、Rider的魔眼属于Single Action，
+      士郎、Archer的咏唱是五小节以上的，几乎接近Ten Count的长咏唱。
+      Caster的咏唱虽是一小节，但其发动因为是瞬间性的以比Single Action还快，或同等级的速度为豪。尽管如此，因为威力相当于五小节以上的魔术，可以说是正经的魔术师搞不定的对手吧。
+      顺带一提，因为Caster的咒文本身是“神言”，所以不拘于一工程、一小节这之类的概括。
+      就是说不符合技能·对魔力B、C之流的条件。
+    note: {}

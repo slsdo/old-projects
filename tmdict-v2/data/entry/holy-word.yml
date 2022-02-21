@@ -1,0 +1,30 @@
+---
+id: holy-word
+
+en: h
+ja: se
+furigana: せいげん
+title:
+  en: Holy Word
+  ja: 聖言
+  zh: 圣言
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 25
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      聖杯戦争の監督役が管理する預託令呪を、他者に分け与える際に必要となる、いわば秘密のパスワードのようなもの。第二十一話で綺礼がみずからの令呪を雁夜に与える際にも使用されている。
+    note: {}
+  zh:
+    content: |-
+      将圣杯战争的监督者所管理的预托令咒，分配给其他人时候所必需的，可以说是如同秘密口令[Password]一般的东西。第二十一集时，绮礼把手上的令咒给雁夜时候也用到了。
+    note: {}

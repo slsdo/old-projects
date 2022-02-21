@@ -1,0 +1,130 @@
+---
+id: iskandar
+
+en: i
+ja: i
+furigana: いすかんだる
+title:
+  en: Iskandar
+  ja: イスカンダル
+  zh: 伊斯坎达尔
+
+entry:
+- source: fate-zero-material
+  section: fate-zero-encylopedia
+  order: 3
+  category:
+  - servant
+  img: ""
+  en:
+    content: |-
+      The Rider class Servant of the Fourth Holy Grail War. He was originally supposed to be summoned by Kayneth El-Melloi Archibald, but instead formed a contract with Waver Velvet, who stole the catalyst Kayneth had prepared before the war began.
+      Going in, the original author entrusted me with just three pieces of information regarding Alexander: his true name, the Noble Phantasm called “Army of the King,” and the fact that there must be a development where Saber comes to reconsider her own kingship through her conflict with him and Gilgamesh.
+      So, starting from there I figured the most important thing was that he be a totally different sort of king from both Saber and Gilgamesh. That’s why I decided to come up with his general appearance and personality first, and only research his actual history afterward, all the while looking for ways to twist and distort things along the vector I had already imagined for him. But then, the more I read about him, the more I realized Alexander the Great’s actual life was like something out of <em>Shounen Jump</em>. I barely had to change anything about him at all! With the way he faced formidable foes with the utmost respect and behaved more like an adventurer than a statesman, I can’t help but imagine him as a character in one of Hara Tetsuo’s manga. Actually, now that I think about it, It’d be great if Hara Tetsuo made an Alexander the Great themed manga for real! I’m being serious.
+      His love of the Iliad ran so deep that he once totally disregarded strategy in favor of sightseeing around the city of Troy. He might have been the first celebrity otaku in human history.
+    note: {}
+  ja:
+    content: |-
+      第4次聖杯戦争におけるライダーのサーヴァント。当初はケイネス・エルメロイ・アーチボルトによって召喚されるはずが、聖遺物を盗んだウェイバー・ベルベットによって召喚され、契約を結ぶ。
+      原作者によって託された課題は三つ。イスカンダルという真名と、王の軍勢という宝具、そして「セイバーはギルガメッシュやイスカンダルと闘争することで、王としての自分を考え直す」という展開である。
+      そこでセィバーともギルとも違う王者、という三角測量によって、まずは容姿と性格の方向性が決定され、後は史実のエピソードを、どうやってそっちのベクトルにねじ曲げていくかという作業が課されたわけだが……文献に当たれば当たるほど、アレキサンダー大王の少年ジャンプ的生涯はこちらの予想の斜め上を行き、なんかこちらの希望した方向性と充分近い路線にのっけから居てくださった。数々の強敵に対するリスペクトぶり、為政者ではなく冒険者としての行動原理など、どう見ても原哲夫ワールドの住人としか思えない。っつうか、いつの日か原哲夫先生にアレキサンダー大王を題材として漫画を描いていただきたい。マジで。
+      戦略そっちのけでトロイア名所観光をおっぽじめたりと、そのイリアスの愛好っぷりは、もはや人類史最初のオタクセレブと呼ぶに相応しい。
+    note: {}
+  zh:
+    content: |-
+      第四次圣杯战争中职阶为骑兵的从者。原本应该是由肯尼斯·埃尔梅罗·阿其波卢德所招唤，不过被偷走圣遗物的韦伯·维尔维特所招唤并订下契约。
+      原作者给予的课题有三项。真名为Iskandar{{n1}}，王之军势这项宝具，以及“Saber因为和吉尔伽美什及伊斯坎达尔的斗争，重新思考自己身为王的定位”这样的发展。
+      于是由和Saber以及吉尔伽美什不同的王者，这样的角度[划画]出三角形，首先被决定的是外表和个性，之后就是如何将史实中的逸话转成想要的角度这样的课题……不过越是比对文献就越是发现亚历山大大王年少飞跃的生涯比想像中更棒，已经充分的接近这边希望的效果。对众多强敌的尊敬之意，身为冒险者而非执政者的行动原理等，再怎么看都是原哲夫{{n2}}世界的居民。真希望有朝一日能看到原则夫老师以亚历山大大王为题材画出的漫画啊，我是说真的。
+      不顾战略跑去特洛伊的名胜观光，那份对伊利亚特的爱好，已经足以被称为人类史上最初的上流宅{{n3}}了。
+    note:
+      n1: "Iskandar其实是把Aliskandar字首的al误认为定冠词的误字。为什么会指定Iskandar而非Aliskandar呢…"
+      n2: "著名的漫画家，代表作为北斗神拳、花之庆次等。"
+      n3: "原文オタクセレブ，オタク这词大家应该不陌生，セレブ是名士的意思。"
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 8
+  category:
+  - servant
+  img: ""
+  en:
+    content: |-
+      A Rider-class Servant in Altera’s army.
+      He was born in the 4th century BC to the royal family of Macedonia, a kingdom in Greece.
+      Thanks to the influence of his mother, Olympias, he was fascinated by the exploits of heroes in mythology. He believed that he was the son of Zeus (regarded to be one and the same as the Egyptian god Amun).
+      He inherited the throne at the young age of twenty, and began his great conquest by uniting the Grecian states.
+      He raised an army and led them in a campaign to the East, not only conquering the great kingdom of Persia, but also many of the kingdoms under its control, including Egypt.
+      The name Iskandar was given to him by the Arabs and the Persians. His campaign to the East went as far as India. There, his troops and generals complained of fatigue, and so he turned back to Babylon, where he suddenly passed away.
+      As a conqueror he created the greatest empire in the history of mankind, but his dying words, “Only the strongest should rule the empire,” ended up splitting it apart instead.
+      Today, the Heroic Spirit Iskandar is a Top Servant, known among his peers as the “King of Conquerors.”
+      When the Moon Cell senses that Altera has been released, it summons Iskandar to do battle with her. However, being unaccustomed to fighting on SE.RA.PH., with all its subtle differences to the Earth he lived and died on, he approaches the fight as a kind of warm-up.
+      Of course, he loses. Altera then declares that his life belongs to her and forces him to join her army. (This sort of thing is bound to happen when you don’t play with your full attention on the game…)
+      This also makes him a Servant of the Main Character, but in the game he is treated in similar fashion to Altera.
+      Altera understands that her victory over Iskandar was a matter of luck, and that they are evenly matched in terms of strength. Iskandar understands that as well, but accepts his defeat with dignity. From then on, he pledges to assist Altera in achieving her goals.
+      Make no mistake, however: He is loyal only to Altera, and not the Umbral Star.
+    note: {}
+  ja:
+    content: |-
+      アルテラ陣営のサ—ヴァント。クラスはライダー。
+      紀元前4世紀、ギリシャ人国家であるマケドニアの王家に生まれる。母オリュンピアスの影響で幼い頃から神話の英雄物語に耽溺し、自らをゼウス（エジプトの神アモンと同一視された）の子と信じた。
+      20歳の若さで王となつた後はギリシャ統{{n1}}を手始めに覇道に乗り出し、東方遠征の軍を興して自らその先頭に立ち、大国ペルシャを打ち破ったのみならず、ペルシャの支配下にあったエジブトをはじめ数多くの国々を呑み込んでいった。
+      イスカンダルというのは、アラブ　ペルシャの人々による彼の呼び名である。彼の東征はインドにまで及んだが、将官の反発や兵士の疲弊によってバビロンに引き返し、この地で急逝する。
+      征服者として歴史上最大の国家を打ち立てるが、「最強の者が帝国を継承せよ」と遺言したことで死後、帝国は分裂した。『征服王』の異名を持つ覇王、痛快にして豪快な英霊。
+      SE.RA.PHの異常、アルテラ解放を感知したムーンセルによって召喚されたトッブ　サーヴァント。
+      しかしどうも地上とは勝手の違うSE.RA.PHでの戦闘に馴染めず、チュートリアルがてらにアルテラと戦ったところ、当然敗北。以後はアルテラ陣営になってしまった。舐めプほんとよくない。
+      英霊アルテラに破れた事で主人公のサーヴァントになってはいるが、ゲーム中では英霊アルテラとは同格の扱い。
+      英霊アルテラは「私に敗北した以上、おまえの命は私のものだ」と王として振る舞いはするが、イスカンダル、ジャンヌを格下とは見ていない。
+      戦いの勝敗はあくまで運によるもの。実力では互角だと英霊アルテラは判断している。
+      それはイスカンダルも承知しているが、敗北したという結果は誤魔化さない。イスカンダルは英霊アルテラに不覚をとった以上、アルテラの大願成就に力を貸す、という方針になった。
+      あくまで手を貸しているのはアルテラであって遊星ではない。
+    note:
+      n1: "統　→　統一。"
+  zh:
+    content: |-
+      阿提拉阵营的英灵。职阶为骑兵。
+      西元前四世纪，生于希腊人之国的马其顿王家。受母亲奥林匹亚丝影响，从小着迷于神话的英雄故事，并相信自己是宙斯（与埃及神阿蒙被视为同一人）之子。
+      20岁就当上国王，其后开始着手统一希腊而踏上了霸道之路，组织东方远征军并亲自领军征战，不只攻破了大国波斯，甚至还并吞了当时处于波斯支配下的埃及等众多国家。
+      伊斯坎达尔正是阿拉伯、波斯的人们对他的称呼。其东征虽一度远至印度，但因部将反弹、士兵疲弊而返回巴比伦，并在该地骤逝。
+      身为征服者，他虽建立了史上最大的国家，却因留下“由最强的人来继承帝国”这句遗言，而使帝国在其死后分裂。 
+      拥有“征服王”之异名的霸王，性格豪爽的英灵。
+      他是Moon Cell感应到SE.RA.PH的异常与阿提拉的解放后召唤而出的顶级英灵。
+      但由于无法习惯于和地面迥异的SE.RA.PH战斗，在与阿提拉进行练习战时，尝到理所当然的败北，此后便加入了阿提拉阵营。小看对手真是要不得啊。
+      虽然因为败给英灵阿提拉而成为主角的英灵，但在游戏中之地位与英灵阿提拉相等。
+      英灵阿提拉虽以“既已败在我的手下，你的命就是我的所有物”为由摆出王者的姿态，却并未将伊斯坎达尔、贞德 视为低于自己的存在。
+      战斗的胜败不过是运气所致，实力上双方是不相上下的。英灵阿提拉如此判断。
+      伊斯坎达尔虽也理解，却没有粉饰自己的败北。伊斯坎达尔既已失手于英灵阿提拉之下，便应该助阿提拉一臂之力成就其大愿，这是他所采取的方针。
+      但他所协助的终究是阿提拉而非游星。
+    note: {}
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 8
+  category:
+  - heroic-spirit
+  img: "casefile_iskandar.png"
+  en:
+    content: |-
+      The King of Conquerors, Iskandar. Also known as Alexander the Great.
+      A great Heroic Spirit, whose exploits were only matched by a small handful of others across the entirety of human history.
+      Summoned in the Fourth Holy Grail War under the class of Rider, he was the Servant of Waver Velvet. His Noble Phantasms were Gordius Wheel, the Wheel of Heaven’s Might, on which Faker’s “Hecatic Wheel” was based, as well as the Rank EX Ionian Hetairoi, Army of the King, which could summon forth tens of thousands of Heroic Spirits.
+      Though he never really appeared in Case Files himself, his influence was enormous.
+      Even Heartless himself had an undeniable eye for him. Due to his great exploits in life, some say he was chosen by the twelve historical Gods of Olympus{{n1}}…Heartless’ plan began from that anecdote.
+      Though it can’t be said whether the words Gray heard at the end of Case Files truly belonged to him or not, the resurrection of the box in her hands was unquestionably a miracle.
+    note:
+      n1: "Depending on interpretation, this phrase could also be translated to mean “he was chosen as one of the twelve historical Gods of Olympus.”"
+  ja:
+    content: |-
+      征服王イスカンダル。もしくはアレクサンダー大王とも。
+      世界史全体を見渡しても、これほどの偉業をなしたものが何人いるかという大英雄。
+      第四次聖杯戦争においてはライダーとして現界し、ウェイバー・ベルベットのサーヴァントとなった。宝具はフェイカーの『魔天の車輪』の原型となった『神威の車輪』による蹂躪走法、そしてランクEX、数万の英霊を呼び出す『王の軍勢』。
+      事件簿においてはほぼ本人は登場しなかったが、その存在感は絶大。
+      ハートレスによって目をつけられたのも、むべなるかな。あまりの偉業ぶりから歴史上オリンポス十二神に選ばれかけたこともある……という逸話より、ハートレスの計画が始まったのだった。
+      本編最後にグレイが聞いた言葉が、本当にイスカンダルのものだったかどうかは分からないが、彼女の手の中に蘇った匣だけは、紛うことなき本物の「奇跡」であった。
+    note: {}
+  zh:
+    content: |-
+      征服王伊斯坎达尔。也可以称作亚历山大大帝。
+      纵观整个世界史，也没有多少人能达成他那般伟业的大英雄。
+      在第四次圣杯战争作为Rider现界，成为韦伯·维尔维特的从者。宝具是通过作为Faker的『魔天之车轮[Hecatic Wheel]』原型的『神威之车轮[Gordius Wheel]』发动的蹂躏跑法，以及Rank EX，能召唤出数万英灵的『王之军势[Ionioi Hetairoi]』。
+      在事件簿中本人基本没有登场，但存在感非常强。
+      他会被哈特雷斯看中，也在情理之中。由于他的显赫伟业，历史上也有着他被奥林匹斯十二神选中的传说……据此，哈特雷斯开始了他的计划。
+      虽然不知道在本篇最后，格蕾听到的话是否真的由伊斯坎达尔所讲，但唯独在她手中复活的盒子，是千真万确的真正「奇迹」。
+    note: {}

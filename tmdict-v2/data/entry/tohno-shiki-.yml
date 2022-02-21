@@ -1,0 +1,72 @@
+---
+id: tohno-shiki-
+
+en: t
+ja: to
+furigana: とおのシキ
+title:
+  en: Tohno SHIKI
+  ja: 遠野シキ
+  zh: 远野四季
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 43
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The true eldest son of the Tohno family.
+      He was always pretty talkative and brash, but after Roa surfaced he got even chattier.
+      His having a different appearance in the Arcueid and Akiha routes is just a little bit of fan service.
+      After all, the only real difference between the two is whether or not Roa or SHIKI’s consciousness is stronger, but we thought it would be pretty terrible if the player had to keep seeing the same face pop up over and over as the villain in a game as long as <em>Tsukihime</em>, so we gave them different sprites.
+      By the way, since Akiha is “Aki (Autumn),” his nickname among the staff is “Haruo (Spring Boy).”
+    note: {}
+  ja:
+    content: |-
+      シキは四季と書く。遠野家の本当の長男。
+      昔っからお喋りで図々しかったが、ロアが表層に出てきてからはもっとお喋りになった。
+      アルクェイドルートと秋葉ルートで立ち絵が違うのはちょっとしたサービス。
+      ロアの意識が強い場合とシキの意識が強い場合の変化なのだが、これだけ長いゲームだと敵役の顔の変化ぐらいないとやってられないだろう、というコトで違う立ち絵になりました。
+      スタッフ内では秋葉が秋なので四季はハルオと呼ばれている。
+    note: {}
+  zh:
+    content: |-
+      Shiki。汉字写作四季，远野家真正的长男。
+      从以前开始说话就很厚颜无耻，当罗亚的意识显现于表层时又变的更多话。
+      ARC线与秋叶线中的立绘不同是给玩家的小服务。
+      罗亚的意识主导时，虽然立绘跟四季的意识主导时有些变化，但是这样在漫长的游戏中作为敌人的脸部变化是不够的，也因此立绘才会有所不同。
+      在工作人员间，秋叶被称作秋，四季则被称作春夫。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 67
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The true eldest son of the Tohno family.
+      He was always pretty talkative and brash, but after Roa surfaced he got even chattier. His having a different appearance in the Arcueid and Akiha routes is just a little bit of fan service. After all, the only real difference between the two is whether or not Roa or SHIKI’s consciousness is stronger, but we thought it would be pretty terrible if player had to keep seeing the same face pop up over and over as the villain in a game as long as <em>Tsukihime</em>, so we gave them different sprites.
+      He is a handsome young man, casually dressed in traditional Japanese clothes. Somehow, he has the air of a haiku poet about him.
+      One of his abilities as a demon hybrid is a “death-resistant body.” Just as it sounds, it means he has a body that will not die. However, this is not the ability to heal wounds, but the ability to reconfigure his body in order to survive despite his wounds. It is this ability to freely manipulate his flesh that allows him to use his own spilled blood as a sword by coagulating it.
+      …He is yet one more hapless victim of the Infinite Reincarnator, Roa.
+    note: {}
+  ja:
+    content: |-
+      シキは四季と書く。遠野家の本当の長男。
+      昔っからお喋りで図々しかったが、ロアが表層に出てきてからは更にお喋りになったようだ。アルクェイドルートと秋葉ルートで立ち絵が違うのはちょっとしたサービス。ロアの意識が強い場合とシキの意識が強い場合の変化なのだが、これらだけ長いゲームだと敵役の頭の変化ぐらいないとやってられないだろう、というコトで違う立ち絵になった。
+      和服をザラッと着流した美形の青年。なんとなく俳人っぽい。
+      混血としての能力は“拒死性肉体”。簡単には死なない体質で、大きな傷を負うと、その傷を治すのではなく、傷を負ったままでも生きていけるよう、肉体を作り替える能力だ。自身の肉体を自在に動かす、という能力故か、自身の血液を武器にする。流出させた血液を時間差で凝結させ、刃として扱う。
+      ……転生無限者ロアに浸食された犠牲者の一人。
+    note: {}
+  zh:
+    content: |-
+      SHIKI写成四季。远野家原本的长子。
+      以前就爱说话烦人，罗亚出现在意识表层之后似乎更加变得爱说话。爱尔奎特线和秋叶线的立绘有所不同是为小小地服务下玩家。罗亚意识主导的时候和四季意识主导的时候是有变化的，
+      但重要的是漫长的游戏里敌人的脸都没什么变化的会变得没有干劲吧，所以就做不同的立绘。
+      作为混血的能力是“拒死性肉体”。简单的说是就不会简单死去的体质，即使受了重伤，不去治也能活下去，制造肉并替换的能力。能够自由自在驱使自己的肉体。因为这个能力，能把血液作为武器。让流出的血液经过时间差使之凝结，作为刀刃使用。
+      被无限转生者罗亚侵蚀的受害者之一。
+    note: {}

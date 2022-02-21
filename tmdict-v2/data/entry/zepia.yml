@@ -1,0 +1,39 @@
+---
+id: zepia
+
+en: z
+ja: su
+furigana: ずぇぴあ
+title:
+  en: Zepia
+  ja: ズェピア
+  zh: Zepia
+
+entry:
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 52
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Zepia Eltnam Oberon.
+      A man who was head of the Eltnam family, famed within the Atlas Institute, one of the three great branches of the Association.
+      Though he was crowned with the name of Atlasia, he withdrew from the Association for a certain reason. Subsequently, the Eltnam family fell into decline.
+      The last anybody heard of him was 500 years ago, in Transylvania.
+    note: {}
+  ja:
+    content: |-
+      ズェピア・エルトナム・オベローン。
+      魔術協会三大部門・アトラス院において、名門とされるエルトナムの当主だった男。
+      アトラシアの名を冠するが、故あって魔術協会から脱会。エルトナムの名を地に堕としてしまう。
+      五百年前、トランシルヴァニアにて消息を絶つ。
+    note: {}
+  zh:
+    content: |-
+      茨比亚·艾尔特拉姆·奥贝隆。
+      曾是魔术协会三大部门·阿特拉斯院中名门艾多纳姆家族当家的男子。
+      被授予阿特拉西亚之名，却因故脱离了魔术协会。艾多纳姆家族由此衰落。
+      五百年前消失在了特兰西瓦尼亚。
+    note: {}

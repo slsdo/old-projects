@@ -1,0 +1,47 @@
+---
+id: ilumia
+
+en: i
+ja: i
+furigana: いるみあ
+title:
+  en: Ilumia
+  ja: イルミア
+  zh: 伊尔米娅
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 11
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      A nun from Gray’s hometown.
+      Such was her front, actually being an armed agent of the Holy Church.
+      The illegitimate child of a Cardinal, she was entrusted to the Church in order to keep the affair a secret, but that was a history that didn’t bother her in the slightest. Instead, she one hundred percent accepted her current position of delivering punishment without hesitation to those that stray from the will of God.
+      Within the Church, she was a typical representative of the Conservative faction, and as such was somewhat opposed to Father Fernando, but on a personal level she was quite fond of him.
+      A hard puncher who rampages with the Ash Lock, a weapon of the Executors. Though she typically uses her fists to strike out at the world, she is capable with her feet as well.
+      The author is particularly fond of her slightly thicker lips and freckled complexion, like one might see in a foreign drama. Furthermore, the “preference” Father Fernando pointed out of hers was, pretty much just as he said, that cheeky girls like Reines are right within her strike zone.
+    note:
+      n1: "Also translated as “Irmia.”"
+  ja:
+    content: |-
+      グレイの故郷のシスター。
+      というのは隠れ蓑で、実際は聖堂教会の武闘派。
+      枢機卿の隠し子という表沙汰にはできない立ち位置のため、聖堂教会へ送られたわけだが、本人はそういう経歴をまったく苦にしていない。むしろ、主の意に沿わぬものどもを躊躇なく懲罰できる今の立場を百パーセント享受している。
+      聖堂教会でも、守旧派では典型的な思想であり、フェルナンド司祭とは何かと対立していたが、個人としてはそこそこ好感を持っていた。
+      代行者の装備・灰錠で暴れまくる、ハードパンチャー。わりと世界を狙える拳だが足も平気で出る。
+      海外ドラマにいそうな、そばかすと少し厚めの唇が、作者的にお気に入り。なお、フェルナンド司祭が指摘した偏愛は、わりとそのまんまで、ライネスのような生意気そうな少女が、彼女のストライクなのだった。
+    note: {}
+  zh:
+    content: |-
+      格蕾故乡的修女。
+      不过这只是伪装，实际上是圣堂教会的武斗派。
+      由于是枢机主教的私生女这种无法张扬的身份，所以被送往圣堂教会，但本人完全不因这段经历感到痛苦。反而是百分百地享受现在这种能够毫不犹豫地惩罚不遵从主之教诲的家伙们的身份。
+      在圣堂教会中，守旧派也是很典型的思想，因此与费尔南德司祭在各方面都存在对立，但就个人而言其实对其抱有一定的好感。
+      使用代行者的装备·灰锭横冲直撞的Hard Puncher。其实是以问鼎世界为目标的拳头，但也会若无其事地使出踢击。
+      在海外电视剧中常见的雀斑和稍显丰厚的嘴唇是作者个人喜好。另外，费尔南德司祭指出的偏爱（性癖），其实说得挺准确的，像莱妮丝那样的傲慢不逊的少女正中她的好球带。
+    note: {}

@@ -1,0 +1,33 @@
+---
+id: geryon-ashbourne
+
+en: g
+ja: ke
+furigana: げりゅおんあっしゅぼーん
+title:
+  en: Geryon Ashbourne
+  ja: ゲリュオン・アッシュボーン
+  zh: 革律翁·阿修伯恩
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 25
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The deceased man who set up the very first incident in Adra, the Castle of Separation.
+      A magus bearing the name of “the monster of Heracles’ tenth labor.” The miracle of the man known as the Master of Restoration was, after a fashion, realized in his generation. But that miracle was not the restoration the rumors had promised, but the use of a Magic Crest to take control over another’s body…
+    note: {}
+  ja:
+    content: |-
+      第ーの事件・剥離城アドラのきっかけとなった故人。
+      ヘラクレスの「十番目の試練で現れた怪物」の名を持つ魔術師。修復師とも呼ばれたアッシュボーンの奇跡は、彼の代である意味の完成を見た。しかし、それは喧伝していたような修復ではなく、魔術刻印による他者の乗っ取りにほかならなかった……。
+    note: {}
+  zh:
+    content: |-
+      作为第一个事件·剥离城阿德拉契机的已逝之人。
+      拥有赫拉克勒斯「第十个试练中出现的怪物」之名的魔术师。也被称作修复师的阿修伯恩的奇迹，某种意义上可以说是在他那一代得以完成。然而，并不是其极力宣传的所谓修复，就只是抢夺他人的魔术刻印罢了……
+    note: {}

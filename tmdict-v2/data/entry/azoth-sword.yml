@@ -1,0 +1,30 @@
+---
+id: azoth-sword
+
+en: a
+ja: a
+furigana: あぞっとけん
+title:
+  en: Azoth Sword
+  ja: アゾット剣
+  zh: Azoth剑
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 31
+  category:
+  - mystic-code
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      時臣から綺礼に贈られた短剣。綺礼が遠坂の魔道を修め、見習いの過程を終えたことを証明する品。時臣殺害の凶器となり、後に綺礼から何も知らない凛へと贈られた。さらに因果は巡り、10年後となる第五次聖杯戦争においては、この剣が綺礼に致命傷を負わせるに至る。斬り合うための武器ではなく、魔術行使を補助・強化するための、いわば魔杖のような礼装。なお、オリジナルは中世後期におけるスイスの錬金術師・パラケルススが愛用した剣とされている。
+    note: {}
+  zh:
+    content: |-
+      时臣赠予绮礼的短剑。证明绮礼结束修行远坂魔道，见习过程的物品。成为杀害时臣的凶器，之后绮礼将其赠给了什么都不知道的凛。天道好轮回，10年后的第五次圣杯战争中，这把剑也使绮礼背负了致命伤。并非用于相互劈砍的武器，而是辅助·强化魔术行使的，可说是魔杖的礼装。顺带，原型[Original]被认为是于中世纪后期瑞士[Swiss]炼金术师·帕拉塞尔苏斯[Paracelsus]所爱用的剑。
+    note: {}

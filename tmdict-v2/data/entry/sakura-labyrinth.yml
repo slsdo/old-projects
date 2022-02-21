@@ -1,0 +1,39 @@
+---
+id: sakura-labyrinth
+
+en: s
+ja: sa
+furigana: さくらめいきゅう
+title:
+  en: Sakura Labyrinth
+  ja: サクラ迷宮
+  zh: 樱之迷宫
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 66
+  category:
+  - location
+  img: ""
+  en:
+    content: |-
+      The mysterious structure that appeared on the far side of the Moon.
+      It mimics the arena of the Holy Grail War on the surface. It is an area that continues to maintain the existence of real numbers inside the imaginary number space, where maintaining a fixed form is a difficult task.
+      Nestled closely around the trunk of a giant sakura tree, it wraps further and further down. This is the source of the name Sakura Labyrinth. The student council deems the Sakura Labyrinth to be getting out of hand and comes up with some alternative plans for it, but all the plans are pretty bad….
+      By the way, initially it was called Sakura Dungeon. But the directness of this name, which evokes the idea that you have to bust in and clear everything inside, was thought to be pretty disgusting, so when the new visuals for this area came along the name was axed and changed to Sakura Labyrinth. With this we managed to decrease the amount of linguistic obscenity in CCC.
+    note: {}
+  ja:
+    content: |-
+      月の裏側に出現した謎の構造体。
+      表の聖杯戦争におけるアリーナを模して作られたもので、定型を保つコトが困難な虚数空間の中でも実数を保ち続けられる領域。
+      巨大な桜の樹に寄り添うように下へ下へと続いている。サクラ迷宮、という名称はこれに由来する。生徒会では「サクラ迷宮ではあんまりなので」と代案もあげられたが、そのどれもが酷いものだった……。
+      ちなみに初期名称はサクラダンジョン。ダンジョンに突入する、攻略する、という響きが直接的でいやらしかったのだが、新ビジュアルの完成と共に没となった。ちょっと淫靡[いんび]さが減ったCCCでしたとさ。
+    note: {}
+  zh:
+    content: |-
+      月之里侧出现的迷之构造体。
+      模仿表侧圣杯战争中的Arena做出来的东西，在保持定型十分困难的虚数空间中也算是持续保持实数的领域。
+      像是贴近巨大的樱花树一样不断地向下再向下。Sakura迷宫，这个名字就是由此而来。学生会表示“Sakura迷宫太过那个啥”也有替代方案，但是全都是些过分的东西……
+      顺道一提初期名称是Sakura Dungeon。突入Dungeon、完成攻略，这种说法直接而令人生厌，在新的visual完成的同时就废弃了。让CCC稍微减少了些淫靡感。
+    note: {}

@@ -1,0 +1,45 @@
+---
+id: branching-choices
+
+en: b
+ja: se
+furigana: せんたくし
+title:
+  en: Branching Choices
+  ja: 選択枝
+  zh: 选择
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 98
+  category:
+  - event
+  img: ""
+  en:
+    content: |-
+      These appear when some kind of reaction is desired with respect to what’s currently happening in the game.
+      You must choose just one option from the many possible actions.
+      Only when the branching choices appear is the flow of the story interrupted, and the player imposes his/her own decision and opinion in the place of the protagonist.
+      A situation where a “response” occurs during a conversation, all branching paths resulting from the “responses” have equal value, and we want you to reply as you think the protagonist would.
+      Choosing the silly replies is also one of EXTRA’s real pleasures.
+      Contrary to what you might think, the silly replies actually often bring out a hidden side of the characters.
+    note: {}
+  ja:
+    content: |-
+      いま起きている出来事に対して、何らかの反応を求められた時に出るもの。
+      アナタは複数の行動の中から一つの答えを選択しなくてはならない。
+      この時ばかりはストーリーの流れではなく、ブレイヤーが主人公として決断・発言する。
+      会話中に起こる「返答」の場合、すべての選択枝はどれも等価値なので、プレイヤーが思い描く“主人公像”として返答してあげてほしい。
+      バカ回答を選ぶのもEXTRAの醍醐味である。
+      むしろバカ回答ほど、相手の隠された一面を引き出す事が多い。
+    note: {}
+  zh:
+    content: |-
+      面对当前发生的事件，寻求某种反应而出现的东西。
+      你必须在复数的行动当中选择一个回答。
+      这时候假定是故事的进展中断，由玩家作为主角来做出决断、发言。
+      会话中所发生的“回答”的场合，一切的选择肢都是等价的，希望玩家能作为心中描绘的“主人公像”来回答。
+      选择愚蠢回答也是EXTRA的妙趣。
+      当然，愚蠢回答大多是引出对手隐藏的一面。
+    note: {}

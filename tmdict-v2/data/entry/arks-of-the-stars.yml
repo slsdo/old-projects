@@ -1,0 +1,40 @@
+---
+id: arks-of-the-stars
+
+en: a
+ja: ho
+furigana: ほしふね
+title:
+  en: Arks of the Stars
+  ja: 星舟
+  zh: 星舟
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 48
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      The containers that the predatory Umbral Star{{n1}} drops upon the domain that has been targeted as an object for harvest.
+      They are space vessels that lack the ability to navigate via spatial jumping, and are loaded with one fighting unit whose mission is to destroy civilization.
+      Altera’s Ark of the Stars is numbered “Velber 02.”
+      Each Ark has inherited the characteristics of a different alien civilization, so the contents of Velber 01 and Velber 03 are completely distinct organisms right down to their manner of existence.
+    note:
+      n1: "捕食遊星 (hoshoku yuusei), Wandering Star of Predation."
+  ja:
+    content: |-
+      捕食遊星から、収穫の対象をなった領域に落とされるコンテナ。
+      空間跳躍航行機能のない宇宙船であり、文明を破壊する為の内部ユニットが一騎ずつ搭載されている。
+      アルテラの星舟はヴェルバー02（ツー）とナンバリングされている。
+      星舟はそれぞれが個別の異星文明を継承したものなので、ヴェルバー01とヴェルバー02の中の個体は、その生命形態からして別のものである。
+    note: {}
+  zh:
+    content: |-
+      自捕食游星而来的容器，会降落于成为收获对象的领域。
+      太空船中并未具备空间跳跃航行机能，只搭载一个为破坏文明而存在的内部单位。
+      阿提拉的星舟被编号为威尔帕02。
+      由于星舟各自继承了个别的异星文明，威尔帕01与威尔帕02中的个体从生命型态开始便迥然相异。
+    note: {}

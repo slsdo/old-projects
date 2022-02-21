@@ -1,0 +1,33 @@
+---
+id: creampuff-dream-rem
+
+en: c
+ja: ku
+furigana: くりーむぱふどりーむれむ
+title:
+  en: Creampuff Dream REM
+  ja: クリームパフドリームレム
+  zh: Cream Puff Dream REM
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 21
+  category:
+  - technique
+  img: ""
+  en:
+    content: |-
+      Len’s Last Arc. A dreamlike crushing attack using Len’s favorite food, cake.
+      By the way, it might come as a surprise, but it seems that Len prefers semi-sweet cakes, while White Len is the one partial to strawberry shortcake.
+    note: {}
+  ja:
+    content: |-
+      レンのラストアーク。レンの大好物・ケーキによる夢の大圧殺攻撃。
+      ちなみにレンは少し甘さ抑えめのケーキを好むようだ。意外な事にいちごのショートケーキが好きなのは白いレンの方だったりする。
+    note: {}
+  zh:
+    content: |-
+      莲的Last-Arc。利用莲非常爱吃的东西·蛋糕的梦之大压杀攻击。
+      顺便一提，莲似乎喜欢稍微抑制点甜味的蛋糕。意外的是喜好草莓奶油蛋糕的是白莲这边什么的。
+    note: {}

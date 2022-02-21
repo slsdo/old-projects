@@ -1,0 +1,36 @@
+---
+id: leandra
+
+en: l
+ja: re
+furigana: れあんどら
+title:
+  en: Leandra
+  ja: レアンドラ
+  zh: 蕾安德拉
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 67
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The auctioneer of the Rail Zeppelin.
+      One who knew the former owner. While riding the train of the Dead Apostle, she was responsible for moving hundreds of millions of dollars worth of money, which was thought to be a cause of significant anxiety for her.
+      In the original plans, her right hand had a large number of Mystic Eyes implanted within it to aid in the process of transplanting, but it was never shown in the story.
+    note: {}
+  ja:
+    content: |-
+      魔眼蒐集列車における、魔眼オークションのオークショナー。
+      かつての支配人を知るひとり。死徒の列車に乗りながら、数億ドルという金額を左右に動かさねばならないのだから、かなりの心労があったと思われる。
+      彼女の右手には、移植用の魔眼が大量に植え付けられているなどの設定があったが、披露されることはなかった。
+    note: {}
+  zh:
+    content: |-
+      魔眼搜集列车中的魔眼拍卖会的拍卖师。
+      认识以前的经理的人之一。搭乘死徒的列车，同时还必须得经手数亿美元的金额，给人一种非常劳累的印象。
+      虽然存在着她的右手植有大量的移植用魔眼等设定，但并没有公布。
+    note: {}

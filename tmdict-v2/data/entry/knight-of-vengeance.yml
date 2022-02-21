@@ -1,0 +1,84 @@
+---
+id: knight-of-vengeance
+
+en: k
+ja: fu
+furigana: ふくしゅうき
+title:
+  en: Knight of Vengeance
+  ja: 復讐騎
+  zh: 复仇骑士
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 52
+  category:
+  - nickname
+  img: ""
+  en:
+    content: |-
+      A knight that lives only for revenge.
+      One of the protagonists of <em>Tsukihime 2</em>.
+      Because some part of him still exists as a human, the nerves in his right hand are destroyed every time he uses his demonic sword. Because he is a Dead Apostle, his left hand rots when he uses his Holy Burial Artillery Scripture.
+      As for who performs maintenance on the Artillery Scripture, well, of course it’s “that person.”
+      ———Six vampires gathered in the English countryside, in order to flush out the last True Ancestor. They were Dead Apostle Ancestors, one and all, bound by a pact of nonaggression. But little did they know that the Knight of Vengeance in their ranks was burning with ambition and treachery.
+      Suddenly, an ambush! It was the protector of the Princess, the god of death, Shiki the Killer. In order to further his own goals, the Knight of Vengeance had struck a deal with Shiki in private.
+      …It’s a tense sort of setting where two mortal enemies are nevertheless cooperating with each other for reasons unknown.
+      Oh, by the way, <em>Tsukihime 2</em> will be a light gun arcade game like House of the Dead 2. GOOOOOLDMAAAAAN!!!
+    note: {}
+  ja:
+    content: |-
+      復讐に生きる騎士。
+      月姫2（だからいいのかって）における主人公の一人。
+      まだ人間としての部分があるため、魔剣を扱うたびに右手の神経は破壊され、死徒であるために聖葬砲典を扱う左手は腐っていく。
+      砲典のメンテナンスをするのは、お約束だがあの人だったり。
+      イギリスの片田舎、最後の真祖を狩り出す為に集まった六人の死徒。彼らこそ互いに不可侵を守っていた二十七祖であり、その中には野望に燃える復讐騎の姿があった。
+      迎え撃つは姫君の守り手といわれる死神、殺人貴。復讐騎は己が目的のため、秘密裏に殺人貴と手を組むのであった。ばばーん！
+      復讐騎は殺人貴と隙あらば殺し合う、という関係のクセになんだかんだと協力しあって死徒を狩っていく、という予定。
+      というわけで、月姫2ははうすおぶざでっど2ばりのガンシューティングです。ゴールドマン様ぁぁぁぁぁ！
+    note: {}
+  zh:
+    content: |-
+      为复仇而生的骑士。
+      月姬2（这样真的可以吗？）中登场的角色。
+      身上还有一部分是人类，所以使用魔剑的右手神经遭到破坏。
+      同时因为是死徒，使用圣葬砲典的左手也在腐坏。
+      为其维修砲典的，是大家都知道的那个人。
+      在英国的乡间，为了猎杀最后真祖所聚集起来的六个使徒。
+      约定了互不侵犯的二十七祖，其中就有着怀有野心的复仇骑士。
+      而迎击他们的，是公主的守护者，死神，杀人贵。
+      不过复仇骑士为了自身的利益，暗地里与杀人贵合作，登登———!
+      明明复仇骑士和杀人贵只要一有空隙就会互相厮杀，却还是协力狩猎死徒，是这么预定的。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 79
+  category:
+  - nickname
+  img: ""
+  en:
+    content: |-
+      A knight that lives only for revenge. If there’s ever a <em>Tsukihime 2</em>, he’ll be one of the protagonists.
+      Of course, this refers to Enhance, one of the 27 Dead Apostle Ancestors. Because some part of him still exists as a human, the nerves in his right hand are destroyed every time he uses his demonic sword. Because he is a Dead Apostle, his left hand rots when he uses his Holy Burial Artillery Scripture.
+      It’s rumored that the one who performs maintenance on the Artillery Scripture is none other than the Church’s number one gun nut.
+      ———Six vampires gathered in the English countryside in order to flush out the last True Ancestor. They were Dead Apostle Ancestors, one and all, bound by a pact of nonaggression. But little did they know that the Knight of Vengeance in their ranks was burning with ambition and treachery.
+      Suddenly, an ambush! It was the protector of the Princess, the god of death, Shiki the Killer. In order to further his own goals, the Knight of Vengeance had struck a deal with Shiki in private.
+      …Well, that’s what was in the preview trailer during the school festival in <em>Kagetsu Tohya</em>, anyway. In reality, even the staff has no idea if anything will ever come of it.
+    note: {}
+  ja:
+    content: |-
+      復讐に生きる騎士。月姫2があるのなら主人公の一人になるのでは……と目される人物。
+      死徒二十七祖の一人、エンハウンスの事。まだ人間としての部分がある為、魔剣を扱う度に右手の神経は破壊され、死徒である為、聖葬砲典を扱う左手は腐っていく。
+      砲典のメンテナンスをするのは、教会一の火器好きと噂されるあの人。
+      ―――イギリスの片田舎、最後の真祖を狩り出す為に集まった六人の死徒。彼らこそ互いに不可侵を守っていた二十七祖であり、その中には野望に燃える復讐騎の姿があった。迎え撃つは姫君の守り手といわれる死神、殺人貴。復讐騎は己が目的の為、秘密裏に殺人貴と手を組むのであった。ばばーん！
+      ……というのが歌月十夜の学園祭で明かされる月姫2の予告編トレーラー。実際、どんなものになるかはスタッフさえ予想できないそうだ。
+    note: {}
+  zh:
+    content: |-
+      为复仇而生的骑士。如果有月姬2的话被视为会成为主人公之一的人物。
+      死徒二十七祖之一，安翰斯就是他。因为还有人类肉身的部分所以持有魔剑的右手神经坏死。身为死徒的缘故操控圣葬礼炮的左手也在腐坏。
+      传闻为其维护炮典的是教会的一个火器爱好者。
+      ———英国的乡间田园，为了猎杀最后真祖而聚集起的六个死徒。他们是约定互不侵犯的的二十七祖，当中就有怀着巨大野心的复仇骑士的身影。迎击他们的正是被称为公主守护者的死神，杀人贵。而复仇骑士为了自己目的，已暗中于杀人贵联手。
+      这就是歌月十夜中学园祭中被曝光的月姬2预告篇的首章。其实，到底会变成什么样制作人员好像也没想好。
+    note: {}

@@ -1,0 +1,33 @@
+---
+id: takada-youichi
+
+en: t
+ja: ta
+furigana: たかだよういち
+title:
+  en: Takada Youichi
+  ja: 高田陽一
+  zh: 高田阳一
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 35
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A mysterious character who shows up from time to time. Though he seems like something you’d see in a manga, surprisingly he actually exists in reality. Details about his life are unknown, but you couldn’t ask for a better personality.
+      The motorcycle he rides is a Honda Dream 50.
+    note: {}
+  ja:
+    content: |-
+      ときおり顔を出す謎の人物。マンガみいたなキャラクターで、驚くべきことに実在の人物であったりする。詳細は不明だが、これ以上ないっていうぐらい人がいい。
+      乗ってるバイクはドリーム50。
+    note: {}
+  zh:
+    content: |-
+      偶尔露面的谜之人物，是个漫画般的角色，惊人的是似乎是个实在的人物。
+      虽然详细不明，但人好到几乎没人比他更好。 骑的摩托车是Dream 50。
+    note: {}

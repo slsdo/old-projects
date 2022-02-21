@@ -1,0 +1,54 @@
+---
+id: crimson-moon
+
+en: c
+ja: a
+furigana: あかいつき
+title:
+  en: Crimson Moon
+  ja: 朱い月
+  zh: 朱月
+
+entry:
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 1
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Ultimate One. Of all the True Ancestors, Arcueid is said to be the closest to the Crimson Moon. Specific details are unknown, however when she transformed into the Crimson Moon [in <em>Melty Blood</em>] it would appear that her attack names were already prepared. Also when Zepia transforms into TATARI, the Crimson Moon can be seen overhead. This is quite odd seeing as there is supposed to be a contract he made with Altrouge which entailed Altrouge turning him into TATARI until the next Night of the Crimson Moon 1000 years later…
+    note: {}
+  ja:
+    content: |-
+      究極体。真祖の中でコレに最も近いのがアルクェイドだと言われている。詳細は不明。が、アルクェイドが朱い月となったときの各技の名称はなぜか用意されていたりする。なお、ズェピアがタタリとなったときにも、この朱い月が頭上にあったという。彼は朱い月のアルトルージュとの契約により、千年後に再び訪れる朱い月の夜までタタリとなることを約束されたのだが……。
+    note: {}
+  zh:
+    content: |-
+      究极体。据说真祖之中最接近他的是爱尔奎特。详细不明。不过，不知为何预备了爱尔奎特变成朱月时的各技的名称。而且，茨皮亚成为Tatari时，这个朱月也在头上。他经由与朱月之Altrouge的契约，变成Tatari直到千年后再次到来的朱月之夜的但是……。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 2
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      Another name for the organism that was used as the template for the True Ancestors. Also known as the Crimson Moon Brunestud.
+      After he vanished, individuals close to him in power started being honored with the title of Brunestud.
+      However, in the long history of the True Ancestors, only two have ever received the name.
+    note: {}
+  ja:
+    content: |-
+      あかいつき。真祖の原形となったある生命体の別称。朱い月のブリュンスタッド、とも。
+      消滅後は朱い月の能力に近い個体にのみブリュンスタッドという称号が赠られるようになった。
+      ブリュンスタッドの名を冠する真祖は、彼らの長い歷史の中でも二体だけとされる。
+    note: {}
+  zh:
+    content: |-
+      成为了真祖之原形的某生命体的别称。朱月之布伦史塔德，也被这样称呼。
+      （被）消灭之后只对接近朱月能力的个体赠予布伦史塔德这个称号。
+      被冠以布伦史塔德之名的真祖，即使在他们悠长的历史之中也仅有两名。
+    note: {}

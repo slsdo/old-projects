@@ -1,0 +1,30 @@
+---
+id: assembly-of-the-eighth-sacrament
+
+en: a
+ja: ta
+furigana: だいはちひあとかい
+title:
+  en: Assembly of the Eighth Sacrament
+  ja: 第八秘蹟会
+  zh: 第八秘迹会
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 13
+  category:
+  - organization
+  img: ""
+  en:
+    content: |-
+      The Assembly of the Eighth Sacrament is a special agency charged with the recovery and management of holy artifacts. Kirei and Risei are members. The “Sacrament” in this agency’s name refers to the seven sacraments of the Catholic Church, which according to Catholic theology were entrusted to the Church by God. The “Eight Sacrament” refers to divine grace not derived from proper Catholic dogma. Accordingly, the agency is accustomed to engaging heretical powers beyond the scope of human understanding.
+    note: {}
+  ja:
+    content: |-
+      聖遺物の管理・回収を行う聖堂教会内の特務機関。綺礼や璃正が所属。組織名にある「秘蹟」とは、聖堂教会の教義において神から授かる7つの恵みを指す。その7つのどれにも属さない「第八」の秘蹟とは、正当な教義には存在しない恵みを示しており、それゆえに人智を超えた異端に深く関わる部署であることを意味する。
+    note: {}
+  zh:
+    content: |-
+      进行圣遗物的管理·回收圣堂教会内的特务机关。绮礼和璃正所属。组织名里的“秘迹”，指圣堂教会的教义中由神授予的7个恩惠。不属于那7个任何一个的“第八”的秘迹，表示不存在于正当教义的恩惠，因而意味着和超越人智的异端深切相关的部署。
+    note: {}

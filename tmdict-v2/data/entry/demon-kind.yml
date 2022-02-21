@@ -1,0 +1,35 @@
+---
+id: demon-kind
+
+en: d
+ja: ki
+furigana: きしゅ
+title:
+  en: Demon Kind
+  ja: 鬼種
+  zh: 鬼种
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 11
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      ① There are two types. First, those who are fundamentally different than humans, as in they existed as demons from the very start. Second, humans born with mutations that become demons.
+      ② True demons.
+    note:
+      n1: "Oni Kind."
+  ja:
+    content: |-
+      ①元から鬼と呼ばれる根本的に人間とは違う者達と、人が変異して鬼となった者達の2種類が存在する。
+      ②生粋の魔。
+    note: {}
+  zh:
+    content: |-
+      ①有两种类，分别是本来就被称为鬼的与人类有根本上不同的存在，以及由人变异成了鬼的存在。
+      ②地道的魔。
+    note: {}

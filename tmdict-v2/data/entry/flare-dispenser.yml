@@ -1,0 +1,30 @@
+---
+id: flare-dispenser
+
+en: f
+ja: fu
+furigana: ふれあでぃすぺんさー
+title:
+  en: Flare Dispenser
+  ja: フレアディスぺンサー
+  zh: 诱饵弹发射装置
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 18
+  category:
+  - armament
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      F15Jの機体下面から放たれた火球。もとは敵の熱線追尾ミサイルから逃れるために射出する囮装置。バーサーカーの魔力によって追尾性の焼夷兵器に変貌、アーチャーのヴィマーナを墜落させる原因となった。
+    note: {}
+  zh:
+    content: |-
+      火球从F15J的机身下面被放出。原本是为了从敌人的红外线追踪导弹[Missile]下逃跑而射出的诱饵装置。因Berserker的魔力而变成追踪性的烧夷兵器，也成了令Archer的维曼那[Vimana]坠落的原因。
+    note: {}

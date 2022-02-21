@@ -1,0 +1,34 @@
+---
+id: prelatis-spellbook
+
+en: p
+ja: fu
+furigana: ぷれらーてぃーずすぺるぶっく
+title:
+  en: Prelati’s Spellbook
+  ja: 螺湮城教本
+  zh: 螺湮城教本
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 41
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      キャスターが持つランクA+の対軍宝具。所有者に大量の魔力を供給する魔導書であり、術者の魔力に関係なく大魔術・儀礼呪法レベルの魔術を使うことができる。また、深海の怪魔の類を召喚・使役することが可能。人間の皮で装丁されており、太古の邪神にまつわる禁断の知識が記されているという。キャスターが持つのは魔術師フランソワ・プレラーティによって記されたイタリア語の写本で、底本は中国・夏王朝時代の漢文だったと言われている。
+    note:
+      n1: "プレラーティーズ・スペルブック"
+  zh:
+    content: |-
+      {{n1}}
+      Caster所持有的Rank A+的对军宝具。给所有者供给大量魔力的魔导书，可以使用和术者魔力无关的大魔术·仪礼咒法等级[Level]的魔术。另外，可以召唤·使役深海的怪魔类。由人类的皮装订，记载着关于太古邪神的禁断的知识。Caster持有的是由魔术师弗朗索瓦·普雷拉蒂[François·Prelati]记写的意大利[Italy]语抄本，底本据说是用中国·夏王朝时代的汉文。
+    note:
+      n1: "Prelati’s·Spellbook"

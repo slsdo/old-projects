@@ -1,0 +1,36 @@
+---
+id: luminosite-eternelle
+
+en: l
+ja: ri
+furigana: りゅみのじてえてるねっる
+title:
+  en: Luminosité Eternelle
+  ja: 我が神はここにありて
+  zh: 吾神在此
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 103
+  category:
+  - noble-phantasm
+  img: fam_luminosite-eternelle.png
+  en:
+    content: |-
+      God is Here With Me. Ruler’s Noble Phantasm. By brandishing her holy flag, she can convert her EX rank Magic Resistance skill into an equally powerful defense that blocks all physical attacks. It is the crystallization of the legend of Jeanne d’Arc waving her flag on the battlefield and fighting to the very end with hardly any wounds.
+      However, each time she uses it, she accumulates damages, so naturally she can’t withstand an Anti-Fortress Noble Phantasm multiple times in a row. Also, only Heroic Spirits who had witnessed Jeanne’s legend in life—in other words, only Gilles, in his past form as a Marshal of France, can use this Noble Phantasm besides Jeanne.
+      There are various theories about the flag’s design, with many popular suggestions featuring angels or flowers (specifically, the iris flower). Incidentally, Jeanne uses this flag mostly to attack in battle. “There’s a spear-point at the tip, so it’s a divine sign that this flag should be used to strike the enemy,” is what she says as an excuse each time one of the Servants she passes judgement on protests about it. Please stop.
+    note: {}
+  ja:
+    content: |-
+      リュミノジテ・エテルネッル。ルーラーの宝具。聖旗を掲げることで、EXランクの対魔カスキルをそのまま物理攻撃を含めた防御に変換する。戦場において旗を振り、ほとんど傷を負うことなく最後まで戦い抜いた伝説の具現化。
+      ただし使用する度にダメージが蓄積していくため、さすがに対城クラスの宝具を何発も受けては耐えられない。また、当時ジャンヌの伝説を間近で見た英霊———即ち、フランス軍元帥だった時代のジルのみ、この宝具を活用することができる。
+      旗のデザインは諸説あり、一般的には天使や花（アイリス）をあしらったものが多い。ちなみにジャンヌはこの旗をもっぱら攻撃に活用している。「穂先に槍がついています、つまりこの旗で殴れよという啓示でしょう」と本人は裁くべきサーヴァントに抗議される度に弁解している。やめてあげて。
+    note: {}
+  zh:
+    content: |-
+      Luminosité Eternelle。Ruler的宝具。透过揭示圣旗，将EX等级的对魔力转换为包含对物理攻击的防御力。乃是在战场上挥舞旗帜、近乎无伤地战胜到最后的传说具现化。
+      只不过每次使用都会蓄积伤害，再怎么说也没有无限承受对城等级宝具的能耐。此外，当时在身边见证了贞德传说的英灵───也就是只有任职法国军队元帅时期的吉尔能够活用这个宝具。
+      旗帜的设计众说纷纭，一般的说法都以天使或花（鸢尾花）为多数。附带一提贞德专门使用这面旗子来攻击。本人在遭到旗子制裁的从者面前总是以“（旗子）前端装了枪尖，也就是要我用这面旗子来殴打别人的启示对吧”来辩解。请阻止她。
+    note: {}

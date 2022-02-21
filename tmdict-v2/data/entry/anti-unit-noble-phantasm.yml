@@ -1,0 +1,32 @@
+---
+id: anti-unit-noble-phantasm
+
+en: a
+ja: ta
+furigana: たいじんのうぶるふぁんたずむ
+title:
+  en: Anti-Unit Noble Phantasm
+  ja: 対人宝具
+  zh: 对人宝具
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 12
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      {{missing}}
+    note:
+      n1: "Also translated as Anti-Personnel or Anti-Person Noble Phantasm."
+  ja:
+    content: |-
+      敵1体や自分自身など、限定された相手を対象とする宝具。魔力の消費量が少なく、主に1対1の戦いでその効果を発揮する。「破魔の紅薔薇（ゲイ・ジャルグ）」や「騎士は徒手にて死せず（ナイト・オブー・オーナー）」などがこれにあたる。
+    note: {}
+  zh:
+    content: |-
+      敌1体或自己自身等，以被限定对手为对象的宝具。魔力的消费量很少，主要是在1对1的战斗发挥效果。“破魔的红蔷薇（Gae·Dearg）”和“骑士不死于徒手（Knight·of·Owner）”等属于这类。
+    note: {}

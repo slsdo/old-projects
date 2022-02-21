@@ -1,0 +1,48 @@
+---
+id: ouji-misaya
+
+en: o
+ja: o
+furigana: おうじみさや
+title:
+  en: Ouji Misaya
+  ja: 黄路美沙夜
+  zh: 黄路美沙夜
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 11
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A girl in her late teens. A fairy-user. 
+      She was a student of the Reien Girls Academy, and an upperclassman of Kokutou Azaka. 
+      Misaya was a talented girl who was the chairwoman of the student committee until the last year, an impeccable mistress. 
+      Azaka once said, she was more of an intimidating empress rather than a cute princess.
+      She led the mindless familiars while conducted multiple parallel cognitive processes, demonstrating characteristics found in alchemists.
+      This was probably because the magus who acted as her mentor was a student of Atlas.
+      Although she clashed with Azaka like water and oil, their secret desires were very similar.
+    note: {}
+  ja:
+    content: |-
+      十代後半の少女。妖精遣い。
+      礼園女学院の生徒で、黒桐鮮花[こくとうあざか]の先輩にあたる。
+      昨年まで生徒会の会長を務めていた才女で、非の打ち所のないお嬢様である。
+      鮮花曰[いわ]く、可愛らしい王女さまというより、威厳のあるお妃[きさき]様。
+      意思を持たない使い魔たちを統率する司令塔。複数の思考を同時に走らせるのは錬金術師の特性。
+      彼女の師である魔術師が、かのアトラスの院生だった為だろうか。
+      鮮花とは水と油だが、隠し持つ願望は似通[にかよ]っている。
+    note: {}
+  zh:
+    content: |-
+      15–19岁的少女。妖精使者。
+      礼园女学院的学生，是黑桐鲜花的学姐。
+      去年为止担任学生会长的才女，无可挑剔的大小姐。
+      鲜花曰，与其说是可爱的公主，更不如说是有威严的皇妃。
+      统帅没有意识的使魔们的指挥。同时进行复数的思考是炼金术士的特性。
+      大概是因为身为她的老师的魔术师，曾是那个阿特拉斯学院的学生。
+      虽然与鲜花像油与水一样不合，但隐藏着的愿望相似。
+    note: {}

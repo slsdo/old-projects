@@ -1,0 +1,179 @@
+---
+id: ciel
+
+en: c
+ja: shi
+furigana: しえる
+title:
+  en: Ciel
+  ja: シエル
+  zh: 雪儿
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 26
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      One of the heroines in <em>Tsukihime</em>. An unidentified, mysterious upperclassman. Glasses.
+      She is the newest member of the Church’s inquisition force, the Burial Agency, and is tasked with punishing the Dead Apostle Roa.
+      She infiltrated Shiki’s school because she suspected him of being Roa’s reincarnation, but in the process of observing him she ended up being charmed by him instead.
+      It wasn’t something as simple as falling in love, of course. It’s just that she was moved by the fact that Shiki could lead such a carefree life despite having experienced death just like she had.
+      Due to a certain contradiction, she is an existence that cannot die no matter what happens. She is trying to destroy Roa in order to resolve this state of affairs.
+      She has excellent reflexes, and is number seven in the Burial Agency despite her young age.
+      In the Church, where magecraft is officially forbidden, the knowledge of magecraft she inherited from Roa is regarded as highly useful. However, Ciel herself hates drawing on Roa’s knowledge.
+      Within the Burial Agency she is known as “Bow,” due to her preference for using projectile weapons.
+      She fights using all sorts of projectiles—not just throwing swords, but guns as well. In fact, the one responsible for changing the Seventh Holy Scripture from a beast’s horn into its current shape was actually Ciel. It’s possible she went a little overboard with the customizations.
+      Before she was part of the Burial Agency, she was the daughter of a baker. Her dream was to become a cake maker.
+      Believe it or not, she was originally conceived of as an older-sister type character.
+      Her design was hard to pin down, too. Every time we were close to making a decision, it would suddenly change again.
+      By the way, apparently the reason she likes curry so much has something to do with her very first mission.
+    note: {}
+  ja:
+    content: |-
+      月姫におけるヒロインの一人。正体不明な謎の先輩。メガネ。
+      教会における異端審問の所轄・埋葬機関の新人で、死徒ロアの処罰を任されている。
+      志貴をロアの転生体とあたりをつけて学校に紛れ込むが、志貴を監視していく過程で志貴に惹かれてしまう困ったちゃん。
+      単に惚れっぽい、というワケではなく、自分と同じように一度死を体験している筈なのにのんびりと生きている志貴を「すごいなあ」と思いはじめた事がきっかけなのです。
+      ある矛盾を内包しているが為、どうあっても死なない存在。その矛盾を解決するためにロアを滅ぼそうとしている。
+      若輩ながら埋葬機関の七位にいるあたり、卓越した運動神経を持っている。
+      ロアから受け継いだ魔術知識は、表立っては魔術を禁じている教会で重宝されている。もっともシエル本人はロアの知識を引き出すのを嫌っているとか。
+      埋葬機関では『弓』と呼ばれるぐらい、飛び道具を愛用する。
+      投剣のみならず銃まで持ちだし、もとは獣の角だった第七聖典をあんなにしてしまったのはシエル本人。いくらなんでもカスタマイズしすぎである。
+      埋葬機関に所属する前はパン屋の娘さんだった。ケーキ職人になるのが夢。
+      なんと、初期コンセプトはお姉さんキャラ。
+      シエルのデザインは難航した方で、決定直前にガラリとデザインが変わりました。
+      余談ではあるが、カレー好きな理由はシエルの初仕事に原因があるらしい。
+    note: {}
+  zh:
+    content: |-
+      月姬的其中一位女主角。真实身分不明的谜之学姐。眼镜。
+      教会里的异端审问所属。埋葬机关的新人，任务是惩罚死徒罗亚。
+      把志贵当成罗亚的转生体而潜入学校，却在监视的过程中喜欢上志贵，令人困扰的女孩。
+      并不是单纯喜欢上，而是以觉得“明明和自己一样有过一次濒死经验，却还悠哉地活着的志贵好厉害啊”这件事为契机才开始。
+      因为有着某种矛盾，所以无论如何都不会死的存在。为了解决矛盾而打算消灭罗亚。
+      身为后辈却位居埋葬机关的第七位，拥有卓越的运动神经。
+      从罗亚继承来的魔术知识，被表面上禁止使用魔术的教会视为重宝。虽然雪儿本人对读取罗亚的知识感到厌恶。
+      爱用投掷道具的程度夸张到在埋葬机关被称为「弓」。
+      不只投剑，连铳都拿出来，把原本是兽角的第七圣典变成那样的正是雪儿本人。无论如何都改造改太大了。
+      进入埋葬机关之前是面包店的女儿。梦想是成为蛋糕师傅。
+      初期设定竟然是姐姐型角色。
+      雪儿的设定比较难搞，在定案之前曾大幅度改变设计。
+      顺带一提，会喜欢咖哩的原因似乎和她的第一份工作有关。
+    note: {}
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 10
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Her real name is Elisia. She is Shiki’s upperclassman, and known as Ciel to him. She awakened as a Dead Apostle in the past, and was once struck down by Arcueid, but for some reason her body can’t die. In <em>Melty Blood</em> that situation has already come to pass and is no longer an issue, so she is simply an amazing person in the game (even the great detective Hayakawa Ken is surprised by her…). She is the seventh ranking operative of the Burial Agency, and uses so many projectile weapons that her nickname is “Bow.” It was Ciel herself who customized The Horn of the Beast into its current form, The Seventh Holy Scripture.
+    note: {}
+  ja:
+    content: |-
+      本名はエレイシア。志貴の学校に先輩として通っているのでシエル先輩と呼ばれる。過去に死徒として覚醒し、一度はアルクェイドに討たれたが、その後ある理由から死ねない身体になってしまう。『メルティブラッド』ではその事件も解決しているようで、単なるスゴイ人らしい（その相変わらずの超人っぷりは早川健もびっくりだが）。吸血鬼を滅ぼす埋葬機関の第七位で、「弓」と称されるほど飛び道具を多用する。もともと獣の角でしかなかった第七聖典を現在の形にカスタマイズしたのはシエル本人とのこと。
+    note: {}
+  zh:
+    content: |-
+      本名艾蕾茜娅。在志贵的学校中扮演学姐的角色所以被称为雪儿学姐。过去觉醒为死徒，被爱尔奎特杀了一次，但其后因为某种理由而变成了不会死的身体。《MELTY BLOOD》中那个事件看来也解决了，所以似乎单纯是个厉害的人（虽然那股一如既往的超人力量连早川健{{n1}}都要吓一跳）。消灭吸血鬼的埋葬机关第七位，使用飞行道具多到被称为“弓”。将本来只是兽角的第七圣典定做成现在的形状的正是雪儿本人。
+    note:
+      n1: "早川健。快杰Zubat（特摄片）的主角。"
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 36
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      One of the heroines in <em>Tsukihime</em>. A mysterious upperclassman. At the beginning of the game, she planted a suggestion in both Shiki and the players’ heads that she was just an ordinary, strangely named senpai that they already knew. Also, glasses.
+      In truth, she is the newest member of the Church’s inquisition force, the Burial Agency, and is tasked with punishing the Dead Apostle Roa. She infiltrated Shiki’s school because she suspected him of being Roa’s reincarnation, but in the process of observing him she ended up being charmed by him instead. It wasn’t something as simple as falling in love, of course. It’s just that she was moved by the fact that Shiki could lead such a carefree life despite having experienced death just like she had.
+      Due to a certain contradiction, she is an existence that cannot die no matter what happens. She is trying to destroy Roa in order to resolve this state of affairs.
+      She boasts excellent reflexes, and is number seven in the Burial Agency despite her young age. She’s not just skilled in martial arts, though. The knowledge of magecraft that she inherited from Roa is equivalent to that possessed by a magus of the rank of Grand—the highest rank in the Association. Even in the Church, where magecraft is officially forbidden, this is regarded as a highly useful asset. However, Ciel herself hates drawing on Roa’s knowledge.
+      Within the Burial Agency she is known as “Bow,” due to her preference for using projectile weapons. She fights using all sorts of projectiles—not just throwing swords, but guns as well. In fact, the one responsible for changing the Seventh Holy Scripture from a beast’s horn into its current shape was actually Ciel.
+      Before she was part of the Burial Agency, she was the daughter of a baker. Her dream was to become a cake maker, and she already had some skill at making sweets.
+      …Though it seems she has no interest in making Western-style sweets anymore, on account of it dredges up memories of the past.
+      Her reputation as a curry lover has grown with each successive appearance, and at this point her name itself is synonymous with the stuff. As for why she loves curry so much, Takeuchi made a manga about it. It’s probably about half true.
+      Always seems to end up playing second-fiddle to the other heroines. Maybe it’s because of her magnanimous, all-forgiving nature?
+      Oh, well, at least her hand-to-hand combat action in <em>Melty Blood</em> ended up being really cool, since she was conceived of as a battle-type heroine from the very start.
+    note: {}
+  ja:
+    content: |-
+      月姫におけるヒロインの一人。ゲーム開始時には『既に知り合っている、おかしな名前の先輩』という認識を志貴・プレイヤーに植え付ける謎の上級生。あとメガネ。
+      その正体は教会における異端審問の所轄・埋葬機関の新人で、死徒ロアの処罰を任されている。志貴をロアの転生体とあたりをつけ、学校に先輩として紛れ込むが、志貴を監視していく過程で志貴に惹かれてしまう。単に惚れっぽい、というワケではなく、自分と同じように一度死を体験している筈なのにのんびりと生きている志貴を「すごいなあ」と思いはじめた事がきっかけらしい。
+      ある矛盾を内包しているが為、どうあっても死なない存在。その矛盾を解決するためにロアを滅ぼそうとしている。
+      若輩ながら埋葬機関の七位にいるあたり、卓越した運動神経を誇る。優れているのは格闘技能だけではない。ロアから受け継いだ魔術知識は魔術協会のグランド(最上位)の魔術師に匹敵し、表立っては魔術を禁じている教会においてさえ重宝されている。もっとも、シエル本人はロアの知識を引き出すのを嫌っているのだが。
+      埋葬機関では「弓」と呼ばれるほど飛び道具を愛用する。投剣のみならず銃まで持ち出し、元は獣の角だった第七聖典をあんなにしてしまったのはシエル本人。
+      埋葬機関に属する前はパン屋の娘さんだった。ケーキ職人になるのが夢で、お菓子作りの腕はちょっとしたものである。……もっとも、昔を思い出すので本人は洋菓子を作りたがらないのだが。
+      月姫本編から始まって歌月十夜、メルティブラッドと「シエルと言えばカレー」というぐらいのカレー好き。どうして彼女がカレー好きになったのかは、武内氏の漫画版にて。半分ぐらい本当です。
+      すべてを許してしまう年上ならではの包容力故か、本編でも番外編でもフォロー役に回ってしまう損なヒロイン。
+      元から戦闘が似合うヒロインなので、メルティブラッドでの格闘アクションは素敵にかっこいい。
+    note: {}
+  zh:
+    content: |-
+      月姬中的女主角之一。在游戏开始时将“已经相识的，有着奇怪名字的学姐”这一认识灌输给志贵/玩家的神秘的上级生。眼镜。
+      其真正身份是教会中负责异端审问的部门——埋葬机关的新人，接受了处罚死徒罗亚的任务。推测志贵是罗亚的转生体，以学姐的身份混入学校，却在监视志贵的过程中被志贵吸引了。并不是因为只是个花痴，而好像是由于对明明和自己一样体验过一次死了却悠闲地生活着的志贵感到“真厉害啊～”。
+      因为有着某个矛盾，所以不管怎样都死不了。为了解决那个矛盾而想消灭罗亚。
+      从如此年轻就成为埋葬机关的第七位来看，有着卓越的运动神经。优秀的不只是格斗技能。从罗亚继承的魔术知识能够匹敌魔术协会的grand（最上级）的魔术师，在表面上禁止魔术的教会也将其当作重宝。当然，雪儿本人是讨厌引出罗亚的知识。
+      爱用飞行道具到甚至在埋葬机关被称作“弓”。不只投剑连枪都拿了出来，把本是兽角的第七圣典变成那样的就是雪儿本人。
+      在进入埋葬机关之前是面包房老板的女儿。梦想是成为蛋糕师傅，做点心的水平还不错……当然，因为会想起过去的事所以本人不愿意做点心。
+      从月姬正篇开始包括歌月十夜和Melty Blood中“要说雪儿的话就是咖喱”这种程度的咖喱爱好者。为什么她会成为咖喱爱好者呢，请参照武内氏的漫画版。一半左右是真的。
+      是因为能原谅一切的身为年长者的包容力吗，不论在正篇还是番外篇都是替人收拾烂摊子的吃亏的女主角。
+      本来就是适合战斗的女主角，因此在Melty Blood中的格斗动作很好很帅。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 32
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      An upperclassman at Shiki’s school. Due to her gentle, polite speech, the way she always lends a helping hand to those in need, and her ability to comfort those in grief, everybody at school considers her a person of integrity even more reliable than the teachers.
+      In reality, she is an executor sent by the Church to stamp out heresy, and a member of the organization known as the Burial Agency.
+      She possesses combat ability specialized for fighting vampires, and her own potential also exceeds the realm of humans.
+      However, she is not a mere brute—her skills as an intelligence agent are quite high as well. For instance, she can implant suggestions using magecraft. It’s because of this that nobody around her gave the name Ciel (which by all rights should have raised some eyebrows) a second thought.
+      Though she came to Misaki hunting a certain Dead Apostle, once there she encountered an even bigger prize: Arcueid Brunestud. As Arcueid’s ally, Shiki should have been her enemy, but they nevertheless became friends.
+      Also, she’s such a huge curry lover that she’d be happy eating nothing but curry rice with curry udon for lunch every single day. Ever since coming to Misaki, the Indian Curry House Messiaen has become something of an oasis for her.
+    note: {}
+  ja:
+    content: |-
+      学園における志貴の先輩。誰が相手でも柔らかな敬語で話し、悩める者には解決の手伝いを、悲しむ者には励ましの言葉を贈ってくれるという、学園では教師以上に頼りにされている人格者。
+      その正体は教会から派遣された異端狩りの代行者。埋葬機關と呼ばれる組織の一員。
+      対吸血鬼に特化した戦闘能力を持つが、本人のポテンシャルも人間の域を凌駕している。
+      戰闘能力のみならず、諜報員としてのスキルも高い。代表例として魔術による暗示がある。本来誰もがシエルという名前に疑問を覚える筈なのだが、回りの人間は誰もおかしく思わないのはその為だ。
+      ある死徒を狩りに三咲町に現れたが、そこで更なる大物・アルクェイドと遭遇。アルクェイドや死徒と戦いながらも、志貴とは敵や味方に分かれながらも死徒を追う友人関係となる。
+      また、大のカレー好きで昼食はカレーうどんをおかずにしてカレーライスを食べるほど。三咲町に来てからはインドカレーショップ・メシアンが心のオアシスになっている。
+    note: {}
+  zh:
+    content: |-
+      志贵在学园的前辈。据说无论对象是谁都以柔和的敬语来交谈，赠予烦恼者解决的帮助、悲伤者鼓励的言语，在学园里被当做可靠尚在教师之上的人格优秀者。
+      其正体为被从教会派遣的异端狩猎的代行者。被称为埋葬机关的组织的一员。
+      具有特化于对吸血鬼的战斗能力，但本人的潜力也凌驾于人类的领域。
+      不但战斗能力如此，作为谍报员的技能也高。作为代表例子的有基于魔术的暗示。本来谁都应该对雪儿这个名字有疑问的，但周围的人谁都反常地不去想就是为此。
+      为狩猎某死徒出现在三咲市，但在那里与更大的人物·爱尔奎特遭遇。与爱尔奎特或死徒战斗的同时，虽然与志贵分别在敌对的阵营中，却成为追赶死徒的朋友关系。
+      又，因为非常喜欢咖喱，午饭是把咖哩乌冬面当成菜吃咖喱饭的程度。来到三咲市之后印度咖哩店·Messiaen成了心的绿洲。
+    note: {}
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 24
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      みんな大好きシエル先輩。埋葬機関第七位の代行者。いつぞやのメルブラドラマCDでハブられていたのでお店に来てもらった、という切ない裏話がある。「エクストラでカレーパンを買い占めるとこの人が襲ってくるイベントが没になった」という奈須きのこの発言に抗議のお便りが殺到した。
+    note: {}
+  zh:
+    content: |-
+      大家最喜欢的雪儿学姐。埋葬机关第七位代行者。前段日子有过因MELTY BLOOD Drama CD遇冷而来店里捧场这样苦涩的秘闻。为抗议奈须蘑菇“因包下了EXTRA的咖喱面包的此人袭来而没掉了活动[Event]”这样的发言而寄来了信件。
+    note: {}

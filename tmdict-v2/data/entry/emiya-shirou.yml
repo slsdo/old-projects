@@ -1,0 +1,81 @@
+---
+id: emiya-shirou
+
+en: e
+ja: e
+furigana: えみやしろう
+title:
+  en: Emiya Shirou
+  ja: 衛宮士郎
+  zh: 卫宫士郎
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 13
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The protagonist of <em>Fate/stay night</em>… but that should go without saying.
+      He is a diligent, hardworking man, who loves things like cooking, cleaning, and sewing. Though he always denies it, saying that he simply has no choice but to do all those things himself, that’s an obvious lie. He’s destined to become a housekeeper.
+      His inborn butler spirit will reveal itself after Rin’s true ending, when he gets a part-time job working in the mansion of Rin’s rival. Wait, what?
+      Also, though he’ll remain a failure of a magus to the bitter end, he’ll achieve great things as a spellcaster.
+    note: {}
+  ja:
+    content: |-
+      いわずもがな、本編の主人公である。
+      マメな男で、料理とか掃除とか裁縫とか大好き。
+      本人は「自分がやるしかないから」と否定するが、明らかに誤魔化しである。
+      目指せ家政夫。
+      その持ち前の執事魂を発揮し、凜ルートトゥルーエンド後では、凜のライバルの洋館でアルバイトをする事に。
+      なんだそりゃ。
+      魔術師としては最期まで半人前だが、魔術使いとしては大成する。
+    note: {}
+  zh:
+    content: |-
+      不说也罢，是本篇的主人公。
+      家庭妇男，喜欢料理啊扫除啊和缝纫之类。
+      本人否定‘自己只优先他人之事’。不过，明显欺骗人的。
+      目标是家政夫。
+      那之前一直发挥着天生的管家魂，凛线TrueEnd后，在凛对手的西式洋馆内做打工的事。
+      这虾米啊。
+      作为魔术师到临近结局时依然是半吊子，但作为魔术使已有大成。
+    note: {}
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 12
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      亡き義父によって魔術を教わった半人前の魔術師見習い。財布を忘れたお馬鹿さん達を助けにやってきた正義の味方。何かと酷い言われようを受ける彼だが、劇場版における漢度の高さは必見。
+    note: {}
+  zh:
+    content: |-
+      现已过世的义父曾教会魔术的半吊子见习魔术师。帮助了忘记带钱包的笨蛋们的正义伙伴。不论听到多过分的话语，剧场版中也总是能看出其男子汉气度之高。
+    note: {}
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 66
+  category:
+  - organization
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      冬木大火災における数少ない生存者のひとりで、切嗣に救い出され一命を取り留めた少年。第四次聖杯戦争においてすべてを喪った切嗣にとって、唯一の救いをもたらした存在でもある。大火災で身寄りを亡くし、切嗣に養子として引き取られた。その後、アイリスフィールの隠れ家として用意された、深山町の日本家屋を改修。この場所で切嗣が息を引き取るまで、二人は5年間を親子としてすごす。まだ40歳にも満たない切嗣を「爺さん」と呼び、この義父に深い憧憬を寄せる。その影響で過剰なまでの自己犠牲精神と正義感を抱くようになり、そのことがこの5年間における切嗣の唯一の後悔となった。かつて切嗣が憧れ、道半ばであきらめた「正義の味方」という理想を受け継ぎ、その生き様は後に勃発する第五次聖杯戦争において体現されることとなる。
+    note: {}
+  zh:
+    content: |-
+      冬木大火灾中为数不多的幸存者之一，被切嗣抢救而保住一命的少年。对第四次圣杯战争中失去了一切的切嗣而言，也是带来唯一救赎的存在。在大火灾中失去家人，作为养子被切嗣认领。这之后，将准备为爱丽丝菲尔[Irisviel]掩蔽处的，深山町的日式房子整修。在这个地方，直到切嗣咽气为止两人以父子身份度过了5年时间。将还未满40岁的切嗣称呼为“爷爷”，对这个义父寄以深深的憧憬。在其影响下变得怀揣过度的自我牺牲精神与正义感那样，这也成了这5年时间里切嗣唯一的遗憾。继承过去切嗣所憧憬的，半途放弃的“正义的伙伴”这一理想，其生存方式被体现在之后爆发的第五次圣杯战争中。
+    note: {}

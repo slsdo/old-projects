@@ -1,0 +1,57 @@
+---
+id: main-tournament
+
+en: m
+ja: ho
+furigana: ほんせん
+title:
+  en: Main Tournament
+  ja: 本選
+  zh: 决赛
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 136
+  category:
+  - event
+  img: ""
+  en:
+    content: |-
+      The Main Tournament is a series of one-on-one battles to the death between the Masters who managed to make a contract with a Servant.
+      There are three stages:
+
+      - First Day: Announcement of the tournament bracket (who will fight who).
+      - First Day to Sixth Day: Moratorium on battle (preparation time).
+      - Seventh Day: Finals
+
+      The tournament follows a system where half of the Masters are eliminated each round, so there are only eight Masters remaining by the fifth round.
+      In the seventh round, the state of the hearts and minds of the last two remaining Masters is something to behold.
+      It’s said that after killing your final adversary and being the last one alive the path to Moon Cell’s core will open up, but…
+    note: {}
+  ja:
+    content: |-
+      サーヴァントを獲得したマスターたちによる、一騎打ちの殺し合い。
+
+      ・初日、対戦相手の告知
+      ・六日間の準備期間[モラトリアム]
+      ・七日目の決戦日
+
+      の三工程で行われる。
+      マスターたちは半々に減っていくシステムなので、五回戦では残り八人にまで減ってしまう。
+      七回戦目、校舎に二人きりになったマスターたちの心境はいかほどのものか。
+      唯一残ったライバルを殺し、最後の一人になった時にムーンセル中枢への路は開かれるというが……
+    note: {}
+  zh:
+    content: |-
+      获得Servant的Master们，进行一对一的互相厮杀。
+
+      ·第一日，告知对战对手。
+      ·六日间的准备期间“moratorium”
+      ·第七日的决战日
+
+      进行着这样的三工程。
+      由于是令Master们减半的系统，第五战死剩下的为八人。
+      第七战，校舍只剩下二人，Master们的心境究竟如何呢。
+      据说杀死唯一留下来的劲敌，成为最后一人的时候，通往Moon Cell中枢的道路就会打开……
+    note: {}

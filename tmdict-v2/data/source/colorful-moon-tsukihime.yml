@@ -1,0 +1,16 @@
+---
+id: colorful-moon-tsukihime
+
+release-date: "2002-09-01"
+en: "Colorful MOON Tsukihime"
+ja: "カラフルMOON月姫"
+zh: "Colorful MOON月姫"
+
+sections:
+  tsukihime-glossary:
+    id: tsukihime-glossary
+    page: 54-55
+    glossary: tsukihime
+    en: "Tsukihime Glossary"
+    ja: "月姫用語辞典"
+    zh: "月姬用语辞典"

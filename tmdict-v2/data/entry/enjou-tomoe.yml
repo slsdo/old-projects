@@ -1,0 +1,41 @@
+---
+id: enjou-tomoe
+
+en: e
+ja: e
+furigana: えんじょうともえ
+title:
+  en: Enjou Tomoe
+  ja: 臙条巴
+  zh: 胭条巴
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 10
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A youth in his late teens. A part-time worker, tenant of the Ogawa Apartment. He ran away from home. …an unusual individual. 
+      He had a small build and feminine features. He would be a bishounen if he maintained silence. He was aggressive and lacked tolerance, so he frequently got into fights. 
+      He encountered Shiki through some trivial matters, and gradually became involved in strange incidents.
+      ———Of course, the gears had malfunctioned since the very beginning.
+    note: {}
+  ja:
+    content: |-
+      十代後半の少年。フリーター。小川マンションの住人。家出少年。……イレギュラー。
+      小柄で女顔。黙っていれば美少年。攻撃的でこらえ性がなく、ケンカっ早い。
+      些細[ささい]な間違いから式と知り合い、徐々に怪事に巻き込まれていく。
+      ―――もっとも、歯車は始めから狂っていたのだが。
+    note: {}
+  zh:
+    content: |-
+      15–19岁的少年。兼职工人{{n1}}。小川公寓住户。离家出走的少年。……Irregular{{n2}}。
+      身材娇小又女性外貌。不说话的话是美少年。富攻击性又没忍耐力，容易打架。
+      由细微的差错与式相识，渐渐被卷入怪事。
+      ———当然，齿轮从一开始就乱了。
+    note:
+      n1: "フリーター: (英)free+(德)arbeiter：没有固定职业，靠打工维持生计的人。"
+      n2: "不规则，不正规。"

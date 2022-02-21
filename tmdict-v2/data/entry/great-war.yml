@@ -1,0 +1,39 @@
+---
+id: great-war
+
+en: g
+ja: ta
+furigana: たいせん
+title:
+  en: Great War
+  ja: 大戦
+  zh: 大战
+
+entry:
+- source: angel-voice
+  section: notes
+  order: 4
+  category:
+  - babels-tale
+  img: ""
+  en:
+    content: |-
+      After the death of the planet, there was a war between the survived human race and the Hundred A-rays.
+      Mankind in order to survive, and the A-rays to rule the world.
+      Under the Six-Sisters who united the unmassed A-rays, the human race were on the verge of defeat. Near the end of the war, mankind created the Knights and the Human Species, and it further killed the planet that’s already dead.
+      There was no victor to this war. It was interrupted by an intruder that suddenly appeared and nearly wiped out both sides.
+    note: {}
+  ja:
+    content: |-
+      星の臨終後、生き延びた人類と亜麗百種の間に起きた戦争。
+      生き残りをかけた人類と、世界の覇権をかけた亜麗との争い。
+      群体ではなかった亜麗を統一した六人姉妹の前に人類は敗北寸前までおいこまれた。大戦末期、人類側は人間種と騎士を生み出し、戦いは死した星をさらに死滅させる大戦へと発展する。
+      大戦の勝者はいない。両勢力の戦いは、突如飛来した第三者の手によってどちらも壊滅寸前に追い込まれる事で幕をおろした。
+    note: {}
+  zh:
+    content: |-
+      行星临终之后，存活下来的人类与亚丽百种间发生的战争。
+      为了生存而战的人类，以及为了染指世界霸权的亚丽之间的争斗。
+      在把原本非群体的亚丽统一起来的六姐妹面前，人类被赶到了败北的边缘。在大战末期，人类一方诞生了人类种及骑士，战斗向要将已死的行星彻底灭绝的大战的方向发展着。
+      大战没有胜利者。两大势力的战斗，由于突如其来的第三者将双方都逼到了濒临毁灭的境地而落幕。
+    note: {}

@@ -1,0 +1,30 @@
+---
+id: lululululu-
+
+en: r
+ja: ru
+furigana: るるるるる
+title:
+  en: Lululululu~
+  ja: るるるるる～
+  zh: lululululu~
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 64
+  category:
+  - phrase
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      パワーを送る時のかけ声。かっこ仮。
+    note: {}
+  zh:
+    content: |-
+      输送力量[Power]的喊声。暂定。
+    note: {}

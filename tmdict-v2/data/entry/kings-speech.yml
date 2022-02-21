@@ -1,0 +1,40 @@
+---
+id: kings-speech
+
+en: k
+ja: o
+furigana: おうさまはつげん
+title:
+  en: King’s Speech
+  ja: 王様発言
+  zh: 王的发言
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 14
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      Gilgamesh’s peculiar way of speaking. Written one way, but read another.
+      It’s about as self-important as you can get. Even when he was being dragged into the Holy Grail, Gilgamesh was still able to talk down to Shirou like this.
+      Incidentally, Gil gets mad when people speak to him without first being spoken to. It’s like, “Who the hell does this commoner think he is, addressing the king out of turn!?”
+    note: {}
+  ja:
+    content: |-
+      ギルガメッシュの言葉遣いのコト。
+      我と書いてオレと読め。
+      偉そうなコトこの上ないが、聖杯に引きずり込まれる状況でこう罵倒できる士郎も負けてはいない。
+      余談ではあるが、ギルっちは話し掛けられると怒る。
+      俗人が王に話し掛けるとは何事かー、みたいな。
+    note: {}
+  zh:
+    content: |-
+      吉尔伽美什的遣词用语。
+      “我”的音读和写作“俺”。
+      看起来没有什么比他更了不起了的样子。但在被拖入圣杯的状况下，即使被这样痛骂的士郎也没输掉。
+      顺便说下，只要向吉尔酱搭话他就会生气。
+      像这样，俗人竟敢和王搭话，这算什么呢！之类的。
+    note: {}

@@ -1,0 +1,34 @@
+---
+id: self-geass-scroll
+
+en: s
+ja: se
+furigana: せるふぎあすすくろーる
+title:
+  en: Self Geass Scroll
+  ja: 自己強制証文
+  zh: 自我强制卷轴
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 27
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      羊皮紙によって作られた魔術師の世界で使われる呪術契約のひとつ。決して違約しようのない取り決めを結ぶときのみに用いられ、契約者に魔術刻印がある限り死後の魂まで束縛する「強制（ギアス）の呪い」をもたらす。この呪いは原理上、いかなる手段をもってしても解除不能であり、交渉においてこの証文が出されるということは、魔術師にとって最大限の譲歩を意味している。
+    note:
+      n1: "セルフギアス・スクロール"
+  zh:
+    content: |-
+      {{n1}}
+      在羊皮纸上作成的，魔术师世界里所使用的咒术契约之一。仅在缔结绝对不会违约的规约时候被用到，限于契约者有魔术刻印直到死后灵魂都会被束缚的“制约[Geass]之诅咒”。这个诅咒从原理上讲，无论使出任何手段都无法解除，于交涉中放出这个证文意味着，作为魔术师最大限度的让步。
+    note:
+      n1: "Self Geass·Scroll"

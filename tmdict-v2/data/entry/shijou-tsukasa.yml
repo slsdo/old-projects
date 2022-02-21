@@ -1,0 +1,40 @@
+---
+id: shijou-tsukasa
+
+en: s
+ja: shi
+furigana: しじょうつかさ
+title:
+  en: Shijou Tsukasa
+  ja: 四条つかさ
+  zh: 四条司
+
+entry:
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 41
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A student at the Asagami Academy for Girls. Her pet name is “Ika.”
+      She was an honor student gifted with both intelligence and beauty, capable of accomplishing anything she put her mind to. However, she fell into the grips of obsession with the appearance of the brilliant Tohno Akiha, who outshone even her.
+      She appears in one of the side stories in <em>Kagetsu Tohya</em>. Perhaps because her timidity and feeling of being cornered were pretty cute, very few players actually ended up disliking her.
+      Also, she still couldn’t stop herself from quivering in Akiha’s presence even after the incident was resolved, but she did her best to muster her courage and resist the urge to run away.
+    note: {}
+  ja:
+    content: |-
+      しじょうつかさ。浅上女学院の生徒。愛称イカ。
+      才色兼備でなんでもできる優等生だったが、遠野秋葉という自分を何倍増しにした生徒の出現で強迫観念に捕らわれてしまった少女。
+      歌月十夜の番外編で登場。その気弱さと追いつめられた感が萌えポイントだったのか、嫌うプレイヤーは少ない。
+      事件が解決した後も秋葉を前にするとビクビクと怯えるものの、負けるもんかと勇気を振り絞って逃げないよう頑張っていたり。
+    note: {}
+  zh:
+    content: |-
+      Shijou Tsukasa。浅上女子学院的学生昵称Ika{{n1}}。
+      原本是才色兼备样样全能的的优等生，但是因为远野秋叶这个优于自己几倍的学生的出现，而陷入强迫观念的少女。
+      在歌月十夜的番外篇中登场、她的软弱与被逼入绝境表现是萌点，讨厌的玩家倒是很少。
+      在事件被解决之后，胆战心惊地出现在秋叶面前，虽然栽了跟头但是还是鼓足勇气努力着。
+    note:
+      n1: "乌贼娘。"

@@ -1,0 +1,71 @@
+---
+id: magic-crest
+
+en: m
+ja: ma
+furigana: まじゅつこくいん
+title:
+  en: Magic Crest
+  ja: 魔術刻印
+  zh: 魔术刻印
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 87
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      An inheritance passed down within magi families.
+      The mysteries that a magus has spent his entire life establishing (stabilizing) are turned into a crest and left to his descendants.
+      It’s no exaggeration to say that the crest is engraved with the history of the entire bloodline, and that the magus who inherits it is burdened not only with his family’s regrets, but is duty bound to pass it on to a successor as well.
+      In a way, you could call it a curse passed down through the generations.
+    note: {}
+  ja:
+    content: |-
+      魔術師の家系が持つ遺産。
+      生涯を以って鍛え上げ、固定化(安定化)した神秘
+      を刻印にし、子孫に遺したもの。
+      その血統の歴史全てが刻まれているといっても過言ではなく、魔術刻印を継承した魔術師は一族の無念を背負って、次の後継者に刻印を譲り渡さねばならない。
+      ある意味、代を重ねて重みを増していく呪いと言える。
+    note: {}
+  zh:
+    content: |-
+      魔术师世家拥有的遗产。
+      以毕生炼成，将固定化（稳定化）的神秘做成刻印，遗留给子孙的东西。
+      纵然说刻下其血统的全部历史也不为过，继承了魔术刻印的魔术师不得不背负着一族的遗憾，将刻印让渡给下一后继者。
+      某种意义上，也可说是世世代代加重下去的诅咒。
+    note: {}
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 61
+  category:
+  - magecraft
+  - other_alt
+  img: ""
+  en:
+    content: |-
+      Passed down through the generations along with a family’s history, the greatest treasure of any magus bloodline.
+      Like an additional organ added to the body, it won’t be compatible with anyone from outside the magus’ family. In the world of magecraft, the reason older families have such an overwhelming advantage can be narrowed down to primarily because of the number of magic circuits, and the existence of these Magic Crests. The magecraft engraved within that Crest serves both as a magus’ greatest power, and as a curse binding them until they pass it down to their own descendants.
+      At present, El-Melloi II’s Magic Crest is being held by Melvin. Though some people may have witnessed it for the first time in the last episode of the anime, it is truly nothing more than a “square frame.”
+      In short, there’s nothing inside of it at all. In exchange for there being no curse tied to it, it contains nothing but what future generations might fill it with. That’s why El-Melloi II is so hell bent on recovering that Magic Crest.
+      “It’s the number one piece of collateral that guarantees a magus cannot betray you. Taking that away from them is like taking way all the meaning their lives ever had, after all.”
+    note: {}
+  ja:
+    content: |-
+      魔術師の家系が歴史とともに伝えてきた、最大の家宝というべき品。
+      もうひとつの臓器のようなもので、家系以外の人間には適合しない。魔術世界において、古い家が圧倒的に幅をきかせているのは、魔術回路の数と、この魔術刻印のふたつによるところが大きい。この刻印に刻まれてきた魔術こそは、魔術師にとって最大の力であり、子孫に至るまでの生涯を縛り付ける呪いである。
+      現在、エルメロイII世の魔術刻印はメルヴィンが保管している。アニメ最終回で初公開されたのを観た人もいるだろうが、これは見事に「四角の枠」でしかない。
+      つまり、中身にまだ何も詰め込まれていないのだ。呪いができあがってもいない代わりに、この中身を今後本人や子孫が埋めていくしかない。だからこそ、エルメロイII世は石にかじりついてでも、この魔術刻印を取り戻さねばならないのだった。
+      「魔術師を裏切らせないという意味では、最高の担保だよ。最初から生きがいを奪っておくようなものなんだから」
+    note: {}
+  zh:
+    content: |-
+      魔术师的家系随着历史一同传承的，可谓是最大传家宝的物品。
+      就像是另一副器官般的存在，因此并不适应家系以外的人类。在魔术世界中，古老家族能够占有压倒性的权势，很大程度就是因为魔术回路的数量与魔术刻印这两点。被刻于该刻印之上的魔术，正是对魔术师而言的最强力量，也是甚至会束缚至子孙后代的诅咒。
+      埃尔梅罗二世的魔术刻印现在由梅尔文保管着。想必也有人看过在动画最终回初次公开的图案了，那完全就只是一个「四方形的框」。
+      也就是说，内部还未被填入任何东西。并没有形成诅咒，但与之相对，内部只能在今后由本人或其子孙后代来填满。正因如此，埃尔梅罗二世无论再怎么艰难，都必须得拿回这个魔术刻印。
+      「在令魔术师无法背叛这层意义上来说，这可是最棒的担保喔。毕竟就像是从一开始就夺走了其人生价值一样嘛」
+    note: {}

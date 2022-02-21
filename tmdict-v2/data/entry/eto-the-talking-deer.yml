@@ -1,0 +1,31 @@
+---
+id: eto-the-talking-deer
+
+en: e
+ja: shi
+furigana: しゃべるしかのエト
+title:
+  en: Eto the Talking Deer
+  ja: 喋る鹿のエト
+  zh: 会说话的鹿Eto
+
+entry:
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 16
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      One (?) of Nrvnqsr Chaos’ deer. It made its big break in Kinoko Nasu’s Masterpiece Theater (Kinoko Meisaku Gekijou, also found in <em>Tsuki-Bako</em>). Of course it goes without saying that this character is just a parody of Mister Ed the talking horse.
+    note: {}
+  ja:
+    content: |-
+      ネロ・カオスの鹿のうちの一頭（？）。その人気はきのこ名作劇場（『月箱』にも収録されている）で大ブレイク？？喋る馬のエドのパロディであることは言うまでもない。
+    note: {}
+  zh:
+    content: |-
+      尼禄·卡奥斯的鹿的其中一头（？）。其人气在蘑菇名作剧场（『月箱』里也有收录）中大热？？不用说是恶搞会说话的马Ed{{n1}}的。
+    note:
+      n1: "会说话的马Ed。40年前的美国电视剧《Mister Ed》。"

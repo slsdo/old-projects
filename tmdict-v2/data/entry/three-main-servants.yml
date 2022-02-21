@@ -1,0 +1,39 @@
+---
+id: three-main-servants
+
+en: t
+ja: sa
+furigana: さんにんのめいんさーヴぁんと
+title:
+  en: Three Main Servants
+  ja: 三人のメインサーヴァント
+  zh: 三名主力英灵
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 30
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      The three main Servants in EXTELLA are Nero, Tamamo no Mae, and Altera. All of them have broad but multilayered personalities.
+      Nero seems to be selfish, tyrannical, and free-spirited, but is actually an infatuated lover.
+      Tamamo seems to be self-absorbed, poison-tongued, and hedonistically whimsical, but is actually a truly dedicated wife.
+      Altera seems to be a cool, solitary goddess of destruction, but is actually filled with maternal instincts (more like friendship between pure maidens).
+    note: {}
+  ja:
+    content: |-
+      エクステラで主軸となるサーヴァントはネロ　玉藻の前、アルテラの三名だが、それぞれ分かりやすい立ち位置で設定されている。
+      ネロが『我が儘、暴君、自由奔放』に見せて『相思相愛の恋人』
+      タマモが『自己中、毒舌、愉快犯』に見せて『一途な良妻』
+      アルテラが『クール、孤独、破壊神』に見せて『母性(+、実は無垢な少女との交友)』。
+    note: {}
+  zh:
+    content: |-
+      在EXTELLA中，处于故事中心的分别是尼禄、玉藻前、阿提拉这三名英灵，她们各自有着简单易懂的定位。
+      尼禄乍看之下“任性、暴君、自由奔放”，其实是“两情相悦的恋人”。
+      玉藻前乍看之下“自我中心、毒舌、愉快犯”，其实是“专情的贤妻良母”。
+      阿提拉乍看之下“冷酷、孤独、破坏神”，其实充满“母性（+实际上是与清纯少女的友情）”
+    note: {}

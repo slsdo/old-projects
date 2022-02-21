@@ -1,0 +1,71 @@
+---
+id: invisible-air
+
+en: i
+ja: fu
+furigana: かぜおうけっかい
+title:
+  en: Invisible Air
+  ja: 風王結界
+  zh: 风王结界
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 75
+  category:
+  - noble-phantasm
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      Boundary Field of the Wind King. An invisible sword.
+      The sword’s blade has been sealed off by wrapping it in multiple layers of wind that alter the refractive index of light.
+      Strictly speaking, it is magecraft, not a Noble Phantasm.
+      Because it prevents the enemy from determining its range, it is far more effective in close combat than its relative simplicity would suggest.
+      It increases the user’s accuracy rate and defensive power, but should the enemy happen to have “resistance toward compensation in response to visual obstructions” then Invisible Air will just be a normal sword clad in wind.
+      Against opponents with the skill False Mind’s Eye, or who are otherwise protected from visual illusions, it has no effect at all.
+      Saber treats it as her primary weapon, but as Kojirou correctly surmised it is nothing more than a sheathe meant to conceal her holy sword.
+    note: {}
+  ja:
+    content: |-
+      不可視の剣、インビジブル・エア。
+      幾重もの風を纏わりつかせ、光の屈折率を変化させる事によって刀身を封じた剣。
+      厳密に言えば宝具ではなく魔術。
+      敵に武器の間合いを把握させない、シンプルではあるが白兵戦において絶大な効果を発揮する。
+      命中率と防御力が向上するが、相手が「視覚妨害による補正への耐性」を持っている場合、風王結界はただ風を纏っただけの剣になる。
+      スキル・心眼（偽）や幻覚耐性を持っている敵には 効果はないのである。
+      セイバーの主武装ではあるが、小次郎が言い当てたように、本質は聖剣を隠す鞘でしかない。
+    note: {}
+  zh:
+    content: |-
+      不可视之剑，Invisible·Air。
+      由数重风所缠绕着，变化了光折射率而封住了刀身的剑。
+      严格地说不是宝具而是魔术。
+      让敌人无法把握武器的间距，虽质朴但在白刃战中能发挥巨大的效果。
+      命中率和防御力会提高，不过，如果对方持有“对视觉妨害的补正耐性”，风王结界则只将是被风包着的剑而已。
+      也因此对持有技能·心眼（伪）和幻觉耐性的敌人是没有效果的。
+      是Saber的主武装，不过就像小次郎说中的那样，本质只是用来遮隐圣剑的鞘。
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 64
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      エクスカリバーを覆う風の結界。ランクCの対人宝具。風を何重にも纏うことで、光を屈折させて刀身を隠している。この効果によって対峙した相手に、武器の間合いを測らせないというアドバンテージを得ることができる。だが、ランサーの宝具「ゲイ・ジャルグ」の前では一時的にその効果は失われ、剣の間合いを知られてしまう。
+    note:
+      n1: "インビジブル・エア"
+  zh:
+    content: |-
+      {{n1}}
+      遮盖Excalibur的风之结界。Rank C的对人宝具。通过缠绕多重风使光折射来隐藏刀身。对于对峙的对手可以靠这个效果，获得武器距离不能被测量这样的优势[Advantage]。但是，在Lancer的宝具“Gae·Dearg”前一时失去了这个效过，也获悉了剑的长度。
+    note:
+      n1: "Invisible·Air"

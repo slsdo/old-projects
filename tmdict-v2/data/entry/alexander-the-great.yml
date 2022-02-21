@@ -1,0 +1,30 @@
+---
+id: alexander-the-great
+
+en: a
+ja: a
+furigana: あれくさんどろすだいおう
+title:
+  en: Alexander the Great
+  ja: ALEXANDER THE GREAT
+  zh: ALEXANDER THE GREAT
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 105
+  category:
+  - proper-noun
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      古代マケドニア王として君臨し、近隣国であるギリシアやペルシアだけでなく、エジプトや中央アジアにまで遠征を行い覇を唱えた英雄・アレキサンダー大王の生涯が綴られた伝記。ウェイバーが書店で立ち読みしていた。
+    note: {}
+  zh:
+    content: |-
+      作为古代马其顿[Macedonia]王君临，并非只在邻国希腊[Greece]和波斯[Persia]，而是写进远征埃及[Egypt]直至中亚[Asia]称霸的英雄·亚历山大[ALEXANDER]大帝的一生的传记。韦伯[Waver]站在书店中阅读。
+    note: {}

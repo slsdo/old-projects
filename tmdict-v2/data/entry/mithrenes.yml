@@ -1,0 +1,30 @@
+---
+id: mithrenes
+
+en: m
+ja: mi
+furigana: みとりねす
+title:
+  en: Mithrenes
+  ja: ミトリネス
+  zh: 米瑟利涅斯
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 20
+  category:
+  - person
+  img: fzavg2_mithrenes.png
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      「王の軍勢（アイオニオン・ヘタイロイ）」に名を連ねる騎士のひとり。もとはペルシア軍の将軍であったが、イスカンダルに敗れた後に、彼に同行したと言われている。巨大海魔との戦いにおいては伝令役としてウェイバーのもとに遣わされ、巨大海魔を落下させる最適ポイントをライダーに伝えた。
+    note: {}
+  zh:
+    content: |-
+      隶属“王之军势（Ionian·Hetairoi）”名下的骑士之一。据说原本乃是波斯军的将军，败给伊斯坎达尔[Iskandar]后，便与他同行。在与巨大海魔作战中作为传令兵而被差遣至韦伯[Waver]处，并向Rider传达了巨大海魔落下的最适点[Point]。
+    note: {}

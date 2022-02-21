@@ -1,0 +1,63 @@
+---
+id: servant
+
+en: s
+ja: sa
+furigana: さーゔぁんと
+title:
+  en: Servant
+  ja: サーヴァント
+  zh: 从者
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 33
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      Heroic Spirits summoned by the Holy Grail. A type of familiar.
+      They are souls of the highest purity, called forth using artifacts linked to the Heroic Spirits, into seven classes (containers) prepared in advance.
+      Properly speaking, they are not something that can be controlled by humans, but because they are burdened by the authority of the command spell, the “absolute condition for materialization” carved into them at the moment of summoning, they have no choice but to cooperate with their Master.
+      They are also capable of reverting into an immaterial spirit form at will, and while in this state can slip through inorganic substances that don’t contain much mana.
+      When Lancer dropped down from the ceiling during his surprise attack on the Emiya residence, he used this spirit form to slip through the roof, then rematerialized once he reached the living room.
+      Also, while they are immune to normal physical interference in spirit form, their ability to affect the material world drops as well, making it advantageous to materialize for battles.
+    note: {}
+  ja:
+    content: |-
+      聖杯によって召喚された英霊たち。分類的には使い魔になる。
+      予め七つのクラス（筐）を用意し、英霊を繋ぎ止める依り代を利用して呼び出される最高純度の魂。
+      本来人間に御しえるモノではないが、召喚される時に刻まれる『現界のための絶対条件』として命令権を背負わされる為、マスターとは協力関係を余儀なくされる。
+      任意で霊体になる事も可能で、霊体時はマナの薄い無機物をすり抜ける事も可能。
+      衛宮邸を奇襲したランサーが天井から降ってきたのは、屋根から居間へすり抜け、居間の天井あたりで実体化した為。
+      霊体のままなら通常干渉を受け付けないが、現世への干渉力が落ちるため、戦闘時は実体化していた方が有利とされる。
+    note: {}
+  zh:
+    content: |-
+      被圣杯召唤出的英灵们。分类上就变为使魔。
+      预先准备七个Class（筐），利用维系英灵的凭依而被唤出的最高纯度的魂。
+      本来人类不是能驾御得了的，但因为作为召唤时被刻下的“为现界的绝对条件”而被背负上命令权，迫不得已与Master结成合作关系。
+      既可以任意变为灵体，也可以灵体时穿过Mana稀薄的无机物。
+      奇袭卫宫邸的Lancer会从天花板落下来，是因为从屋顶穿到起居室，在起居室的天花板附近实体化的缘故。
+      如果保持灵体就不接受通常干涉，但因为对现世的干涉力低落，战斗时实体化的那边被认为是有利的。
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 7
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      Heroic Spirits are individuals enshrined or worshipped in legends after their death in the mortal world. What can be thought of as a Heroic Spirit’s “main body” resides in the Throne of Heroes and can only be summed by the World. A Servant is merely an “emanation” or pseudo-copy of a Heroic Spirit’s main body, summoned by ritual. Magus selected as Masters are only capable of summoning a Servant with the aid of the Holy Grail. A Servant is a Master’s sword and shield. They are the primary tool of combat in the Holy Grail War. Magus aren’t typically cut out for physical fighting, making Servants essential to engage in combat with other Servants. The Holy Grail gives those summoned as Servants the minimum information required to allow them to fit into the current era. This enables Servants from ages long past to operate in modern society without issue.
+    note: {}
+  ja:
+    content: |-
+      偉大な功績が死後伝説として信仰の対象となった者を英霊と呼ぶ。彼らの魂は「英霊の座」といわれる場所に存在しその英霊を呼び出すことができるのは「世界」のみである。儀式によってこの場所から召喚されるのはあくまで「英霊の分身」であり、彼らこそがサーヴァントと呼ばれる存在だ。マスターとして選ばれた魔術師たちは、聖杯のバックアップを受けることで彼らを現世へと召喚することができる。聖杯戦争においてはマスターの武器となり盾となり、実際に戦闘を行うことが彼らの役割。そもそも、基本的に魔術師ではとうてい太刀打ちできる存在ではないため、サーヴァントに対抗するにはサーヴァントが必要不可欠となっている。なお、サーブアントは召喚時にその時代に関する基礎知識を聖杯から与えられているため、過去の時代に生きた彼らが現代でも問題なく活動することが可能となっている。
+    note: {}
+  zh:
+    content: |-
+      把伟大功绩被作为死后传说信仰的对象称为英灵。他们的灵魂存在于被称为“英灵之座”的地方，可以叫来英灵只有“世界”。通过仪式从此地被召唤出的说到底不过是“英灵的分身”，他们正是被称为Servant的存在。作为Master被选中的魔术师们，通过接受圣杯的支援[Backup]方可将他们召唤至现世。于圣杯战争中成为Matser的武器或盾，实际上进行战斗便是他们的职责。说起来，因为基本上是魔术师终究也敌不过的存在，以Servant对抗Servant就必不可缺。顺带，因Servant在被召唤时会由圣杯给予关于这个时代的基础知识，故生活在过去时代的他们就算在现代也可以没有问题地活动。
+    note: {}

@@ -1,0 +1,71 @@
+---
+id: half-moon-edition
+
+en: h
+ja: ha
+furigana: はんつきばん
+title:
+  en: Half Moon Edition
+  ja: 半月版
+  zh: 半月版
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 50
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      The version of <em>Tsukihime</em> sold at the 2000 Summer Comiket.
+      It was called the “Half-moon edition” because only the Arcueid and Ciel routes were included.
+      All the scenarios were already completed, and even the art was finished. However, the scripting still needed some work, so regretfully we were forced to cut the Akiha and Hisui routes.
+      This Half-moon edition came bundled with various extras.
+      For instance, a digital comic by Takeuchi, bonus artwork, a coupon for 500 yen off the final release, and a separate collection of setting material.
+      Of course, the most notable thing it came with was a countless number of typos and omitted words, hahaha.
+      …Wait, I guess that’s not that funny.
+    note: {}
+  ja:
+    content: |-
+      2000の夏コミで販売した月姫のコト。
+      アルクェイドとシエルルートのみが収録されたので、半月版と名づけられた。
+      シナリオも全てあがっていたし、原画だって終わっていた。が、シナリオプログラムに時間がかかり、泣く泣く秋葉と翡翠のルートを削ったのでした。
+      この半月版、色々なおまけが付いていた。
+      武内氏のデジタルコミックとか、おまけカットとか、完全版の五百円割引券とか、別冊の初期設定資料集とか。
+      そして、その最たるものとして数えきれないぐらいの誤字脱字も付属されている（笑）。
+      ……って、笑いごとじゃねえだろ。
+    note: {}
+  zh:
+    content: |-
+      2000年的夏comi上所贩售的月姬。
+      只收录了ARC跟雪儿路线，所以称作半月版。
+      剧情全都有了，原[划画]也全部完成了，但是因为程式设定需要时间，只好边哭边把秋叶跟翡翠的路线删除。
+      这个半月版有着各式各样的特典内容。
+      武内的电子漫画阿、通关cut阿、完全版的500元折价卷阿，别册的初期设定资料等。 然后，在这些之上的，是多到数不清的错字跟漏字（笑）。
+      ……是说这没什么好笑的吧。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 76
+  category:
+  - work-title
+  img: ""
+  en:
+    content: |-
+      The version of <em>Tsukihime</em> sold at the 2000 Summer Comiket. It was called the “Half-moon edition” because only the Arcueid and Ciel routes were included.
+      It’s become something of a rare item at this point, and it came bundled with various extras to sweeten the pot. For instance, a digital comic by Takeuchi, bonus artwork, a special trailer for the final release that would play after beating the Ciel route, a coupon for 500 yen off the final release, and a separate collection of setting material. Of course, the most notable thing it came with was a countless number of typos and omitted words.
+    note: {}
+  ja:
+    content: |-
+      2000の夏コミで販売した月姫の事。
+      アルクェイドとシエルルートのみが収録されたので、半月版と名づけられた。
+      今となってはレアアイテムで、色々なおまけが付いていた。原画・武内崇のデジタルコミック、おまけカット、シエルルート終了時に流れる“完全版予告編”、完全版の五百円割引券、別冊の初期設定資料集等々。そして、その最たるものとして数えきれないほどの誤字脱字も付属されている。
+    note: {}
+  zh:
+    content: |-
+      2000年的夏comi上所贩卖的月姬。
+      因为只收录了爱尔奎特跟雪儿路线，所以称作半月版。
+      如今成了Rare Item，附带着各种各样的赠品。原画·武内崇的Digital Comic，赠品Cut，和雪儿路线结束时流出的“完全版预告篇”，完全版的五百日元打折劵，附刊的初期设定资料集等等。
+      还有，据说作为“之最”的数不清的错字漏字也附带着。
+    note: {}

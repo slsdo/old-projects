@@ -1,0 +1,184 @@
+---
+id: reality-marble
+
+en: r
+ja: ko
+furigana: こゆうけっかい
+title:
+  en: Reality Marble
+  ja: 固有結界
+  zh: 固有结界
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 22
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      Intrinsic Bounded Field.
+      Originally referred to the alien common sense possessed by the beings called demons, but now also includes the unique boundary fields possessed by many others.
+      A subspecies of marble phantasm, it erodes reality and gives form to the user’s imagined world.
+      Unlike marble phantasm, however, the form of a reality marble cannot be freely adjusted. It is the manifestation of the user’s one-and-only self, after all, so appending their own will on top of its form is impossible.
+      On the other hand, since even things that are not part of nature can be influenced, perhaps it is actually even more amazing than marble phantasm, in a way.
+      Properly speaking, it is an ability unique to elementals and demons, but given enough time it is possible for some advanced practitioners to complete a magecraft to give shape to their personal imagined world and create a reality marble of their own.
+      Of course, if anything that isn’t an extension of nature like an elemental creates an alien world, the world itself will crush it. As a result, the upkeep of a reality marble requires a vast amount of energy, and most individuals are only capable of using one for a few minutes at a time.
+      Possessed by Dead Apostle Ancestors.
+      By the way, Nrvnqsr was able to escape the corrective influence of the world by using his reality marble within his own body.
+      Way to go, Professor Chaos.
+    note: {}
+  ja:
+    content: |-
+      リアリティ・マーブル。
+      元々は悪魔と呼ばれるモノが持つ異界常識であるが、今では多くのモノが持つにいたった独自の結界を指す。
+      空想具現化の亜種で、その者の心象世界を形にし現実に侵食させた結界の事。
+      空想具現化と異なるのはその形を自由に決定できない事。術者のただ一つの内面が形になるわけだから、術者は結界の形に意志を加えられない。
+      が、逆に自然ではないモノにさえ影響を与えられる点で、空想具現化より優れているといえるかもしれない。
+      本来なら精霊・悪魔だけの能力だが、長い年月をかけて個人の心象世界を形作る魔術が完成し、一部の上級術者が固有結界形成を可能とした。
+      もっとも自然の延長である精霊以外のモノが異界を作れば、世界そのものが異なる界を潰しにかかる。故に固有結界の維持には莫大なエネルギーを必要とし、結果として一個人の固有結界はわずか数分だけの物となる。
+      祖である死徒は固有結界を可能とする。
+      ちなみに、ネロは自らの肉体の内部を固有結界にして世界からの修正から逃れていた。やるな、ネロ教授。
+    note: {}
+  zh:
+    content: |-
+      Realty Marble
+      原指被称为恶魔之物所拥有的异界常识，现在多指被众多人所持有的个人专属结界。
+      空想具现化的亚种，把施术者的心象世界具体化借此侵蚀世界的结界。
+      与空想具现化的差别就是无法自由决定其形态。因为是以术者唯一的内心来具体化的东西，所以术者无法在结界的形态上添加自身意志。
+      反之，在固有结界连非自然之物也能给予影响的这一点上，可以说比空想具现化更为优秀。
+      原本应该是只有精灵和恶魔才有的能力，但一部分上级者花上长久岁月，完成能具现个人心象世界的魔术，使得固有结界的形成变为可能。
+      除了身为大自然延伸的精灵以外，其他人制造的异界会被世界本身给摧毁。所以为了维持固有结界需要庞大的能量，导致一个人的固有结界只能支撑仅仅数分钟。
+      身为祖的死徒也可以使用固有结界。
+      顺带一提，尼禄把自己肉体的内部作成固有结界来回避来自世界的修正。
+      不错嘛，Nero教授。
+    note: {}
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 16
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      ① Intrinsic Bounded Field (Also see the entry for “Marble”)
+      ② The name “marble” comes from glass marbles used in a well-known example of the clustering illusion.
+      ③ A subspecies of marble phantasm. One’s inner world is given shape through world interference that erodes reality.
+      ④ More specifically a reality marble is thought to be realized when a multitude of phenomena are interfered with probability-wise, forcibly invoking the impossible.
+      ⑤ Originally the common knowledge of otherworldly being referred to as “demons.” Though a skill of fairies and demons, after extensive time and practice one can acquire the ability to give shape to images in your mind. A few of the top magi and the Dead Apostle Ancestors are capable of employing a reality marble.
+      ⑥ However, objects created by a reality marble are at best still existences from another world, which means they are not the creation of spirits that are extensions of nature, so they are subject to being corrected or modified by the world.
+      
+      <strong>Strength</strong>
+      Unlike marble phantasms, reality marbles can directly affect entities that are independent from nature (such as humans).
+      
+      <strong>Weakness</strong>
+      A reality marble is at best a reflection of the creator’s predominant inner world, and cannot be changed freely at will. Thus, a reality marble is far less adaptable than a marble phantasm.
+    note: {}
+  ja:
+    content: |-
+      ①リアリティ・マーブル。（マーブルの項参照）
+      ②ダンゴ現象に由来するという事からマーブルとはおはじきの事らしい。
+      ③空想具現化の亜種。自身の心象世界を形にして現実に侵食させる世界干渉。
+      ④具体的には数多の事象が発生する〝確率〟に干渉することによって、本来ありえざる事象を強引に発生させているものと思われる。
+      ⑤元々は悪魔とよばれる存在の異界常識。本来なら精霊・悪魔の能力であるが、長い年月をかけて個人の心象世界を形にする魔術が完成し、一部の上級術者や死徒二十七祖などが固有結界形成を可能とするに至る。
+      ⑥ただしこれによって作り出されたモノは異界であり、作り手が自然の延長である精霊以外の存在である場合、世界からの修正を受ける。
+      
+      <strong>長所</strong>
+      空想具現化と違い、自然から独立したものに対しても干渉できる。
+      
+      <strong>短所</strong>
+      あくまで術者の唯一の内面を形にするものであるため、その形を自由に決定する事ができない。よって汎用性が低い。
+    note: {}
+  zh:
+    content: |-
+      ①Reality Marble。（参照Marble项）
+      ②由于取自团子现象所以Marble似乎是指弹珠。
+      ③空想具现化的亚种。将自己的心象世界成形使得现实遭到侵蚀的世界干渉。
+      ④具体应该是干涉众多事象的发生“几率”，强行使本来不可能（发生）的事象发生。
+      ⑤原来是被称为【恶魔的存在】的异界常识。虽然本来是精灵、恶魔的能力，但是让个人心象世界成形的魔术在经年累月下得以完成，一部分上级术者和死徒二十七祖等因此可以形成固有结界。
+      ⑥不过以此造出的东西乃是异界，当制造者是身为自然之延长的精灵以外的存在时，将会受到来自世界的修正。
+      
+      <strong>长处</strong>
+      与空想具现化不同，能够对独立于自然的东西进行干渉。
+      
+      <strong>短处</strong>
+      由于终究是让术者唯一的内心成形之物，所以其形态不能够自由决定。因此泛用性低。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 31
+  category:
+  - ability
+  img: ""
+  en:
+    content: |-
+      Intrinsic Bounded Field.
+      Originally referred to the alien common sense possessed by the beings called demons, but now also includes the unique boundary fields possessed by many people.
+      A subspecies of marble phantasm, it erodes reality and gives form to the user’s imagined world. It is the magecraft closest to magic, and a forbidden art within the Association.
+      Unlike marble phantasm, however, the form of a reality marble cannot be freely adjusted. It is the manifestation of the user’s one-and-only self, after all, so changing it with their will is impossible. On the other hand, since even things that are not part of nature can be influenced, perhaps it is actually even more amazing than marble phantasm, in a way.
+      Marble phantasm, which can change the world at will, but only has influence over elementals and nature. Reality marbles, whose form is limited in use to a single pattern, but force everything to submit to the user’s personal rules.
+      Both methods are similar yet different ways of changing the world, abilities that are extremely flexible yet limited in their own way.
+      …Properly speaking, reality marbles are only supposed to be used by elementals and demons, but given enough time it is possible for some advanced practitioners to complete a magecraft to give shape to their personal imagined world and create a reality marble of their own. Of course, if anything that isn’t an extension of nature like an elemental creates an alien world, the world itself will crush it. As a result, the upkeep of a reality marble requires a vast amount of energy, and most individuals are only capable of using one for a few minutes at a time.
+      It would seem that a majority of the 27 Dead Apostle Ancestors are capable of using reality marbles. Oh, and Nrvnqsr was able to escape the corrective influence of the world by using his reality marble within his own body. Way to go, Professor Chaos.
+    note: {}
+  ja:
+    content: |-
+      リアリティ・マーブル。悪魔と呼ばれるモノが持つ異界常識であるが、今では多くのモノが持つにいたった独自の結界を指す。
+      空想具現化の亜種で、その者の心象世界を形にし現実に侵食させた結界の事。最も魔法に近い魔術であり、魔術協会では禁呪のカテゴリーに入る。
+      空想具現化と異なるのはその形を自由に決定できない事。術者のただ一つの内面が形になる為、術者は結界の形に意志を加えられない。が、逆に自然ではないモノにさえ影響を与えられる点で、空想具現化より優れていると言えるかもしれない。
+      思いのままに世界設定ができるものの、自分（精霊）と自然にしか影響されない空想具現化と、形こそワンパターンに限られるがあらゆるものを己が規律（ルール）に従わせる固有結界。
+      どちらも自由自在でありながら制限を持つ、似て非なる“異界創造”法という事だ。
+      本来なら精霊・悪魔だけの能力だが、長い年月をかけて個人の心象世界を形作る魔術が完成し、一部の上級術者が固有結界形成を可能とした。もっとも、自然の延長である精霊以外のモノが異界を作れば、世界そのものが異なる界を潰しにかかる。故に固有結界の維持には莫大なエネルギーを必要とし、結果として一個人の固有結界はわずか数分だけの物となっている。
+      二十七祖の大半は固有結界を可能とするらしい。ちなみにネロは自らの肉体を固有結界にする事で世界からの修正から逃れていた。やるな、ネロ教授。
+    note: {}
+  zh:
+    content: |-
+      Reality Marble。指本是恶魔所拥有的异界常识，现在却有很多人都拥有了的独自的结界。
+      身为空想具现化的亚种，是施术者的心象世界形成侵蚀现实的结界。是最接近魔法的魔术，在魔术协会属于禁咒之列。
+      与空想具现化不同的是不能自由决定其形态。因为是施术者的唯一一个内面成形，术者不能对结界的形态加以自己的意志。然而另一方面，从连对非自然之物也能施加影响这一点，也许可以说比空想具现化更优秀。
+      虽然能够随心所欲地进行世界设定，但只能被自己（精灵）和自然所影响的空想具现化；{{n1}}形态虽然只限于一种但能使所有东西遵从自己的规律（rule）的固有结界。
+      无论哪一个都既自由自在又有限制，是似是而非的“异界创造”法。
+      本来是只有精灵、恶魔才有的能力，经过长久的岁月使个人的心象世界成形的魔术得到了完成，一部分的高级术者能够形成固有结界了。当然，身为自然之延长的精灵以外的人制造异界的话，世界本身就会来消灭这个相异的世界。因此维持固有结界需要莫大的能量，结果一个人的固有结界是仅仅只有几分钟的东西。
+      似乎二十七祖的大半都能使用固有结界。顺便一提尼禄是使自身的肉体成为固有结界而逃脱了世界的修正。干得不错嘛，尼禄教授！
+    note:
+      n1: "原文有一句诡异的“自分（精霊）と自然にしか影響されない空想具現化”，看来看去还问了别人都是“只能被自己（精灵）和自然所影响的空想具现化”。因为还没大胆到敢批蘑菇的设定，所以就这样翻译了，不改成“只能影响自己（精灵）和自然的空想具现化”。"
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 28
+  category:
+  - ability
+  img: ""
+  en:
+    content: |-
+      Intrinsic Bounded Field. Originally referred to the alien common sense possessed by the beings called demons, but now also includes the unique boundary fields possessed by many people.
+      A subspecies of marble phantasm, it erodes reality and gives form to the user’s imagined world. It is the magecraft closest to magic, and a forbidden art within the Association.
+    note: {}
+  ja:
+    content: |-
+      リアリティ・マーブル。悪魔と呼ばれるモノが持つ異界常識であるが、今では多くのモノが持つにいたった独自の結界を指す。
+      空想具現化の亜種で、その者の心象世界を形にし現実に侵食させた結界の事。最も魔法に近い魔術であり、魔術協会では禁呪のカテゴリーに入る。
+    note: {}
+  zh:
+    content: |-
+      Reality Marble。指本是被称为恶魔之物所拥有的异界常识，但现今已为许多人拥有了的个人的结界。
+      作为空想具现化的亚种，使其人的心象世界成形侵蚀了现实的结界。是最接近魔法的魔术，在魔术协会属于禁咒的范畴[category]。
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 83
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      術者の心象世界を具現化する結界。ライダーの宝具「王の軍勢（アイオニオン・ヘタイロイ）」などがこれにあたる。
+    note: {}
+  zh:
+    content: |-
+      将术者的心象世界具现化的结界。Rider的宝具“王之军势（Ionian·Hetairoi）”等属于这类。
+    note: {}

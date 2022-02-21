@@ -1,0 +1,47 @@
+---
+id: argon-coin
+
+en: a
+ja: ki
+furigana: きむひつじのかわ
+title:
+  en: Argon Coin
+  ja: 金羊の皮
+  zh: 金羊皮
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 25
+  category:
+  - noble-phantasm
+  img: fsm_argon-coin.png
+  en:
+    content: |-
+      Golden Fleece.
+      As the hidden treasure of Colchis, it is very valuable.
+      Though there is nothing particularly special about the fleece itself, for some reason there’s a rumor that a dragon will appear if you throw it on the ground.
+      It seems that somewhere along the line, people mixed up the fleece with the dragon that used to guard it.
+      Honestly, it feels like some kind of satire.
+      At any rate, Caster doesn’t have the ability to summon dragons in the first place, so it’s all a moot point.
+      Oh, and there’s a strange elemental dwelling within it, just like a certain Seventh Holy Scripture.
+    note: {}
+  ja:
+    content: |-
+      アルゴンコイン。
+      コルキスの秘宝で、とっても高価。
+      これ自体にさしたる能力はないのだが、なぜか地に放ると竜が現れるという逸話がある。
+      かつて金羊の皮を守っていた竜が、今では金羊の皮に呼ばれるものに成り代わってしまったらしい。
+      何かの風刺っぽい話ではある。
+      キャスターには竜召喚技能がないので竜は呼べない。
+      某第七聖典よろしく、へンな精霊が宿っている。
+    note: {}
+  zh:
+    content: |-
+      Argon Coin。
+      科尔基斯的秘宝，异常珍贵。
+      它本身没有什么了不起的能力，但不知何故有了“一放到地上龙就会出现”这样的逸话。
+      曾经守卫金羊皮的龙，现在却似乎代表了被金羊皮唤来的东西。总觉得有点讽刺。
+      Caster因为没有龙召唤技能所以唤不来龙。
+      就像某第七圣典那般，寄宿着古怪的精灵。
+    note: {}

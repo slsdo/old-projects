@@ -1,0 +1,34 @@
+---
+id: yamaha-v-max
+
+en: y
+ja: ya
+furigana: やまは V‐MAX
+title:
+  en: Yamaha V-Max
+  ja: YAMAHA V‐MAX
+  zh: YAMAHA V‐MAX
+
+entry:
+- source: fate-zero-material
+  section: fate-zero-encylopedia
+  order: 45
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      The motorcycle that Emiya Kiritsugu prepared for his Servant. Since it underwent excessive tuning without any regard for usability, a normal person trying to ride it would just end up killing themselves. Maiya must have brought it into town on a truck, then pushed it from the front gate to the courtyard.
+      The president of Nitro+, Digitarou, was responsible for picking out and configuring the vehicle model.
+      By the way, at one point during the consultation stage, Mr. Takeuchi had just gotten back from seeing the new <em>Ghost Rider</em> movie and wouldn’t stop going on about how awesome it would be if Saber’s motorcycle could transform too, but, uh… honestly it seemed like it would be a lot of trouble. I was really glad I managed to get out of writing that one!
+    note: {}
+  ja:
+    content: |-
+      衛宮切嗣が自らのサーヴァント専用の機動手段として用意しておいたオートバイ。人間が乗ることを度外視して出鱈目なチューニングを施してあるため、常人が扱おうにもクラッチを繋いだ時点で処刑装置として機能するだけのことである。舞弥さんはきっと軽トラで搬入し、門から庭に押して運んだんでしょう。ちなみに車種の選定や設定はニトロブラス社長でじたろうによる。
+      打ち合わせの段階で、当時映画のゴーストライダーを観た直後だった武内氏が「セイバーのバイクも変身したりするといいね！」な、どと発言したばかりに、まぁその、色々と大変なことになる。これ辛いとばかり好き勝手に書き逃げできた筆者は大層楽しかったとさ。
+    note: {}
+  zh:
+    content: |-
+      卫宫切嗣为了作为自己从者专用的机动手段所准备的机车。因为做了不考虑让人类骑乘的乱来调整，就算一般人想要驾驶也会在离合器启动的瞬间只剩下处刑装置的机能。舞弥一定是使用小卡车搬入，再从大门推到庭院的吧。附带一提，车种的选定和设定是出自Nitro+社长Digitarou之手。
+      在事前讨论的阶段，因为看完当时上映的恶灵战警的武内氏作了“要是赛八的机车也能变身就好了啊”这样的发言，恩，变成了很麻烦的事，不过因此能不负责任的照自己喜欢去写的笔者却省下了很多麻烦。
+    note: {}

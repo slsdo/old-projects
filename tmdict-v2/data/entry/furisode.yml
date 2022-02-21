@@ -1,0 +1,30 @@
+---
+id: furisode
+
+en: f
+ja: fu
+furigana: ふりそで
+title:
+  en: Furisode
+  ja: 振り袖
+  zh: 长袖和服
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 48
+  category:
+  - clothes
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      2010年1月にお召し変えをした日本伝統の正月の正装。千鍵が薄緑、ひびきが薄紅の振り袖を着て、サイトも何となく華やかな雰囲気に。しかし、年明けから数週に渡ってサーバーが激重い状態が続く事となり、皆様に新年のめでたさと同時に苦い思い出を刻み込むのであった。
+    note: {}
+  zh:
+    content: |-
+      2010年1月特别换上的日本传统的正月的正装。千键穿的长袖和服是浅绿色的，响的则是浅红色，网站上[Site]也总觉得萦绕着华丽的氛围。但是，从年初开始的数周里服务器[Server]就变成了持续激重负荷的状态，在恭祝大家新年顺利的同时也记下了这份痛苦的回忆。
+    note: {}

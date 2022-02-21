@@ -1,0 +1,65 @@
+---
+id: shikis-room
+
+en: s
+ja: shi
+furigana: しきのへや
+title:
+  en: Shiki’s Room
+  ja: 志貴の部屋
+  zh: 志贵的房间
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 28
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      It goes without saying, this is the protagonist Shiki’s room.
+      Since Shiki is Akiha’s older brother, you’d expect this to be a mighty fine room, but… do my eyes deceive me? It’s even more barren than Kohaku’s! What’s going on!?
+      If somebody unfamiliar with Shiki’s personality (and the way he doesn’t really keep a lot of stuff) saw it, they’d be convinced it was a case of the sister-in-law (Akiha) bullying the bride (Shiki).
+      Of course, since Shiki himself seems perfectly pleased with it, there’s no problem.
+      Also, though you can’t tell from the background graphic in the game, there’s a fireplace and a desk in the room as well, among other things.
+    note: {}
+  ja:
+    content: |-
+      いわずともなし、主人公である志貴の部屋。
+      志貴は秋葉の兄なんだから、その部屋はさぞかし立派な物の筈なんだけど……目の錯覚か、琥珀さんの部屋より寂しく見えるのは何故だろう。
+      志貴の性格（あんまり物持ちをしない）を知らない人が見れば、小姑（秋葉）の嫁（志貴）いびりにしか見えない。
+      もっとも、志貴本人は気に入っているみたいなので問題なし。
+      画面では見えませんけど、ちゃんと暖炉とか机とかあるんですよー。
+    note: {}
+  zh:
+    content: |-
+      不用多说，主人公志贵的房间。
+      因为志贵是秋叶的哥哥，所以房间应该也要非常的豪华才对……是错觉吗，为什么看起来比琥珀的房间还要寂寞呢。
+      如果从不知道志贵性格（不太珍惜东西）的人的眼光来看的话，只会感觉是小姑（秋叶）在欺负媳妇（志贵）。
+      不过志贵本人很喜欢所以没问题。
+      虽然画面里看不到，不过还是有暖炉和书桌的。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 40
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      It goes without saying, this is the protagonist Shiki’s room.
+      Since Shiki is Akiha’s older brother, you’d expect this to be a mighty fine room, but… do my eyes deceive me? It’s even more barren than Kohaku’s! What’s going on!? If somebody unfamiliar with Shiki’s personality (and the way he doesn’t really keep a lot of stuff) saw it, they’d be convinced it was a case of the sister-in-law (Akiha) bullying the bride (Shiki). Of course, since Shiki himself seems perfectly pleased with it, there’s no problem. Also, though you can’t tell from the background graphic in the game, there’s a fireplace and a desk in the room as well, among other things.
+    note: {}
+  ja:
+    content: |-
+      言わずもがなし、主人公である志貴の部屋。
+      志貴は秋葉の兄なんだから、その部屋はさぞかし立派な物の筈なのだが……目の錯覚か、琥珀さんの部屋より寂しく見えてしまう。志貴の性格（あんまり私物を持ちたがらない）を知らない人が見れば、小姑（秋葉）の嫁（志貴）いびりに映るだろう。もっとも、志貴本人は気に入っているみたいなので問題なし。画面では見えませんけど、ちゃんと暖炉とか机とかあるんですよ—。
+    note: {}
+  zh:
+    content: |-
+      不必多言，主角志贵的房间。
+      因为志贵是秋叶的哥哥，这个房间也想必也应该很气派吧……眼睛的错觉么，看起来比琥珀的房间还要冷清。
+      不知道志贵性格（不带太多的私有物）的人看起来的话，像是小姑（秋叶）的媳妇（志贵）被欺负吧。
+      话虽如此，因为志贵本人挺中意的所以并没有问题。虽然画面上看不见，正经的暖炉啊书桌之类的也是有的。
+    note: {}

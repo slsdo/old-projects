@@ -1,0 +1,34 @@
+---
+id: gordius-wheel
+
+en: g
+ja: ko
+furigana: ごるでぃあすほいーる
+title:
+  en: Gordius Wheel
+  ja: 神威の車輪
+  zh: 神威的车轮
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 39
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      2頭の神牛による蹄と車輪、そして雷撃によって敵を蹂躙する戦車。ランクA+を誇るライダーの対軍宝具。踏破する地形にあわせて最高効率の形態に変形することができる。また、地上だけでなく空中をも移動することが可能。かつてフリギアの王・ゴルディアスが、ゼウスに奉納するため神殿に括り付けた牛車の結び目を、イスカンダルが一刀のもとに両断したという、「ゴルディアスの結び目」の故事に由来している。
+    note:
+      n1: "ゴルディアス・ホイール"
+  zh:
+    content: |-
+      {{n1}}
+      以2头神牛的蹄与车轮，还有雷击来蹂躏敌人的战车。Rank A+为傲的Rider的对军宝具。可以配合艰涉地形变化为最高效率的形态。另外，不仅是地上，也可以在空中移动。由来自过去佛里吉亚[Phrygia]的王·戈耳狄俄斯[Gordius]为敬奉给宙斯[Zeus]的神殿里被绑上的牛车的结被伊斯坎达尔[Iskandar]一刀两断，“戈耳狄俄斯[Gordius]之结”这个故事。
+    note:
+      n1: "Gordius·Wheel"

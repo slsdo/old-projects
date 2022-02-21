@@ -1,0 +1,181 @@
+---
+id: magic-circuit
+
+en: m
+ja: ma
+furigana: まじゅつかいろ
+title:
+  en: Magic Circuit
+  ja: 魔術回路
+  zh: 魔术回路
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 85
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      Pseudo-nerves within the body of a magus.
+      Magic circuits are responsible for converting life force into magical energy, and for connecting to the underlying grand magecraft formula.
+      Because the number of magic circuits a person has is fixed at birth, magi lineages do what they can to improve themselves and create an heir with even one more magic circuit.
+      Once the magic circuits have been opened for the first time, the practitioner can switch them on and off at will.
+      Each practitioner visualizes the flipping of this switch in their own particular way. For Shirou, the image is that of a gun’s firing hammer, while for Rin it is stabbing a heart with a knife.
+      This image tends to be related to how the circuits were opened for the very first time, so there even those who
+      can only open their circuits through sexual arousal or self-harm.
+      By the way, Shirou’s number of magic circuits is an unexpectedly high 27.
+      Rin, on the other hand, has 40 main circuits, while her sub-circuits are 30 each.
+    note: {}
+  ja:
+    content: |-
+      魔術師が体内に持つ擬似神経。
+      生命力を魔力に変換する為の路であり、基盤となる大魔術式に繋がる路でもある。
+      生まれながらに持ち得る数が決まっており‘魔術師の家系は自分たちに手を加えて、魔術回路が一本でも 多い後継ぎを誕生させようとする。
+      一度開いてしまえば，あとは術者の意思でオンオフができる。
+      スイッチの仕方は術者のイメージそれぞれで、士郎は銃の撃鉄のイメージ、凛は心臓をナイフで刺すイメージだとか。
+      これは一番初めの“開き”に関係しており、中には性的興奮で聞くもの、自傷行為によってしか開かないもの、と様々。
+      ちなみに、士郎の魔術回路は意外と多く、二十七。
+      凜の魔術回路はメインが四十、サプがそれぞれ三十。
+    note: {}
+  zh:
+    content: |-
+      魔术师体内具有的疑似神经。
+      既是为了将生命力变换为魔力的通路，也是连接成为基盘的大魔术式的通路。
+      一生下来能拥有的数量就是决定好的，魔术师世家对他们自己进行改良，想要诞生出哪怕只多一条魔术回路的后嗣。
+      一旦打开过，之后就能以术者的意思ON/OFF。
+      开关[switch]的做法术者各是各的映像[image]，士郎是枪的击铁的映像，凛是以小刀刺心脏的映像这之类的。
+      这和最开始的“打开”有关，之中有以性兴奋打开的人，不靠自伤行为就打不开的人，以及各种各样的。
+      顺便一提，士郎的魔术回路意料之外地多，二十七。
+      凛的魔术回路主体[main]四十，辅助[sub]各三十。
+    note: {}
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 40
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      The pseudo-nerves existing in the body of a magus.
+      They are the paths that convert life force into magical energy, as well as the paths which connect to the foundations underlying Grand Rituals.
+      The number of Magic Circuits is determined at birth. Mage lineages will resort to any means to alter themselves in hope of giving their descendants just one more Circuit.
+      This is why magi from older lineages are more powerful.
+      In terms of the number of Magic Circuits, and the quality of the lineage, Cornelius Alba is undoubtedly a first rate magus.
+      In fact, neither Aozaki Touko nor Araya Souren have many Magic Circuits. Touko has about 20, Araya about 30.
+      Still, the two are considered geniuses: Touko has talents that are independent of her lineage. Araya’s overwhelming power is probably a result of the anguish that he ceaselessly accumulated through the ages.
+    note: {}
+  ja:
+    content: |-
+      魔術師が体内に持つ擬似[ぎじ]神経。
+      生命力を魔力に変換する為の路[みち]であり、基盤となる大魔術式に繋がる路でもある。
+      生まれながらに持ち得る数が決まっており、魔術師の家系は自分たちに手を加えて、魔術回路が一本でも多い跡継ぎを誕生させようとする。
+      古い家系の魔術師ほど強力なのはこの為。
+      魔術回路の多さ、血筋の品質で言うのなら、コルネリウス・アルバは紛[まぎ]れもなく一流の魔術師。
+      実は蒼崎橙子も荒耶宗蓮も、魔術回路はそう多くない。橙子が二十、荒耶が三十といったところ。
+      天才と思われがちな両者だが、橙子は血筋以外の才能で、荒耶はひたすら積み重ねた苦悩によって、他を圧倒する力を手に入れたのだろう。
+    note: {}
+  zh:
+    content: |-
+      魔术师体内拥有的拟似神经。
+      既是为了将生命力变换为魔力的路，也是联系成为基盘的大魔术式的路。
+      出生时持有数就决定了，魔术师的家系对自身进行处理，来使诞生出的后继者哪怕只多一条魔术回路。
+      越古老的家系的魔术师越强力就是这个原因。
+      以魔术回路的数量，血缘的品质来说的话，科尼利厄斯·阿鲁巴毫无疑问是一流的魔术师。
+      其实苍崎橙子和荒耶宗莲，魔术回路都不是很多。橙子大约是二十，荒耶大约是三十。
+      被认为是天才的两者，橙子是以血缘之外的才能，荒耶是由于一味积淀的苦恼，得到压倒他人的力量的吧。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 86
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      The foundation for setting up magecraft. There are two types, but here it refers to the quality within a human body that makes a magus a magus.
+      Magic circuits are responsible for converting life force into magical energy, and for connecting to the underlying grand magecraft formula.
+      Basically, magecraft is a formula that causes nature interference by starting up and stabilizing a “rule already established in the world” with magical energy. Or to put it another way, the “rule” is a car, and the “magical energy” is the gasoline that makes it run.
+      In order to activate magecraft, three things are required: the necessary amount of magical energy, a key (password/spell/code), and magic circuits to inject the magical energy into the “engine.”
+      If we assume for a moment that magical energy is electricity, then magic circuits would be both the reactor that produces that electricity, as well as the pipelines for running the system.
+      Because vital activity is indispensable to the operation of this reactor, there is a common misconception that a magus’ body = magic circuits. However, though quite rare, magic circuits that continue rotating on their own even after the practitioner’s vital activity has stopped do exist.
+      The reason that an individual’s magical energy (od) will be regenerated even if is totally used up is because the magic circuits are still operating. But on the other hand, without magic circuits, magical energy (od) will no longer be generated at all.
+      They are spread throughout the entire body as pseudo-nerves, and can basically be divided into cores, and pipes that connect these cores together. The pipes are similar to the synapses within the brain, constantly breaking off and reconnecting, but the cores never change.
+      Strictly speaking, these cores are the actual magic circuits.
+      They are considered to be a sort of internal organ, that will never increase or decrease in number. Of course, extracting and transplanting them is technically possible, but just like implanting an extra organ into a human body it should go without saying what will happen if you try it. Magic circuits, once lost, will never return.
+      As for what magi actually use these magic circuits for, well, that’s covered in a different story.
+    note: {}
+  ja:
+    content: |-
+      魔術を構成する為の基盤。二種類あるが、こちらは人間の体内にあるもの、魔術師が持つ“魔術師として資質”を指す。
+      生命力を魔力へ変換する路であり、基になる大魔術式に繫がる路でもある。
+      魔術とは魔力を以って『既に世界に定められたルール』を起動、安定させる事で自然干渉を起こす術式。車という『ルール』にガソリンにあたる『魔力』を注ぎ込む事で走らせるようなものだ。
+      魔術の起動に必要なものは、その起動に必要な魔力量と、エンジンを回す為のキー（パス。呪文。コード）、そして魔力をエンジンに注ぎ込む魔力回路の三つとなる。
+      魔力を電気とするなら、魔術回路は電気を造りだす炉心であり、システムを動かす為のパイプラインでもある。
+      この炉心の運営には生命活動が不可欠である為、魔術師の体=魔術回路と誤解されがちであるが、希に人体―――術者が生命活動を停止しても、自律して回転する魔術回路も存在する。
+      個人の魔力（オド）を使い切ってもゼロから回復するのは魔術回路が動いているからであり、逆に魔術回路がゼロなら魔力（オド）はもう生成されなくなる。
+      魔術回路は疑似神経として全身に行き渡っているが、核となるポイントと、そのポイント同士を結ぶバイパスとに分けられる。核を結ぶバイパスは脳内のシナプスのようなもので、切れたり結ばれたり忙しいが、核は決して変動しない。
+      厳密に言うと、この核こそが魔術回路と呼べるもの。
+      魔術回路は魔術師にとっての資質とも言えるものであり、決して増える事も減る事もない“内臓”とされる。増やす事、減らす事は、無論、できる。が、人体の臓器に例えている以上、そんな事をすればどうなるかは言うまでもないし、減った魔術回路は決して元には戻らない。
+      魔術師が魔術回路をどのように使うかはまた別の物語で。
+    note: {}
+  zh:
+    content: |-
+      构筑魔术的基盘。有类两类，这里指的存在于人类体内，魔术师拥有的，作为魔术师的资质。
+      将生命力转化为魔力，同时也是连接作为基石的大魔术式的路径。
+      所谓的魔术就是利用魔力启动“已经被世界所确认的规则。”，通过使之稳定来产生自然干涉的术。就像是在名为车子的“规则”中注入，相当于魔力的汽油，然后让它跑起来。
+      启动魔术所必要的，是能必须的魔力量，使引擎运作的钥匙（Pass，咒文，Code）以及让魔力注入引擎的魔术回路三个。
+      如果把魔力当做电气，魔术回路便是制造电气的炉心，同时也是使系统运作的燃料管。
+      对于炉心的运作，生命活动是不可欠缺的，因此容易被误解为魔术师的身体=魔术回路，但在很少情况下，即使人体即施术者的生命活动停止了，自主运转的魔术回路仍然存在。
+      即使用尽个人魔力（odo）也能从0回复归来，因为有魔术回路在 工作。
+      但反过来，魔术回路是0的话魔力是无法被生成的。
+      魔术回路类似于神经遍布全身，作为核心是点，可以将其理解为连接核与核之间的通道。
+      连接核的通道就像是脑内连接神经元的连接线、频繁地断开、接通，但核是绝对不会变动的。
+      严密地说，这些核才应当被称为魔术回路。
+      魔术回路对魔术师而言可以称得上是资质的东西 ，被当做是不可或缺的“内脏器官”。
+      当然增加魔术回路和减少魔术回路是可能的。但是既被比做人体的脏器，果真是那样做了的结果自不言而喻。
+      减掉的魔术回路绝对无法复原。魔术师如何使用魔术回路又是另一段故事了。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 63
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      The foundation for setting up magecraft. There are two types, but here it refers to the quality within a human body that makes a magus a magus.
+      Magic circuits are responsible for converting life force into magical energy, and for connecting to the underlying grand magecraft formula.
+      In <em>Melty Blood</em>, the unified gauge for using both EX moves and Arc Drives is called the “Magic Circuit.”
+    note: {}
+  ja:
+    content: |-
+      魔術を構成する為の基盤。二種類あるが、こちらは人間の体内にあるもの、魔術師が持つ″魔術師としての資質″を指す。
+      生命力を魔力ヘ変換する路であり、基になる大魔術式に繋がる路でもある。
+      『MELTY BLOOD』ではEX、アークドライブを使用する為のゲージをマジックサーキットという呼称で統一している。
+    note: {}
+  zh:
+    content: |-
+      为构成魔术的基盘。有二种，但这里指的是在人类体内之物，魔术师所持有的“作为魔术师的资质”。
+      是将生命力变换为魔力的路，也是成为基础联系大魔术式的路。
+      《MELTY BLOOD》里以魔术回路这个名称统一为了使用EX、Arc-Drive的气槽。
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 86
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      魔術師の体内に宿る、魔術行使用の擬似神経。生命力を魔力に変換する。持ちうる魔術回路の数は生まれながらに決まっているが、親から子へと継承することが可能なため、代を重ねるごとに魔術回路の数を増やすことによって強力な魔術師が誕生することになる。魔術協会が門閥主義であることもこのことに起因している。
+    note: {}
+  zh:
+    content: |-
+      存在于魔术师体内，行使魔术用的疑似神经。将生命力变换为魔力。具有魔术回路的数量是生来就决定了的，不过因为孩子可以从父母那边继承，随着世代交替因魔术回路的数量增加就会诞生强力的魔术师。魔术协会是门阀主义也起因于此。
+    note: {}

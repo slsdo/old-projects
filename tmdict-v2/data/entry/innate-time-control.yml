@@ -1,0 +1,30 @@
+---
+id: innate-time-control
+
+en: i
+ja: ta
+furigana: たいむあるたー
+title:
+  en: Innate Time Control
+  ja: 固有時制御
+  zh: 固有時制御
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 84
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      みずからの体内を固有結界と化して、体内時間を自在に操るという、切嗣の我流魔術。時間操作という魔術探求を継承してきた、衛宮家の秘術を切嗣が戦闘用に応用したもの。本来は大規模魔術である時間操作だが、それを術者の体内のみに限定することで、小規模かつ効率的な運用を可能にした。自身の体内時間を加速・減速させることで常人には不可能な動きを実現するが、肉体には極度の負荷がかかる。
+    note: {}
+  zh:
+    content: |-
+      将自己的体内化作固有结界，自在地操作体内时间这样的，切嗣的我流魔术。切嗣继承了时间操作这一魔术探求，并将卫宫家的秘术应用于战斗用。虽然本来是大规模魔术的时间操作，但通过将其限定于仅在术者体内，就可以小规模且有效率地运用。通过将自身体内时间加速·减速来实现常人不可能的动作，不过肉体会承受极度的负担。
+    note: {}

@@ -1,0 +1,88 @@
+---
+id: mecha-hisui
+
+en: m
+ja: me
+furigana: めかひすい
+title:
+  en: Mecha Hisui
+  ja: メカヒスイ
+  zh: 机械翡翠
+
+entry:
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 32
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Kohaku described Mecha Hisui as “Developed in secrecy by the Tohno Weapons Division without Akiha’s knowledge, and designed to excel in city infiltration and suppression of the local population. Mecha Hisui is a weapon of pure joy.” Mecha Hisui has a variety of abilities, such as her “Guide and Interfere” function; when used she drags Akiha into a sticky situation and then blows herself up. Mecha Hisui also has the ability “Redoubled Effort” which lets her wrap elastic bands around a target. She is sure to play a major role in controlling Misaki City! But wait, there’s more! If you buy one today, you will also get the mass production model for free! Maybe… it all depends on Shiki’s fight outcomes, and Kohaku’s mood.
+    note: {}
+  ja:
+    content: |-
+      琥珀曰く「秋葉さまの目を盗み、遠野グループ兵器部門で開発した“都市潜伏・制圧を目的とした愉快兵器”」。秋葉を道連れに自爆する道連れ機能や第二動力にゴム巻機構といった多彩な能力を持ち、三咲町の制圧に一役買う超兵器！ 今ならとってもお買い得。1体買うと量産型が付いてくる！ ……かどうかは志貴の戦いっぶりと琥珀さん次第。
+    note: {}
+  zh:
+    content: |-
+      琥珀曰“瞒过秋叶小姐的眼睛，在远野集团兵器部门中开发的‘以都市潜伏、压制为目的的愉快兵器’”。拥有拉着秋叶一块儿自爆的搭伴机能和用在第二动力上的滚轮机构这些多姿多彩的能力，会主动帮忙压制三咲市的超兵器！现在买的话非常实惠。购买1台的话就会附上量产型！……会不会附上全因志贵的战斗方式和琥珀。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 92
+  category:
+  - person_qm
+  img: ""
+  en:
+    content: |-
+      The Pleasant-type City Subjugation Weapon built by the mad doctor Magical Amber. A megadeus made to look like Hisui. Cast in the Name of God, Ye Not Guilty.
+      She is equipped with various armaments. Her primary motive force comes from her Magical Heart, while her secondary motive force is provided by a rubber band engine (like you’d use to launch a paper airplane). Without a doubt, this can be called a crystallization of super technology.
+      Though she is a mysterious, one-of-a-kind weapon completed by Kohaku after she became the Tatari, it appears that by <em>Re-ACT</em> she has entered mass-production.
+      …The giant Mecha Hisui that appears in her ending is something like a Mobile Armor, and the ending as a whole is a parody of Tetsujin 28-go.
+      During the development stage of <em>Re-ACT</em>, there were actually two versions of Mecha Hisui: Real Type and Super Type. The Super Type would have had stuff like a rocket punch, a super radio wave tornado, and even an erupting god finger. I really hate that we weren’t able to use it. Maybe next time!
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      マジカルアンバーが造りだした愉快型都市制圧兵器。翡翠を模したメガデウス。汝ら罪なし。
+      様々な武装を持ち、主動力はマジカルハート、第二動力はゴム巻き機構（紙飛行機を飛ばすアレ）。まさにオーバーテクノロジーの結晶と言える。
+      タタリ化した琥珀さんが完成させてしまう不思議兵器だが、リアクトでは大量生産に入ったようだ。……エンデイングで出てくるメカ翡翠はモビルアーマーのようなもの。エフェクトからして鉄人2〇号のパロディなのはご愛嬌。
+      リアクト開発段階ではもう一パターンあって、メカ翡翠（リアル系）、メカ翡翠（スーパー系）と分かれていたとか。予定されていたスーパー系のメカ翡翠にはロケットパンチとか超電波竜巻とかゴッドフインガーとかあったのかと思うとマジ悔やまれる。次があったら是非！
+    note:
+      n1: "メカ翡翠（月姫読本 Plus Period）。"
+  zh:
+    content: |-
+      魔法琥珀所制造出的愉快型都市压制兵器。模仿翡翠的Mega Deus。尔等无罪。
+      持有各种各样的武装，主动力是魔力心脏，第二动力是胶辊机构（放纸飞机的那个）。的确可说是Over Technology的结晶。
+      Tatari化了的琥珀完成的不可思议兵器，在Re-Act中好像进入了大量生产。……Ending时出来的机械翡翠是类似Mobile Armor的东西。就Effect来说是对铁人2〇号的致敬性恶搞。
+      Re-Act开发阶段时的Pattern分为机械翡翠（真实系），机械翡翠（超级系）。预定被当作超级系的机械翡翠有着诸如Rocket Punch，超电波龙卷，God Finger但却马上又反悔了。如果有下次的话一定做。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 67
+  category:
+  - person_qm
+  img: ""
+  en:
+    content: |-
+      The Pleasant-type City Subjugation Weapon built by the mad doctor Magical Amber. A weaponized robot made to look like Hisui.
+      She is equipped with various armaments. Her primary motive force comes from her Magical Heart, while her secondary motive force is provided by a rubber band engine. Without a doubt, this is the crystallization of super technology—a mysterious weapon completed by Kohaku after she became the Tatari.
+      The enormous Mecha Hisui that appears in her ending is a Strategic Land Subjugation model. There shouldn’t have been more than one built in <em>Re-act</em>, but for some reason it seems that in <em>Act-Cadenza</em> there’s already a mass-production infrastructure in place…
+      They have a tendency to receive version upgrades every time <em>Melty Blood</em> itself does. Could there be yet another new model of Mecha Hisui under construction in the underground factory beneath the Tohno mansion even now…?
+    note: {}
+  ja:
+    content: |-
+      マッドドクター・マジカルアンバーが造りだした愉快型都市制圧兵器。翡翠を模したロボット兵器。
+      様々な武装を持ち、主動力はマジカルハート、第二動力はゴム巻き機構。まさにオーバーテクノロジーの結晶と言える。タタリ化した琥珀が完成させてしまう不思議兵器。
+      エンディングで登場する巨大メカヒスイは戦略陸上制圧タイプ。『Re-act』では一体しか造られていなかった筈だが、『Act-Cadenza』では量産体制に入ってしまったようだ。
+      MELTY BLOODがバージョンアップする度に彼女たちもバージョンをあげていく傾向にあり、遠野家地下工場では更なるメカヒスイが造られているとかいないとか。
+    note: {}
+  zh:
+    content: |-
+      疯狂医生·魔法琥珀{{n1}}所制造出的愉快型都市压制兵器。模仿翡翠的机器人兵器。
+      持有各种各样的武装，主动力是魔力心脏，第二动力是胶[gom]辊机构。的确可说是超越科技的结晶。Tatari化了的琥珀完成的不可思议兵器。
+      在结局登场的巨大机械翡翠是战略陆上压制型。在《Re-act》里应当是只造出一体就没了，但在《Act-Cadenza》里似乎是进入了量产体制。
+      MELTY BLOOD每次升级时她们也有着提升版本的倾向，好像在远野家地下工厂中正制作着更进一步的机械翡翠又好像没有。
+    note:
+      n1: "Mad Doctor·Magical Amber。"

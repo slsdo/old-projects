@@ -1,0 +1,30 @@
+---
+id: anti-army-noble-phantasm
+
+en: a
+ja: tsu
+furigana: ついぐんのうぶるふぁんたずむ
+title:
+  en: Anti-Army Noble Phantasm
+  ja: 対軍宝具
+  zh: 对军宝具
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 13
+  category:
+  - noble-phantasm
+  img: fzavg2_anti-army-noble-phantasm.png
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      数十から数百の敵軍勢を相手取る、広範囲を対象とした宝具。「王の軍勢（アイオニオン・ヘタイロイ）」や「螺湮城教本（プレラーティーズ・スプルブック）」などがこれにあたる。
+    note: {}
+  zh:
+    content: |-
+      以数十至数百的敌军队为对手，广范围为对象的宝具。“王之军势（Ionian·Hetairoi）”和“螺湮城教本（Prelati’s·Spellbook）”等属于这类。
+    note: {}

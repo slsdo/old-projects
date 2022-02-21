@@ -1,0 +1,53 @@
+---
+id: medusa
+
+en: m
+ja: me
+furigana: めどぅーさ
+title:
+  en: Medusa
+  ja: メドゥーサ
+  zh: 美杜莎
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 55
+  category:
+  - servant
+  img: ""
+  en:
+    content: |-
+      A Rider-class Servant in Tamamo no Mae’s army.
+      She is not a proper Heroic Spirit, but categorized more as an Anti-Hero, an enemy of mankind.
+      Medusa is the youngest of the three Gorgon sisters who appear in Greek Mythology, and was originally a native Earth goddess. Thanks to the plots of the Olympic gods and the fanaticism of humans, she and her sisters were chased to an island, where Medusa was eventually hunted down and changed into a monster.
+      She is infamous for her ability to turn any who meets her gaze into stone.
+      Although a Solo Servant, she views the chaos on SE.RA.PH as a problem that could impede her continued existence, and joins Tamamo’s army.
+      Despite being part of her army, Medusa plans to take Tamamo’s life.
+      Assuming that it would be impossible for Tamamo’s Master to be a decent person, she originally has a low opinion of the Main Character.
+      However, after the Main Character awakens, she finds that both his (or her) personality and appearance fall in line with her tastes more than expected, and so she decides to take on the role of a dependable big sister.
+    note: {}
+  ja:
+    content: |-
+      玉藻の前陣営のサーヴァント。クラスはライダー。
+      ギリシャ神話に登場するゴルゴン三姉妹の末子、メドゥーサ。
+      正統な英霊ではなく、むしろ反英雄と呼ばれる人類の敵対者である。
+      もとは土着の地母神だったが、オリンポスの神々の策略、人々の狂信によって二人の姉と共に形のない島に逃げ延びたが、結局は人間たちに追いやられた末に怪物と化した女怪。
+      見る者を石にする、という伝説はあまりにも有名。
+      ソロサーヴァントだがSE.RA.PHの混乱を問題視し、このままではせっかくの現界も台無しになると考え、玉藻の前陣営に参する。
+      タマモの命を狙っている。
+      はじめ、主人公へは良い印象を持っていなかった。玉藻の前のマスターだからロクな人間ではあるまい　と決めつけていたのである。
+      が、眠りから目覚めてみれば予想以上にメドゥーサ好みの人間&ルックスだったので、以後は頼れる姉として振る舞うことに。
+    note: {}
+  zh:
+    content: |-
+      玉藻前阵营的英灵。职阶为骑兵。
+      希腊神话中登场的戈尔贡三姐妹中的幺妹——美杜莎。
+      不是正统的英灵，不如说是被称为反英雄的人类之敌。
+      原先是地方上的地母神，在奥林帕斯诸神的策略与人们的狂信之下，与两个姐姐一同逃到无形之岛。但最后还是在人们的追杀下化为女妖。
+      会将见者化为石头的传说十分有名。
+      身为自立英灵的她却将SE.RA.PH的混乱视为问题，认为再这样下去会浪费掉难得的现界机会，而加入了玉藻前的阵营。
+      意图夺走玉藻前的性命。
+      起初对主角并没有好印象，认定玉藻前的御主肯定不是什么正直之人。
+      但待主角苏醒之后，却发现他无论外表或为人都比想像中还要符合自己的品味，从此便表现得像是可靠的大姐姐。
+    note: {}

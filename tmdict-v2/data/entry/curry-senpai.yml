@@ -1,0 +1,30 @@
+---
+id: curry-senpai
+
+en: c
+ja: ka
+furigana: かれーせんぱい
+title:
+  en: Curry Senpai
+  ja: カレー先輩
+  zh: 咖哩学姐
+
+entry:
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 6
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      It isn’t really well explained in <em>Melty Blood</em>, but Ciel’s love for curry is unrivaled. Curry Senpai is a play on her extreme love for curry displayed in <em>Tsukihime</em> and <em>Kagetsu Tohya</em>.
+    note: {}
+  ja:
+    content: |-
+      『メルティブラッド』内ではあまり語られていないが、シエルは無類のカレー好きである。どのくらいカレーが好きかは『月姫』及び『歌月十夜』をプレイされたし。
+    note: {}
+  zh:
+    content: |-
+      虽然《MELTY BLOOD》内没怎么提及，但雪儿是天字第一号的咖哩爱好者。想知究竟有多喜欢咖哩就请把《月姬》以及《歌月十夜》玩了。
+    note: {}

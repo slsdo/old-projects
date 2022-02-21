@@ -1,0 +1,42 @@
+---
+id: dust-of-osiris
+
+en: d
+ja: o
+furigana: おしりすのすな
+title:
+  en: Dust of Osiris
+  ja: オシリスの砂塵
+  zh: 欧西里斯之砂
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 29
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      Dust of Osiris is the all-purpose Mystic Code that Rani develops for you to use in your battle against Passionlip.
+      You use this in order to avoid instant death from Lip’s cube compression attack. This Mystic Code is a raging sand storm that blocks anything that would try to affect/change your status.
+      As to why it has the name “Osiris,” please refer to the last boss of the fighting game <em>Melty Blood Actress Again</em>.
+      It blocks Green Archer’s poison, and even Karna’s meteorite attack.
+      What is the point of having Aromatic Wood of Healing, when Rani-san alone is good enough, right?
+    note: {}
+  ja:
+    content: |-
+      パッションリップ戦に備えてラニが開発してくれる万能礼装。
+      リップのキューブ圧縮による即死を防ぐばかりか、あらゆる状態以上をシャットアウトする脅威の砂嵐。
+      なぜオシリスなのかは格闘ゲーム『MELTY BLOOD Actress Again』のラスボスを参照のこと。
+      緑アーチャーの毒はおろか、カルナの阻石さえ防ぐ。
+      癒やしの香木とは何だったのか。もうラニさんひとりでいいんじゃないかな。
+    note: {}
+  zh:
+    content: |-
+      为Passionlip战所准备而由拉尼所开发的万能礼装。
+      为防止Lip的方块压缩造成的即死，将所有的状态都Shut Out其威胁的沙暴。
+      要问为何是Osiris的话是因为参考了格斗游戏《MELTY BLOOD Actress Again》的last boss。
+      别说是绿Archer的毒了，连加尔纳的陨石都能防住。
+      治愈的香木还有什么意义，只要有拉尼桑一人不就好了么。
+    note: {}

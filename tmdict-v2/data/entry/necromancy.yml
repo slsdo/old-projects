@@ -1,0 +1,36 @@
+---
+id: necromancy
+
+en: n
+ja: ne
+furigana: ねくろまんしー
+title:
+  en: Necromancy
+  ja: 死霊魔術
+  zh: 死灵魔术
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 74
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      Necromancy magecraft. The style of magecraft that Shishigou Kairi uses.
+      Necromancy falls under the magecraft systems of both communicating with the dead and curses among the departments within the Mage’s Association, and the term specifies all magecraft styles that primarily use and process corpses. Even after the soul has vanished, a magus’ body continues to have extremely potent magical properties, so the corpses of magi are more useful than regular corpses. Besides magi, corpses of things like beasts with magical properties are also highly valued by necromancers. For instance, a Phantasmal Species can be made into a suitably strong Mystic Code. Shishigou Kairi processes pieces of corpses such as these for every use he could. For example, he used things like monkey hands, owl eyes, and the hearts of magi.
+      Shishigou Kairi’s Mystic Codes were very high quality, and most of all were easy to use since the Mystic Codes that he made from corpses lacked negative factors such as “regret” and “malice” attached to them (while these increase a Mystic Code’s power, it proportionally raises the possibility of it going berserk). And those who should have fallen into ruin ended up becoming the subject of conversation among magi again—that includes the story of how Shishigou Kairi’s Magic Crest was turned poisonous, though.
+    note: {}
+  ja:
+    content: |-
+      ネクロマンシー。獅子劫界離が使用する魔術。
+      死霊魔術は魔術協会の学部でいうところの降霊と呪詛の両系統に属しており、主に死体を利用・加工する術式全般を指す。魂が消えたとしても魔術師の肉体は極めて魔的なものであり続けるため、普通の死体より魔術師の死体の方が有用である。魔術師でなくとも魔性を持つ獣などは珍重される。魔獣ならば相当に強力な魔術礼装を作り出せる。獅子劫界離はそれらを用途ごとに加工している。例えば猿の手、梟の眼球、魔術師の心臓など。
+      獅子劫一族の作成する礼装は質が高く、何より死体を加工した礼装に付きものの「無念」「怨念」といった負の要素（威力は高まるが、その分暴走する可能性が高くなる）が欠落した使いやすいものだった。そして零落したはずの彼らは再び魔術師たちの口に上るようになった———それも、獅子劫界離の魔術刻印が毒化するまでの話だが。
+    note: {}
+  zh:
+    content: |-
+      Necromancy。狮子劫界离所使用的魔术。
+      死灵魔术同时属于魔术协会的降灵与诅咒学科，主要是指使用＆加工于尸体上的魔术。由于魔术师的肉体就算灵魂消失也依然富含魔力的缘故，相较于一般的尸体，魔术师的尸体更为有用。除了魔术师外，具有魔性的野兽尸体也相当珍贵。如果利用魔兽的话可以制作出相当强力的魔术礼装。狮子劫界离根据不同用途各自对它们进行加工。像是猿猴的手、猫头鹰的眼球、魔术师的心脏等。
+      狮子劫一族所制成的礼装品质都很高，更重要的是没有一般以尸体加工成礼装后所残留的“遗憾”“怨恨”等负面要素（有的话虽然威力会提升，但暴走的可能性也比较高。）因此使用上很方便。也因为这样，已经家道中落的他们再度成为魔术师们的话题───但那也只是狮子劫界离的魔术刻印毒化之前的故事了。
+    note: {}

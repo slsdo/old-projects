@@ -1,0 +1,66 @@
+---
+id: devils-trumpet
+
+en: d
+ja: ki
+furigana: きちがいなすび
+title:
+  en: Devil’s Trumpet
+  ja: キチガイナスビ
+  zh: 不正常的茄子
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 13
+  category:
+  - flower
+  img: ""
+  en:
+    content: |-
+      Another name for Datura metel. Kohaku grows it in the back yard.
+      Despite being used for “that,” it was nonchalantly, earnestly, and boldly put on display.
+      By the way, when Kohaku said she wanted to grow some cacti as well, she was probably talking about Peyote. Watch out, Shiki! It’s another dangerous plant!
+    note: {}
+  ja:
+    content: |-
+      チョウセンアサガオの別名。琥珀さんが裏庭で育てている。
+      その用途はアレで、月姫本編でさりげなく、こまめに、時に大胆に発揮されている。
+      琥珀さんはサボテンも植えたい、といっていたが、そのサボテンはおそらく鳥羽玉。これもメスカリンを含んでいる危ない植物なんですよ志貴さん！
+    note: {}
+  zh:
+    content: |-
+      洋金花的别名。琥珀在后院有种。
+      主要用途是“那个”，在月姬本篇悄悄的、忠实的、有时大胆的发挥其效用。
+      虽然琥珀说也想种仙人掌，不过那仙人掌恐怕是鸟羽玉。这也是内含酶斯卡灵的危险植物喔，志贵！
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 22
+  category:
+  - flower
+  img: ""
+  en:
+    content: |-
+      Another name for Datura metel. Kohaku grows it in the back yard.
+      Despite being used for “that,” it was nonchalantly, earnestly, and boldly put on display.
+      By the way, when Kohaku said she wanted to grow some cacti as well, she was probably talking about Peyote. Watch out, Shiki! It’s another dangerous plant!
+      …Well, she really did start using cacti in <em>Melty Blood</em>. After <em>Kagetsu Tohya</em>, Kohaku established the “Magical Netherworld Psycho Garden” behind the Tohno mansion, which has been churning out ingredients for strange and eerie medicines ever since. T-This is bad! Somebody, stop her!
+    note: {}
+  ja:
+    content: |-
+      チョウセンアサガオの別名。琥珀さんが裏庭で育てている。
+      その用途はアレで、月姫本編でさりげなく、こまめに、時に大胆に発揮されている。
+      琥珀さんはサボテンも植えたい、といっていたが、そのサボテンはおそらく烏羽玉。これもメスカリンを含んでいる危ない植物なんですよ志貴さん！
+      ……なんて言っているうちに、メルティブラッドにて琥珀さんがサボテンを使いはじめました。歌月十夜以降の遠野家の裏庭には琥珀謹製・マジカル魔境サイコガーデンが造られてしまい、日々怪しげな薬の材料が発芽している。とめろ、琥珀をとめろー！
+    note: {}
+  zh:
+    content: |-
+      {{n1}}
+      朝鲜朝颜的别名。琥珀正在后院种植。
+      其用途是那个，月姬正篇中自然而然地，细心地，有时又大胆地被发挥了。
+      虽然琥珀说还想种仙人掌，但那仙人掌恐怕是鸟羽玉。这也是含有酶斯卡灵{{n2}}的危险的植物呀，志贵！
+      ……正说着呢，在Melty Blood里琥珀已经开始使用仙人掌了。歌月十夜之后远野家的后院里建造了琥珀谨制·Magical魔境Psycho-Garden，可疑的药材天天发芽。阻止她，快阻止琥珀——！
+    note:
+      n1: "疯癫茄子：就是白曼陀罗、曼陀罗华。因为是茄科，而且有毒致幻，所以被这样叫。"
+      n2: "一种致幻剂，属于生物碱。"

@@ -1,0 +1,36 @@
+---
+id: red-lord-origami
+
+en: r
+ja: se
+furigana: せきしゅおりがみ
+title:
+  en: Red Lord Origami
+  ja: 赤主・檻髪
+  zh: 赤主·槛发
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 42
+  category:
+  - technique
+  img: ""
+  en:
+    content: |-
+      Tohno Akiha’s Arc Drive.
+      For just a moment, she fully unleashes her power and “plunders” the opponent. The reason her hair turns red is because her true nature is shining through.
+      At one point in <em>Tsukihime</em>, the schoolhouse was totally covered in red threads, making escape impossible for the prey trapped within. Without a doubt, that was Origami. The outlandish spectacle from that time makes its reappearance during Tohno Akiha’s Last Arc.
+    note: {}
+  ja:
+    content: |-
+      せきしゅ・おりがみ。遠野秋葉のアークドライブ。
+      瞬間的に能力を全開放し“略奪”を行う。秋葉の髪が赤くなるのは本性が現れているため。
+      月姫本編では校舎の外側全てを赤い糸で覆い、校舎内の獲物を脱出不可能にした。まさに檻髪。その異様は遠野秋葉のラストアークで再現されている。
+    note: {}
+  zh:
+    content: |-
+      远野秋叶的Arc-Drive。
+      瞬间性地全开放能力进行“掠夺”。秋叶的头发变红是因为现出本性。
+      月姬本篇以赤丝完全覆盖校舍外侧，使校舍内的猎物变得不可能逃脱。的确是槛发。那种异样被以远野秋叶的Last-Arc所再现。
+    note: {}

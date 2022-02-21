@@ -1,0 +1,41 @@
+---
+id: two-divas
+
+en: t
+ja: fu
+furigana: ふたりのうたひめ
+title:
+  en: Two Divas
+  ja: ふたりの歌姫
+  zh: 两位歌姬
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 128
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      This refers to Red Saber and Elizabeth.
+      We can’t go without saying that they are both super rare level Diva. Let’s leave the debate of whether this is a plus or a minus for another day.
+      Red Saber takes Elizabeth’s creativity seriously, and listens to her demonic-sounding song as if it were truly intended to be demonic, as even goes as far as praising it with “That’s also good!”
+      But Elizabeth has absolutely no idea that her song sounds so terrible. This is because she suffers from chronic headaches which impede her from accurately grasping musical scales.
+      At the start Elizabeth sings her extremely tone-deaf song “to make myself feel good.” If she could subdue her selfish feelings and sing for the benefit of others, then she could really become a true diva.
+    note: {}
+  ja:
+    content: |-
+      赤セイバーとエリベートのこと。
+      どっちも超レア級の歌姫と言わざるをえない。プラスかマイナスかは別にして。
+      赤セイバ-はエリザベートの独創性を本気で買っており、あの魔曲を正しく魔曲として聴き、その上で「それも良し！」と認めている。
+      一方、エリザベートは自分が魔曲を歌っているという実感はまったくない。彼女は慢性的な頭痛が原因で、正しく音階を把握できないだけなのである。エリザベートは“自分が気持ち良くなるために歌う”とテラオンチで、自分優先の感情を抑え、“他人のために歌う”と本当にディーバになる。
+    note: {}
+  zh:
+    content: |-
+      指红Saber和伊丽莎白。
+      无论哪边都算得上是超稀有级别的歌姬。姑且不论这个评价是正是负。
+      红Saber是真心很钦佩伊丽莎白的独创性，她倒是有正确分辨出那首是走调的魔曲，只是她在此基础上认为“这个也可以有！”而已。
+      另一方面，伊丽莎白则毫无自己唱出的是魔曲的自觉。她只是因为慢性头痛，而导致无法正确把握音调而已。
+      伊丽莎白若是“为了自己开心而唱”则是超级音痴。她若是能抑制住优先自己的感情，“为别人而唱”的话，就能成为真正的女主唱[Diva]。
+    note: {}

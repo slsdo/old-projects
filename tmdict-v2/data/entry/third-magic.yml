@@ -1,0 +1,36 @@
+---
+id: third-magic
+
+en: t
+ja: ta
+furigana: だいさんまほう
+title:
+  en: Third Magic
+  ja: 第三魔法
+  zh: 第三魔法
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 62
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      Heaven’s Feel, the Cup of Heaven. For further details about it, you should either play the Heaven’s Feel route in the game <em>Fate/stay night</em> or, if you’re patient, wait for the animated film version of it.
+      …Well, I’ll touch upon it lightly at least. It is a mystery that exists in a different dimension from magecraft, one of the final goals that magi seek. Impossible feats that cannot be accomplished in the current era no matter how much time or budget you devote are called magic.
+      There are currently five magic in total. The third amongst them—that which the Einzberns have sought for two thousand years is the Third Magic, “Heaven’s Feel.” It is true, unquestionable immortality accomplished by materializing the soul. It is definitely a miracle that would undoubtedly result in the salvation of humanity should it be implemented. Sieg is unmistakably evil for having stolen away the possibility of making it a reality.
+    note: {}
+  ja:
+    content: |-
+      へヴンズフィール、天の杯。詳細に関してはゲーム版「Fate/stay night」Heaven’sFeel編をプレイするか、気の長い人間は劇場アニメ版を待つがよい。
+      ……まあ、軽くさわりだけ。魔術とは異なる次元にある神秘、魔術師たちにとって一種の到達点。現在の時代でどれほどの時間と予算を掛けても実現不可能なものを魔法と呼ぶ。
+      現在の魔法は全部で五つ。その中の三番目———アインツベルンが二千年の間、追い求めているものが第三魔法「天の杯」である。魂を物質化させることによる、擬似的なものではない真の不老不死。実現すれば、間違いなく人類救済となるだろう確かな奇跡。ジークはこれを実現できる可能性を奪い去っていったのだから、紛れもない邪悪である。
+    note: {}
+  zh:
+    content: |-
+      Heaven’s Feel，天之杯，详细情形请去玩《Fate/stay night》的Heaven’s Feel篇，有耐心的人就等动画剧场版吧。
+      ……还是稍微解释一下好了。这是与魔术不同次元的的神秘，对魔术师们来说是一种顶点。当代里，无论消耗多少时间和预算也不可能实现之事，被称作魔法。
+      现在魔法总共有5个，其中的第三个－爱因兹贝伦在2000年间追求的第三魔法“天之杯”能将灵魂物质化，藉此达成并非虚拟、而是真正意义的不老不死。如果能够实现，那无庸置疑是能救赎人类的奇迹，而齐格因为将那个可能性夺走了，毫无疑问是邪恶。
+    note: {}

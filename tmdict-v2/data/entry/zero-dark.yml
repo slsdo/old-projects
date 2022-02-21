@@ -1,0 +1,75 @@
+---
+id: zero-dark
+
+en: z
+ja: mi
+furigana: みめいりょういき
+title:
+  en: Zero Dark
+  ja: 未明領域
+  zh: 未知领域
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 51
+  category:
+  - site
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      A territory within the Moon Cell, yet separate from the Moon Cell itself.
+      The Moon Cell entirely blocked off the photon network leading to the Zero Dark territory, in order to sequester the Ark of the Stars, which is effectively an external memory vessel that the Umbral Star fired into the Moon Cell.
+      Even though the Moon Cell also has the Imaginary Number Space where it seals in malicious data, that is still considered part of the Moon Cell itself, as it is merely the Far Side of the Moon.
+      The Zero Dark, on the other hand, is a region that the Moon Cell treats as if it does not exist.
+      No physical connections remain to the Zero Dark, so it cannot become corrupted, but neither can it be purged.
+      It exists inside of the Moon Cell as a completely null space.
+      Its name, the “Zero Dark,” comes from the fact that it is a state of darkness that exists before dawn of civilization, before life and creation.
+      Ultimately, it is the territory of the Umbral Star within the Moon Cell itself.
+      Unfortunately for the Moon Cell, only its physical connection with the Zero Dark has been severed, so it is actually possible to enter via the right means. The only reason why the forces of the Umbral Star did not leave the Zero Dark sooner is because Titan Altera was “asleep” at the time.
+      The game establishes that Titan Altera cannot leave the cavern within the Zero Dark.
+      It certainly looks that way, because her body is shoved into such a tiny space. The reality, however, is not so clear-cut, and Titan Altera is in fact able to leave of her own volition from the moment she “awakens.”
+      However, if she were to escape outside, her ego would disappear, and she would turn into a mindless White Titan who exists solely to carry out Velber’s orders. She is afraid of becoming a mindless soldier, and so she chooses to remain inside of her own free will.
+      On the other hand, there is no danger of becoming an Anti-Cell when acting through Hero Altera, thus avoiding being attacked and having her consciousness erased by the Moon Cell.
+      It’s possible that the only reason why Altera conquers SE.RA.PH with the Main Character at her side is because she wants to see the continuation of a certain dream.
+    note:
+      n1: "未明領域 literally translates to “uncharted area.”"
+  ja:
+    content: |-
+      ムーンセル内にあってムーンセルではない領域。
+      遊星から月に打ち込まれた外部メモリ　星舟を隔離する為の光子ネット遮断帯。
+      ムーンセルには悪性情報を封じ込めた虚数空間もあるが、あれはあくまで月の裏側、ムーンセルを構成する一部分になっている。
+      しかしこの未明領域はムーンセルが完全に「無い」と扱う領域。
+      ムーンセルはあらゆる接続をカットしているので侵食されないが、同時に駆除もできないでいる。
+      完全な「　」としてムーンセル内部を圧迫している。
+      文明という日が昇る前の暗黒状態、何ものをも生み出さない時間として『未明領域』と名付けられた。
+      結果的にムーンセル内にある遊星の領土になっている。
+      ネット回線を物理的に断っているだけの状態なので、入ろうと思えば入れてしまうのが困りもの。
+      未明領域から遊星の軍勢が出てこなかったのは、ひとえに巨神アルテラが眠っていたからである。
+      ゲ—ム中、巨神アルテラは未明領域内の石室から出られないとされている。
+      なるほど、狭苦しい空間に体を押し込めている巨神アルテラはいかにも封印されているように見える。
+      が、実際は封印されている訳ではない。巨神アルテラは目覚めた時点で自分から外に出る事ができる。
+      しかし、外に出ると自分の自我は消え、遊星本隊からの指令を受けて活動するだけの白い巨神になってしまう。そんな自分を恐れ、巨神アルテラは自分の意思で『外に出ない』だけだった。
+      一方、英霊アルテラとして外に出る分にはアンチセル化せず、また、ムーンセルからの攻撃も受けないので自我が消える心配はない。
+      アルテラが主人公を連れてSE.RA.PHを征服するのは、主人公と共にまた“あの夢の続き”を見たいからだけなのかもだ。
+    note: {}
+  zh:
+    content: |-
+      位于Moon Cell内部，却又不属于Moon Cell的领域。
+      用以隔离游星刻入月球的外部记忆体——星舟的光子网路遮断带。
+      Moon Cell内部虽也有封印着恶性情报的虚数空间，但那终究还是月的里侧，是属于Moon Cell的一部分。
+      不过，未知领域是Moon Cell完全视为“无”来处理的领域。
+      Moon Cell透过阻绝所有连结来防止被侵蚀，同时却也无法驱除。
+      未知领域作为完全的“  ”压迫着Moon Cell的内部。
+      就如同名为文明的太阳升起前的暗黑状态，像是任何事物都无从诞生的时间而命名为“未知领域”。
+      就结果而言，成了位于Moon Cell的游星领土。
+      让人困扰的是，由于只是将网路环境以物理方式阻绝在这个状态下，只要想进去就有办法进去。
+      只是因为巨神阿提拉之前处于沉眠的状态，游星的军势才没有从未知领域倾巢而出。
+      游戏中，巨神阿提拉并未离开未知领域内的石室。
+      原来如此，将身体挤压进狭窄空间内的巨神阿提拉，看上去就像是被封印了一样。
+      不过，巨神阿提拉实际上并没有被封印。自她醒来开始，就已经能够凭藉己力外出了。
+      只是，一旦外出，巨神阿提拉就会失去自我，而成为单方面接受游星总队指令活动的白色巨神。她对这样的自己感到恐惧，因此基于自己的意志决定“不出去”。
+      另一方面，以英灵阿提拉的身分外出时不会反噬晶体化，也不会受到来自Moon Cell的攻击，所以没有失去自我的疑虑。
+      带着主角征服SE.RA.PH的阿提拉，或许只是想要和主角一起再度看看“那个梦的延续”而已吧。
+    note: {}

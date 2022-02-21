@@ -1,0 +1,43 @@
+---
+id: special-my-room
+
+en: s
+ja: su
+furigana: すぺしゃるまいるーむ
+title:
+  en: Special My Room
+  ja: スペシャルマイルーム
+  zh: 特殊个人房间
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 87
+  category:
+  - event
+  img: ""
+  en:
+    content: |-
+      This is about the Special My Room you can access while in the main story line of EXTRA.
+      It is a place that is removed from the rest of the game (the main plot) where you can discover many things about allied Servants, such as their past, the trauma they’ve gone through, or even their true name.
+      You can access the Special My Room by continuing to progress the story, frequently visiting the My Room of allied servants, and fully upgrading SE.RA.PH{{n1}}.
+      However, while you may think it a mistake, from the 5th round onwards, the conditions that must be met to raise Cas-ko’s flag (and only for Cas-ko) become very severe.
+      When talking to her in her My Room, after selecting one of the conversation options if you hear her say “Would you be so kind as to try again from your last save point?” then even if you haven’t saved your game in the last two hours, you should definitely swallow your tears and reload.
+    note:
+      n1: "SE.RA.PH completion or fill (as in clearing SE.RA.PH’s storyline or something), upgrade sounds better, but it really depends on what this is called in the game."
+  ja:
+    content: |-
+      EXTRA本編でのスペシャルイベント。
+      味方サーヴァントの過去やらトラウマやら真名を聞ける、本筋とは別の番外編のこと。
+      ストーリーを進めつつ、こまめにマイルームでサーヴァントとセラ充（SE.RA.PH充実）していれば見る事ができる。
+      ただし何の間違いか、キャス狐のみ五回戦以降のフラグ条件が厳しい。
+      マイルームでのサーヴァント会話選択肢で、キャス狐に「セーブポイントからやり直してくださいまし」と言われたらたとえ二時間ぐらいセーブしていなくとも涙を呑んでやり直すべし。
+    note: {}
+  zh:
+    content: |-
+      EXTRA本篇的Special My Room。
+      听闻己方Servant过去啊创伤啊真名之类，有别于主题的番外篇。
+      随着故事的进行，勤奋地在My Room与Servant进行SERA充（SE.RA.PH充实）就能看到了。
+      但是有哪里出问题了呢，只有Cas狐在五回战以降地Flag条件十分严格。
+      在My Room的Servant对话选择肢，Cas狐如果说了“请从存档点重新来过”，就算是两小时没有存档，也只能含泪重新再来。
+    note: {}

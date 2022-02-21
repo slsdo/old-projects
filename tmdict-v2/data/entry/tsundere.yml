@@ -1,0 +1,30 @@
+---
+id: tsundere
+
+en: t
+ja: tsu
+furigana: つんでれ
+title:
+  en: Tsundere
+  ja: ツンデレ
+  zh: 傲娇
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 33
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      普段はツンツン☆好きな人の前ではデレデレ。らしいのだが未だによく分からない。千鍵さんはただの乱暴者だと思う。あと菌糸類の人曰く凛もツンデレではないらしい。ますます分からない。
+    note: {}
+  zh:
+    content: |-
+      通常冷傲☆在喜欢的人面前就会娇气。虽然差不多这样但还是不太明白。我想千键桑不过是单纯的暴力犯吧。另外按某菌丝类人类说法凛似乎也算不上是傲娇。真是越来越搞不懂了。
+    note: {}

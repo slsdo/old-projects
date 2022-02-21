@@ -1,0 +1,30 @@
+---
+id: tonamin-z
+
+en: t
+ja: to
+furigana: となみんせつと
+title:
+  en: Tonamin Z
+  ja: となみんＺ
+  zh: Tonamin-Z
+
+entry:
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 24
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Anti-Makikyu X. A drug used to return G-Akiha to her original size. The name comes from the oldest son of the Kugamine family, Tonami. Kugamine is a branch family of the Tohno family, and Tonami is Akiha’s former fiancé. In a sense, he has quite the record. Also to note is that Kugamine Tonami only appears in <em>Kagetsu Tohya</em> (not in <em>Tsukihime</em>).
+    note: {}
+  ja:
+    content: |-
+      アンチまききゅ－X。G秋葉を元の大きさに戻す薬らしい。名前の元は遠野家の分家筋、久我峰家の長男、斗波（となみ）と思われる。秋葉の元婚約者という、ある意味において恐ろしい過去を持つ人物だ。なお、久我峰斗波は『月姫』本編ではなく『歌月十夜』に登場する。
+    note: {}
+  zh:
+    content: |-
+      反Makikyuu-X。似乎是让G秋叶回到原来大小的药。名称的根源看来是远野家分家，久我峰家的长男，斗波（となみ）。是拥有“身为秋叶原未婚夫”这种在某种意义上很惊人的过去的人物。另外，久我峰斗波并不在《月姬》本篇而是在《歌月十夜》中登场。
+    note: {}

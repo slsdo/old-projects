@@ -1,0 +1,32 @@
+---
+id: spiritron
+
+en: s
+ja: ri
+furigana: りょうし
+title:
+  en: Spiritron
+  ja: 霊子
+  zh: 灵子
+
+entry:
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 26
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      Although they may morph into any variety of shapes and sizes, spiritrons are nonetheless singular units. Defined as the substance that is the “true essence” of the soul, which is thought to reside in a higher dimension.
+    note:
+      n1: "Also known as “spiritual particle.“"
+  ja:
+    content: |-
+      どのようなカタチ・サイズに変貌しようと変わらないただひとつのモノ。高次元にあるとされる「魂」をもとに定義された「モノの本質」のこと。
+    note: {}
+  zh:
+    content: |-
+      无论形状、尺寸如何变化[本质]也不会变的唯一的东西。以存在高次元的“魂”为根据被定义为“东西的本质”。
+    note: {}

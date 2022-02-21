@@ -1,0 +1,35 @@
+---
+id: magic-sword
+
+en: m
+ja: ma
+furigana: まけん
+title:
+  en: Magic Sword
+  ja: 魔剣
+  zh: 魔剑
+
+entry:
+- source: angel-voice
+  section: notes
+  order: 6
+  category:
+  - knight-arms
+  img: ""
+  en:
+    content: |-
+      The name of the weapon that Knights carry.
+      All human species born in this world are effected by Gin. Babies born with a large amount of Gin in them shape it as if it’s their bones during their lives, and when they reach adulthood, it is laid outside their body. Because it is created with the unanalyzed entity Gin, it is able to cause various effects and its power is strong enough to be considered a weapon.
+      Only few humans can shape the Demonic Swords, and those who carry a Demonic Sword powerful enough to be used for war are considered as Knights. Only one Demonic Sword exists per Knight.
+    note: {}
+  ja:
+    content: |-
+      騎士が持つ武器の総称。
+      この世界に生まれた人間種は、すべからくジンの影響をうける。生誕の際にジンを多く体内に含んで誕生した赤子は、それを自らの骨子として育て上げ、成人のさいに外界にカタチとして産み落とす。この、いまだ未解明のジンで形成された兵器は様々な現象を誘発し、その影響は十分に兵器とよべるレベルをもっている。
+      魔剣を形にできる人間は数少なく、中でも実戦にもちいられるほど強力な魔剣を持つものを騎士と呼ぶ。一人の騎士につき魔剣は一振りとされる。
+    note: {}
+  zh:
+    content: |-
+      骑士所持武器的统称。
+      诞生于这个世界的人类种必然会受到“尘”的影响。出生的时候体内含有较多“尘”的婴儿，能够将其培养成自己的骨骼，成人时具备形态生成到外界。这种仍未解明的“尘”所形成的武器可以诱发各种现象，其影响足以称之为武器。能将魔剑成型的人类十分之少，其中拥有威力可用于实战的强力魔剑之人被称为骑士。一名骑士拥有一柄魔剑。
+    note: {}

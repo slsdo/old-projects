@@ -1,0 +1,32 @@
+---
+id: sabers-clothes
+
+en: s
+ja: se
+furigana: せいばーのふく
+title:
+  en: Saber’s Clothes
+  ja: セイバーの服
+  zh: Saber之服
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 47
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      The clothes Rin prepared for Saber.
+      Originally, they were something Kotomine Kirei had given to her as a birthday present.
+      That’s… nice, Kotomine.
+    note: {}
+  ja:
+    content: |-
+      凜が用意するセイバーの服。もともとは言峰綺礼が凜の誕生日ごとに贈っていたものだとか。……言峰って、けつこう
+    note: {}
+  zh:
+    content: |-
+      凛为Saber准备的衣服。原本是言峰绮礼送给凛的生日礼物。……言峰嘛，很足够了。
+    note: {}

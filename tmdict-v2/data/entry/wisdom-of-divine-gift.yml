@@ -1,0 +1,42 @@
+---
+id: wisdom-of-divine-gift
+
+en: w
+ja: shi
+furigana: しんじゅのちえ
+title:
+  en: Wisdom of Divine Gift
+  ja: 神授の智慧
+  zh: 神授的智慧
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 56
+  category:
+  - skill
+  img: ""
+  en:
+    content: |-
+      The Cheat of Cheats skill of our Professor Chiron. It bundles together the various skills and abilities that he received from the Greek Gods. It covers various skills, from artistic categories like music, to battle techniques like archery and spearmanship, and even to ranger skills such as outdoor pursuit and medicinal harvesting.
+      However, these skills are based on the techniques of Greece’s mythic era, and as such Chiron cannot acquire skills developed in another time and place. Unique skills limited to specific individual such as “Imperial Priviledge” and “Pioneer of the Stars” all fall outside the scope of “Wisdom of Divine Gift.”
+      Thanks to this skill, Chiron can also bestow generic skills to other Servants… but almost all Servants can be summoned precisely because they are complete as heroes, so there exist very few laudable Servants who would ask to be taught by him.
+      The only possible person who might be taught by him in this work is Sieg, but Chiron perceived that he could not bestow skills upon (teach) him unless he transforms into Siegfried in the first place, and he couldn’t teach him anything he could learn within a three-minute time limit.
+      Professor Chiron seemed a bit lonely after he realized that.
+    note: {}
+  ja:
+    content: |-
+      我らがケイローン先生のチート・オブ・チートスキル。ギリシャの神々より与えられた様々な技能を一纏めにしたもの。音楽のような芸術的なものから、弓術、槍術といった戦闘方面、更には野外追跡や薬草採取のようなレンジャー的なスキルと多岐に渡る。
+      ただしこのスキルはギリシャ神話時代の技術をベ一スにしており、例えば中国拳法のように別の時代、別の場所で発達したスキルを身につけられる訳ではない。他にも『皇帝特権』や『星の開拓者』のような特定の個人だけに限定される特殊スキルも『神授の智慧』の適用外である。
+      また、このスキルによって汎用的なスキルを他サーヴァントに付与することが可能……なのだが、サーヴァントのほとんどは英雄として成立しているからこそ召喚されるのであり、教えを乞おうという殊勝なサーヴァントはなかなか存在しない。
+      本編において唯一可能性があったのはジークであったが、ジークはそもそもジークフリートに変身しなければスキルを付与できない（学べない）ということが発覚し、三分間のリミットでは教えられるものも教えられないのである。
+      そのことに気付いたケイローン先生は、ちょっとだけ寂しそうだったらしい。
+    note: {}
+  zh:
+    content: |-
+      我们的凯隆老师的作弊中的作弊技能。把希腊诸神授予的各种技能总括在一起的技能。从音乐之类的艺术方面，到弓术、枪术等战斗方面，更加上多种野外追迹和药草采取之类的游侠类技能。
+      不过这个技能是以希腊神话时代的技术为基准，并不能掌握中国拳法之类在其他时代、其他地方发达的技术。其他还有“皇帝特权”和“星之开拓者”之类的个人限定技能也在“神授的智慧”的适用范围外。
+      另外，虽然可以利用这个技能把较为泛用的技能赋予给其他从者，不过从者几乎都正因为是英雄才被召唤，会想请教学艺的好学从者几乎不存在。
+      虽然在本篇的唯一有可能的是齐格，但发现齐格不变身成齐格弗里德就无法赋予技能（没办法学），而且限时三分钟能学的东西都学不了了。
+      据说发觉这事实的凯隆老师感到有那么点寂寞。
+    note: {}

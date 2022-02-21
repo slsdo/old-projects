@@ -1,0 +1,42 @@
+---
+id: frozen-technology
+
+en: f
+ja: ki
+furigana: ぎじゅつとうけつ
+title:
+  en: Frozen Technology
+  ja: 技術凍結
+  zh: 技术冻结
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 42
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      This refers to how technology development has stagnated since 1970 due to restrictions and regulations enforced by the West Europe Plutocracy.
+      Aerospace industry development is especially restricted. Despite there being a slow trickle of advancement and new technology, no genius talent has appeared with a breakthrough.
+      Furthermore, due to the slowing development of weapons and an extreme decrease in the availability of resources, by the year 2000 it was close to its peak.
+      Another significant difference [in the alternate world of EXTRA] is that warfare is primarily conducted through cyber attacks, at very large scales.
+      The face of modern war is characterized by attackers using the network to destroy the management capabilities of cities and then they proceed to carry out primitive terrorist-style attacks. Ironically, cyber attacks don’t cost much and do no harm to the environment. It’s not too much to say that cyber warfare is environmentally friendly.
+    note: {}
+  ja:
+    content: |-
+      1970年から技術進歩が滞っているのは、西欧財閥による規制行為とされている。
+      航空技術、宇宙開発はその最たるもの。積み重ねられた技術の進歩は少しずつあるものの、ブレイクスルーを促す天才は現れない。
+      また、兵器の進歩も資源が激減したため、2000年から頭打ちとなっている。
+      戦争のメインが電脳戦になったというのも大きい。
+      ネットワーク上から都市の運営機能を破壊し、後は原始的なテロ活動に移行する……というのがこの時代の戦争である。皮肉な話だが、コストもかからず環境も破壊しない電脳戦は地球に優しい戦争と言える。
+    note: {}
+  zh:
+    content: |-
+      1970年起西欧财阀进行行为规制，技术停止了进步。
+      航空技术、宇宙开发首当其冲。虽然累积下来的技术进步在缓慢地进行，但没有出现能突破的天才。
+      而且，由于兵器的进步的大幅度减缓和资源的急剧减少，2000年起已经走到尽头。
+      战争主要是电脑战，规模很大。
+      在网络上破坏城市的运营机能，然后转向原始的terror活动……这个时代的战争模式就是这样。讽刺的是，不费什么钱也不会对环境造成破坏的电脑战可以说是对地球而言最温和的战争。
+    note: {}

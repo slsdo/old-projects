@@ -1,0 +1,122 @@
+---
+id: riesbyfe
+
+en: r
+ja: ri
+furigana: りーずばいふぇ
+title:
+  en: Riesbyfe
+  ja: リーズバイフェ
+  zh: 利兹拜斐
+
+entry:
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 34
+  category:
+  - "-"
+  img: plusperiod_riesbyfe.png
+  en:
+    content: |-
+      Another name for the female knight who is a Shield Knight. It’s said that in order to save Sion, she was supposedly killed by TATARI 3 years prior to the events of <em>Melty Blood</em>. In the <em>Tsuki-Bako</em> <em>PLUS+DISC</em> “Getcha2” corner, we learned that originally she was going to be the main heroine in <em>Melty Blood</em>, and Ciel’s rival. It seems that her weapon is a pile bunker{{n1}}. It would be nice to see a showdown between Riesbyfe’s pile bunker, and Ciel’s Seventh Holy Scripture.
+    note:
+      n1: "From <em>Armored Trooper VOTOMS</em>."
+  ja:
+    content: |-
+      盾の騎士の別名を持つ、騎士団の女性騎士。3年前、シオンを助けるために、タタリに殺された（らしい）。『月箱』内『PLUS+DISC』収録の『げっちゃ2』によると本来はシエルのライバルとして『メルティブラッド』のヒロインになる予定だったとか。彼女の持つ武器はパイルバンカーだそうで、シエルの第七聖典との対決も見てみたかった。
+    note: {}
+  zh:
+    content: |-
+      拥有盾之骑士这别名，骑士团的女性骑士。3年前，为救紫苑而被Tatari杀害了（好像）。根据《月箱》内《PLUS+DISC》收录的《げっちゃ2》，本来是予定作为雪儿的竞敌成为《MELTY BLOOD》的女主角的。她持有的武器似乎是Pile Bunker{{n1}}，好想看一下它跟雪儿的第七圣典的决战。
+    note:
+      n1: "Pile Bunker：去看装甲骑兵。"
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 47
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Principal of Reien Girls Academy. Age unknown.
+      A pious Christian. When energized, she would engage in overzealous philanthropic activities due to her excessive faith.
+      The principal’s office was decorated with a shield that would invoke the image of a violin.
+      Originally she was not an important character that would warrant an entry in this glossary, but since she showed up in other works, I had to pick her up.
+    note: {}
+  ja:
+    content: |-
+      礼園女学院の院長。年齢不詳。
+      生粋のクリスチャンで、元気な頃はありあまる信仰心から過激な慈善活動をしていたとか。
+      院長室にはヴァイオリンを思わせるような盾が飾ってあるらしい。
+      本来この用語集に載るほど重要な役どころではないのだが、他作品で登場しているので拾い上げた。
+    note: {}
+  zh:
+    content: |-
+      {{n1}}
+      礼园女学院院长。年龄不详。
+      纯粹的基督徒，有精神的时候因为过剩的信仰心进行过过激的慈善活动什么的。
+      院长室里好像装饰有让人联想到小提琴的盾。
+      本来并不是会记载进这个用语集那样重要的角色，但是因为在其他作品中有登场所以捡起来了。
+    note:
+      n1: "有的翻译里名为“栗子”。"
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 99
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Knight of the Shield. Captain of the Knights of the Inquisition led by the Holy Church. Female.
+      She participated in the failed subjugation of Wallachia alongside Sion, and faced Wallachia alone so that Sion could escape. Her fate afterward is unknown. She possesses the conceptual weapon “True Apocrypha Gamaliel,” a gun-shield that superficially resembles a large stringed instrument.
+      Though it seems Sion thought of her as reliable, they were torn apart before either of them realized they had become friends.
+      During Vampire Sion’s Last Arc, she attacks the enemy by recreating Riesbyfe’s information. Apparently, since Riesbyfe was swallowed up by the Tatari, she was transferred into Vampire Sion when she inherited its power.
+      Also, though there is apparently a nun with the same name working at a certain academy for girls, it is unknown if they are actually the same person or not.
+    note: {}
+  ja:
+    content: |-
+      盾の騎士。聖堂教会が擁する異端審問騎士団の団長。女性。
+      ワラキア討伐に参加し、シオンと共にワラキアに挑むが敗北。シオンを逃がす為に単身ワラキアに挑み、生死不明となる。弦楽器を模した銃盾、概念式武装・正式外典を持つ。
+      シオンは彼女を頼りにしていたようだが、お互い友情を確かめ合う前に死別してしまった。
+      Vシオンのアークドライブ・ブラッドバイブルはションがタタリとしてリーズバイフェの情報を再現したもの。リーズバイフェはタタリに飲み込まれたので、タタリ化したVシオンの中には彼女が捕らわれている、という事だろう。
+      また、同名の女性がとある学園のマザーに就任しているが、同一人物であるかは不明。
+    note: {}
+  zh:
+    content: |-
+      盾之骑士。支持圣堂教会的异端审问骑士团团长，女性。
+      参加瓦拉齐亚讨伐，在和紫苑一起挑战瓦拉齐亚中败北。为了让紫苑逃脱，孤身奋战瓦叔，结果生死不明。持有模仿弦乐器的铳盾、概念武装·正式外典。
+      紫苑似乎很信任她，在相互传达确信情谊之后生死相别。
+      吸血鬼紫苑的Arc Drive、Blood Bibble是紫苑作为TATARI再现栗子情报的产物。栗子被TATARI吞噬，现在被困于TATARI化的吸血鬼紫苑体内。
+      并且同名的女性在某学园内就任校长，是否是同一人不明。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 71
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Knight of the Shield. Captain of the Knights of the Inquisition led by the Holy Church.
+      She participated in the subjugation of the Tatari three years ago, and faced Wallachia alone so that Sion could escape. Her fate afterward is unknown. She possesses the conceptual weapon “True Apocrypha Gamaliel,” a gun-shield that superficially resembles a large stringed instrument.
+      Though it seems Sion thought of her as reliable, they were torn apart before either of them realized they had become friends.
+      During Vampire Sion’s Last Arc, she attacks the enemy by recreating Riesbyfe’s information. Apparently, since Riesbyfe was swallowed up by the Tatari, she was transferred into Vampire Sion when she inherited its power.
+      Properly speaking, because everything swallowed by the Tatari is reconfigured as equivalent data, things that can be recreated separately from the Tatari like Riesbyfe are rare. Presumably, it’s due to the presence of the True Apocrypha, acting as a shield and slowing her absorption.
+    note: {}
+  ja:
+    content: |-
+      盾の騎士。聖堂教会が擁する異端審問騎士団の団長。
+      三年前のタタり討伐に参加。シオンを逃がす為に単身ワラキアに挑み、生死不明となる。弦楽器を模した銃盾、概念武装・正式外典ガマリエルを持つ。
+      シオンは彼女を頼りにしていたようだが、お互い友情を確かめ合う前に死別してしまった。
+      吸血鬼シオンのラストアーク・ブラッドバイブルは彼女がタタリとしてリーズバイフェの情報を再現したもの。リーズバイフェはタタリに飲み込まれたので、タタリ化した吸血鬼シオンの中には彼女が捕らわれている、という事だろう。
+      本来なら取り込まれた存在は全て等価値の情報として再構成される為、彼女のように“タタリとは別に再現されるモノ”は珍しい。おそらく正式外典が護りとなり、タタリに取りこまれた彼女の消化を遅らせているのだろう。
+    note: {}
+  zh:
+    content: |-
+      盾之骑士。圣堂教会所率领的异端审问骑士团的团长。
+      参加了三年前的Tatari的讨伐。为了让紫苑逃走只身挑战瓦拉齐亚[Wallachia]，结果生死不明。持有仿弦乐器形的枪盾——概念武装·正式外典Gamaliel。
+      紫苑似乎挺信赖她的，但在互相确认彼此友情之前死别了。
+      吸血鬼紫苑的Last-Arc·Blood Bible是她作为Tatari再现了利兹拜斐的情报之物。因为利兹拜斐被Tatari吞进去了，在Tatari化了的吸血鬼紫苑之中她被囚禁着，这么回事吧。
+      按理说因为被摄入的存在全都会作为等价值的情报被重新构成，所以象她那样“被与Tatari分开再现者”很罕见。恐怕是正式外典成了守护，拖延着被Tatari摄入了的她的消化吧。{{n1}}
+    note:
+      n1: "鲜花和藤乃的学校负责人和盾之骑士应该是同一人物。虽然礼园原本是基督教学校，不过堂堂异端审问骑士团团长到这样偏远的一所学校当校长也太……另外，Fate/stay night策划阶段原本有一个盾之Servant作为Saber的对手出场的（还是女主角后补之一，详见F中は行的はぐれサーヴァント），不知道跟她有没有关系。"

@@ -1,0 +1,43 @@
+---
+id: saber-venus
+
+en: s
+ja: se
+furigana: せいばーヴぃなす
+title:
+  en: Saber Venus
+  ja: セイバー・ヴィナス
+  zh: 维纳斯剑士
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 35
+  category:
+  - servant
+  img: ""
+  en:
+    content: |-
+      The final surprise of this title.
+      <em>Fate/EX</em> is always pushing boundaries, but this is definitely the furthest the team has ever pushed it in the history of Extra.
+      In Tamamo-Cat’s words: “Her attack is through the roof.”
+      It’s very much in character for Nero to beseech the aid of the Goddess of Love (Venus) and not the God of War (Mars). We went with Venus instead of Aphrodite just because Venus rolls off the tongue better.{{n1}}
+      We salute Wada Arco, who took on the “bikini armor” motif that’s fading into obscurity, and, without a shred of embarrassment, finished it up into something so beautiful!
+    note:
+      n1: "The original text is just talking about the difference between pronouncing Venus depending on if you write with ウィ or ヴイ."
+  ja:
+    content: |-
+      今作の最後の隠し球。
+      いつもやり過ぎ感漂う『Fate/EX』だが、歴代でもトップのやりすぎ感。
+      タマモキャット曰く「攻め攻めなのだな」。
+      軍神(マルス)ではなく愛の女神（ヴィーナス）に頼る、というのは実にネロらしい。ウェヌス読みではないのはヴィナスの方が語呂がいいから。
+      今どきビキニアーマーに翼という忘れ去られたモチーフに正面から挑み、ド直球に、恥ずかしくも麗しく仕上げてきたワダアルコ氏に敬礼ッ！
+    note: {}
+  zh:
+    content: |-
+      本作最后的秘密王牌。
+      《Fate/EX》系列总是玩过头，而这玩过头的程度更是其中数一数二。
+      用玉藻猫的话来说就是“攻击性很强喵”。
+      请求的对象不是军神（玛尔斯）而是爱的女神（维纳斯），这点确实很有尼禄的风格。发音上不使用“维奴斯”而使用“维纳斯”则是出于后者念起来比较顺畅。
+      这一次，正面挑战了带翼比基尼铠甲这被遗忘的主题，就让我们一起，对虽然难为情还是华丽地投出直球完成任务的ヮダァルコ老师，敬礼！
+    note: {}

@@ -1,0 +1,30 @@
+---
+id: shrine
+
+en: s
+ja: shi
+furigana: しゅらいん
+title:
+  en: Shrine
+  ja: シュライン
+  zh: 神殿
+
+entry:
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 14
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      A half-built sky rise in Misaki City. Its name literally means “ancient temple.” Some people say it will be a department store, others say a company’s headquarters. It seems like the residents of Misaki City don’t really know. It is the location that Night of Wallachia materializes, and the place where Shiki and Sion first met.
+    note: {}
+  ja:
+    content: |-
+      三咲町に建設途中の高層ビル。その名には神殿という意味がある。デパートになるだの企業の本社ビルになるだの言われているが、実のところ市民にはよくわかっていないらしい。ワラキアの夜が具現化する地点であり、志貴とシオンが出会う場所でもある。
+    note: {}
+  zh:
+    content: |-
+      三咲町内兴建中途的摩天大楼。其名有神殿的意思。据说要成为百货公司啦企业的本社大楼啦，事实上市民似乎并不太清楚。是瓦拉齐亚之夜具现化的地点，也是志贵和紫苑相遇的地方。
+    note: {}

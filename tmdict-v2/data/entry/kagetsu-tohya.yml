@@ -1,0 +1,42 @@
+---
+id: kagetsu-tohya
+
+en: k
+ja: ka
+furigana: うたつきじゅうや
+title:
+  en: Kagetsu Tohya
+  ja: 歌月十夜
+  zh: 歌月十夜
+
+entry:
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 15
+  category:
+  - work-title
+  img: ""
+  en:
+    content: |-
+      A continuation of <em>Tsukihime</em>. Chronologically, it’s a sequel, so it’s meant to be enjoyed after the main story.
+      It’s the story of a certain summer, revolving around the familiar, Len. It was released in the summer of 2001.
+      As a fandisc, it was an all-out summer festival created as a thank you to all the users who had bought <em>Tsukihime</em>. We wanted it to be as fun for the players to play it as it was for us to make it, and looking back now that passion was probably the game’s main selling point.
+      We tried to create an entire encapsulated world in the format of a visual novel, but unfortunately that led to a high degree of difficulty, which in turn garnered a lot of criticism. So, sorry about that.
+      Also, it was in <em>Kagetsu Tohya</em> that Kohaku’s character began to run wild, a trend that continued in <em>Melty Blood</em>.
+    note: {}
+  ja:
+    content: |-
+      月姫の続編。位置付け的には後日談にあたり、本編のその後が楽しめる。
+      使い魔・レンを主題にしたある夏の物語。2001年夏に配布。
+      月姫を遊んでくれたユーザーへのお返しといぅ事もあり、思いつきり夏の祭りをテーマにして制作されたファンディスク。制作サイドもユーザーサイドも楽しめー！という熱気が何よりの売りだったのだなあ、と今なら振り返れます。
+      ビジュアルノベル形式で箱庭世界を表現しようとしたのだが、その難易度の高さに各方面から非難囂々。反省してマス。
+      また、このあたりから琥珀さんのキャラ造形が暴走しだし、メルティブラッドで昇華されるのだがそれはそれでっ！
+    note: {}
+  zh:
+    content: |-
+      月姬的续篇。地位相当于后日谈，能享受正篇之后的故事。
+      以使魔·莲为主题的某个夏天的故事。2001年夏发布。
+      考虑到对玩了月姬的玩家的回报，尽情地以夏日祭典为主题制作的Fan Disc。现在能认识到，“制作方与玩家都来享受吧！！”这种热情正是最大的卖点呀。
+      想以Visual Novel的形式表现盆景世界，结果因为过高的难度而受到多方指责。反省中。
+      另外，从这段时间起琥珀的角色造型开始了暴走，并在Melty Blood中得到了升华……
+    note: {}

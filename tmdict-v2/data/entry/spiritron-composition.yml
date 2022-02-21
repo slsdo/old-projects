@@ -1,0 +1,46 @@
+---
+id: spiritron-composition
+
+en: s
+ja: ri
+furigana: りょうしこうぞう
+title:
+  en: Spiritron Composition
+  ja: 霊子構造
+  zh: 灵子构造
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 164
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      Ryoushi Kouzou. Also known as Soul Qualia.
+      Within cyberspace the form of things changes very easily.
+      Within SE.RA.PH where the flow of time is not constant, there are no stable, fixed values.
+      However, regardless of the form and appearance that is taken, there are still things that don’t change.
+      That unchanging thing is the “meaning” of the existence of the soul which lies in a higher dimension.
+      Spiritron structure is defined based on the soul and represents the soul’s “true essence.” Intelligent lifeforms… Wizards for the most part, connect strongly with their spiritron structure, and have “their own appearance”{{n1}} even within cyberspace.
+    note:
+      n1: "Here, “their own appearance” means their real world human appearance, which is too difficult for low level (non-wizard) hackers to maintain.  Although there are some exceptions where a wizard takes on an alternate appearance which is not their own."
+  ja:
+    content: |-
+      りょうしこうぞう。ソウルクオリアとも。
+      電脳空間においてモノのカタチは容易く変動する。
+      時間の流れすら一定ではないSE.RA.PHでは、安定した固定価値は存在しない。
+      しかし、どのようなカタチ・サイズに変貌しようと変わらないものが一つだけある。
+      高次元にあるとされる魂───その存在の“意味”である。
+      霊子構造とは、その魂を元に定義された『モノの本質』だ。知的生命体……おもにウィザードたちはこの霊子構造と強く繋がる事で、電脳空間における“自分の姿”を保っている。
+    note: {}
+  zh:
+    content: |-
+      Ling zi gou zao。或者说是Soul Qualia。
+      电脑空间的事物的“形”是容易发生变动的。
+      在时间的流动不固定的SE.RA.PH内，是不存在安定的固定价值的。
+      但是，无论是变成怎么样的“形”和“外貌”，依然有着不会改变的东西存在的。
+      那不变之物便是被称为处于高次元的灵魂───也就是那个人存在的“意义”。
+      灵子构造也就是所谓的那个灵魂原本被定义的“事物的本质”。知性生命体……主要是魔术师们通过和灵子构造紧密的联系着，以保持在电脑空间中“自己的姿态”。
+    note: {}

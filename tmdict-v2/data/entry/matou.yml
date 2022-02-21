@@ -1,0 +1,30 @@
+---
+id: matou
+
+en: m
+ja: ma
+furigana: まきり
+title:
+  en: Matou
+  ja: 間桐
+  zh: 间桐
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 16
+  category:
+  - family
+  img: ""
+  en:
+    content: |-
+      One of the Three Founding Families. The Matou family devised the Servant system employed in the Holy Grail War. The family specializes in creating familiars, which contributed to the creation of the system of binding Servants with Command Spells. 200 years ago, Makiri Zolgen, with the dream of eliminating all evil in the world, moved the family from Europe to Japan. He changed the family name Makiri to Matou, and his own name from Zolgen to Zouken to emulate a more Japanese-style name. The family’s blood lineage has become diluted over the years, which spells ruin for a magus family. In retrospect, perhaps Japan’s land wasn’t a good match for the family.
+    note: {}
+  ja:
+    content: |-
+      聖杯戦争におけるサーヴァントシステムを構築した、始まりの御三家のひとつ。使い魔の創造を得意とする家系で、サーヴァントを召喚して令呪で縛るというシステムを生み出した。200年前、「すべての悪の廃絶」という志のもと、欧州から日本に渡った魔術師、マキリ・ゾォルゲン。彼がマキリという家名を現地の呼び名に倣って「間桐」とし、みずからの名前も「臓硯」とした。日本の土が合わなかったのか、代を重ねるごとに魔術師としての血は薄まって行き、魔術の家系としては没落の一途をたどっている。
+    note: {}
+  zh:
+    content: |-
+      圣杯战争中构筑了Servant系统[System]的，初始的御三家之一。擅长使魔创造的家系，创造出了用令咒束缚召唤Servant的系统[System]。在200年前，持“废绝全部之恶”抱负，从欧洲渡往日本的魔术师，玛奇里·脏砚[Makiri·Zouken]。他把玛奇里[Makiri]这一家名以当地的叫法取名作“间桐”，自身的名字也成了“脏砚”。或许是和日本的水土不服，随着世代交替作为魔术师的血也趋向稀薄，作为魔术的家系也已步向没落这一道路了。
+    note: {}

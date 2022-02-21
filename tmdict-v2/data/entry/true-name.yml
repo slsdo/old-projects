@@ -1,0 +1,30 @@
+---
+id: true-name
+
+en: t
+ja: ma
+furigana: まな
+title:
+  en: True Name
+  ja: 真名
+  zh: 真名
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 68
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      サーヴァントが英雄として生きた時代における本当の名前。その英霊にまつわる神話や伝承などから弱点が露見するため、聖杯戦争において真名を明かすことは大きな不利に繋がる。
+    note: {}
+  zh:
+    content: |-
+      Servant作为英雄在世时的时代中真正的名字。因为会暴露和英灵有关神话或传说等当中的弱点，圣杯战争中说出真名很不利。
+    note: {}

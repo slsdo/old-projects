@@ -1,0 +1,30 @@
+---
+id: crest-worms
+
+en: c
+ja: ko
+furigana: こくいんちゅう
+title:
+  en: Crest Worms
+  ja: 刻印虫
+  zh: 刻印虫
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 18
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      Worms bound by Matou Zouken using a secret technique. They are his personal familiars. The worms place an extreme burden on the human body as they feed on their host and create artificial magic circuits within the host’s body. Anyone implanted with Crest Worms becomes Zouken’s puppet, physically incapable of defying him.
+    note: {}
+  ja:
+    content: |-
+      間桐臓硯の使役する蟲であり、秘術。人体に寄生して擬似的な魔術回路を創り出すが、寄生された人間は身体に極端な負担を負うことになる。また、この蟲を植え付けられた者は臓硯の傀儡となり、逆らうことを許されない体となる。
+    note: {}
+  zh:
+    content: |-
+      间桐脏砚所使役的虫子，秘术。虽然寄生在人体能创造出疑似魔术回路，但被寄生的人类的身体会承受极端的负担。另外，被接种虫子者会成为脏砚的傀儡，变成不许抗命之身。
+    note: {}

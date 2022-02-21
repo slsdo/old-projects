@@ -1,0 +1,42 @@
+---
+id: sakura-veil-grande
+
+en: s
+ja: sa
+furigana: さくらヴぇーるぐらんで
+title:
+  en: Sakura Veil Grande
+  ja: サクラヴェール・グランデ
+  zh: Sakura Veil Grande
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 64
+  category:
+  - terrain
+  img: ""
+  en:
+    content: |-
+      This is the name of the final obstructing wall preventing the player from reaching Moon Cell’s core.
+      Its name is a challenge to morals.
+      In our initial design plans the name was Sakura Veil Diva.
+      We wanted players to pronounce “Diva” with a similar intonation to “Godiva.” Goddess Diva; abbreviated to Godiva.
+      …At the very end of the end we felt it was too much of a comedic relief, so Diva was changed to Grande.
+    note: {}
+  ja:
+    content: |-
+      ムーンセル中枢への到達を阻む最後の壁の名称。
+      またの名を倫理への挑戦。
+      初期案ではサクラヴェール・ディーバだった。
+      ディーバはゴディバに近いイントネーションで発音してほしい。ゴッデス・ディーバ。略してゴディバ。
+      ……最後の最後でコメディにするのもどうかと思い、グランデに変更された。
+    note: {}
+  zh:
+    content: |-
+      阻碍到达Moon Cell中枢的最后之壁的名称。
+      这个名字是对伦理的挑战。
+      初期方案是Sakura Veil·Diva
+      Diva与Godiva的发音接近，Goddess·Diva。简称为，Godiva。
+      ……最后的最后觉得太过于喜剧了，所以就变更成了Grande。
+    note: {}

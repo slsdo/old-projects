@@ -1,0 +1,51 @@
+---
+id: atlas-institute-lives-in-the-future
+
+en: a
+ja: a
+furigana: あとらすいんはみらいにいきてんな
+title:
+  en: Atlas Institute Lives in the Future
+  ja: アトラス院は未来に生きてんな
+  zh: 阿特拉斯院真是活在未来啊
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 6
+  category:
+  - term
+  img: fem_atlas-institute-lives-in-the-future.png
+  en:
+    content: |-
+      These are the Jinako’s words directed at Rani’s “plan.”
+      Based off an internet meme that arose from what a biased gamer from a foreign country [said in an interview]. After witnessing moe culture firsthand he said “The Japanese are gone. They are already living in the future.”
+      Let’s take these words as a compliment for the alchemists of the Atlas Institute who devoted themselves to the search for a better future for the human race.
+      By the way, Sialim , who is the content creator that imagined the character Rani, had originally designed Rani to be one of those characters that is actually wearing panties, but often appears not to be. In other words, Sialim is a master of “Zettai Ryouiki.”
+      
+      To digress, in CCC there is a lot of obscure net slang, which is unusual for a TYPE-MOON game.
+      This is because we finally staged a game in a cyber world, and one of the themes of CCC is “illegal modification” so we aimed to attract the attention of some rather worldly-minded people.{{n1}}
+      Including a lot of slang makes the dialogue interesting and fun, but at the same time it must be used carefully as it is a double edged sword that reduces the accessibility of a product.
+    note:
+      n1: "This means that they put (probably vulgar) net slang into the game to appeal to 2ch netizens (worldly-minded people)."
+  ja:
+    content: |-
+      センチネル化したラニの『ある方針』に向けられた、ジナコからの言葉。
+      ネットスラングの一つで、日本のゲーマーたちの偏執的萌え技術を見た海外ゲーマーが「日本人はイッちゃってるよ。アイツら未来に生きてるな」とコメントした事が元ネタ。
+      人類にとってより良い未来を模索し、追及するアトラス院の錬金術に相応しい賛辞と言えよう。
+      ちなみに、ラニの創造者であるシアリムはラニより一世代前の『はいてるけどはいてないように見せる』主義───即ち、絶対領域の達人だった。
+      
+      余談ではあるが、CCCではTYPE-MOONのゲームとしては珍しいほどネットスラングが多用されている。これはせっかく電脳世界が舞台のゲームだし、CCCのテーマの一つは違法改造[チート]でもあるし、という事で俗物的なノリを目指したため。
+      スラングを多用すればモノローグは愉しいものになるが、同時に物語の普遍性は翳ってしまう諸刃[もろは]の剣。扱いには気をつけてネ！
+    note: {}
+  zh:
+    content: |-
+      对于变成卫士的拉尼的“某个方针”，莳奈子所作出的评论。
+      网络用语之一。出处是外国玩家见识到日本玩家那偏执的萌技术后发出的感叹，“日本人真是碉堡了。那群家伙活在未来啊”。
+      对于摸索并不停研究对人类而言更好的未来的阿特拉斯院的炼金术，这是最合适的赞赏吧。
+      顺带一提，拉尼的创造者·西亚莉姆抱有比拉尼更早一个世代的“虽然穿了，但看上去就是没穿”主义——即是，绝对领域的达人。
+
+      这也是余谈，在TM的作品群中，CCC是少有的使用了大量网络用语的作品。
+      毕竟难得以电脑世界为舞台，CCC的主题之一也是违法改造，因此显得基调上比较庸俗。
+      使用电脑用语虽然会使阅读更有趣，但同时也会削弱故事的普遍性，是把双刃剑。请注意使用哟！
+    note: {}

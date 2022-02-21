@@ -1,0 +1,44 @@
+---
+id: makidera-kaede
+
+en: m
+ja: ma
+furigana: まきでらかえで
+title:
+  en: Makidera Kaede
+  ja: 蒔寺楓
+  zh: 莳寺枫
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 82
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A member of Class 2-A’s famed track girl trio. She is the track team’s star sprinter, and wishes people would call her the Black Panther of Homura. Her actual nickname is just “Maki.”
+      She’s scheming at making the honor student Tohsaka Rin her best friend, and sees Mitsuzuri Ayako as a rival.
+      Her hobby is collecting wind chimes, and she loves working with glass. Perhaps because her tastes intersect with Rin’s on that point, the two often go around visiting antique shops together on their days off.
+    note: {}
+  ja:
+    content: |-
+      まきでらかえで。
+      2年A組の仲良し三人組の一人。
+      陸上部きつてのス プリンターで、穂群の黒豹の異名を持ちたいと思って いる。
+      通称マキジ。
+      優等生の遠坂凛を友人にして美味しいめに与りたいと企み、凛の数少ない友人である美綴綾子をライバル視している。
+      趣味は風鈴集めで、ガラス細工が大好き。
+      そのあたりで凛と趣味が合うのか、休日は二人で骨董品屋巡り をしていたりする。
+    note: {}
+  zh:
+    content: |-
+      莳寺枫。
+      2年A组的好友三人组的一人。
+      田径部的短跑队员，拥有“穗群的黑豹”之外号。
+      俗称Makiji。
+      在做美味和想阴谋上是优等生的远坂凛的朋友，凛少有的朋友，作为对手般看待着美缀绫子。
+      爱好为收集风铃、很喜欢玻璃工艺品。
+      那个与凛是爱好一致，假日二人就会去古董店巡游。
+    note: {}

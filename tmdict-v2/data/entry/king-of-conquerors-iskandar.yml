@@ -1,0 +1,36 @@
+---
+id: king-of-conquerors-iskandar
+
+en: k
+ja: se
+furigana: せいふくおうイスカンダル
+title:
+  en: King of Conquerors Iskandar
+  ja: 征服王イスカンダル
+  zh: 征服王亚历山大
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 50
+  category:
+  - servant
+  img: ""
+  en:
+    content: |-
+      Saber’s rival in the Fourth Holy Grail War.
+      He possesses a Noble Phantasm that rivals that of the King of Heroes.
+      In the fourth war, he was weakened from fighting Saber, and subsequently defeated during a battle with Gilgamesh.
+    note: {}
+  ja:
+    content: |-
+      第四回の聖杯戦争における、セイバーのライバル。
+      彼の英雄王ギルガメッシュと桔抗する宝具を持つ。
+      前回ではセイバーとの戦いで弱った後、ギルガメッシュとの連戦によって敗北した。
+    note: {}
+  zh:
+    content: |-
+      第四次的圣杯战争中，Saber的对手。
+      他拥有与英雄王吉尔伽美什相对抗的的宝具。
+      前回跟Saber战斗衰弱之后，再与吉尔伽美什连战败北。
+    note: {}

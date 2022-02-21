@@ -1,0 +1,38 @@
+---
+id: demon-child
+
+en: d
+ja: o
+furigana: おにご
+title:
+  en: Demon-child
+  ja: 鬼子
+  zh: 鬼子
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 5
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      ① Result of sudden mutation. From the moment they are born, you can feel there is something different about them. A deviation from the norm in the family or group.
+      ② In the world of <em>Tsukihime</em>, in which demon kind exist, the word demon-child doesn’t actually refer to the children of demons. Rather it is a discriminatory word carrying the meaning written above in ① In reality it has often been used to persecute humans with special powers.
+      ③ “Demon-child” also has the meaning of “A child who doesn’t resemble his or her parents,” and the term was probably used to mean the same thing.
+    note:
+      n1: "Oni Child."
+  ja:
+    content: |-
+      ①突然変異。生まれながら「違っている」存在。同族内における異端。
+      ②鬼種が存在する月姫世界だが本編ではその子供、ではなく前述のような意味で用いられていたと思われる。事実人間である超能力者もしばしばこう呼ばれて人々から迫害されていた。
+      ③「鬼子」には「親に似ていない子」という意味があるが、これに近い使われ方をしていたと言えるだろう。
+    note: {}
+  zh:
+    content: |-
+      ①突然变异。天生就“不同”的存在。同族内的异端。
+      ②虽然月姫世界存在鬼种，但看来本篇并不是指其孩子，而是前述的那种意思。事实上身为人类的超能力者也屡屡被这样称呼并且受到人们迫害。
+      ③“鬼子”有“不像父母的孩子”的意思，应该可以说是接近于这个用法吧。
+    note: {}

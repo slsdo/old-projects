@@ -1,0 +1,30 @@
+---
+id: ruby-chan
+
+en: r
+ja: ru
+furigana: るびーちゃん
+title:
+  en: Ruby-chan
+  ja: ルビーちゃん
+  zh: 露比酱
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 63
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      よくケ－タイさんの引き合いに出されるが、多分こっちかSでケ－タイさんがM。
+    note: {}
+  zh:
+    content: |-
+      和手机桑很合得来，大概这边是S而手机桑是M吧。
+    note: {}

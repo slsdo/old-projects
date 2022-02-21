@@ -1,0 +1,79 @@
+---
+id: conceptual-armament
+
+en: c
+ja: ka
+furigana: がいねんぶそう
+title:
+  en: Conceptual Armament
+  ja: 概念武装
+  zh: 概念武装
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 7
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      ① When the body of a vampire is destroyed, the Curse of Restoration will return it to normal in a short period of time. In order to truly and completely destroy a vampire, an external factor is needed to neutralize the Curse of Restoration faster than the curse can restore the body. Mystic items and such that are capable of doing so are called conceptual weapons.
+      ② A final trump card or secret ability used to dispose of members of the blood-sucking species who were never human at any point in time.
+    note: {}
+  ja:
+    content: |-
+      ①吸血鬼は肉体が破損しても復元呪詛によって短時間で復元してしまうので、彼らを滅ぼすためには復元速度を上回るか復元呪詛を無効化する外的要因が必要となる。後者のような神秘の類を概念武装と呼ぶ。
+      ②はじめから人でない吸血種を処理する時に使用するいわば奥の手。
+    note: {}
+  zh:
+    content: |-
+      ①吸血鬼即使肉体受损，也会通过复原诅咒而在短时间内复原，所以消灭他们需要超越复原速度或者无效化复原诅咒的外在因素。后者那样的神秘叫做概念武装。
+      ②处理本来就不是人的吸血种时使用的绝招。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 15
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      A weapon created to go beyond mere physical interference, and exert influence on concepts, natural providence, and space.
+      For instance, something that nullifies ”eternal youth“ by overwriting it with the idea of ”natural lifespan.“
+      Ciel’s Seventh Holy Scripture contains the dual concepts of “reincarnation criticism” and “eternity without permanence.”
+      By the way, after being killed by Shiki, Arcueid had at first mistakenly assumed that he must possess some kind of powerful conceptual armament.
+    note: {}
+  ja:
+    content: |-
+      物理的な干渉のみならず、意味柄・摂理や空間に影響を及ぼすよう作られた兵器の事。
+      例をあげるのなら、“不老”という存在に対して“寿命”という考えを上書きし、在り方を無効化する……といったもの。
+      シエルの第七聖典には“転生批判”“永劫無不滅”といった概念がくくられている。
+      余談ではあるが、アルクェイドは当初、自分を殺せた志貴は強力な慨念武装を持っていたのだろう、と誤解していた。
+    note: {}
+  zh:
+    content: |-
+      被制作成不仅是物理性的干涉，并且给意义性·事理或空间带来影响的兵器。{{n1}}
+      举例来说的话，对“不老”这种存在写上“寿命”这种思想，将应有的状态无效化……这一类的东西。
+      雪儿的第七圣典括着“转生批判”“永劫无不灭”这类的概念。
+      题外话，爱尔奎特当初有“能杀了自己的志贵持有着强力的慨念武装的吧”这种误解。
+    note:
+      n1: "此句中“意味柄·摂理”的翻译尚不确定。"
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 30
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      Conceptual Armaments are imbued with or cause an effect based on history and legend. They interfere with meaning and concepts.
+    note: {}
+  ja:
+    content: |-
+      歴史や伝承により付与された概念によって効力を発揮する武装。意味や概念への干渉を起こす。
+    note: {}
+  zh:
+    content: |-
+      靠以历史和传承被赋予的概念发挥作用的武装。引发对意思和概念的干涉。
+    note: {}

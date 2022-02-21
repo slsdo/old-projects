@@ -1,0 +1,30 @@
+---
+id: zepia-eltnam-oberon
+
+en: z
+ja: su
+furigana: ずぇぴあエルトナムオベローン
+title:
+  en: Zepia Eltnam Oberon
+  ja: ズェピア・エルトナム・オベローン
+  zh: 茨比亚·艾尔特拉姆·奥贝隆
+
+entry:
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 17
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      The Dead Apostle that was the origin of TATARI (Night of Wallachia). Eltnam blood runs through his veins, and to be frank, he is Sion’s ancestor.
+    note: {}
+  ja:
+    content: |-
+      タタリ、及びワラキアの夜の元となった死徒。エルトナムの血に連なる者であり、ぶっちゃけて言ってしまうとシオンの先祖。
+    note: {}
+  zh:
+    content: |-
+      成为Tatari以及瓦拉齐亚之夜根本的死徒。与艾尔特拉姆之血有关联者，直截了当的说就是紫苑的祖先。
+    note: {}

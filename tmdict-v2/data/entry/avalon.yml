@@ -1,0 +1,93 @@
+---
+id: avalon
+
+en: a
+ja: su
+furigana: すべてとおきりそうきょう
+title:
+  en: Avalon
+  ja: 全て遠き理想郷
+  zh: 遗世独立的理想乡
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 42
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      The Ever-distant Utopia.
+      A sheathe crowned with the name of the land of fairies that appears in the legends of King Arthur, said to be wreathed in everlasting spring.
+      It is a paradise reminiscent of the island in Greek mythology where the gods grew their golden apples of immortality.
+      Not only does the holy sword’s sheathe heal all of its owner’s wounds and stagnate their aging, but when its true name is called it even decomposes into hundreds of parts and protects them from all interference.
+      It was excavated from Cornwall by the Einzberns, and entrusted to Kiritsugu as a catalyst for summoning King Arthur.
+      It is a Noble Phantasm at the level of magic, that completely shuts out all physical interference, transliners from parallel worlds, and communication from other dimensions (up to the sixth).
+      If Saber secludes herself with this, none will be able to reach her.
+    note: {}
+  ja:
+    content: |-
+      アヴアロン。
+      アーサー王伝説における常春の土地、妖精郷の名を冠した鞘。
+      アヴアロンはギリシャ神話において、“不死の林檎”があるとされる島から連想されたという理想郷。
+      持ち主の傷を癒し老化を停滞させるだけでなく、真 名を以って開放すれば数百のパーツに分解し、所有者をあらゆる干渉から守りきる。
+      聖剣の鞘はアインツベルンがコーンウォールより発 掘し、アーサー王召喚の触媒として切嗣に与えたもの。
+      魔法の域にある宝具で、あらゆる物理干渉‘並行世界からのトランスライナー、多次元からの交信（六次元まで）をシャットアウトする。
+      セイバーがこれで引き篭もったら手におえない。
+    note: {}
+  zh:
+    content: |-
+      Avalon。{{n1}}
+      亚瑟王传说的常春之地，冠以妖精乡之名的剑鞘。
+      被称做理想乡的Avalon，被认为是由希腊神话中，“不死的苹果”之岛而联想出的。
+      不仅能使持有者的伤治愈并使老化停滞，若解放真名的话会分解为数百块，从任何干涉中保护所有者。
+      圣剑之鞘是爱因兹贝伦在康沃尔所挖掘，作为召唤亚瑟王的触媒而给切嗣的东西。
+      到达了魔法领域的宝具，可切断到来自所有物理干涉，平行世界干扰，以及多次元的相互通讯(直到六次元)。
+      Saber如果展开闭居的话，无论如何都无法触及。
+    note:
+      n1: "又译作：远离尘世的理想乡。"
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 29
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      The hallowed scabbard of Excalibur. Rank EX Noble Phantasm. The name “Avalon” comes from the land of the fairies in the legend of King Arthur. The Everdistant Utopia (Avalon) heals its bearer and prevents aging when infused with magical energy. When employed as a Noble Phantasm, it shields its wielder in the land of the fairies, bestowing absolute defense which nothing may interfere with. This feat is in the realm of true magic. The 1500 year-old scabbard was dug up in Cornwall at the behest of the Einzbern family. Emiya Kiritsugu uses it to summon Saber.
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      聖剣「エクスカリバー」の鞘で、ランクEXの結界宝具。その名前はアーサー王伝説における妖精郷「アヴァロン」に由来する。魔力を供給することで持ち主の傷を癒し、老化を停滞させる。さらに、真名を解放することで展開される妖精郷に篭ることによって、外界からの干渉を受けつけないという、いわば魔法の域にあるとまでいわれる宝具。1500年の時を経てアインツベルンがコーンウォールから発掘、衛宮切嗣によってセイバー召喚の際に触媒として使われた。
+    note:
+      n1: "アヴァロン"
+  zh:
+    content: |-
+      {{n1}}
+      圣剑Excalibur的鞘，Rank EX的结界宝具。其名由来自亚瑟[Arthur]王传说中的妖精乡“Avalon”。通过魔力供应治愈持有主的伤，停滞老化。并且，靠自闭于通过解放真名而展开的妖精乡，就不会接受到从外界来的干涉这样，可说是达到魔法领域的宝具。经过1500年时间被爱因兹贝伦[Einzbern]从康沃尔[Cornwall]发掘，被卫宫切嗣当作Saber召唤之刻的触媒所使用。
+    note:
+      n1: "Avalon"
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 60
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      聖剣エクスカリバーの鞘であり、老衰の停滞と無制限の治癒能力を有するランクEXの結界宝具。アイリスフィールはこの鞘の力で自分自身という"殻"の崩壊を押し留めていた。さらに鞘はアイリスフィールから切嗣へと譲渡され、「固有時制御」による体のダメージや、即死するほどの綺礼の一撃すら瞬時に回復させた。また、切嗣は後に養子となる士郎の体内にこの鞘を埋め込むことで彼の命を救った。第五次聖杯戦争ではこの縁によって、士郎のセイバー召喚に繋がった。
+    note:
+      n1: "アヴァロン"
+  zh:
+    content: |-
+      {{n1}}
+      圣剑Excalibur的鞘，拥有衰老的停滞与无限制治愈能力的Rank EX的结界宝具。爱丽丝菲尔[Irisviel]在这个鞘的力量下阻遏着作为自己本身“壳”的崩坏。并且在鞘从爱丽丝菲尔[Irisviel]转让给切嗣后，“固有時制御”对身体的伤害[Damage]和当场死亡程度的绮礼一击也在瞬间被回复。另外，切嗣通过在之后成为了养子的士郎的体内埋入了这个鞘救了他的命。第五次圣杯战争中士郎的Saber召唤就是因这个缘由。
+    note:
+      n1: "Avalon"

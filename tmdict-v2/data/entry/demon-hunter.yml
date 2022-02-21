@@ -1,0 +1,42 @@
+---
+id: demon-hunter
+
+en: d
+ja: ta
+furigana: たいま
+title:
+  en: Demon Hunter
+  ja: 退魔
+  zh: 退魔
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 18
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      In Japan this can refer to:
+      ① A person (or group of people) who works to repair the natural order of things that has been twisted and warped (by demons).
+      ② A magic family or bloodline that refines their techniques in order to protect society.
+      ③ The Demon Hunter Organization
+      ④ As far as ① and ② are concerned, people in these categories generally don’t have powers that are suited to bringing harm to people. They generally remain passive/defensive when faced with a mixed-blood adversary who is on the borderline of being human.
+    note: {}
+  ja:
+    content: |-
+      少なくとも日本に限って言えば、
+      ①自然の歪み（魔）を修正する者。或いは者達。
+      ②人が人の社会を守るために練り上げた法術系統。
+      ③退魔組織。
+      ④①、②である理由から人を害するには向いておらず、人としての側面をも持つ混血が敵となった場合は後手にまわることになる。
+    note: {}
+  zh:
+    content: |-
+      至少限定于日本而言，
+      ①把自然的歪曲（魔）修正过来的人。或是人们。
+      ②人类为了守护人类社会而琢磨出来的法术系统。
+      ③退魔组织。
+      ④由于①和②的理由，当敌人是不倾向于加害人类，而且拥有人类一面的混血时，退魔会陷于被动。
+    note: {}

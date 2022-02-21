@@ -1,0 +1,32 @@
+---
+id: blade-wing-insect
+
+en: b
+ja: shi
+furigana: しはむし
+title:
+  en: Blade Wing Insect
+  ja: 翅刃虫
+  zh: 翅刃虫
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 10
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      {{missing}}
+    note:
+      n1: "Also known as Blade Wing Worms."
+  ja:
+    content: |-
+      臓硯から与えられた蟲で、雁夜にとって最凶にして必殺の攻撃手段。肥えた鼠サイズの這虫が脱皮し、黒光りする甲羅と羽根を持った巨大な甲虫の姿となる。獰猛な肉食虫で、その鋭い牙で猛牛の骨をも砕く。大群をもって時臣に襲いかかるも、紅蓮の防御陣を前にその命を無為に散らしていく。
+    note: {}
+  zh:
+    content: |-
+      从脏砚那得到的虫子，对雁夜而言是最凶恶的必杀攻击手段。肥老鼠大小[Size]的蠕动昆虫脱皮后，变成了持有黑亮甲壳和羽翅样子的巨大甲虫。凶猛的肉食虫，在那尖锐的獠牙下就算猛牛的骨头也会被咬碎。不过就算结成大群向时臣猛袭过来，在红莲的防御阵前那生命也只是庸碌地消散而去。
+    note: {}

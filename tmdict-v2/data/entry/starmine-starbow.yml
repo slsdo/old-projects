@@ -1,0 +1,36 @@
+---
+id: starmine-starbow
+
+en: s
+ja: su
+furigana: スターマイン、スターボゥ
+title:
+  en: Starmine, Starbow
+  ja: スターマイン、スターボゥ
+  zh: Starmine, Starbow
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 39
+  category:
+  - technique
+  img: ""
+  en:
+    content: |-
+      The names of the sorceries used by Aozaki Aoko.
+      It seems that it’s easy for her to visualize things like exploding fireworks and rotating stars, so her instant incantation spell invariably ends up being nature interference based on these images. The Starmine line is for fluid motion, while the Starbow line is for fluctuating applications.
+      Aozaki Aoko can be considered a close-combat type magus, who fires magical energy from her elbow that calls forth a spell formula as it passes through her fist. For those unfortunate enough to face her as an enemy, both of her hands probably look like rocket burners.
+    note: {}
+  ja:
+    content: |-
+      蒼崎青子が使用する魔術名。
+      彼女にとって炸裂する火花や自転する星はイメージしやすいものらしく、瞬間詠唱による魔術はきまってこれらに基づいた自然干渉となる。スターマイン系は流動的な運動、スターボゥ系は変動的な応用。
+      蒼崎青子は肘から魔力を撃ちだし、拳を通過した時点で魔術式を成立させる“格闘系”の魔術師と言える。彼女を敵に回した者にとって、その両手はロケットのバーナーのように映るだろう。
+    note: {}
+  zh:
+    content: |-
+      苍崎青子所使用的魔术名称。
+      貌似对她来说炸裂的火花和自转的星星是容易联想的东西，通过瞬间咏唱的魔术必定会成为基于这些的自然干涉。Starmine系是流动的运动，Starbow系是变动的应用。
+      苍崎青子可说是从肘击出魔力，在通过了拳头时使魔术式成立的“格斗系”的魔术师。对与她为敌的人来说，那双手正如火箭的喷射器般的印象吧。
+    note: {}

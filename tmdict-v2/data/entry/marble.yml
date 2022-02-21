@@ -1,0 +1,43 @@
+---
+id: marble
+
+en: m
+ja: ma
+furigana: まーぶる
+title:
+  en: Marble
+  ja: マーブル
+  zh: Marble
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 25
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      ① First, let’s clear up the meaning of “marble.” It can mean “marble” as in “a marble floor” or “a marble pillar.” It can also mean “marble” as in a small glass ball. Let’s leave it at this for now.
+      ② Next, let’s clear up the meaning of “clustering illusion.” When you search for this term along with the word “probability” you can find an example about a jar which is filled with marbles of two colors, white and black. After you fill the jar and mix up the marbles inside, instead of the marbles appearing like a chess board, with the colors equally and evenly mixed together in a checker pattern, you will notice clumps of white marbles and clumps of black marbles here and there in the jar. These clumps, which seem non-random, despite actually being randomly distributed, are the clustering illusion.
+      ③ From the above explanation you can see that the term marble comes from marble in the glass ball sense, not the marble floor sense of the word.
+      ④ Even in a situation where you have half black marbles and half white ones and you mix them up, “logically” you assume that the white and black should be evenly mixed since there are equal amounts, but when you check the result you don’t see an even mix, you see clumps and groups in the pattern. This is precisely where clustering illusion comes in, and the result of a series of random coincidences may seem as though it was purposefully realized by someone, despite it actually being a natural phenomenon{{n1}}. So when probability itself is being interfered with, one might understand that materializing Brunstud Castle might not be so implausible (through a perfect series of “natural” and “random” coincidences brought about by the reality marble or marble phantasm).
+      Accordingly, when the world is connected with a marble phantasm or reality marble, probability is interfered with, and a series of phenomena, which could only ever be considered to be random coincidences, is deliberately generated.
+    note:
+      n1: "Like a rock that looks as though it were shaped by a human into a cat shape, but it was actually just from natural erosion over time."
+  ja:
+    content: |-
+      ①まず最初に、マーブルの意味するところ。ひとつは大理石。もうひとつはおはじき。とりあえずこれに関しては置いておく。
+      ②次に、ダンゴ現象。これはもうひとつのキーワードである確率論と絡めて調べた結果、ビンに二種類の、例えば白と黒のおはじきを同数入れてかき混ぜるとチェッカーフラッグやチェス盤のように白黒綺麗にわかれたりはせず、あちこち偏りができてしまう現象を指すと思われる。
+      ③このことからマーブルは「おはじき」を意味するものだろう。
+      ④ともかく白と黒、両者が50％ずつ出現するという自然法則に支配された状況下においてもダンゴ現象のようにまるで人の手が加わってるのではと疑ってしまうような状況か起こりうる。例えば本当に偶然と偶然が重なり合って生み出された、まるで人工物のように見える自然物というのも存在している。ならばもしも確率に干渉する事ができればブリュンスタッド城等を具現化できても不思議はないかもしれない。
+      よって空想具現化や固有結界とは世界に接続する事によって数多の事象が発生する確率に干渉し、それによって偶然中の偶然とも言える事象を意図的に発生させるというものであると思われる。
+    note: {}
+  zh:
+    content: |-
+      ①首先是Marble的意思。一个是大理石。另一个是弹珠。暂时把这个放在一旁。
+      ②接着是团子现象。以下是牵涉到另一个关键词“概念论”的调查结果。团子现象所指的应该是，在瓶中放入同样数量的黑白弹珠然后搅拌，它们不像格子旗或象棋棋盘般漂亮地分成黑和白，而是分别向两边倾倒的现象。
+      ③因此Marble应该是“弹珠”的意思吧。
+      ④不管怎样，在受到“黑白两者各以50%几率出现”这条自然法则所支配的状况下，也会发生如团子现象般、让人怀疑仿佛有人插手一样的状况。假设真的存在着偶然与偶然互相重叠而诞生出来的、宛如人造物的自然物。那么假如能够干涉几率的话，即使能具现化出布伦史塔德城等东西，可能也并非天方夜谭。
+      因此空想具现化和固有结界被认为是连接到世界，从而干涉众多事象的发生几率，透过这样来刻意地让一些可说是“偶然中的偶然”的事象发生。
+    note: {}

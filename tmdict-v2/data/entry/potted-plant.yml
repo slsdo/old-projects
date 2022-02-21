@@ -1,0 +1,30 @@
+---
+id: potted-plant
+
+en: p
+ja: ha
+furigana: はちうえ
+title:
+  en: Potted Plant
+  ja: 鉢植え
+  zh: 盆栽
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 34
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      矩賢の魔術による実績。鉢植えの花は時の流れが操作してあり、成長することもなければ枯れることもない。世界の干渉を受けない固有結界において、時間の流れを加速・停滞させる衛宮家の魔術によるもの。
+    note: {}
+  zh:
+    content: |-
+      靠矩贤魔术做出的实绩。盆栽里的花被操作了时间的流动，既不会成长亦不会枯萎。于不受世界干涉的固有结界中，将时间的流动加速·停滞是卫宫家的魔术。
+    note: {}

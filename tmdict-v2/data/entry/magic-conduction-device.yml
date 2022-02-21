@@ -1,0 +1,30 @@
+---
+id: magic-conduction-device
+
+en: m
+ja: ma
+furigana: まどううつわ
+title:
+  en: Magic Conduction Device
+  ja: 魔導器
+  zh: 魔导器
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 59
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      遠坂家の宝石魔術を応用した通信装置。電話のようなもので、時臣と綺礼は遠く離れた場所から2台の魔導器を使って通話を行った。蓄音機のような形状をしており、宝石が備え付けられている。その宝石同士の共振を利用することで音声を交換しあう。電話で簡単に代用可能なものだが、魔術師たちは現代科学に頼ることを嫌う傾向が強い。
+    note: {}
+  zh:
+    content: |-
+      应用了远坂家宝石魔术的通信装置。类似电话的东西，时臣和绮礼在间隔遥远的地方使用2台魔导器进行了通话。呈留声机的形状，配备着宝石。通过利用那个宝石同士的共振来达成音声的交换。虽然电话是简单就可以代用的东西，但魔术师们有很强的厌恶依赖现代科学倾向。
+    note: {}

@@ -1,0 +1,53 @@
+---
+id: imperial-privilege
+
+en: i
+ja: ko
+furigana: こうていとっけん
+title:
+  en: Imperial Privilege
+  ja: 皇帝特権
+  zh: 皇帝特权
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 56
+  category:
+  - skill
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      One of Red Saber’s skills.
+      She doesn’t normally have this skill, however if she asserts her Imperial right, it’s possible for her to obtain this skill for short periods of time.
+      Skills that fall under this category include riding, swordsmanship, fine arts, charisma, military strategy, and more. When this skill is used at a Rank A level or above, she gains the ability to physically burden the bodies of her enemies (like [the] Divinity [skill]).
+      It’s an incredibly unfair and ostentatious ability.
+      The Emperor of that empire might as well be a God. All skills converged at Rome… no, converge at the Emperor. If the Emperor called white black, then it was black.
+      However, even so, one could not acquire skills without basis. But seeing as Red Saber is an all-round genius and a very curious spirit, she had experience in most of the skills.
+      “A passenger plane? Even I can pilot such a simple vehicle! All you have to do is check the altitude and adjust the angle of the airframe a bit, right? It’s no different than the jet-chariot I invented!” Were Red Saber to suddenly spout something unreasonable like this, you would think her crazy. But she would actually grasp enough piloting skills just from reading a book about it and reflecting on it alone.
+      …But it remains to be mentioned that the double whammy of becoming bored with the subject and getting a headache would soon make her forget the knowledge she gained.
+    note:
+      n1: "Officially localized as both Royal Prerogative and Emperor’s Prerogative."
+  ja:
+    content: |-
+      赤セイバーが持つスキル。
+      本来持ち得ないスキルも、本人が主張する事で短期間だけ獲得できる。
+      該当するスキルは騎乗、剣術、芸術、カリスマ、軍略、等。このスキルランクがA以上の場合、肉体面での負荷（神性など）すら獲得する。
+      究極の不正行為というか、見栄っ張りというか。
+      かの帝国の皇帝は神も同然。すべてのスキルはローマ……じゃなくて皇帝に集まる。皇帝が黒といえば白でも黒になるのである。
+      とはいっても、さすがに何の素養もない状態でスキル獲得はできない。赤セイバーは万能の天才かつ好奇心旺盛なので、たいていの職技[タレント]は体験済み。
+      とつぜん「余だって旅客機ぐらい操縦できるぞ！なに、高度をはかって機体を調整するだけであろう、それぐらいなら余の発明したジェット戦車と変わらぬしな！」なんて無茶を言い出しても、ホントに旅客機スキルを自己解読で会得してしまうのである。
+      ……まあ、飽きっぽさと頭痛のダブルパンチで会得したコツをすぐに忘れてしまうのだが。
+    note: {}
+  zh:
+    content: |-
+      红Saber所拥有的技能。
+      本来不可能持有的技能，也可以借由本人的主张而在短时间内取得。
+      能取得的技能包括骑乘、剑术、艺术、领导力、军事才能等等。等级在A以上的话，连肉体方面的负荷（神性等）也能取得。
+      这可说是究极的违法行为，也可说是贪慕虚荣。
+      那个帝国的皇帝真的与神无异。所有的技能都汇集于罗马……不对，是皇帝。哪怕皇帝指鹿为马，那也就真是马了。
+      话虽如此，也不能真的毫无素养就能获得技能。因为红Saber是万能的天才，又好奇心旺盛，大多数的职技都已经体验过了。
+      就算她某一天突然如此说道“余也能开客运飞机啊！没什么，只要测量一下高度，然后调整一下机体便行了吧，这点程度跟余发明的喷气式战车没什么两样嘛！”，真的能自己领悟出怎么开飞机啊。
+      ……嘛，虽然因为三分钟热度加上头痛的双重影响，学会的诀窍要不了多久就会忘了。
+    note: {}

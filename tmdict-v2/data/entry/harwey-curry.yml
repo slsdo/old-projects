@@ -1,0 +1,39 @@
+---
+id: harwey-curry
+
+en: h
+ja: ha
+furigana: はーうぇいかれー
+title:
+  en: Harwey Curry
+  ja: ハーウェイカレー
+  zh: 哈维咖喱
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 112
+  category:
+  - offensive-skill
+  img: ""
+  en:
+    content: |-
+      This is a black colored curry that’s made in a big metal drum found at the back of the old School building. Julius is the one who makes it.
+      Its flavor can only be described as heavy and sticky, and its unrefined taste and substance feels like it’s going to stick in your stomach forever. The curry hasn’t even reached a level where you can debate if it is spicy or not, and frankly it’s probably just some coal tar.
+      Surprisingly, it tastes good if you eat it with watermelon.
+      This is even more digression, but among the members of the student council, the best one at cooking is Gatou Monji. His five-grain porridge is a masterpiece that even has Kiara coming back for seconds.
+    note: {}
+  ja:
+    content: |-
+      旧校舎の裏庭にて、ドラム缶をもちいて作られるブラックカレー。調理人はユリウス。
+      その味はべったりとしてコクしかなく、口当たりはザワやかで胃にこびりつくようにいつまでも残る。辛いかどうかのレベルにすら到達していない、ぶっちゃけただのコールタールである。
+      意外なことに、西瓜にかけて食べるとおいしい。
+      さらに余談ではあるが、生徒会の面子の中でもっとも美味しい料理を作るのはガトー・モンジ。彼の五穀粥はキアラですらおかわりを求める絶品とのこと。
+    note: {}
+  zh:
+    content: |-
+      旧校舍的内庭，以大铁桶做出来的黑暗咖喱。调理人是尤里乌斯。
+      那个味道粘稠而浓重，口感粗暴并且像是要一直黏在胃上一般一直都有残留感，并不是到了多么辣的地步，直接的来说就是团煤焦油。
+      意外的是，就着西瓜吃会很好吃。
+      虽然简直题外话，学生会成员里料理做的最美味的是卧藤门司。他的五谷粥是连祈荒也要再来一碗的绝品。
+    note: {}

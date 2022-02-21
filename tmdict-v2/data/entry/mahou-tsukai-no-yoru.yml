@@ -1,0 +1,30 @@
+---
+id: mahou-tsukai-no-yoru
+
+en: m
+ja: ma
+furigana: まほうつかいのよる
+title:
+  en: Mahou Tsukai no Yoru
+  ja: 魔法使いの夜
+  zh: 魔法使之夜
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 58
+  category:
+  - work
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      2010年9月30日に発売日が決定したTYPE-MOONの最新作。新生の鼓動よ響け、少女は今、青色の魔法を開く！ちなみにひびちかは出ません。
+    note: {}
+  zh:
+    content: |-
+      2010年9月30日决定发售日的TYPE-MOON的最新作。响起新生的鼓动哟，少女于现在，揭开青色的魔法！顺带响键不会出现。
+    note: {}

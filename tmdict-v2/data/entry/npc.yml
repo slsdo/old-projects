@@ -1,0 +1,109 @@
+---
+id: npc
+
+en: n
+ja: e
+furigana: えんぴーしー
+title:
+  en: NPC
+  ja: NPC
+  zh: NPC
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 26
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      NPCs are virtual life forms created in order to allow the Holy Grail War to proceed smoothly.
+      They each have their own predetermined role, and they cannot to deviate from it. However despite their role being decided, they are each equipped with their own unique thoughts and personality.
+      If NPCs were not realistic living beings, they would not be able to evoke genuine reactions and responses from the Masters who encounter them.
+      Moon Cell calculated this and this is why the NPCs were bestowed with artificial intelligence.
+      However an NPC’s “personality” is a one-time-only prospect, and no deviation is allowed from their preset perspective of the world.
+      Once the Holy Grail War ends, Moon Cell confiscates their accumulated experiences including any gained physical ability, knowledge or personality development. Everything is reset, and they are equipped and re-tuned in preparation for the next Holy Grail War.
+      To the NPCs who know they will suffer this fate, Masters are an object of envy and even hatred.
+      Jerked around by the illogical actions of humans and treated as expendable tools, more than a few NPCs are unsatisfied with their existence in the world.
+      In a way, life is bestowed upon them, but it is also denied to them.
+      They are simply something that is “here” or “not here.”
+      Their discontent built up to the point where it gave birth to an urban legend. It’s said that at the end of their so-called reincarnation cycle, NPCs with a high level of humanity, meaning those who obtained a soul, are upgraded to be high-level AIs.
+      Of course, no such future exists for them.
+      Even if such a thing were to happen, as far as Moon Cell is concerned, it would be no more than a meaningless bug.
+    note: {}
+  ja:
+    content: |-
+      聖杯戦争を円滑に進めるために作られた仮想生命。
+      それぞれ決められた役割[ロール]があり、そこから逸脱する事はできないが、役割が決まっているとはいえ独自の思考、人格が備わっている。
+      NPCが生命としてリアルでなければ、NPCと接触するマスターたちの反応がリアルにならない。
+      そう算出したムーンセルによって、NPCたちには人工知能が与えられた。
+      ただし彼らの『人格』は一度きりのものであり、また、設定された人生観から逸脱する事はできない。
+      NPCは聖杯戦争が終わればムーンセルに経験を没収され、身体・性能・人格を含めたすべてをリセットされ、次の聖杯戦争用の『装置』として再チューニングされる。
+      そんなNPCたちにとってマスターたちは羨望の対象であり、また、嫌悪の対象でもある。
+      人間の不合理性に振り回され、道具のように消費されていく自分たちの在り方に不満を訴えるNPCも少なくはないからだ。
+      命を与えられながらも、その命を否定されるもの。
+      今そこに『有る』が、今そこに『無い』もの。
+      そんな彼らの不満は欝積し、一つの都市伝説を作った。輪廻転生とも呼べるメモリの使い回しの末、高い人間性───魂を獲得したものは上級AIに昇格させてもらえるという。
+      無論、そんな未来はない。
+      仮にそんな事態が起きたとしても、ムーンセルにとってそれは意味のないバグなのだから。
+    note: {}
+  zh:
+    content: |-
+      为了让圣杯战争顺利进行而被制造出来的假想生命。
+      被赋予了各种各样的职责，虽然无法从中逃脱，但具备独立的思考和人格。
+      若NPC的生命不是真实的，NPC与接触的Master们的反应就不会真实。
+      计算出这样的结果，Moon Cell给予了NPC们人工智能。
+      但他们的人格是一次性的，同时也无法脱离设定好的人生观。
+      NPC们在圣杯战争结束后就会被Moon Cell没收经验，包括身体、性能、人格在内的全部都被重置，作为下次圣杯战争的装置而再调制。
+      对这样的NPC们来说，Master们既是羡慕的对象，也是厌恶的对象。
+      被人类的不合理性折腾，作为道具被消耗，诉说对自己的现状感到不满的NPC有不少。
+      一边被赋予了生命，一边被否定生命。
+      有等于无。
+      他们的不满郁积起来，创造了一个都市传说。也就是任意驱使被称为轮回转生的记忆体从而获得人性——魂魄，被升级为高级AI。
+      当然，这样的未来是不会实现的。
+      即使发生了这样的事，对Moon Cell而言这是没有意义的bug。
+    note: {}
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 14
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      Artificial virtual organisms created in order to run the Holy Grail Wars smoothly.
+      NPCs are programmed with specific roles, and can not deviate from their designation, however, the Moon Cell assigned each NPC its own individual personality and thoughts.
+      The Moon Cell calculated the need to create and use them, while also observing that the Masters would need to be able to interact with them on a genuine human level.
+      However, their “personas” were meant to be disposable, and it was impossible for them to escape the world view that was programmed into them.
+      Once each Holy Grail War ended, the Moon Cell would confiscate the NPCs’ accumulated experiences and memories. Everything about them, including their bodies, stats, and personalities, would be reset, and they would be recycled as “tools” to facilitate the next Holy Grail War.
+      Such was their lot for many years, but now that the world has been reborn as the new SE.RA.PH, the Moon Cell granted each of them the right to continue living as they are. Although they still have roles to play, their faces are definitely brighter now, considering there’s no longer a giant reset button about to be pushed that terminates them once the battle of the Masters comes to an end.
+      Some NPCs desire to become true Al by embracing their humanity. They are driven to improve themselves. The sudden influx of new NPC businesses in New Rome and the Millennium Capital is not due to a widespread awakening to the spirit of capitalism; rather, the NPCs are gathering resources in order to make their dreams come true.
+      And yet Tamamo, ever the evil dictator, mercilessly taxes their hard-earned wages.
+    note: {}
+  ja:
+    content: |-
+      かつて、聖杯戦争を円滑に進めるために作られた仮想生命。
+      それぞれ決められた役割[ロール]があり、そこから逸脱する事はできないが、役割が決まっているとはいえ独自の思考、人格が備わっている。
+      NPCが生命としてリアルでなければ、NPCと接触するマスターたちの反応がリアルにならない。
+      そう算出したムーンセルによって、NPCたちには人工知能が与えられた。
+      ただし彼らの『人格』は一度きりのものであり、また、設定された人生観から逸脱する事はできない。
+      NPCは聖杯戦争が終わればムーンセルに経験を没収され、身体　性能　人格を含めたすべてをリセットされ、次の聖杯戦争用の『装置』として再チューニングされていた。
+      新SE.RA.PHになってからはそれぞれの生命体を認められ、役割はあるものの『マスターたちの戦いがおわったから全員廃棄処分』という一大リセットがなくなったため、みな目がキラキラしている。
+      中には上昇志向のNPCもおり、人間性をもっと獲得してAIに昇格しよう、という者もいる。
+      新ロ—マや千年京でNPCたちがこぞって商売を始めたのも、商魂に目覚めたからではなく、夢を叶える為にリソースを集めているのだ。
+      そして、そんな彼らから容赦なく税金を搾り取るアクダイカーン　タマモちゃんなのであった。
+    note: {}
+  zh:
+    content: |-
+      在过去，为了顺利进行圣杯战争而创造的假想生命。
+      他们各自有着无法脱离的、被赋予的角色职责[Role]。虽说如此，他们也具备各自独立的思考与人格。
+      若NPC作为生命的真实性不足，与NPC接触的御主们所做出的反应也不会具真实感。
+      如此估算的Moon Cell，给予了NPC们人工智慧。
+      不过，他们的“人格”都是一次性的，也无法脱离设定好的人生观。
+      只要圣杯战争一结束，NPC的经验就会被Moon Cell回收，重置包含身体、性能、人格在内的一切，并重新调节[Tuning]为下次圣杯战争用的“装置”。
+      转变为新SE.RA.PH后，各自的生命权获得认可。虽然被赋予的角色职责仍在，但由于“御主们的战斗结束后全员将遭受废弃处分”的大重置取消，每个NPC的双眼都闪着光芒。
+      当中有希望提升地位的NPC，也有欲获得更多人性藉此升格成AI者。
+      NPC们之所以在新罗马及千年京一窝蜂地做起生意，也不是对经商产生兴趣，而是为了实现梦想而搜集魔力。
+      而对这样的他们毫不留情课以重税的，正是恶霸官员——小玉藻。
+    note: {}

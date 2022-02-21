@@ -1,0 +1,51 @@
+---
+id: gradation-air
+
+en: g
+ja: to
+furigana: とうえい
+title:
+  en: Gradation Air
+  ja: 投影
+  zh: 投影
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 60
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      Projection.
+      A magecraft that uses magical energy to materialize a mirror image of an object.
+      As Rin mentioned in the story, it’s not very efficient.
+      That’s because, if you’re making a replica of something, rather than using projection it’s easier and more practical just to gather the materials and build it yourself.
+      Normally, it is only used to project a substitute for an item that has already been lost, and for just a few minutes within one’s own time axis.
+      At any rate, since Gradation Air is just supposed to be a short-term rental of the item’s outward appearance, you can see why the version used by Shirou (and Archer) is completely ridiculous. It’s no wonder that Rin wanted to kill him when she saw his shed.
+      Of course, Shirou can only project things that are related to weapons in some way—or more specifically, swords. Modern weapons are off limits.
+      …Well, technically he can pull out shields or armor, too, if he strains himself to his utmost limits, but the effects only last for an instant and the cost is enormous.
+    note: {}
+  ja:
+    content: |-
+      グラデーション・エア。
+      オリジナルの鏡像を魔力で物質化する魔術。
+      本編で凜が語っていたように、まっこと効率が悪い。
+      投影でオリジナルからレプリカを作るのなら、ちゃんとした材料からレプリカを作った方が手軽で実用に耐える為だ。
+      本来、投影は既に失われたオリジナルを、本当に数 分間だけ自分の時間軸に映し出して代用する魔術。
+      わずか数分間の、外見だけのレンタルな訳であるから、士郎・アーチャーの投影がどれだけデタラメかは言うまでもない。凜が士郎の土蔵を覗き見て殺意を覚えたのも当然。
+      もっとも、士郎が投影できるのは武器関係のみ。それも剣に限定された武装で、近代兵器は投影さえ出来ない。
+      盾や鎧はかろうじて引き出せるが、効果は瞬間的なものであり、その代償は大きい。
+    note: {}
+  zh:
+    content: |-
+      Gradation Air。
+      以魔力将原物镜像物质化的魔术。
+      就像本篇中凛所说那样，效率真的很差。
+      因为就以投影由原物制作复制品而言，规规矩矩由材料制作复制品要来得简便而堪为实用。
+      本来，投影就是将既已失落的原物，只数分钟真正地映现在自己的时间轴来代用的魔术。
+      因为本该是寥寥数分钟的，仅仅外观的租借，所以士郎·Archer的投影是多么的荒唐不言而喻。凛窥视到士郎的仓房后会涌起杀意也是当然的。
+      不过，士郎能投影的只有武器方面。而且是被限定于剑的武装，近代兵器投影不出来。
+      盾或铠甲勉勉强强能拉出来，但效果是瞬间性的，其代价是巨大的。
+    note: {}

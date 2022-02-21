@@ -1,0 +1,36 @@
+---
+id: mystic-eye-projector
+
+en: m
+ja: ma
+furigana: まめだいとうしゃ
+title:
+  en: Mystic Eye Projector
+  ja: 魔眼大投射
+  zh: 魔眼大投射
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 58
+  category:
+  - other_alt
+  img: ""
+  en:
+    content: |-
+      The trump card of the Rail Zeppelin.
+      Using the main car Rircapello, and the Spiritual Nature Regression-type Lense Roseeye, it pushes the abilities of a given Mystic Eye to its limits.
+      By pushing them to the absolute limits, it completely incinerates the Mystic Eye in question to exhibit a power that is hundreds to thousands of times it’s normal capabilities. Super weapons are quite romantic, don’t you think?
+    note: {}
+  ja:
+    content: |-
+      魔眼蒐集列車の奥の手。
+      基幹車両リルカペローと霊質回帰型レンズ・ローズアイを使い、魔眼の持ち合わせた可能性をその限界まで放出しつくす。
+      限界というのは、ただでさえ貴重な魔眼を一発で焼き切って、その能力を何百倍・何千倍に増幅するというふざけた意味である。必殺兵器はロマンだよね？
+    note: {}
+  zh:
+    content: |-
+      魔眼搜集列车的杀手锏。
+      利用基干车厢利卡佩罗与灵基回归型透镜·萝洁艾，将魔眼蕴含的可能性提升至极限并投射。
+      极限一词形容得很恰当，意味着通过一发投射将本就宝贵的魔眼燃烧殆尽，令其能力增幅至几百·几千倍。必杀兵器很浪漫吧？
+    note: {}

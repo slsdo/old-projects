@@ -1,0 +1,47 @@
+---
+id: altria
+
+en: a
+ja: a
+furigana: あるとりあ
+title:
+  en: Altria
+  ja: アルトリア
+  zh: 阿尔托莉亚
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 6
+  category:
+  - servant
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      A mysterious and dashing heroine who suddenly appears on the chaotic new SE.RA.PH.
+      Like Iskandar, she is a Top Servant.
+      Her true identity is shrouded in mystery, and there are no plans to reveal it during EXTELLA.
+      She is here strictly to play a cameo role. Her stance is, “I don’t really know anything about Altera, but all I have to do is defeat evil, right?” Because she is utterly free to do as she likes, she fits in no matter where she goes.
+      Since she has no influence on the main story, she has no real reason to be concerned with its proceedings.
+      Yet despite her seemingly unimportant role, Artoria also has the responsibility of cutting down and killing Altera with Excalibur if she becomes too much to handle. She is truly the final answer.
+    note:
+      n1: "The “official” English localization is Altria, in <em>Extella</em> her name is localized to Artoria."
+  ja:
+    content: |-
+      混迷の新SE.RA.PHに颯爽と現れた謎のヒロインA。
+      イスカンダルと同様、トップ　サーヴァントのひとり。
+      その正体は謎に包まれており、エクステラ内で語られる予定はない。
+      完全にゲスト参戦ではあるものの、その立ち位置があまりにも『アルテラとかよく知りませんけど、とにかく悪者を退治すればいいのです？』という自由さのため、どこにいっても無理なく馴染んでしまう。
+      メインストーリーに絡めない反面、メインストーリ—を気にする必要もないというのはなんと強き事か……。
+      こんな扱いではあるものの、アルテラが本当に手に負えなくなったらエクスカリバーでバッサリと斬り殺す役割を持つ、正真正銘の最終兵器でもある。
+    note: {}
+  zh:
+    content: |-
+      于混乱的新SE.RA.PH飒爽现身的神秘女主角A。
+      和伊斯坎达尔相同，皆为顶级英灵的一员。
+      真实身分充满谜团，并没有在EXTELLA中叙述的预定。
+      虽然完全为串场的客座角色，但基于“虽然不太清楚阿提拉是何方神圣，总之只要击退坏人就好了吧？”由于在立场上拥有如此的自由性，不管到哪里都能轻易融入。
+      虽与主线故事进展并无相关，但反而言之，也等同无须顾及主线故事。这点恐怕是她的一大强项……
+      虽然被这样安排，但若众人真的对付不了阿提拉，她便会担起以誓约胜利之剑[Excalibur]将其斩杀的重责大任，是货真价实的最终兵器。
+    note: {}

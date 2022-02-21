@@ -1,0 +1,31 @@
+---
+id: rayshift
+
+en: r
+ja: re
+furigana: れいしふと
+title:
+  en: Rayshift
+  ja: レイシフト
+  zh: Rayshift
+
+entry:
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 27
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Pseudo-spiritron transference. A person is transformed into a pseudo-spiritron form (their soul is quantified as data) and projected into a different time axis/phase. Rayshifting is a navigation technique that has been proved to perform such transference. A mix of time travel and parallel worlds.
+    note:
+      n1: "In <em>Fate/EXTRA</em> this term is also known as Virtual Spiritron or Pseudo Spirit Particle."
+  ja:
+    content: |-
+      疑似霊子転移。人間を疑似霊子化（魂のデータ化）させて異なる時間軸、異なる位相に送り込み、これを証明する空間航法。夕イムトラベルと並行世界のミックスである。
+    note: {}
+  zh:
+    content: |-
+      疑似灵子转移。将人类以疑似灵子化（灵魂的数据化）向不同的时间轴、不同的位相传送，这也被证明为空间航法。是时间旅行和平行世界的混合。
+    note: {}

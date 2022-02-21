@@ -1,0 +1,36 @@
+---
+id: armor-of-fafnir
+
+en: a
+ja: a
+furigana: あくりゅうのちよろい
+title:
+  en: Armor of Fafnir
+  ja: 悪竜の血鎧
+  zh: 恶龙之血铠
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 1
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      Blood Armor of the Evil Dragon. The continuously active Noble Phantasm of Saber of “Black,” Siegfried. Negates all attacks of B rank and below.
+      When receiving regular A rank attacks, the armor’s defensive rank of B will be subtracted from the attack’s offensive rank of A… in other words, it will be reduced to effectively an E rank attack, but in the case of an attack by a Noble Phantasm, the armor’s defensive value will rise to the rank of B+. However, this additional defensive value will not be included in the attack calculations should the enemy use a Noble Phantasm or skill that has the properties of an Anti-Dragon special attack. Furthermore, the B+ defensive value is only applicable when he is attacked while defenceless, and the armor’s defense will be further reduced should he take defensive action with “Balmung: Phantasmal Greatsword.” When he goes all out in a defensive battle, Siegfried is effectively a moving fortress.
+      However, since the effects of this armor do not apply to the single spot on Siegfried’s back that was covered by the leaf of a lime tree, it becomes extremely difficult for him to be healed with healing magecraft if he is wounded there even once.
+    note: {}
+  ja:
+    content: |-
+      アーマー・オブ・ファヴニール。“黒”のセイバーことジークフリートの常時展開宝具。Bランク以下のあらゆる攻撃を寄せ付けない。
+      Aランクの通常攻撃であればAマイナスB……つまりEランク相当の打撃が与えられることになるが、宝具による攻撃の場合、B+分の防御力が発動する。ただし竜種特攻などの宝具、スキルがある場合はこのプラス分が計上されない。なお、B+はあくまで無防備に喰らった場合なので『幻想大剣（バルムンク）』で防御行動を取った場合は、更に削減される。防戦において本気を出したジークフリートは動く要塞。
+      ただし、唯一背中―――菩提樹の葉が貼りついていた部分だけはこの一切が適用されない上に、一度そこを負傷すると治癒魔術では極めて修復が難しい。
+    note: {}
+  zh:
+    content: |-
+      Armor of Fafnir，“黑”Saber齐格弗里德的常驻发动型宝具。能隔绝一切B等级以下的攻击。
+      以A级普攻而言是A-B……也就是能造成相当于E级的伤害[对齐格]，若是[应对]宝具攻击则能发挥出B+等级的防御力，不过当对象持有克制龙种的宝具或技能时将不会将+号列入计算。此外，再怎么说B+都只是毫无防备硬吃的情况，若是以幻想大剑采取防御姿态的情况下，伤害值会被削减更多。认真贯彻防御的齐格弗里德就等同于行动要塞。
+      只是，背上唯一贴着菩提树叶的部分不仅不适用上述所有规则，若一度负伤光凭治疗魔术也非常难以痊愈。
+    note: {}

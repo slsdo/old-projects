@@ -1,0 +1,44 @@
+---
+id: land-of-steel
+
+en: l
+ja: ha
+furigana: はがねのだいち
+title:
+  en: Land of Steel
+  ja: 鋼の大地
+  zh: 钢之大地
+
+entry:
+- source: angel-voice
+  section: notes
+  order: 1
+  category:
+  - over-count-1999_
+  img: ""
+  en:
+    content: |-
+      A planet that died. A globe that reached its end. A world where living things can’t live.
+      The name of the world in the present time. It’s not its official name, but a nick name passed down between the people who live in the corrupted land. Like the name Land of Steel indicates, a large part of the continent are now wild lands that are torn apart, covered by a tainted gray colored cloud.
+      Food can’t be grown, and the atmosphere is no longer suited for the animals.
+      To put it in a human species way, a drastic end of a century. But even after the mother planet died, the humans were able to live on with its developed civil technology.
+      Even the planet’s end where people once imagined, couldn’t bring an end to mankind.
+    note: {}
+  ja:
+    content: |-
+      臨終した星。死に絶えた惑星。生物の住めない世界。
+      現在の世界の名称。正式名称ではなく、荒廃した大地に生きるヒト人の間に伝わった俗称。
+      鋼の大地の記名が示すとおり、現在の大陸の大部分はひび割れた荒野であり、灰色と白濁とした雲に覆われている。
+      食物は育つことはなく、大気はかつてのように動物に適した物ではなくなっている。
+      人間種ふうに言うのなら、徹底した世紀末。けれど母体である星が死亡しても、人間種はその発達した文明技術によって生き長らえた。
+      かつて人々が思い描いた星の終わりでさえ、人間種を滅亡させる事は出来なかった。
+    note: {}
+  zh:
+    content: |-
+      临终之星，即将死灭的行星。生物无法生存的世界。
+      当前的世界的名称。不是正式名称，而是生存于荒废的大地上的“人们”之间常用的俗称。
+      如钢之大地其名所示，现在大陆上的大部分是龟裂的荒野，被灰色与白浊的云所覆盖。
+      无法种植食物，大气已不再像过去那样适合动物生存。
+      按照人类种的说法，这是彻底的世纪末。但是即使作为母体的星球死去了，人类种依然靠发达的文明技术生存了下来。
+      连过去的人们想象中的行星末日，也无法让人类种灭亡。
+    note: {}

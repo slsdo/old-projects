@@ -1,0 +1,30 @@
+---
+id: jubstacheit
+
+en: j
+ja: yu
+furigana: ゆーぶすたくはいと
+title:
+  en: Jubstacheit
+  ja: ユーブスタクハイト
+  zh: 尤布斯塔库哈依德
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 62
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      フルネームはユーブスタクハイト・フォン・アインツベルン。アインツベルンの八代目当主。アハト翁のこと。
+    note: {}
+  zh:
+    content: |-
+      全名[Full Name]为尤布斯塔库哈依德·冯·爱因兹贝伦[Jubstacheit·von·Einzbern]。爱因兹贝伦[Einzbern]的第八代家主。亚哈特[Acht]老人。
+    note: {}

@@ -1,0 +1,30 @@
+---
+id: two-divine-bulls
+
+en: t
+ja: ni
+furigana: にとうのかみうし
+title:
+  en: Two Divine Bulls
+  ja: 二頭の神牛
+  zh: 两头神牛
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 67
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      「飛蹄雷牛（ゴッド・ブル）」と呼ばれる「ゴルディアス・ホイール」を引く二頭の牡牛。ギリシア神話において、雷を司る神ゼウスは、テュロスの姫エウロペを誘惑する際に、みずからの姿を白い牡牛に変えたという。ゼウスに捧げられたという逸話を持つ「ゴルディアス・ホイール」の牽引役として、ゼウスにゆかりのある神獣が顕現した。
+    note: {}
+  zh:
+    content: |-
+      拉着“Gordius·Wheel”的被称为“飞蹄雷牛（God·Bull）”的两头公牛。希腊[Greece]神话中，司掌雷电之神宙斯[Zeus]，在勾引推罗[Tyros]的公主欧罗巴[Europa]之时，把自己的身形变成了白色的公牛。拉动持有献给宙斯[Zeus]这样逸事的“Gordius·Wheel”，作为和宙斯[Zeus]有缘的神兽显现了。
+    note: {}

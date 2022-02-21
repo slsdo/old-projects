@@ -1,0 +1,45 @@
+---
+id: heroic-spirit
+
+en: h
+ja: e
+furigana: えいれい
+title:
+  en: Heroic Spirit
+  ja: 英霊
+  zh: 英灵
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 11
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      Heroes who achieved great things in life, and became objects of worship after death.
+      As a “power that protects humanity,” they are high ranking existences, categorically closer to elementals than wraiths.
+      However, whereas elementals are “power” given form using the container called human imagination, Heroic Spirits are woven from people’s ideals on the inside, too.
+      Among the Heroic Spirits, there are those from legends, those that really existed, and those that were never observed at all. The ones who aren’t worshipped much fall under the broad classification of “Counter Guardian,” and are used as a mindless “Counter Force.”
+      Of all the Heroic Spirits that appeared in the story, the only one functioning as a “Counter Guardian” was Archer.
+      Because the other Heroic Spirits had high divinity, and were existences closer to the planet than humanity, they were able to avoid being drafted as Counter Guardians.
+    note: {}
+  ja:
+    content: |-
+      生前偉大な功績をあげ、死後においてなお信仰の対象となった英雄がなるモノ。
+      “人間を守る”力としては最高位の存在であり、その分類は亡霊ではなく精霊に近い。
+      精霊は人々のイメージという筐を使って具現化する“力”であるが、英霊はその中身も人々の理想で編まれている。
+      英霊には、伝説上のもの、実在したもの、観測され なかったものがおり、信仰が薄いものは“守護者”という大きな分類に含まれ、意思のない“抑止力”として行 使される。
+      本編に登場する英霊の中で“守護者”として機能している者はアーチャーのみ。
+      他の英霊たちは神性が高かったり、人間側ではなく星よりの存在になっている為、守護者に取り込まれずに済んでいる。
+    note: {}
+  zh:
+    content: |-
+      生前建立伟大的功绩，在死后更成为了信仰对象的英雄所变为的事物。
+      作为“守护人类”之力是最高位的存在，其分类不是亡灵而是接近精灵。
+      精灵是使用人们的印象这个盒子具现化的“力”，但英灵连其内容也是以人们的理想编成的。
+      英灵里，有传说上的人、实际存在过的人、没被观测到的人，信仰浅薄的人被包含于“守护者”这个大的分类，被作为无意志的“抑止力”行使。
+      在本篇登场的英灵之中作为“守护者”运作的人只有Archer。
+      其他的英灵们因为神性高之类，变为并非人类侧而是偏向星球的存在，所以免于被纳入守护者之列。
+    note: {}

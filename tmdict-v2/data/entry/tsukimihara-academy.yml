@@ -1,0 +1,46 @@
+---
+id: tsukimihara-academy
+
+en: t
+ja: tsu
+furigana: つくみはらがくえん
+title:
+  en: Tsukimihara Academy
+  ja: 月海原学園
+  zh: 月海原学园
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 106
+  category:
+  - location
+  img: ""
+  en:
+    content: |-
+      Tsukimihara Gakuen.
+      It is a school made within SE.RA.PH that is similar to your typical 21st century school.
+      This school becomes the stage for the Holy Grail War. The Masters are given their own private room within the school while they are on their arduous battle-filled journey.
+      There is more than one single school building, and during the first round of battle there are actually seven school buildings that are in use.
+      From the second round this decreases to two school buildings, and from the fourth round the surviving Masters are gathered in the last remaining school building.
+      School buildings are essentially colonies that float in the sea known as SE.RA.PH, and are similar to boats in that respect. When progressing to the next round, the depth increases.
+      The last school building ultimately reaches Moon Cell‘s core, and it is said that after safely delivering the last remaining Master there that the school collapses and crumbles away into the great whirlpool of information surrounding it.
+    note: {}
+  ja:
+    content: |-
+      つくみはらがくえん。
+      SE.RA.PHに作られた二十一世紀の学園風景。
+      聖杯戦争の舞台になる建物。マスターたちはここで自分用の私室を与えられ、長い戦いに挑む事になる。
+      校舎は一つだけでなく、聖杯戦争一回戦には七つの校舎が同時に運営されている。
+      二回戦では二つに限定され、四回戦において、生き残ったマスターたちは最後の校舎に集められる。
+      校舎はSE.RA.PHという海に浮かぶコロニー、船のようなもので、回戦が進むにつれ、その深度を増していく。
+      最終的にはムーンセル中枢にまで辿り着き、最後のマスターを送り出し次第、惰報の大渦の中で崩壊していくという。
+    note: {}
+  zh:
+    content: |-
+      于SE.RA.PH建造的二十一世纪的学园风景。
+      作为圣杯战争的舞台的建筑。Master们在这里被给予自己用的私室，圣杯战争的第一战时则是同时运营7个像这样的校舍。
+      到第二战时则会限定为两个校舍，到了第四战时，会将还生存着的Master们一起集结到最后的校舍。
+      校舍可以说是名为SE.RA.PH这片海洋上的卫星，像是船一样的事物。随着决战次数的增进，其所处的深度也会进一步加深。
+      最终校舍会抵达Moon Cell的中枢，将最后的Master送走后不久，就会在情报的大漩涡中崩坏掉。
+    note: {}

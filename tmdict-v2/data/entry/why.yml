@@ -1,0 +1,37 @@
+---
+id: why
+
+en: w
+ja: na
+furigana: なんでさ。
+title:
+  en: Why?
+  ja: なんでさ。
+  zh: 为什么啊。
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 66
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      Shirou’s catchphrase. He says it when faced with things that make him wonder from the bottom of his heart, like a conditioned response.
+      Hey, did you know that originally <em>Fate/stay night</em> was going to have four routes? But, for some reason now there are only three. I wonder why.
+    note: {}
+  ja:
+    content: |-
+      士郎の口調。
+      心の底から不思議に思ったコトに対して出る条件反射らしい。
+      知ってる、Fateって元々四ルー卜あったらしい よ？
+      なんでさ。
+    note: {}
+  zh:
+    content: |-
+      士郎的语调。
+      好象从内心深处在对想的不可思议的事而出来的条件反射。
+      知道么，好象有八卦说Fate本来有四条线来着？
+      为什么啊。
+    note: {}

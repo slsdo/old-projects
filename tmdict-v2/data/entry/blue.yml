@@ -1,0 +1,32 @@
+---
+id: blue
+
+en: b
+ja: a
+furigana: あお
+title:
+  en: Blue
+  ja: 青
+  zh: 青
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 1
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      A color of the realm of the gods. The color of spiritual energy, or mystic eyes whose existence approaches the realm of the gods.
+    note: {}
+  ja:
+    content: |-
+      神域の色。神域に近いモノの思念や淨眼はこの色である。
+    note: {}
+  zh:
+    content: |-
+      {{n1}}
+      神域之色。接近神域之人的思念和净眼就是这个颜色。
+    note:
+      n1: "其实就是中文的“蓝”。"

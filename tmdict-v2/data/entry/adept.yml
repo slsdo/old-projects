@@ -1,0 +1,39 @@
+---
+id: adept
+
+en: a
+ja: a
+furigana: あでぷと
+title:
+  en: Adept
+  ja: アデブト
+  zh: Adept
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 3
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      ① Written as Adept.
+      ② Within magecraft-related organizations “adept” refers to an expert or master level individual, or to an individual who has unraveled some of the deepest, most secret techniques of magecraft.
+      ③ “Adept” is thought to be something like a title that is conferred upon such individuals.
+      ④ In some fantasy stories, the title “Adept” is held by Buddhist monks in a similar fashion.
+    note: {}
+  ja:
+    content: |-
+      ①Adeptと書く。
+      ②魔術関連の組織においては達人とか、魔術の奥義に至った人の事。
+      ③上記のような人々に与えられる称号のようなものと思われる。
+      ④ファンタジー物の作品によっては僧侶の称号の中に同名のものが存在するケースもあるようだ。
+    note: {}
+  zh:
+    content: |-
+      ①写作Adept。
+      ②指魔术关连组织中的高手啊、达至魔术奥义的人。
+      ③赋予给上述人们的像称号一般的东西。
+      ④在部分的奇幻系作品里，同名的东西似乎也在僧侣的称号中出现。
+    note: {}

@@ -1,0 +1,94 @@
+---
+id: satsujinki
+
+en: s
+ja: sa
+furigana: さつじんたか
+title:
+  en: Satsujinki
+  ja: 殺人貴
+  zh: 杀人贵
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 25
+  category:
+  - nickname
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      The version of Shiki when his mind goes blank and he starts seriously fighting for his life.
+      Or, one of the protagonists of <em>Tsukihime 2</em>.
+      The Mystic Eye Killers alone must have become unable to suppress his death perception, because he always has both eyes covered by bandages.
+      ……That said, you know the game is never getting made, right?
+    note:
+      n1: "Literally Shiki the Killer."
+  ja:
+    content: |-
+      志貴がイッちゃって開き直ったバージョン。
+      もしくは月姫2（うわ、いいのか！？）における、主人公の一人。
+      魔眼殺しだけでは制御できなくなったのか、両目にはいつも包帯が巻かれている。
+      ……って、それじゃゲームになんないよ。
+    note: {}
+  zh:
+    content: |-
+      志贵的精神失常版。
+      或者说月姬2（呜哇，这样好吗！？）中其中一位主人公。
+      可能因为只靠魔眼杀已无法制御，所以双眼长时间都缠着绷带。
+      ……是说这样是要怎么玩啦。
+    note: {}
+- source: yoi-no-myoujou
+  section: talk
+  order: 11
+  category:
+  - nickname
+  img: ""
+  en:
+    content: |-
+      The person Merem called Satsujinki{{n1}}. Needless to say, it was that person.
+      One year after the story of <em>Tsukihime</em>, he gradually became a rumor. Such was the fame of this person.
+      He was still the same fool with a knife-fetish.
+      By the way, he still kept the whimsical Princess company while ceaselessly complained. It seemed he came all the way to Germany not because of the whim of the Princess, but due to the tip of some third party.
+    note:
+      n1: "“Killer Shiki” and “Killer Demon” are homophones, both are “Satsujinki.” Word play."
+  ja:
+    content: |-
+      メレムが口にする殺人鬼、とはもちろんあの人のこと。
+      月姫から一年後である本編では、そろそろ噂になりだした、という程度の知名度である。
+      そのぼんやりぶりと刃物好きも相変わらず。
+      ちなみに、本人はぶーぶー文句を言いつつ姫君の我が侭に付き合っている。今回ドイツくんだりまで来たのは姫君の我が侭でなく第三者による入れ知惠だそうだ。
+    note: {}
+  zh:
+    content: |-
+      梅涟口中所谓的杀人鬼，自不用说的那人。
+      是从月姬一年后的正篇，渐渐开始变成传言的，这种程度的知名度。
+      那个糊涂样和刀具爱好也还是老样子。
+      顺便一提，本人是一边说着抱怨的话一边与任性的公主交往。据说此次到德国那么远的地方来不是公主的任性而是因为第三者的指点。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 35
+  category:
+  - nickname
+  img: ""
+  en:
+    content: |-
+      The state when Shiki’s conscious mind goes blank due to the inversion impulse. Or, a possible future version of Tohno Shiki.
+      If there’s ever a <em>Tsukihime 2</em>, he’ll be a main character. Perhaps because the mystic eye killers alone have become unable to suppress his death perception, he’ll always have both eyes covered by bandages.
+      Though the Nanaya Shiki that appears in <em>Melty Blood</em> is close to this, properly speaking “Shiki the Killer” is something that should stem from “Tohno Shiki.”
+    note: {}
+  ja:
+    content: |-
+      志貴の意識が反転衝動によって薄くなった状態。もしくは、遠野志貴のなれの果ての可能性。
+      月姫の続編があるとしたらメインキキャラクターになるであろう人物。その場合、
+      魔眼殺しだけでは制御できなくなったのか、両目にはいつも包帯が巻かれているとか。
+      メルティブラッドにおける七夜志貴はこれに近いが、やはり殺人貴は“遠野志貴”によって起こる猟奇でなければ嘘である。
+    note: {}
+  zh:
+    content: |-
+      志贵的意识由于反转冲动而变得稀薄的状态。或者是，远野志贵的末路的可能性。
+      如果有月姬的续篇的话应该会成为主要角色。在那个情况下，是因为只靠魔眼杀已经无法控制了吗，总是用绷带缠住双眼什么的。
+      Melty Blood中的七夜志贵虽然接近这个，但果然杀人贵就要是由“远野志贵”产生的猎奇才行。
+    note: {}

@@ -1,0 +1,31 @@
+---
+id: apron
+
+en: a
+ja: e
+furigana: えぷろん
+title:
+  en: Apron
+  ja: エプロン
+  zh: 围裙
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 4
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      The apron that Shiki wears when he helps Kohaku. Kohaku is the one who writes the words on the front. The words accurately represent the personality and peculiarities of Shiki.
+    note: {}
+  ja:
+    content: |-
+      志貴が琥珀さんの手伝いをする際に着用するエプロン。志貴の特徴を的確に表現した単語が琥珀さんによって書きこまれている。
+    note: {}
+  zh:
+    content: |-
+      志贵帮琥珀忙时穿戴的围裙。被琥珀添上了能准确表现出志贵特征的单词{{n1}}。
+    note:
+      n1: "那个单词好像是“朴念仁”，意思是“木头人”。"

@@ -1,0 +1,33 @@
+---
+id: fortress-of-millennia
+
+en: f
+ja: mi
+furigana: みれにあじょうさい
+title:
+  en: Fortress of Millennia
+  ja: ミレニア城塞
+  zh: 米雷尼亚城塞
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 94
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      The fortress where the “Black” Masters and Servants are gathered. It is a huge fortress that is big enough to take up half the area of Trifas. It is even bigger and more complex than most famous European castles, and it has been made unbelievably secure thanks to the combination of various Mystic Codes and defensive spells that Yggdmillennia has stored there over the past sixty years. Homunculi continue keeping guard day and night, and golems that move to intercept the moment they sense movement are hidden in some of the pillars, floors and ceilings.
+      The clan’s leader, who has barely aged at all, is a good example of what happens when you manically prepare beforehand. However, half of all those scrupulous preparations were blown away with a single punch from a certain mad warrior…
+    note: {}
+  ja:
+    content: |-
+      “黒”のマスターとサーヴァントたちが集結している城塞。トゥリファスという街の半分を占めているほどの巨大な城塞。ヨーロッバ諸国の名城以上の大きさと複雑さ、更にはユグドミレニアが六十年備蓄していたありとあらゆる魔術礼装と防衛魔術の組み合わせで、信じ難いほど強固な代物となってしまった。ホムンクルスが昼夜問わず見張りを続け、一部の柱、床、天井には動体を感知次第迎撃行動に出るゴーレムたちが潜んでいる。
+      歳をほとんど取らないリーダーが、偏執狂的に準備をするとこうなるという良い見本である。もっとも、そんな綿密過ぎるほどの準備もどこかの狂戦士の一発で半分ほどが吹き飛んでしまったのだが……。
+    note: {}
+  zh:
+    content: |-
+      黑方御主和从者集结的城塞，占据图利法斯一半左右的巨大要塞，有着超越欧洲各国名城的大小和复杂度，再加上六十年间千界树储备的各种魔术礼装和防卫魔术，成为了令人难以置信的牢固堡垒。人造人们不分日夜的巡逻，一部分的柱子、地板和天花板上躲藏着侦测到行动物体便会出来迎击的哥雷姆们。
+      是不老的领袖像偏执狂一样去准备的话会变成什么德性的优良范例。虽这么说，像这样缜密过头的防备措施也因某个狂战士的爆炸被炸塌了一半以上……。
+    note: {}

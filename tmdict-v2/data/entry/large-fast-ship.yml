@@ -1,0 +1,30 @@
+---
+id: large-fast-ship
+
+en: l
+ja: o
+furigana: おおがたかいそくふね
+title:
+  en: Large Fast Ship
+  ja: 大型快速船
+  zh: 大型快速船
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 7
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      未遠川で切嗣が操船した船。巨大海魔出現時、湾港区画で張り込んでいた切嗣が、マスター狩りに向かうため無断拝借した。この船上から龍之介を狙撃して死に至らしめる。
+    note: {}
+  zh:
+    content: |-
+      在未远川切嗣驾船的船。巨大海魔出现时，在湾港区块埋伏的切嗣，为了猎狩Master擅自借用而来。并从这艘船上狙击龙之介，最终将其击毙。
+    note: {}

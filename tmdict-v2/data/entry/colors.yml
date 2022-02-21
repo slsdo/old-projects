@@ -1,0 +1,37 @@
+---
+id: colors
+
+en: c
+ja: i
+furigana: いろ
+title:
+  en: Colors
+  ja: 色
+  zh: 颜色
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 8
+  category:
+  - accessory
+  img: ""
+  en:
+    content: |-
+      Elementary colors. It is not a reaction from the three elementary colors, but impressions given by objects.
+      It is a decoration hidden in the story, as the names of characters insinuate certain colors.
+      To describe it from a more difficult to understand perspective: the colorless Shiki, the transparent Kirie.{{n1}}
+    note:
+      n1: "Not exactly your straight forward wordplay, but perhaps that was the intention."
+  ja:
+    content: |-
+      原色。三原色による反応ではなく、固体が持つイメージカラー。
+      物語を埋める装飾として、色を暗示する人名が配置されている。
+      分かり辛いところで言うと、無色の式[しき]、透明の霧絵[きりえ]。
+    note: {}
+  zh:
+    content: |-
+      原色。不是指由三原色而来的反应，而是指固体持有的印象颜色。
+      作为埋入故事的装饰，配置了暗示颜色的人名。
+      从不好理解的地方来说，无色的式，透明的雾绘。
+    note: {}

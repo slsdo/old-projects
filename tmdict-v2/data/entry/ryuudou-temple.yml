@@ -1,0 +1,65 @@
+---
+id: ryuudou-temple
+
+en: r
+ja: ri
+furigana: りゅうどうてら 
+title:
+  en: Ryuudou Temple
+  ja: 柳洞寺
+  zh: 柳洞寺
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 102
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      A mountain temple on the outskirts of Miyama.
+      As the name suggests, it functions as the keystone of Fuyuki’s leylines, and could be said to be the very heart of the city.
+      The temple’s mountainside lake is an official Holy Grail summoning site, and beneath it lies an enormous cavern.
+      Incidentally, the giant cave-in after the epilogue of the Sakura route took several years to recover from.
+      …Also, as it turns out the primary reason for the cavern’s collapse was not the destruction of Angra Mainyu, but rather Rin’s overenthusiastic rampage.
+      Way to go, Issei.
+      To instantly recognize Rin as an enemy of Buddhism, you truly are worthy of being Ryuudou Temple’s successor.
+    note: {}
+  ja:
+    content: |-
+      深山町の外れにある山寺。
+      その名の通り、龍脈に対する要石としての役割を持ち、冬木市にとって心臓とも言える場所。
+      その地下には一大空洞があり、中腹にある柳洞寺の池は、表向きの聖杯召喚場所となっている。
+      ちなみに、桜ルートのエピローグ後に大陥没し、復興に数年を要した。
+      ……大空洞の崩壊、その最大の理由はアンリマユの消滅ではなく、凜がやりたい放題暴れ回ったせい。
+      さすが一成。
+      凜を仏敵と見なしていたあたり、柳洞寺後継ぎに相応しい。
+    note: {}
+  zh:
+    content: |-
+      位于深山市尽头的山寺。
+      正如其名那般，对于龙脉具有作为枢纽的作用，对冬木市而言可说是心脏的场所。
+      在其地下有一个大空洞，位于中腹的柳洞寺池塘，就成为了表面上的圣杯召唤场所。
+      顺便一提，在樱线的结尾[epilogue]后发生大塌陷，复兴需要数年。
+      ……大空洞的崩溃，其最大的理由不是安哥拉曼纽的消灭，而是凛肆意妄为横冲直撞所致。
+      不愧是一成。将凛看做佛敌，与柳洞寺继承人相称。
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 80
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      冬木の霊脈が集う要所で、強力な結界が張られている。後の第五次聖杯戦争ではキヤスターが陣を張るなど重要拠点となった場所である。
+    note: {}
+  zh:
+    content: |-
+      聚集冬木灵脉的重要地方，张开着强力的结界。在之后的第五次圣杯战争中Caster布阵并成了重要据点的地方。
+    note: {}

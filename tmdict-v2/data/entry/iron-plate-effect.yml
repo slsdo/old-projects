@@ -1,0 +1,64 @@
+---
+id: iron-plate-effect
+
+en: i
+ja: te
+furigana: てつかぶとさよう
+title:
+  en: Iron Plate Effect
+  ja: 鉄甲作用
+  zh: 铁甲作用
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 38
+  category:
+  - weapon
+  img: ""
+  en:
+    content: |-
+      A special way of using Ciel’s throwing swords.
+      Though her swords are clearly designed as piercing weapons, for some reason or another whatever they hit is totally blown away. When Arcueid was hit with a barrage of them in the Ciel route, it was enough to send her tumbling from one end of the park to the other.
+      This phenomenon is called the Iron Plate Effect.
+      It seems Arcueid assumed that there was some kind of enchantment applied to the swords that caused the force at the moment of impact to be multiplied dozens of times, but in reality this is the result of martial arts and not magecraft. It is nothing less than the Burial Agency’s secret throwing technique.
+      For the sake of tomorrow, hit the opponent like you’re trying to bore right through them!
+    note: {}
+  ja:
+    content: |-
+      シエルが愛用する投剣のための技術。
+      シエルの投剣は突き刺す事を前提にしたフォルムだが、アレがアレで、なぜか当たると吹き飛ばされる。アルクェイドにいたっては真横から三連弾をうけて、公園の端から端までゴロゴロと転がっていったほど。
+      とまあ、つまりはそれが鉄甲作用と呼ばれるもの。
+      アルクェイドは魔術的なものが投剣に付属されていて命中した時の衝撃が数十倍になるんだろう、とか思っているようだが、鉄甲作用は魔術ではなく体術。埋葬機関秘伝の投擲技法なわけである。
+      こう、抉り込むように射つべし射つべし。
+    note: {}
+  zh:
+    content: |-
+      雪儿为了爱用的投剑而[开⭒]发的技术，是以突刺为目的的招式，不过为什么命中后会被打飞呢？
+      Arc承受了三连击之后从公园的这端飞到那端，那就是被称为铁甲作用的东西。
+      Arc认为那是在投剑上附加魔术，使其在命中时的冲击力变为数十倍。但铁甲作用其实不是魔术，而是体术，为埋葬机关密传的投掷技法，像要贯穿一般投射。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 61
+  category:
+  - ability
+  img: ""
+  en:
+    content: |-
+      A special way of using Ciel’s throwing swords.
+      Though her swords are clearly designed as piercing weapons, for some reason or another whatever they hit is totally blown away. When Arcueid was hit with a barrage of them in the Ciel route, it was enough to send her tumbling from one end of the park to the other.
+      This phenomenon is called the Iron Plate Effect. It seems Arcueid assumed that there was some kind of enchantment applied to the swords that caused the force at the moment of impact to be multiplied dozens of times, but in reality this is the result of martial arts and not magecraft. It is nothing less than the Burial Agency’s secret throwing technique. For the sake of tomorrow, hit the opponent like you’re trying to bore right through them!
+    note: {}
+  ja:
+    content: |-
+      シエルが使用する、投剣の為の技術。
+      シエルの投剣は突き刺す事を前提にしたフォルムだが、アレがアレで、なぜか当たると吹き飛ばされる。アルクェイドにいたっては真横から三連弾をうけて、公園の端から端までゴロゴロと転がっていったほど。
+      とまあ、つまりはそれが鉄甲作用と呼ばれるもの。アルクェイドは魔術的なものが投剣に付属されていて、命中した時の衝擊が数十倍になるんだろう、とか思っているようだが、鉄甲作用は魔術ではなく体術。埋葬機関秘伝の投擲技法な訳である。こう、抉り込むに射つべし射つべし。
+    note: {}
+  zh:
+    content: |-
+      雪儿使用的投掷剑技巧。
+      雪儿是以穿刺为目的的招式，但为何被击中之后会被打飞呢。以至于爱尔奎特接了侧向来三发之后都从公园一端滚到了另一端。
+      说起来就是被称为铁甲作用的东西。爱尔奎特认为是被附加魔术的投掷剑命中时，其冲击力升为数十倍。但其实铁甲作用并非是魔术而是体术。是埋葬机关秘传的投掷技法。
+    note: {}

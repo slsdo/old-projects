@@ -1,0 +1,70 @@
+---
+id: sialim-eltnam-re-atlasia
+
+en: s
+ja: shi
+furigana: しありむえるとなむれいあとらしあ
+title:
+  en: Sialim Eltnam Re-Atlasia
+  ja: シアリム・エルトナム・レイアトラシア
+  zh: 西亚莉姆·艾尔特拉姆·瑞阿特拉西亚
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 69
+  category:
+  - person
+  img: fem_sialim-eltnam-re-atlasia.png
+  en:
+    content: |-
+      Sialim Eltnam Re-Atlasia is Rani’s teacher. She was also the last alchemist, and the one who created Rani.
+      After sending Rani off to the Moon, Sialim died of sickness.
+      As an Atlas Institute alchemist she was completely focused on her research and only her research, but as her final work before death, she worked not as an alchemist, but as a human being, and created Rani.
+      The reason that Sialim orders Rani to go to the Moon is to verify if humans can abandon their bodies and continue to live in the cyber world.
+      Magus pursue the goal of “evolving to be higher level beings” but Atlas Institute alchemists do not.
+      The Atlas Institute’s primary goal is to avoid a future where mankind is destroyed.
+      In short, this means that Sialim is not bothered if all of the human race must change form or regress as long as they secure their continued existence. Sialim surely just wants to carry out the Atlas Institute’s mission.
+      …Also to that end, Sialim coldly ordered Rani, “If Moon Cell doesn’t have what it takes, and is a monster that cannot be controlled, incinerate it completely, including yourself.”
+      In EXTRA you might have noticed that Rani says “teacher”{{n1}} at one point. Sorry, just forget about that. Also, there might have been something about Sialim having a twin older sister who died at birth.
+    note:
+      n1: "Teacher (師父) here is masculine, implying Rani referred to her as a “he.”"
+  ja:
+    content: |-
+      ラニの師匠。ラニを鋳造した最後の錬金術師。
+      ラニを月に送り出した後、病死している。
+      アトラスの錬金術師として自己の研究にのみ没頭していたが、最後に“人間として”ラニを作り出し、永眠した。
+      彼女がラニに「月に行きなさい」と命じるのは、自分たちを含めた人類にとって、肉体を捨てる事になる電脳世界に人類存続の可能性はあるのか、と見極めるためでもあったとか。
+      アトラスの錬金術師は他の魔術師たちとは違い、“生命体として高次の段階への進化”を目的としていない。
+      アトラスの最優先事項は“滅びの未来を回避する”こと一点。要は長く生き延びられるのなら、種として変体・退行してもかまわない、という考えであり、彼女もその思想を守り通したのだろう。
+      ……その一端として、「ムーンセルが手に負えない怪物なら、自身ごと焼却せよ」という冷酷な命令も残している。EXTRAではラニが「師父」とか言っていた気がするが、すまん、忘れろ。また、シアリムには出産時、死に別れた双子の姉がいたとかなんとか。
+    note: {}
+  zh:
+    content: |-
+      拉尼的老师。铸造她的最后链金术师。
+      将拉尼送往月球之后、病死。
+      作为亚特拉斯的链金术师、埋首于自己的研究之中，但最后却以“人类的身份”制作了拉尼、然后永眠。
+      她对拉尼下达“前往月球”的命令，这是为了探究对于包含自己在内的人类而言、舍弃肉体的电脑世界之中是否有着人类存续的可能性。
+      亚特拉斯的链金术师与其他魔术师们不同、并非朝著作为一介生命体、迈向更高的阶段进化为目的。
+      亚特拉斯的最优先事项是“回避灭亡的未来”。有着只要能够长久延续下去、那么以一个物种而言就算变质、倒退也无所谓的思考。她也遵守着这样的思想。
+      ……基于这方面，她留下了“如果Moon Cell是无法打到的怪物、就烧毁自己吧”这般的冷酷命令。
+      EXTRA里、虽然有拉尼说了“师父”的印象，抱歉、忘掉这件事啊。还有、西亚莉姆有于出生时便与世诀别的双胞胎姊姊。
+    note: {}
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 8
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Alchemist of the Atlas Institute. The last Eltnam. Creator of Rani. Might have had a twin sister who passed away at birth…
+    note: {}
+  ja:
+    content: |-
+      アトラス院の錬金術師。ラ二を鋳造した最後のエルトナム。出生時に死に別れた双子の姉がいたとか……。
+    note: {}
+  zh:
+    content: |-
+      阿特拉斯院的炼金术师。铸造了拉尼的最后的艾尔多娜。有个出生时便死别的双胞胎姐姐……。
+    note: {}

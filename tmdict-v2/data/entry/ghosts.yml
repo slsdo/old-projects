@@ -1,0 +1,38 @@
+---
+id: ghosts
+
+en: g
+ja: yu
+furigana: ゆうれい
+title:
+  en: Ghosts
+  ja: 幽霊
+  zh: 幽灵
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 63
+  category:
+  - other_alt
+  img: ""
+  en:
+    content: |-
+      The things Gray is scared of.
+      Spiritual existences are numerous and varied in the World of Magecraft, but in this case it refers to ghosts of the dead. Rather than being a “spirit,” it is a lingering energy, possessing a kind of impulse that imitates the personality of the deceased.
+      The reason Gray is so overly afraid of these Ghosts is that she is particularly susceptible to these impulses, which can greatly influence her own personality.
+      …in truth, that function was built into her on purpose, so that she might receive the mind of King Arthur.
+    note: {}
+  ja:
+    content: |-
+      グレイが怯えるもの。
+      魔術世界において、霊的な存在は多々あるが、この場合はおおよそ死霊となる。一般に考えられる『魂』とは別で、かつての人格パターンを模倣する、一種の指向性を持つエネルギー。
+      グレイがこうした幽霊に過剰に怯えるのは、こうした指向性を捉える機能が高く、本人の人格も影響を受けてしまうためだ。……実のところ、これはアーサー王の精神を受け入れるために、仕組まれた機能だったのだが。
+    note: {}
+  zh:
+    content: |-
+      格蕾所畏惧的存在。
+      虽然在魔术世界中有诸多灵性存在，但格蕾所畏惧的基本是死灵。
+      那是与一般认知中的『灵魂』有别，模仿曾经的人格模式，带有某种指向性的能量。
+      格蕾之所以会极度畏惧这类幽灵，是因为她捕捉这类指向性的机能较高，就连本人的人格都受到了影响。……但其实，这是为了接纳亚瑟王的精神，而被组装的机能。
+    note: {}

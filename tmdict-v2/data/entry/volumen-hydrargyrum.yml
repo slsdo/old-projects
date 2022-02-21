@@ -1,0 +1,119 @@
+---
+id: volumen-hydrargyrum
+
+en: v
+ja: u
+furigana: うぉーるめんはいどらぐらむ
+title:
+  en: Volumen Hydrargyrum
+  ja: 月霊髄液
+  zh: 月灵髓液
+
+entry:
+- source: fate-zero-material
+  section: fate-zero-encylopedia
+  order: 7
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      One of the mystic codes employed by Lord El-Melloi. Essentially, it is a mass of magically-infused mercury that has been filled with a large variety of movement patterns and programmed to respond appropriately depending on the situation. I guess you could call it a kind of battle golem? Out of all of Kayneth’s armaments, it has the greatest capacity for physical destruction. He had prepared many other mystic codes designed for battles with curses and conjurations, but the vast majority of them were lost when his hotel was blown up by Kiritsugu.
+      Though it wouldn’t be wrong to call it an almighty weapon due to its versatility, in the end it is still just an automaton, and once you see through its movement patterns it’s fairly easy to handle. Also, since the magical energy required to operate it is directly proportional to the complexity of its shape, it is necessary to keep it in its basic form as much as possible—switching to a more complex form drastically reduces its reaction speed and power. The final “sea urchin” transformation used in the battle against Kiritsugu was a form that combined both raw defensive ability and cunning, but accordingly the drain on Kayneth’s magical energy was immense.
+      By the way, after the war ended Lord El-Melloi II may or may not have reprogrammed this mystic code and employed it as a multi-purpose maid golem. Though it has enough intellectual capacity to perform simple household chores, it seems there’s a troublesome bug that pops up every now and then that causes it to rampage around insisting that it’s a killer robot from the future. Maybe it was shown a detrimental movie just when it was on the verge of completing its education in good taste…?
+    note: {}
+  ja:
+    content: |-
+      ロード・エルメロイが駆使する礼装の一つ。魔力を充填した水銀に多鍾多様な行動パターンを記憶させ、状況に応じた最善の反応をとるよう設定したもの。戦闘用ゴーレムの一種と言えなくもない。こと物理エネルギーとしての破壊力においてはケイネスの武装の中でも最強。彼はこれ以外にも呪術戦、幻術戦に特化した礼装を多数用意していたが、切嗣によるホテル爆破によって大多数が失われた。月霊髄液の多機能性は万能兵器と呼ぶに相応しいものの、所詮は自動機械であり、ひとたび行動パターンを見切られてしまうと対処されやすい。また操作に費やす魔力は形態の複雑さに比例するため、なるべく単純な形態を維持する必要があるが、いったん液圧をかけにくい形態に変形してしまうと、次の動作は反応速度、パワーともに著しく劣化する。最後のウニ型変形は防御力と機敏さを両立させうる形態だったが、それに費やすケイネスの魔力負担は相当なものだっただろう。
+      ちなみに後のエルメロイⅡ世は、この目霊髄液を改良進化させて多機能メイドゴーレムとして使役しているとかいないとか。簡単な家事雑役をこなせる程度の思考力を持つものの、時々自分のことを未来から来た殺人兵器だと主張して暴走する困ったバグがあるらしい。よほど情操教育に有害な映画でも見せたんでしょうか。
+    note: {}
+  zh:
+    content: |-
+      君主·埃尔梅罗所驱使的礼装之一。令填充了魔力的水银记忆多种多样的行动模式[pattern]，设定为采取相应于状况的最佳反应。说成是战斗用高雷姆[golem]的一种也不是不可以。作为物理能源的破坏力即便在肯尼斯的武装中也是最强的。他除此之外也准备了许多特化于咒术战、幻术战的礼装，但因为切嗣的宾馆爆破而大部分丧失了。
+      虽然月灵髄液的多功能性称为万能兵器名副其实，但终归是自动机械，一旦被看透了行动模式[pattern]就会被轻易应对。另外因为耗费在操作上的魔力与形态之复杂成正比，所以必须尽可能地维持单纯的形态，但一旦变形为难以施加液压的形态，接下来的动作反应速度、威力就都会显著劣化。最后的海胆型变形是能使防御力与机敏并存的形态，但肯尼斯耗费了相当的魔力负担在那上吧。
+      顺带一提，之后的埃尔梅罗Ⅱ世，令这个月灵髄液改良进化作为多功能女仆[maid]高雷姆[golem]役使什么的有的没的。虽然拥有能处理简单的家务杂务的程度的思考力，但似有有时会主张自己是来自未来的杀人兵器{{n1}}而暴走的头疼Bug。是对情操教育有害的电影看太多了吧。
+    note:
+      n1: "此指魔鬼终结者（The Terminator）的T-1000。"
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 85
+  category:
+  - mystic-code
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      水銀を使ったケイネスの魔術礼装。形状は変幻自在で、攻撃、防御、索敵と多機能性に優れている。水銀には魔力が充填されており、多種多様な行動パターンが記録されている。状況に応じて最善の反応をとるが、自動機械なのでパターンを読まれてしまうと脆い。また、水銀の形状と消費魔力が比例しており、複雑な形状になればなるほど消費する魔力も多くなる。
+    note:
+      n1: "ヴォールメン・ハイドラグラム"
+  zh:
+    content: |-
+      {{n1}}
+      使用了水银的肯尼斯[Kayneth]的魔术礼装。形状变化自如，优秀于攻击、防御、索敌与多功能性方面。水银被魔力填充，记录着多种多样的行动模式[Pattern]。虽然会根据不同状况取用最好的反应，但读懂自动机械的模式[Pattern]也容易。另外，水银的形状与消费魔力呈比例，变成复杂形状的话理所应当消耗的魔力也会变多。
+    note:
+      n1: "Volumen·Hydrargyrum"
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 22
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      Marrow of the Moon Spirit.
+      →See the entry on Trimmau.
+    note: {}
+  ja:
+    content: |-
+      ヴォールメン・ハイドラグラム。
+      →トリムマウの項目を参照せよ。
+    note: {}
+  zh:
+    content: |-
+      Volumen Hydrargyrum。
+      →参照魔术礼装（Trimmau）的项目。
+    note: {}
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 13
+  category:
+  - mystic-code_alt
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      Supreme Mystic Code of the El-Melloi family.
+      The term Supreme Mystic Code refers to a Mystic Code sufficient to be called symbolic of a family of similar level to one of the Twelve Lords of the Clock Tower. In Volumen Hydrargyrum’s case, it was created by Lord Kayneth in his early twenties, a clear demonstration of the once-Lord’s exceptional talent.
+      Ever changing in form, it is a Mystic Code capable of performing both offensively and defensively without showing any openings. Its true nature however is that of a remote processor.
+      Upon inheriting it, Reines followed the advice of El-Melloi II and created a familiar out of it, endowing it with an elementary kind of artificial intelligence. It was the best advice for Reines who, rather than having the exceptional Magic Circuits of her predecessor, instead boasted a talent for precise control.
+      By forcing it to remember Reines’ precise control, the artificial intelligence is able to imitate it perfectly. The newly christened Trimmau being capable of taking so many various forms is primarily a result of this advice she received.
+      In addition, because of Trimmau’s nature, it has also learned a great many things from Flat’s magical hacking. Though that has included a large amount of unnecessary wit and famous sayings, Reines has thus far turned a blind eye to it for the sake of the other merits it brings. 
+    note:
+      n1: "Moon Spirit’s Spinal Fluid."
+  ja:
+    content: |-
+      {{n1}}
+      エルメロイ家の至上礼装。
+      至上礼装とは、君主を輩出する十二家やそれに匹敵する名家の蔵する中でも、その家系を象徴するに足ると認められた特別な礼装である。月霊髄液の場合、いまだ二十代前半であった君主ケイネスがつくったというのだから、先代がいかに優秀だったかが窺いしれる。
+      変幻自在、攻守に隙のない魔術礼装でありつつ、その本来の性能は隔絶した演算機であった。
+      ライネスが受け継いだ際、エルメロイII世の助言を受けて、初歩的な人工知性を付与された使い魔に加工される。これはケイネスほどの優れた魔術回路は持たないものの、精密操作においては特筆すべき才能を持ったライネスに、ベストなアドバイスだった。
+      ライネスの精密操作を人工知性に覚えさせれば、その通りに模倣してくれるためだ。新たにトリムマウと名付けられた月霊髄液が、さまざまな変形パターンを見せるのは、このアドバイスによるところが大きい。
+      なお、その性質上、フラットの魔術ハッキングから（人工知性が）学ぶところも多い。余計な知恵や名言を大量に詰め込まれつつも、フラットとの行動をライネスが黙認しているのは、このメリットのためである。
+    note:
+      n1: "ヴォールメン・ハイドラグラム"
+  zh:
+    content: |-
+      {{n1}}
+      埃尔梅罗家的至上礼装。
+      所谓至上礼装，指的是在诞生出君主[Lord]的十二家或能与之匹敌的名门的收藏中，也能被承认为足以象征其家系的特别礼装。
+      据说月灵髓液[Volumen Hydrargyrum]，是仍未满25岁的君主[Lord]肯尼斯制造出来的，前代的优秀程度由此可见一斑。
+      变幻自如，攻守皆无懈可击的魔术礼装，但其原本的性能是隔绝的演算机。
+      莱妮丝在继承的时候，听从了埃尔梅罗二世的建议，赋予其基础的人工知性，将其加工为使魔。这对于没有肯尼斯那般优秀的魔术回路，但在精密操作方面有着值得大书特书才能的莱妮丝而言，是最好的建议。
+      因为只要让人工知性掌握莱妮丝的精密操作，就能让它有样学样地模仿。被赋予了新名字·特里姆玛乌的月灵髓液[Volumen Hydrargyrum]所展现出的各种各样的变形模式，都得益于该建议。
+      另外，在性情方面，因为弗拉特的魔术骇入（而让人工知性）学到了许多东西。虽然也被灌输了大量多余的智慧或名言，但莱妮丝之所以默许它与弗拉特之间的行为，也是因为有那点好处。
+    note:
+      n1: "Volumen Hydrargyrum"

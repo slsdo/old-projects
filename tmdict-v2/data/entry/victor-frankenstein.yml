@@ -1,0 +1,36 @@
+---
+id: victor-frankenstein
+
+en: v
+ja: u
+furigana: ヴィクターフランケンシュタイン
+title:
+  en: Victor Frankenstein
+  ja: ヴィクター・フランケンシュタイン
+  zh: 维克达·弗兰肯斯坦
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 20
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The creator, or perhaps parent, of Berserker of “Black,” Frankenstein. In the light novel, he appears as a real historical person. He was a scientist and alchemist. Like Caster of “Black,” he aimed to create Adam and Eve. He differs from Caster in that he didn’t see the creation of Adam and Eve as the gateway to Eden, but rather simply wanted to create a being as close to God as possible.
+      Eve was born defective—at the very least, that was how Frankenstein saw her. An artificial life-form that does not have emotions was, to him, equivalent to a badly made living creature.
+      He doesn’t get it, he really doesn’t get it, this guy.
+    note: {}
+  ja:
+    content: |-
+      “黒”のバーサーカー、フランケンシュタインの作り手、あるいは生みの親。本編において実在する人間として登場する。科学者にして錬金術師。“黒”のキャスターと同じく、アダムとイヴの創造を目指した。キャスターと異なるのは、アダムとイヴの創造を楽園への扉と見なすのではなく、単純にもっとも神に近い存在を創造したかったという点。
+      イヴが欠陥を抱えたまま誕生した―――少なくともヴィクターにはそう見えた。情緒が存在しない人工生命など、彼にしてみれば出来損ないの生物に等しかったのである。
+      分かってねぇ、分かってねぇよコイツ。
+    note: {}
+  zh:
+    content: |-
+      “黑”Berserker弗兰肯斯坦的制作者＆生父母。在本篇中是以实际存在的人物登场，既是科学家又是炼金术师。与“黑”Caster一样，目标为创造亚当与夏娃。和Caster不同之处在于，他不认为创造亚当与夏娃是通往天堂的大门，而是单纯想创造出最接近神的存在。
+      夏娃就这样带着缺点诞生──至少维克达是这么认为的。不存在情绪的人工生命，在他眼中就像做坏的生物一样。
+      这家伙不懂，这家伙什么都不懂哪。
+    note: {}

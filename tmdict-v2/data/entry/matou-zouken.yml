@@ -1,0 +1,65 @@
+---
+id: matou-zouken
+
+en: m
+ja: ma
+furigana: まとうぞうけん
+title:
+  en: Matou Zouken
+  ja: 間桐臓硯
+  zh: 间桐脏砚
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 90
+  category:
+  - person
+  img: fzm_matou-zouken.png
+  en:
+    content: |-
+      A freaky old bug man. The end.
+      The scenario director is quite fond of him, and would get carried away typing every time he appeared.
+      He belongs in a harlequin novel, don’t you think?
+    note: {}
+  ja:
+    content: |-
+      怪異バグじーさん。
+      以上。
+      シナリオ担当は大好き。
+      この人が出てくるとタイピングのノリが違うぜ。
+      やっぱり伝奇物には爺さんだよね、ふがふが。
+    note: {}
+  zh:
+    content: |-
+      怪异的虫先生。
+      以上。
+      剧本担当非常喜欢。
+      这个人出来的话打字的状态都不同啦。
+      呼呼，果然传奇小说就要有老爷爷呢。
+    note: {}
+- source: fate-zero-material
+  section: fate-zero-encylopedia
+  order: 41
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      As far as the Matou family’s sacrifices in the Fourth Holy Grail War go, for the small price of a ruined home defense barrier and a grievous injury to Byakuya’s wrist, they were able to get their hands on fragments of the Holy Grail. Too cheap, too cheap! Grandfather is laughing.
+      Though Zouken allowed Kariya to participate in the Grail War, he mostly did it just to punish him—if Kariya had actually won, he probably wouldn’t even know how to react.
+      Originally, Zouken had been content to turn a blind eye to Kariya’s transgressions as long as he was living the wretched, fearful life of a runaway, but his extremely un-Matou-like willingness to heroically sacrifice himself bought him the old man’s ire. Probably, it was the warped pride of a living, rotten corpse at work. Like, “When did my own flesh and blood get so damn impudent!?” or something to that effect.
+      By the way, Zouken thought that Kariya had died when all the crest worms were killed by Berserker’s rampage. The reason that Kariya, finally free, was able to return to the Matou mansion and reach Sakura’s side without any issues, was because Zouken had rushed off to the scene of the fire to see if he could find anything worth salvaging. In fact, they must have literally just missed each other. It seems Kariya has a talent for seizing odd strokes of good luck at the height of misfortune.
+    note: {}
+  ja:
+    content: |-
+      第四次聖杯戦争において間桐が払った犠牲といえば、屋敷の防衛結界を荒らされたのと鶴野さんの手首がなくなったことぐらいなもので、砕けた聖杯の破片を手に入れたことに比べれば安い安い。お爺ちゃん呵々大笑である。
+      サーヴァント戦そのものは雁夜に対する制裁の意味合いの方が大であり、もし本当に雁夜が勝ち残ったら、それはそれで臓硯としては、彼なりの美学に於いて実に微妙な気分だったかもしれない。雁夜については、逃亡者として日々怯えながら惨めに暮らしているぶんには看過してやるつもりだったのに、彼が間桐イズムにそぐわぬ英雄的自己犠牲を払おうとしたことが、老人の激憤を買ったのであった。「ウチの血筋のくせに生意気な！」という、生きながらに腐った亡者ならではの歪んだプライドがあるのだろう。
+      ちなみにバーサーカーの暴走によって刻印虫が死滅した時点で、臓硯は雁夜が死亡したものと認識していた。ようやく自由を得た雁夜が間桐邸に戻ってきたのは、臓硯が火事場に何か拾いモノがないものかと出かけていた隙であり、ちょうど行き違いになる形で、雁夜は何の邪魔もされずに桜の元にまで辿り着けたのだった。不幸が絶頂に達したときに妙な案配で幸運を掴むのが雁夜クオリティ、ということか。 
+    note: {}
+  zh:
+    content: |-
+      如果要提到在第四次圣杯战争中间桐付出的牺牲，就只有房子的防卫结界被破坏以及鹤野先生的手腕不见了这种程度的小事而已，比起得到碎裂的圣杯碎片来说真是太划算了，老爷爷乐的呵呵大笑。
+      从者战本身较于偏向对雁夜的制裁，若是雁夜真的成为最后的胜利者，对脏砚的美学来说反而会是微妙的感觉也说不定。关于雁夜，原本是打算看着他以逃亡者的身分过着悲惨的生活，但他居然付出了不符合间桐主义的英雄式自我牺牲，因此激起了老人的激愤。“不过是我族的血脉居然这么嚣张”，有着这种仍然活着却已腐朽的亡者所特有，扭曲的骄傲吧。
+      附带一提，在因为狂战士的暴走导致刻印虫死灭的时候，脏砚就认定雁夜已经死亡。终于获得自由的雁夜回到间桐家时，正好是脏砚出门看看有没有机会趁火打劫时的空隙，正好是擦身而过的形式，所以雁夜能在没有受到阻挠的情况下到达桜的身边。在不幸达到顶点时却因为奇妙的安排把握幸运就是雁夜的才能吧。
+    note: {}

@@ -1,0 +1,30 @@
+---
+id: a-day-at-ahnenerbe
+
+en: a
+ja: a
+furigana: あーねんえるべのついたち
+title:
+  en: A Day at Ahnenerbe
+  ja: アーネンエルベの一日
+  zh: Ahnenerbe的一天
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 5
+  category:
+  - drama-cd
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      コミックマーケット72で販売された公式ドラマCD。ここから色々な物がぶち壊……もとい新たに創造された。発売時期が時期だけに箱の連中が登場しないのは当然ですが、二人は丁度お休みの日で、ケータイさんは会いたくない人達がうろうろしてたので隠れていたんだよ！（なんだってー）
+    note: {}
+  zh:
+    content: |-
+      Comic Market 72上贩售的官方Drama CD。从此各种东西都坏……焕发一新。当然在发售时期只是时期上箱的各位还没登场，但这两人正好是休息日，手机桑则是因为不想见人而心神不安藏起来了哟！（什么鬼）
+    note: {}

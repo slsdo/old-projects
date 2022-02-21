@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TMdict | {% block title %}{% endblock %}</title>
+    <meta charset="utf-8">
+    <link rel="canonical" href="http://tmdict.com/{{ lang }}/{% block url %}{% endblock %}" />
+    <link rel="shortcut icon" href="../favicon.ico" />
+    {% block style %}{% endblock %}
+    <link rel="stylesheet" href="../src/css/style.min.css" />
+</head>
+
+<body>
+    <div id="container">
+        <div class="wrapper group">
+            <div class="top">
+                <div class="top-img"><a title="{{ home }}" href="../{{ lang }}/{% if ext %}index.html{% endif %}">Home</a></div>
+
+                <div class="nav">
+                    <h1><span class="tm">TM</span>dict</h1>
+                    <div class="nav-ver">v{{ version }}</div>
+                    <div class="nav-index">
+                        {% set nav_ja = [
+                            ('あ', '._'), ('か', '.k'), ('さ', '.s'), ('た', '.t'), ('な', '.n'),
+                            ('は', '.h'), ('ま', '.m'), ('や', '.y'), ('ら', '.r'), ('わ', '.w'),
+                            ('全', '')
+                        ] %}
+                        {% set active_ja = gojuuon_code %}
+                        {%+ for name, url in nav_ja %}<span{% if loop.first %} class="first"{% endif %}><a{% if url == active_ja %} class="active"{% endif %} title="{{ name }}" href="./#ja{{ url }}">{{ name }}</a></span>{% endfor %}<br />
+                        {% set nav_en = [
+                            ('#', '._'), ('a', '.a'), ('b', '.b'), ('c', '.c'), ('d', '.d'), ('e', '.e'), ('f', '.f'),
+                            ('g', '.g'), ('h', '.h'), ('i', '.i'), ('j', '.j'), ('k', '.k'), ('l', '.l'), ('m', '.m'),
+                            ('n', '.n'), ('o', '.o'), ('p', '.p'), ('q', '.q'), ('r', '.r'), ('s', '.s'), ('t', '.t'),
+                            ('u', '.u'), ('v', '.v'), ('w', '.w'), ('x', '.x'), ('y', '.y'), ('z', '.z'), ('all', '')
+                        ] %}
+                        {%+ for name, url in nav_en %}<span{% if loop.first %} class="first"{% endif %}><a title="{{ name }}" href="./#en{{ url }}">{{ name }}</a></span>{% endfor %}
+
+                    </div>
+                </div>
+
+                <div class="side">
+                    <div class="search">
+                        <form action="search{% if ext %}.html{% endif %}">
+                            <input type="text" name="q" id="tipue_search_input" autocomplete="off" required />
+                        </form>
+                    </div>
+
+                    <div class="menu">
+                        <a title="{{ about }}" href="about{% if ext %}.html{% endif %}">{{ about }}</a> | <a title="{{ site }}" href="site{% if ext %}.html{% endif %}">{{ site }}</a> | <a title="{{ misc }}" href="misc{% if ext %}.html{% endif %}">{{ misc }}</a> | <a title={{ book }} href="../book/{% if ext %}index.html{% endif %}">{{ book }}</a>
+                    </div>
+
+                    <div class="lang">
+                        <span class="first"><a{% if lang == 'en' %} class="active"{% endif %} href="../en/{{ self.url() }}{% if ext %}{% if self.url() == '' %}index{% endif %}.html{% endif %}">EN</a></span><span><a{% if lang == 'zh' %} class="active"{% endif %} href="../zh/{{ self.url() }}{% if ext %}{% if self.url() == '' %}index{% endif %}.html{% endif %}">ZH</a></span><span><a{% if lang == 'ja' %} class="active"{% endif %} href="../ja/{{ self.url() }}{% if ext %}{% if self.url() == '' %}index{% endif %}.html{% endif %}">JA</a></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="main">
+                <div class="main-content">
+                    {% block content %}{% endblock %}
+                </div>
+            </div>
+
+            <div class="side">
+                <div class="side-content">
+                    <h2><span class="first-char">{{ sidechar }}</span>{{ sidetitle }}</h2>
+
+                    {% block side %}{% endblock %}
+
+                    <div class="side-menu">
+                        <div class="menu-arrow"><a title="{{ return }}" href="{{ backurl }}">&laquo;</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+{% block script %}{% endblock %}
+</html>

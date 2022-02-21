@@ -1,0 +1,30 @@
+---
+id: battle-of-compiegne
+
+en: b
+ja: ko
+furigana: こんぴえーにゅのたたかい
+title:
+  en: Battle of Compiègne
+  ja: コンピエーニュの戦い
+  zh: 贡比涅之战
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 82
+  category:
+  - proper-noun
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      この戦いでジャンヌ・ダルクはイングランド側についたブルターニュ軍の捕虜になり、イングランドに売り渡されてしまう。その後、彼女は異端として断罪され、火刑というキリスト教世界では最も苛烈な刑罰によって処刑される。詳細は「ジャンヌ・タルク」の項目を参照。
+    note: {}
+  zh:
+    content: |-
+      这场战斗中贞德·达尔克[Jeanne·d’Arc]成了英格兰[England]侧的布列塔尼[Brittany]军俘虏，并被出卖给了英格兰[England]。那之后，她被当作异端断罪，并被处以火刑这一基督[Christ]教世界中最猛烈的刑罚。详细请参照“贞德·达尔克[Jeanne·d’Arc]”的项目。
+    note: {}

@@ -1,0 +1,43 @@
+---
+id: queen-of-the-moon
+
+en: q
+ja: tsu
+furigana: つきのじょおう
+title:
+  en: Queen of the Moon
+  ja: 月の女王
+  zh: 月之女王
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 105
+  category:
+  - character
+  img: fem_queen-of-the-moon.png
+  en:
+    content: |-
+      The first big boss in CCC.
+      The Queen of the Moon employs Red Lancer, as well as the Sentinels from the labyrinth who made the protagonist laug— err, who made the protagonist suffer.
+      Her real identity turned out to be, who would guess… Tohsaka Rin. Wow. (monotone voice)
+      Despite having half of her consciousness occupied by BB, Rin manages to behave like her usual self. This is certainly a testament to the strength of her will power.
+      To digress, when we decided that Rin would appear as the Queen of the Moon, she was supposed to get a special and rather risqué punk fashion outfit, and its design progressed to the point where Wada{{n1}} had done some rough drawings, but sadly, sadly, so sadly it was axed.
+    note:
+      n1: "Wada is CCC’s main character artist."
+  ja:
+    content: |-
+      CCCの第一階層の偉大[グレート]なボス。
+      赤ランサーを使役し、迷宮にやってきた主人公たちを笑わ……否、苦しめたセンチネル。
+      その正体はなんと遠坂凛だった（棒読み）。
+      BBに意識の半分を占有されていたが、その言動はまったくプレなかったあたり、彼女の意志の強さがうかがえる。
+      余談ではあるが、凛が月の女王として登場する時は服装をきわどいパンクファッションにする予定で、ワダさんのデザインラフまであがっていたが泣く泣く没になった。
+    note: {}
+  zh:
+    content: |-
+      CCC第一层的伟大BOSS。
+      使役红色的Lancer，笑……不，折腾到达迷宫的主角等人的卫兵。
+      她的真面目竟然是远坂凛（棒读）。
+      被BB占据了一半的意识，言行却完全没有偏移，意志之坚强由此可见一斑。
+      说点题外话，凛作为月之女王登场时候的服装计划中是色情的庞克风格。虽然和田先生连草图也画了却含泪没有采用。
+    note: {}

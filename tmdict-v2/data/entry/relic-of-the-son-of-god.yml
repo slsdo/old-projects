@@ -1,0 +1,30 @@
+---
+id: relic-of-the-son-of-god
+
+en: r
+ja: ka
+furigana: かみのみこのひじりいぶつ
+title:
+  en: Relic of the Son of God
+  ja: 神の御子の聖遺物
+  zh: 神之圣子的圣遗物
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 12
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      Holy artifacts recognized by the Holy Church. Management of such artifacts typically falls under the jurisdiction of the Church, however the Fuyuki Grail does not fall into this category.
+    note: {}
+  ja:
+    content: |-
+      聖堂教会が認める聖遺物。認定された聖遺物は教会の管理下に置かれることになるが、冬木の聖杯はこれにあたらないことが確認されている。
+    note: {}
+  zh:
+    content: |-
+      圣堂教会承认的圣遗物。虽然被认定为圣遗物就会被归置教会的管理下，不过冬木的圣杯被确认为不必那样[置于管理下]。
+    note: {}

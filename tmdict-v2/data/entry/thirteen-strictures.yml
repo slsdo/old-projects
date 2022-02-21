@@ -1,0 +1,33 @@
+---
+id: thirteen-strictures
+
+en: t
+ja: shi
+furigana: じゅうさんこうそく
+title:
+  en: Thirteen Strictures
+  ja: 十三拘束
+  zh: 十三拘束
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 30
+  category:
+  - other_alt
+  img: ""
+  en:
+    content: |-
+      Aware of the strictures placed upon the holy sword, thinking “such a form is beautiful,” the holy spear accepted those same limits. Just as the holy sword, it carries within it the prayers of thirteen knights.
+      Furthermore, in the illustration of the Thirteen Strictures included in the Rail Zeppelin case, the image of Bedivere included his prosthetic arm. This arm was created for him by a blacksmith he knew, for use when he attended ceremonies. For him, actions taken by the Round Table required the utmost in respect and decorum. Whether the silver arm that appeared in a parallel world was modelled after this one or not, well…
+    note: {}
+  ja:
+    content: |-
+      聖剣に課された拘束を認識した聖槍が、「その力タチは美しい」と自らにも課したもの。聖剣と同様に、十三の騎士の祈りが宿っている。
+      なお、魔眼蒐集列車編挿絵における、十三拘束でのべディヴィエールのイメージで右腕が義腕になっているのは、生前、祭礼などに出席する際、知り合いの鍛治師に造ってもらったもの。彼にとっての円卓議決は最大限の礼を払うべき対象だった。並行世界の銀色の腕はこれをモデルにしたとかしなかったとか。
+    note: {}
+  zh:
+    content: |-
+      认知到被施加于圣剑之上的拘束的圣枪，认为「那种形式很美丽」，从而也对自己施加的拘束。与圣剑同样，宿有十三骑士的祈愿。
+      另外，在魔眼搜集列车的插图中，十三拘束中贝狄威尔的形象是右臂装着义肢，那是在他生前出席祭祀仪式的时候，认识的锻造师为他锻造的。在他看来，圆桌决议是应当致以最大限度礼节的对象。平行世界的银之臂不知道是不是以此为模型。
+    note: {}

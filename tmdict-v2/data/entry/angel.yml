@@ -1,0 +1,33 @@
+---
+id: angel
+
+en: a
+ja: te
+furigana: てんし
+title:
+  en: Angel
+  ja: 天使
+  zh: 天使
+
+entry:
+- source: angel-voice
+  section: notes
+  order: 9
+  category:
+  - no_20-guardian-angel
+  img: ""
+  en:
+    content: |-
+      Artificial angels within the Hundred A-rays. The 20th species within the 100, but it is equal to the top 10 just considering its power to destroy objects. A mass that protects a single A-ray species. The original is an angel in the largest religion of the old age. A human type that has a pair of bird wings.
+      Aggressive species that uses the absorbed heavy particle that scattered in the atmosphere after the world got destroyed as its source of power.
+    note: {}
+  ja:
+    content: |-
+      亜麗百種における人工の天使。百種中二十位だが、物質を破壊するという面においてのみ十位内種に肉薄する。単一種の亜麗を守護する群体。旧世界における最大宗教の天使をオリジナルにもつ。二枚の鳥類の翼を持つ人間種。
+      世界崩壊後、大気中に散乱した重粒子を体内に吸収し、それを動力源として活動する攻性種。
+    note: {}
+  zh:
+    content: |-
+      亚丽百种中的人工天使，虽然在百种中位居二十，然而单说破坏物质这方面的话，可以与十位以内的种进行肉搏。守护单一种亚丽的群体。以旧世界中最大宗教里的天使为蓝本。拥有一对鸟类翅膀的人类种。
+      将世界崩溃以后散乱于大气中的重粒子吸收入体内，以此为动力源活动的攻性种。
+    note: {}

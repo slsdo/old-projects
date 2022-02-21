@@ -1,0 +1,30 @@
+---
+id: curry-rice
+
+en: c
+ja: ka
+furigana: かれーらいす
+title:
+  en: Curry Rice
+  ja: カレーライス
+  zh: 咖喱饭
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 18
+  category:
+  - cuisine
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      アーネンエルベのメニューのひとつ。レトルトでは無くじっくりと煮込んだポークカレー。本来は一日寝かせて完成となるが、最近は仕込みが追いつかない上に「最近味落ちたんじゃないですか？」と小言をもらうのでマスターは密かに嘆いているとか。
+    note: {}
+  zh:
+    content: |-
+      Ahnenerbe的菜单[Menu]之一。并非速食[Retort]的细火慢炖的肉咖喱[Pork Curry]。原本是要候上一天才能完成，但因最近赶不上准备工作而收到了“最近味道好像变差了吧？”的抱怨，故Master也在暗地里悲叹着。
+    note: {}

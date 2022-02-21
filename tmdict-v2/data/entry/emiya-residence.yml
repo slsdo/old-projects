@@ -1,0 +1,30 @@
+---
+id: emiya-residence
+
+en: e
+ja: e
+furigana: えみやてい
+title:
+  en: Emiya Residence
+  ja: 衛宮邸
+  zh: 卫宫邸
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 102
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      深山町にある衛宮家所有の屋敷。木造平屋の純和風建築。
+    note: {}
+  zh:
+    content: |-
+      卫宫家在深山町所有的宅邸。木造平房的纯和风建筑。
+    note: {}

@@ -1,0 +1,40 @@
+---
+id: sacchin-arm
+
+en: s
+ja: sa
+furigana: さっちんアーム
+title:
+  en: Sacchin Arm
+  ja: さっちんアーム
+  zh: 小五月之臂
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 31
+  category:
+  - technique
+  img: ""
+  en:
+    content: |-
+      A name attached to all of Yumizuka Satsuki’s various throwing skills. (“Sacchin” is a pet name for Satsuki.)
+      “Grasping the Unfinished Dream” is a ground attack. The A version is most effective in combos, while the B version is best used against stunned opponents.
+      “Chasing the Unreachable Dream” is an anti-air attack. The EX version’s hitbox, attack power, and ability to lead into combos are all amazing. I’d even go so far as to say that building up the gauge just to use this move is the proper way of playing Sacchin.
+      Maybe in the next version of the game we’ll add a third kind of throwing skill. How does an air-to-ground attack called “Picking Up the Fallen Dream” sound?
+    note: {}
+  ja:
+    content: |-
+      弓塚さつきの投げ技各種。さっちんというのはさつきの愛称から。
+      見果てぬ夢を掴む、が対地。小は連続技に、中は固まっている相手に使うと効果的。
+      届かない夢を追う、が対空。EX版は判定、威力、その後の連続技等に優れている。ゲージはこちらの為に使用するのが正しいさっちん使いと言えよう。
+      今後バージョンアップがあるとしたら、第三の投げ技が編み出されるであろう。空対地の落っこちた夢を拾うさっちんアームとかどうだろうか?
+    note: {}
+  zh:
+    content: |-
+      弓冢五月的各种投技。所谓小五月是来自五月的昵称。
+      抓住未果的梦，对地。小在连续技里使用、中对固定着的对手使用效果好。
+      追逐够不到的梦，对空。EX版在判定、威力、此后的连续技等方面都很优秀。气槽为了这方面而使用可说正确的小五月用法吧。
+      要是今后有版本升级的话，第三个投技要被作出来吧。空对地的拾起遗落的梦小五月之臂什么的怎么样呢？{{n1}}
+    note:
+      n1: "“見果てぬ夢”、“届かない夢”、“落っこちた夢”这三个词其实都是“无法实现的梦”的意思……"

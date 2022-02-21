@@ -1,0 +1,51 @@
+---
+id: kinpika
+
+en: k
+ja: ki
+furigana: きんぴか
+title:
+  en: Kinpika
+  ja: 金ピカ
+  zh: 金闪闪
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 24
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      A name bestowed upon Gilgamesh by Rin.
+      Gil’s “golden” reputation doesn’t just come from the armor he wears when fully equipped for battle, but from the fact that even the color of his soul is gold.
+      Also, he’s the richest character in the story.
+      Accordingly, his compatibility with the notorious wallet-drainer Rin is…
+      
+      <span style="font-size:1.5em">THE BEST.</span>
+      
+      …But let’s keep that a secret between you and me, okay?
+    note: {}
+  ja:
+    content: |-
+      凜から見たギルガメッシュのコト。
+      ギルが“黄金の”と称されるのは完全武装時の甲骨からだけではなく、その魂の色が黄金だからである。
+      本編中最高のお金持ちであるギルっち。
+      金のかかる女・凜との相性が
+      
+      <span style="font-size:1.5em">最高にいい</span>
+      
+      というのはボクラだけの秘密だぞっ。
+    note: {}
+  zh:
+    content: |-
+      凛对看到的吉尔伽美什的称呼。
+      之所以吉尔被称为“黄金的”不仅仅是因完全武装时的甲胄，而是因其灵魂的颜色如黄金般的缘故。
+      本篇中最有钱的吉尔酱。
+      对花钱最厉害的女生·凛的相性为
+      
+      <span style="font-size:1.5em">最！高！</span>
+      
+      这是只有我们才知道的秘密哦。
+    note: {}

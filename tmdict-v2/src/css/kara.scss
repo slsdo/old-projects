@@ -1,0 +1,288 @@
+/* Kara */
+
+@import 'normalize';
+
+$media-mobile: "only screen and (max-width: 640px)";
+
+$font-title: ("Times New Roman", Georgia, serif);
+$font-content: ("Times New Roman", Times, "Microsoft YaHei", serif);
+
+$color-grey: #777;
+$color-teal: #21759b;
+$color-orange: #c93b0e;
+$bracket-left: "[";
+$bracket-right: "]";
+
+body, html{
+  height:100%;
+  background: #fff;
+}
+
+h1 {
+  text-align:center;
+  color: #000;
+  font: bold 2em $font-title;
+  margin: 20px 0 5px;
+}
+
+h2 {
+  color: #000;
+  font: bold 3em $font-title;
+  margin: 20px 0 5px;
+  float: left;
+}
+
+h3 {
+  color: $color-teal;
+  font: bold 1.8em $font-title;
+  text-align: center;
+  margin: 40px 0 20px;
+
+  @media #{$media-mobile} {
+    margin: 20px 0 0;
+  }
+
+  &:before {
+    content: "【";
+  }
+
+  &:after {
+    content: "】";
+  }
+
+  &:before, &:after {
+    color: $color-grey;
+    font-size: 0.8em;
+    margin: 0 15px 0;
+  }
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  color: $color-teal;
+}
+
+a:hover {
+  text-decoration: none;
+  color: $color-orange;
+}
+
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.separator {
+  height: 19px;
+  width: 500px;
+  background: transparent url('../img/ornament2.png') no-repeat;
+  margin: 30px auto;
+
+  @media #{$media-mobile} {
+    width: 190px;
+    background: transparent url('../img/ornament.png') no-repeat;
+  }
+}
+
+.separator-small {
+  height: 19px;
+  width: 190px;
+  background: transparent url('../img/ornament.png') no-repeat;
+  margin: 30px auto;
+}
+
+.wrapper {
+  position: relative;
+  margin-left: 50px;
+  max-width: 900px;
+  padding: 1px 0;
+
+  @media #{$media-mobile} {
+    margin: 0 20px;
+  }
+}
+
+#top {
+  border-bottom: 5px solid #333;
+
+  .nav {
+    float: left;
+    margin-bottom: 10px;
+    font: bold 1.45em $font-title;
+    width: 100%;
+    color: $color-grey;
+    position: relative;
+
+    .nav-info {
+      display: inline-block;
+      color: $color-orange;
+    }
+
+    .nav-lang {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+
+      @media #{$media-mobile} {
+        position: relative;
+      }
+    }
+  }
+}
+
+#main {
+  #toc {
+    margin: 0 auto;
+    font: normal 1.7em $font-title;
+    max-width: 700px;
+    
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      border-bottom: 1px dotted #aaa;
+    }
+
+    li {
+      border-top: 1px dotted #aaa;
+      padding: 8px 0;
+      text-align: center;
+      
+      a {
+        display: block;
+        font-weight: bold;
+      }
+    }
+
+    li:hover {
+      background: #f8f7ef;
+    }
+
+    .info {
+      font-size: 0.5em;
+      color: #777;
+      font-weight: normal;
+      margin-bottom: 4px;
+    }
+  }
+}
+
+.permalink {
+  @media #{$media-mobile} {
+    display: none;
+  }
+
+  a {
+    float: left;
+    color: $color-grey;
+    margin: 0 10px;
+    font-size: 1.1em;
+
+    &:hover {
+      color: $color-orange;
+    }
+  }
+}
+
+.entry {
+  margin: 20px 0;
+}
+
+.entry-lang {
+  float: right;
+  margin-top: 2px;
+
+  @media #{$media-mobile} {
+    margin-bottom: 10px;
+  }
+
+  a {
+    color: $color-teal;
+    padding: 0 2px;
+    cursor: pointer;
+  }
+
+  .active {
+    color: $color-orange;
+  }
+}
+
+.entry-title {
+  float: left;
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.entry-category {
+  color: $color-orange;
+  font-size: 1em;
+  margin-bottom: 5px;
+
+  &:before {
+    content: $bracket-left;
+    margin-right: 3px;
+  }
+
+  &:after {
+    content: $bracket-right;
+    margin-left: 3px;
+  }
+}
+
+.entry-content {
+  margin-bottom: 5px;
+  font-size: 1.1em;
+
+  @media #{$media-mobile} {
+    font-size: 1.2em;
+  }
+
+  p {
+    line-height: 1.45em;
+  }
+}
+
+.entry-image {
+  margin: 20px auto 10px;
+  text-align: center;
+
+  img {
+    border: 1px dashed $color-grey;
+    margin: 0 5px;
+  }
+}
+
+.entry-note {
+  margin: 5px 0;
+
+  ol {
+    padding: 10px 0 0 30px;
+    margin-top: 0;
+  }
+}
+
+.note {
+  font-size: 0.9em;
+  color: $color-grey;
+
+  &:before {
+    content: $bracket-left;
+  }
+
+  &:after {
+    content: $bracket-right;
+  }
+}
+
+.note a:hover, .entry-note ol li a:hover {
+  border-bottom: 1px dotted $color-grey;
+}
+
+.footer {
+  text-align: center;
+  color: #000;
+  font-size: 0.5em;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,30 @@
+---
+id: store-manager-george
+
+en: s
+ja: shi
+furigana: じょーじてんちょう
+title:
+  en: Store Manager George
+  ja: ジョージ店長
+  zh: 乔治店长
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 26
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      ドラマCDで初登場したアーネンエルベの店長……なのですが、「俺ら中田譲治さんに頼りすぎじゃね？」という鶴の一声によって、何だかわからない扱いに。その一方でBすけさんの漫画のインパクトで中田譲治氏のイメージは益々強固な物となり、どうしたものかと頭を悩ませているなう。
+    note: {}
+  zh:
+    content: |-
+      Drama CD中初登场的Ahnenerbe的店长……虽然是这么说，“我不会过于依赖中田让治桑吧？”这么一声令下，做了什么不为人知的操作。另一边，在Bすけ桑漫画的激烈影响[Impact]下，中田让治氏的印象[Image]也变得越发坚固，这可如何是好啊。
+    note: {}

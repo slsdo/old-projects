@@ -1,0 +1,69 @@
+---
+id: psychic-power
+
+en: p
+ja: chi
+furigana: ちょうのうりょく
+title:
+  en: Psychic Power
+  ja: 超能力
+  zh: 超能力
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 20
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      ① People with these powers are born with the innate ability to use parts of their brain that regular people cannot. This is the source of their powers
+      ② Counter-force born from the subconscious of a person.
+      ③ Not the same as interfering with nature. Psychic powers are in a completely different category.
+      ④ Currently, psychic powers generally do not compare to interference with nature in raw power and potential.
+      ⑤ Since these powers are inborn and innate, they are usually limited to the individual who possesses them (and not passed down from parent to child).
+    note: {}
+  ja:
+    content: |-
+      ①脳内において先天的に開いている、常人は使用していない個所を用いて発動する能力
+      ②ヒトの無意識が生み出したヒトにあだなすモノ達に対する抑止力。
+      ③自然干渉法の規則にはそぐわない、それらとは全く異なる能力。
+      ④現在のところ、その能力の性能自体は自然干渉法には及ばない。
+      ⑤先天的・偶発的に発現する、基本的に一代限りの能力。
+    note: {}
+  zh:
+    content: |-
+      ①利用在脑内先天地打开了的、常人所没有用到的部分来发动的能力
+      ②人类的无意识所产生出来的，针对于仇害人类者的抑止力。
+      ③违背自然干渉法的规则、与它完全不同的能力。
+      ④现在，这些能力的性能并不如自然干渉法。
+      ⑤先天性、偶发性地显现的、基本上是一代限定的能力。
+    note: {}
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 31
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      Abnormal ability. Functions that normal humans do not possess. A kind of circuitry that leads to what are commonly called paranormal activities.
+      Different from magecraft, inborn talents are absolutely necessary for psychic power. Those possessing psychic power circuits can induce paranormal phenomenon as naturally as breathing. The psychic power users themselves take psychic power for granted, and treat it as something they simply “can do.” They only realize that they are abnormal after others (who can only comprehend “normal”) have pointed it out.
+      In this story, Asagami Fujino is an psychic power user, but since she was tampered with somewhat, her ability falls between psychic power and magecraft.
+      Psychic power is normally an incidental occurrence, a sudden mutation limited to one generation.
+    note: {}
+  ja:
+    content: |-
+      異能。本来、人間という生き物を運営するに含まれない機能の事。俗に言う超常現象を引き起こす回線。
+      魔術と違い、先天的な才能が必要不可欠。異能の回線を持つ者は、息を吸うかの如く超常現象を引き起こす。本人たちにとってもそれが『出来て』当たり前のことなので、外部（一般常識）からの指摘で始めて自分が異常なのだと気がつく事になる。
+      本編では浅上藤乃が超能力者とされているが、彼女はある程度人為的な手が加えられている為、魔術と異能の中間に属する。
+      本来超能力は偶発的に発生するもので、一代限りの突然変異なのである。
+    note: {}
+  zh:
+    content: |-
+      异能。指本来，运营人类这种生物时并不含有的机能。引起俗称的超常现象的回线。
+      与魔术不同，先天的才能是必要不可欠的。持有异能回线的人，如呼吸一般引起超常现象。对本人们来说这是“能做到的”理所当然的事情，在外部(一般常识)指出后才意识到自己是异常的。
+      正篇中浅上藤乃虽然是作为超能力者，但因为她在某种程度上受过人为的处理，属于魔术和异能的中间。
+      本来超能力是偶发之物，限于一代的突然变异。
+    note: {}

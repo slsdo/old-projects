@@ -1,0 +1,122 @@
+---
+id: nanaya-shiki
+
+en: n
+ja: na
+furigana: ななやしき
+title:
+  en: Nanaya Shiki
+  ja: 七夜志貴
+  zh: 七夜志贵
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 45
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Eldest son of the Nanaya, a clan of demon hunters that passed down psychic power as their genetic inheritance.
+      The Nanaya had retired from the demon hunting trade to live a quiet life in the mountains. However, because Tohno Makihisa still regarded them as dangerous, they were raided and completely wiped out.
+      Shiki, too, was very nearly killed by Makihisa, but somehow he narrowly escaped death and was taken in by the Tohno family as an adopted child.
+      Though Shiki doesn’t remember it, he had received basic training before Makihisa’s attack.
+      This training was responsible for turning Shiki into a transcendent killer every time he was backed into a corner during <em>Tsukihime</em>… somehow.
+    note: {}
+  ja:
+    content: |-
+      遺伝として超能力を継承している退魔の一族七夜の長男。
+      七夜家は退魔という生業から離れ山奥で静かに暮らしていたが、七夜を危険視した遠野槙久によって襲われ、途絶える。
+      志貴も槙久によって殺されかけるが、なんとか一命をとりとめ、以後は遠野家の養子として引き取られた。
+      志貴は憶えていないが、槙久に襲われる前に基本的な訓練は受けている。
+      月姫本編で志貴が極限状態になると卓越した殺人貴になるのは、すでにそういった訓練を受けていた為だとか、なんとか。
+    note: {}
+  zh:
+    content: |-
+      以遗传方式继承超能力的退魔一族—七夜的长男。
+      虽说七夜家已经从退魔这个行业中退出，并在山中隐居，但仍被把七夜视为危险因素的远野槙久所袭击，没了音讯。
+      志贵原本也会被槙久所杀，因故得以留住一命，作为远野家的养子生活下去。
+      志贵自己虽不记得了，但在被槙久袭击前他就已经受过基本的训练。
+      月姬本篇中当志贵变成极限状态，或是成为卓越的杀人贵时，便是“已经完成训练”的情况。
+    note: {}
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 26
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Shiki’s former name, but in <em>Tsukihime</em> it is often used to refer to the manifestation of Shiki’s murderous alternate personality. Especially in <em>Kagetsu Tohya</em>, in which we can see Nanaya surfacing of his own will and taking over Shiki’s body… although this is somewhat the fault of Shiki himself. As far as Shiki is concerned, Nanaya is none other than the harbinger of Shiki’s destruction.
+    note: {}
+  ja:
+    content: |-
+      志貴の旧名。だが、『月姫』では志貴の殺人者としての人格が発露した状態のことを指す場合が多い。特に『歌月十夜』では明確な意思を持って登場し、志貴を乗っ取ろうとする……のは、ある意味志貴自身のせいだったりもするのだが。志貴にとっては自身の消滅を暗示する悪夢以外の何者でもない。
+    note: {}
+  zh:
+    content: |-
+      志贵的旧名。不过，在《月姬》中多指志贵流露出作为杀手的人格的状态。《歌月十夜》中更拥有明确意志地登场，想要夺取志贵的位置……虽然某种意义上这也是志贵本身的缘故。对志贵来说只是暗示着自己的消失的恶梦。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 71
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Eldest son of the Nanaya, a clan of demon hunters that passed down psychic power as their genetic inheritance.
+      The Nanaya had retired from the demon hunting trade to live a quiet life in the mountains. However, because Tohno Makihisa still regarded them as dangerous, they were raided and completely wiped out.
+      Shiki, too, was very nearly killed by Makihisa, but somehow he narrowly escaped death and was taken in by the Tohno family as an adopted child.
+      Though Shiki himself does not remember anything from when he lived in the Nanaya village, he did receive basic training before Makihisa’s attack. This training was responsible for turning Shiki into a transcendent killer every time he was backed into a corner during <em>Tsukihime</em>… somehow.
+      In <em>Melty Blood</em>, Nanaya Shiki appears as Tohno Shiki’s anxieties given form. He uses the Nanaya martial arts that Shiki should have learned, but unlike Shiki he does not possess the mystic eyes of death perception. According to Miyako, he is her “wild big brother.” Also, perhaps it is due to Wallachia’s influence, but he is prone to somewhat theatrical elocution.
+    note: {}
+  ja:
+    content: |-
+      遗伝として超能力を継承している退魔の一族・七夜の長男。
+      七夜家は退魔の生業から離れ山奥で静かに暮らしていたが、七夜を危険視した遠野槙久によって襲われ、途絶える。
+      志貴も殺されかけるが、なんとか一命をとりとめ、以後は遠野家の養子として引き取られた。
+      志貴自身、七夜の里にいる頃の事は忘れているが、槙久に襲われる前に基本的な訓練は受けている。月姫本編で志貴が極限状態になると卓越した殺人貴になるのは、既にそういった訓練を受けていた為だとか、なんとか。
+      メルティブラッドでは志貴の不安が具現化した姿として登場。志貴が習得する筈だった七夜の体術を用いるが、志貴とは違って直死の魔眼を持っていない。
+      都古曰く、『これはこれでワイルドなお兄ちやん』。ワラキアの影響か、どことなく芝居がかった台詞回しをする。
+    note: {}
+  zh:
+    content: |-
+      作为遗传继承了退魔一族超能力的七夜家的长男。
+      七夜家结束了退魔生涯安静地生活在深山之中，被视其为危险的远野槙久袭击而灭门。
+      志贵在行将被害之际总算捡回了一条性命。之后被作为远野家的养子迎入。
+      志贵忘记了自己在待在七夜村子时的事情， 在被槙久袭击之前都有受过基本的训练。月姬本篇中志贵达到极限状态成为卓越的杀人贵， 大概就是因为其已受到的训练的缘故。
+      Melty Blood中作为志贵不安的具体而实体化登场。能够使用志贵本应习得的体术，但是与志贵不同不具有魔眼。
+      都古云，“还真是野生的欧尼酱啊”。Wallachia的影响下，总感觉说着演戏一般的台词。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 54
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Shiki the Killer. Eldest son of the Nanaya, a clan of demon hunters that passed down unique abilities as their genetic inheritance.
+      Though the Nanaya were once feared as the natural enemy of demon hybrids, the last family head, Nanaya Kiri, retired from the demon hunting trade to live a quiet life in the mountains. However, because Tohno Makihisa still regarded them as dangerous, they were raided and completely wiped out.
+      Except, that is, for Nanaya Shiki. Even though the Nanaya bloodline should have been annihilated without exception. Even though he was the family head’s only son. Somehow, for some reason, he alone survived.
+      Unlike Tohno Shiki, he uses the Nanaya martial arts, which strains the human body to its utmost limits, without any fear or hesitation.
+      Also, this is just a digression, but in the game when he comments on the lack of skill after winning a battle, he’s actually talking about himself and not the opponent. After all, an assassination is something that’s over in an instant. For it to turn into a drawn-out “battle” against an enemy, well, what can he do but laugh at his own failure?
+    note: {}
+  ja:
+    content: |-
+      殺人貴。遺伝として特異能力を継承している退魔の一族・七夜の長男。
+      七夜は混血の天敵として恐れられていたが、今代の当主・七夜黄理は退魔の生業から引退、山奥で静かに暮らしていた。しかし七夜を危険視した遠野槙久によって襲撃され、一族郎党壊滅する。
+      七夜志貴はその生き残り、という事になる。例外なく息絶えた筈の七夜の血族の、しかも当主の一人息子がどのようにして生き延びたかは定かではない。
+      志貴とは違い、人体を限界まで酷使する七夜の体術をはばかることなく使用する。
+      余談ではあるが、勝利時に「しかし下手だね、どうも」と発言するのだが、それは相手にではなく自分に対してのもの。暗殺は一秒で行うもの。それを手間暇かけ、あまつさえ“戦闘”になってしまった自分の不手際さを嗤っているのである。
+    note: {}
+  zh:
+    content: |-
+      杀人贵。作为遗传继承着特异能力的退魔的一族·七夜的长子。
+      七夜作为混血的天敌被畏惧着，但当代的家主·七夜黄理从退魔的生业引退，在深山里静静地生活着。然而由于被视七夜为危险的远野槙久而被袭击，满门破灭。
+      七夜志贵成了其幸存者，这么回事。理应无一例外地断气了的七夜的血族的，且为家主的独生子是怎样保住了性命的呢不明。
+      与志贵不同，毫不顾忌地使用直达极限地驱使人体的七夜的体术。
+      题外话，胜利时有“可真没用呀，真是…”的发言，但那不是对对方而是对自己的东西。暗杀是在一秒内进行的东西。嗤笑着那个下了工夫，而且还成了“战斗”的自己的拙劣。
+    note: {}

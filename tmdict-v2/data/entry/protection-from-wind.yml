@@ -1,0 +1,36 @@
+---
+id: protection-from-wind
+
+en: p
+ja: ka
+furigana: かざよけのかご
+title:
+  en: Protection from Wind
+  ja: 風除けの加護
+  zh: 除风的加护
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 16
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      What True Assassin used when he jumped through Saber’s Invisible Air.
+      Mysteriously, the text in the game was blacked out.
+      It seems that originally it was supposed to say “Allahu Ackbar,” but it was cut for adult reasons.
+    note: {}
+  ja:
+    content: |-
+      其アサシンが風王結界に飛び込んだ時に使用したもの。
+      何故か本編では黒塗りで表現されたテキスト。
+      本来なら「OOはOOなり」というものなのだが、 大人の事情でカットされた。
+    note: {}
+  zh:
+    content: |-
+      真ASSASSIN跳进风王结界时所使用的东西。
+      不知道在本篇里为什么表现为染黑了的样子。
+      本来的话应该是“OO乃OO也”那样的东西的，不过因为某些大人的事情所以剪掉了。
+    note: {}

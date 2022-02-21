@@ -1,0 +1,106 @@
+---
+id: kokutou-mikiya
+
+en: k
+ja: ko
+furigana: こくとうみきや
+title:
+  en: Kokutou Mikiya
+  ja: 黒桐幹也
+  zh: 黑桐干也
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 20
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The secondary protagonist of <em>Kara no Kyoukai</em>.
+      He doesn’t have a single special ability to his name. A completely normal young man in every respect. Both his outward appearance and personality are plain. His trademark look is black-rimmed glasses.
+      Other than that, there’s not much to him. Personality-wise, he’s the prototype for Tohno Shiki.
+      Although he isn’t strong, he’s definitely the strongest person of all. For some reason, he’s extremely talented at finding things and nothing else.
+      Also, though their personalities are similar, Tohno Shiki is still a child compared to Mikiya.
+    note: {}
+  ja:
+    content: |-
+      『空の境界』における、もう一人の主人公。
+      特別な能力は一つもない、いたって普通のまじめな青年。飾り気のない外見と性格をしていて、黒ぶちメガネがトレードマーク。
+      これ以上はないっていうぐらいのいい人で、性格面で言えば志貴の雛型といえる。
+      強くはないが、きっと一番強い人。なぜか物を探す事にのみ優れた才能を発揮する。
+      性格は似たようなものでも、この人に比べれば志貴もまだまだ子供である。
+    note: {}
+  zh:
+    content: |-
+      《空之境界》的另一位主人公。
+      没有任何特殊能力，非常普通的正经青年。有着毫无装饰的外表和性格，黑框眼镜是他的注册商标。
+      可以说是没人比他更好的好人，性格上也可说是志贵的雏形。
+      虽然不强，不过一定是最坚强的人。不知为何只有在找东西时能发挥他优秀的才能。
+      尽管性格相似，不过和这个人比起来的话志贵还是个小孩子。
+    note: {}
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 20
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A youth in his late teens. Employee of the Garan no Dou. A very normal and unremarkable individual. One of the protagonists of the story, possessing characteristics of the Yang.
+      Although he was related to all characters of <em>Kara no Kyoukai</em>, he only stepped into the maelstrom during one incident.
+      Mild-mannered and caring, most people were very fond of him.
+      …However, for some inexplicable reason he encountered Shiki, who was his polar opposite. Subsequently, he was doomed to a long-term relationship with Shiki, for better or for worse.  Be careful when walking alone during snowy nights, Mikiya.
+      Since he symbolized the peaceful daily life, he was very popular among people who sought such things. Even after the story concluded, Mikiya still made Shiki restless.
+      He was an example of “the scariest things are always found closest to you in unexpected forms.”
+      The protagonist of <em>Tsukihime</em> inherited the characteristics of both Mikiya and Shiki.
+    note: {}
+  ja:
+    content: |-
+      十代後半の青年。伽藍の堂の社員。極めて普通のひと。物語の主役の一人。陽性。
+      『空の境界』全体に関わる人物だが、渦中に踏み込むのは一つの事件だけである。
+      温和で面倒見がよく、大抵の人に好かれる好人物。
+      ……なのだが、何の因果かまるっきり正反対の両儀式と知り合ってしまい、以後、式と末永くやっていく運命に。雪降る夜の一人歩きには気をつけましょう。
+      日常の象徴な為か、そういうモノに憧れる人たちに大人気。物語が終わった後も、式はヤキモキさせられる訳である。
+      一番恐ろしいものは意外な形で一番近くにある、という見本。
+      『月姫』という話の主人公は、彼と式の色合いを受け継いでいる。
+    note: {}
+  zh:
+    content: |-
+      15–19岁的青年。伽蓝之堂的职员。极其普通的人。故事的主角之一。阳性。
+      虽然是与《空之境界》全体都有关的人物，但踏进漩涡中的只有一次事件。
+      温和又会照顾人，被大部分人喜欢的好人物。
+      ……然而，不知道什么原因而与简直是完全相反的式相识了，此后，与式长久地交往下去的命运。雪夜独行要小心呀。
+      因为是日常的象征吗，所以在憧憬这种东西的人们当中人气很旺。即使故事结束之后，式也应该会被弄的焦虑不安。
+      最可怕的东西会以意外的形式在最近的地方的范例。
+      月姬这个故事的主人公，继承了他和式的倾向。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 28
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The secondary protagonist of <em>Kara no Kyoukai</em>.
+      He doesn’t have a single special ability to his name. A completely normal young man in every respect. Both his outward appearance and personality are plain. His trademark look is black-rimmed glasses.
+      Other than that, there’s not much to him. Personality-wise, he’s the prototype for Tohno Shiki.
+      Although he isn’t strong, he’s definitely the strongest person of all. For some reason, he’s extremely talented at finding things and nothing else.
+      Also, though their personalities are similar, Tohno Shiki is still a child compared to Mikiya.
+    note: {}
+  ja:
+    content: |-
+      こくとうみきや。『空の境界』における、もう一人の主人公。
+      特別な能力は一つもない、いたって普通の真面目な青年。飾り気のない外見と性格をしていて、黒ぶちメガネがトレードマーク。
+      これ以上はないっていうぐらいのいい人で、性格面で言えば志貴の雛形といえる。強くはないが、きっと一番強い人。なぜか物を探す、ということにのみ優れた才能を発揮する。
+      性格は似たようなものでも、この人に比べれば志貴もまだまだ子供である。
+    note: {}
+  zh:
+    content: |-
+      Kokutou Mikiya。《空之境界》中的另一个主人公。
+      完全没有特别的能力，极普通的诚实青年。有着毫不做作的外表与性格，黑框眼镜是其商标。
+      好到极点的好人，从性格方面来说的话可说是志贵的雏形。虽然并不强，但肯定是最坚强的人。不知为何只在搜索这件事上发挥出优秀的才能。
+      虽然性格好像相似，但和这个人比起来志贵也还只是个孩子啊！
+    note: {}

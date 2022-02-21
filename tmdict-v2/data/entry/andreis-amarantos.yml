@@ -1,0 +1,33 @@
+---
+id: andreis-amarantos
+
+en: a
+ja: a
+furigana: あんどれあすあまらんとす
+title:
+  en: Andreis Amarantos
+  ja: 勇者の不凋花
+  zh: 勇者的不凋花
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 18
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      Amaranth of the Brave. The Noble Phantasm that maintains Rider of “Red”’s immortality. It grants his entire body, excluding his heel, the blessing of immortality, and negates all attacks from those who don’t possess the “Divinity” skill. Also, if the skill’s rank isn’t equal or higher than Achilles’ own “Divinity” rank, the damage won’t go through completely, reduced to 75% of the damage for D rank “Divinity” and to 50% for E rank. Additionally, even without Divinity, damage will be dealt as long as the attacking Noble Phantasm is a divine armament. In that case, the damage calculation would depend on the rank of the divine armament.
+      As a certain person would say, “You need a hard boss that attacks with Level 30 Death in a pre-emptive strike to beat him.” That isn’t chivalrous or heroic at all…!
+    note: {}
+  ja:
+    content: |-
+      アンドレアス・アマラントス。“赤”のライダーの不死性を保持する宝具。踵を除く全てに不死性の祝福が与えられており、スキル『神性』などを持たない攻撃を全て遮断する。また、アキレウスの神性ランクと同等かそれ以上でないとダメージは完全に通らず、Dランクは75%、Eランクは50%までダメージが削減されてしまぅ。また、神性がなくとも宝具が神造兵装であればダメージは負う。その場合のダメージ計算は神造兵装のランクによって変化する。
+      某氏日く、「LV30デスを先制攻撃で仕掛けてくる酷いボス」。そいつぁ任侠じゃねえな……！
+    note: {}
+  zh:
+    content: |-
+      Andreias Amarantos。“红”Rider维持不死性的宝具。除了脚跟以外全身都赋予不死性的祝福，可阻隔所有不具备“神性”等技能的攻击。此外，除非和他的神性等级相同或更高，不然无法确实的造成伤害。[神性]等级D能将伤害削减至75％，等级E则能削减至50％。此外就算没有神性，但宝具若为神造兵装则一样会受到伤害。此时的伤害计算会根据神造兵装的等级而改变。
+      根据某人表示：“LV30 Death发动先制攻击可恶头目”。这种行为真不是好汉……！
+    note: {}

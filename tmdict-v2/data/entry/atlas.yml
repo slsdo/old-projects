@@ -1,0 +1,30 @@
+---
+id: atlas
+
+en: a
+ja: a
+furigana: あとらす
+title:
+  en: Atlas
+  ja: アトラス
+  zh: 阿特拉斯
+
+entry:
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 4
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      One of the Mage’s Associations that can be found here and there around the world. Based in Egypt, Atlas members are focused on their individual research. “Share the results of your research only with yourself” is the one and only rule which is held to be absolute by Atlas members. Since Sion broke this rule, she was chased away from Atlas.
+    note: {}
+  ja:
+    content: |-
+      世界に点在する魔術協会のひとつ。エジプトを拠点とし、個人の研究を重んじる。唯一にして絶対の戒律は「自己の研究成果は自己のみに公開する」こと。シオンはこの禁を破ったためにアトラスから追われることになった。
+    note: {}
+  zh:
+    content: |-
+      散布在世界的魔术协会之一。以埃及为据点，重视个人的研究。唯一而又绝对的戒律是“自己的研究成果只公开给自己”。紫苑由于打破了这个禁令而被阿特拉斯追捕。
+    note: {}

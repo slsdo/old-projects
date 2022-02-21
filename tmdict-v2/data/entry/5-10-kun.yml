@@ -1,0 +1,41 @@
+---
+id: 5-10-kun
+
+en: _
+ja: ko
+furigana: ごーとう君
+title:
+  en: 5-10-kun
+  ja: 5－10君
+  zh: 5－10君
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 57
+  category:
+  - npc
+  img: fem_5-10-kun.png
+  en:
+    content: |-
+      {{n1}}
+      Gou Tou-kun.
+      Found on the first floor of the Old School Building. An ordinary student NPC you find in front of the caretaker’s office where Jinako has holed herself up.
+      He is good at imitating people… well maybe it’s better to say that imitation is his life. He has the rather odd ability to completely take up the role of characters from movies he has recently watched. This is why his lines, behavior, and mannerisms change from chapter to chapter.
+      From chapter 5 onwards he disappears. The reason for this is explained by the NPC found in front of the school store.
+    note:
+      n1: "His name, Gou Tou, is a word play on the Japanese pronunciation of 5 and 10."
+  ja:
+    content: |-
+      ごー・とう君。
+      旧校舎一階、ジナコが引きこもる用務員室の前にいる一般生徒NPC。
+      モノマネが得意……というかライフワークで、前日に見たフェイバリット映像に影響され、その役になりきるというよく分からないスキルを持っている。章ごとに台詞回しが変化するのはそのため。
+      五章以降、なぜ彼が消えているのかは購買部前のNPCが語ってくれる。
+    note: {}
+  zh:
+    content: |-
+      五‧十君。
+      在旧校舍一楼、站在吉娜子宅着的用务员室前的一般学生NPC。
+      得意的是模仿……又或者说是Life Work，持有会被前天看到的流行画面影响、彻底成为那个角色的莫名其妙的技能。每章都会有台词变化就是因为这样。
+      五章之后，为什么他消失了会由贩卖部前的NPC来说明。
+    note: {}

@@ -1,0 +1,30 @@
+---
+id: king-darius
+
+en: k
+ja: ta
+furigana: だれいおすおう
+title:
+  en: Clinton
+  ja: ダレイオス王
+  zh: 大流士王
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 48
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      古代ペルシア帝国の王。ライダーが話しているのは、彼の好敵手とも言われたダレイオス三世。ライダーをも超える巨漢だったと伝えられている。
+    note: {}
+  zh:
+    content: |-
+      古代波斯[Persia]帝国的王。Rider所讲到的，是被认为他的好对手的大流士[Darius]三世。传说是超过Rider的巨汉。
+    note: {}

@@ -1,0 +1,30 @@
+---
+id: okonomiyaki-shouki
+
+en: o
+ja: o
+furigana: おこのみやきしょうき
+title:
+  en: Okonomiyaki Shouki
+  ja: お好み焼き・鐘馗
+  zh: 御好烧·钟馗
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 41
+  category:
+  - shop
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      新都にあるというお好み焼き屋。この店のモダン焼きは征服王も推す絶品。
+    note: {}
+  zh:
+    content: |-
+      在新都的御好烧屋。这家店的现代[Modern]烧是就连征服王也推荐的绝品。
+    note: {}

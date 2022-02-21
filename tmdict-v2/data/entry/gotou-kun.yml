@@ -1,0 +1,36 @@
+---
+id: gotou-kun
+
+en: g
+ja: ko
+furigana: ごとうくん
+title:
+  en: Gotou-kun
+  ja: 後藤くん
+  zh: 后藤
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 30
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Shirou’s classmate.
+      An amusing male student whose manner of speech and behaviors change daily under the influence of whatever drama he happened to watch the night before.
+      His favorite period drama is Abarenbo Shogun.
+    note: {}
+  ja:
+    content: |-
+      士郎のクラスメイト。
+      前の晩に見たドラマに影響を受け、毎日のように言動が変化する愉快な男子生徒。
+      好きな時代劇は暴れん坊将軍。
+    note: {}
+  zh:
+    content: |-
+      士郎的同学。
+      在以前受到晚间所看电视剧的影响，每天都设法使言行变化的愉快男学生。
+      喜欢的历史剧是暴坊将军。
+    note: {}

@@ -1,0 +1,42 @@
+---
+id: familiar-creation
+
+en: f
+ja: tsu
+furigana: つかいまさくせい
+title:
+  en: Familiar Creation
+  ja: 使い魔作成
+  zh: 制作使魔
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 42
+  category:
+  - skill_alt
+  img: ""
+  en:
+    content: |-
+      Typically the skill of a Caster-class Servant.
+      Titan Altera also possesses this skill, at EX rank.
+      The purpose of this skill is to create a familiar that acts as an extension of its creator that can be controlled from afar. In Altera’s case, it is more like creating an alter ego or an avatar.
+      In need of a physical body to destroy civilization on earth, since her real body is made of information, Altera uploaded her data from the Moon and used the spiritrons on Earth to create a physical form.
+      This is how the fearsome White Titan appeared on Earth 14,000 thousand years ago. Altera also created an avatar in the form of a Servant, allowing her to move around freely inside of SE.RA.PH.
+    note: {}
+  ja:
+    content: |-
+      本来はキャスタークラスのスキル。
+      巨神アルテラもこのスキルを持ち、ランクはEX。
+      自らの手足となる遠隔操作の使い魔を作成するスキルだが、アルテラの場合は使い魔というより分身、アバターの作成となる。
+      情報体であるアルテラは地上の文明を破壊する際、物質の体を持たなくてはならない。なのでアルテラは月から地上に自分の情報を送り、現地の霊子利用して肉体を構成した。
+      一万四千年前、地上に現れた巨人はこうして作られたもの。SE.RA.PH内では自由に行動できるようサーヴァントのフォーマットでアバターを作っている。
+    note: {}
+  zh:
+    content: |-
+      本来是魔术师职阶的技能。
+      巨神阿提拉也拥有这项技能，阶级为EX。
+      这项技能原先是用来制作能远距离操作的使魔，并将其当成自己的手下运用，但阿提拉的情况与其说制作出的是使魔不如说是化身。
+      在破坏地球文明时，身为资讯体的阿提拉必须拥有物质的身体。因此，阿提拉从月球上将自己的情报送至地球上，并利用当地的灵子构筑出肉体。
+      一万四千年前，在地球上现身的巨神就是这样被创造出来的。为了能在SE.RA.PH内自由行动，她以英灵的规格制作了化身。
+    note: {}

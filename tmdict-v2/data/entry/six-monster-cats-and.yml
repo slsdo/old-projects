@@ -1,0 +1,33 @@
+---
+id: six-monster-cats-and
+
+en: s
+ja: ne
+furigana: ネコろくへんか+あるふぁ
+title:
+  en: Six Monster Cats, And…
+  ja: ネコ六変化+α
+  zh: 猫咪六变化+α 
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 55
+  category:
+  - _qm_qm_qm
+  img: ""
+  en:
+    content: |-
+      A certain urban legend tells of the existence of six Neco Arcs. Could this be… another so-called Tatari?
+      Furthermore, there’s also a rumor about a shady being that exceeds even the Neco Arcs. Chaos!
+    note: {}
+  ja:
+    content: |-
+      ネコアルクは六人いるという都市伝説。これもいわゆる一つのタタリ……か？
+      さらにはもう一つ、ネコアルクを上回る怪しげな存在がいるとの噂もある。カオス！
+    note: {}
+  zh:
+    content: |-
+      猫Arc是有六人这种城市传说。这也是一个所谓的Tatari……吗？
+      而且再一个，也有着据说有超越猫Arc的可疑存在的这种流言。Chaos！
+    note: {}

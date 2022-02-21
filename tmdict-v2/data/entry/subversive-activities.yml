@@ -1,0 +1,45 @@
+---
+id: subversive-activities
+
+en: s
+ja: ha
+furigana: はかいこうさく
+title:
+  en: Subversive Activities
+  ja: 破壊工作
+  zh: 破坏工作
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 116
+  category:
+  - skill
+  img: ""
+  en:
+    content: |-
+      One of Green Archer’s skills.
+      Before combat, during the preparation stage, this ability shaves off some of his enemies’ power. It’s the hallmark of a master of traps.
+      For one as capable as Green Archer is, if the stage is a forest (or somewhat wooded), before the enemy can even enter battle it is possible to reduce their combat potential or forces by 60%.
+      It is common sense in military strategy that, “Upon losing a third of your forces, you are no longer able to continue your operation.” This shows just how diabolic a scheme he managed to realize.
+      The higher this skill is leveled, the more it decreases the spirit level of the heroic spirit.
+      On a separate note, Green Archer lays traps to exterminate his enemies, while Red Archer just sees traps as an effective way of repelling his enemies.
+    note: {}
+  ja:
+    content: |-
+      緑アーチャーのスキルのひとつ。
+      戦闘を行う前、準備段階で相手の戦力をそぎ落とす才能。トラップの達人。
+      緑アーチャーほどの技量なら、フィールドが森林であれば相手が進軍してくる前に六割近い兵力を戦闘不能に追いこむ事も可能。
+      『軍隊はその三割が失われた時点で作戦行動が不可能になる』というのが常識だが、なるほど、いかに彼が極悪非道な工作に徹していたか分かろうというものだ。
+      このスキルが高ければ高いほど、英雄としての霊格は低下していく。
+      余談ではあるが、緑アーチャーは敵を繊滅するためのトラップを張り、紅アーチャーは敵を追い返すためのトラップを良しとする。
+    note: {}
+  zh:
+    content: |-
+      绿Archer的技能。
+      在战斗前，做适当准备减弱对手的力量的能力。制作陷阱的专家。
+      以绿Archer的技术的话，在森林领域对手进军前六割的军力陷入战斗不能状态也是可能的。
+      以“军队失去三割兵力时作战行动便成为不可能”这样的常识，遵守此点，他残忍的贯彻这样的工作。
+      这个技能的等级越高，作为英雄的灵格就越低下。
+      题外话，绿Archer是张开将敌人歼灭的陷阱，而红Archer则是认为陷阱将敌人击退便好。
+    note: {}

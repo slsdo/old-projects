@@ -1,0 +1,36 @@
+---
+id: bestial-magecraft
+
+en: b
+ja: shi
+furigana: じゅうせいまじゅつ
+title:
+  en: Bestial Magecraft
+  ja: 獣性魔術
+  zh: 兽性魔术
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 31
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      The name given to the field of magecraft that utilizes one’s bestial nature.
+      While this magecraft eats at the minds of those of the Glascheit family, many other forms of it are more mild. For example, enhancing one’s sense of smell to be like that of a dog, enhancing one’s legs to run as fast as a horse, or enhancing one’s eyes to see in the dark like a cat.
+      Possession by a fox or a dog god, famous in Japan, are also examples of this magecraft.
+    note: {}
+  ja:
+    content: |-
+      獣の性質を利用した魔術全般の名称。
+      グラシュエート家のそれは、本人さえ蝕むものだったが、多くの獣性魔術はもう少しマイルドなものだ。たとえば、犬のように嗅覚を強化する、馬のように足を速くする、猫のように暗闇でも見えるようにする、など。
+      日本で有名なところでは、犬神憑きや狐憑きもこうした魔術のひとつである。
+    note: {}
+  zh:
+    content: |-
+      利用野兽性质的魔术的总体名称。
+      古拉雪特家的是连本人都会侵蚀的魔术，但大多数的兽性魔术会相对温和一些。比方说，像狗一样强化嗅觉，像马一样加快脚程，像猫一样在黑暗中也能视物，等等。
+      日本有名的犬神凭依或狐狸凭依也是这类魔术的其中一种。
+    note: {}

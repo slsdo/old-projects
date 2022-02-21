@@ -1,0 +1,42 @@
+---
+id: sister
+
+en: s
+ja: shi
+furigana: シスター
+title:
+  en: Sister
+  ja: シスター
+  zh: 修女
+
+entry:
+- source: character-material
+  section: prelude-explanation
+  order: 10
+  category:
+  - term
+  - character
+  img: ""
+  en:
+    content: |-
+      The Executor{{n1}} who arrived at Aylesbury before the party of Mr. Dawn. She had a friendly smile and the communication skills to quickly adapt to any environment. The most virtuous member of the Burial Agency.
+      In terms of diplomacy and intelligence, she was considered number one in the Agency. However, she really took the Agency’s motto “Endure all trials, consume all humiliations” to heart, and showed off her dazzling dance steps in her laced-up boots at every opportunity.
+      …However, her performances were really sloppy.
+    note:
+      n1: "Very likely Ciel."
+  ja:
+    content: |-
+      {{n1}}
+      ダウン達より一足先にアルズベリに潜入した代行者。人当たりのいい笑顔と、どんな環境だろうとすぐさま順応する社交性をもった、埋葬機関きっての人徳者。
+      外交に諜報にと、なんでもかんでも一番手として重宝されている。勿論、“試験は耐えよ、恥辱は絶えよ”という埋葬機関のモットーは染みこんでいるので、いざ事が始まれば編み上げブーツで華麗なステップを披露する。
+      ……あと、こーゆー芸風もいいかげん如何なものかと思うんだ。
+    note:
+      n1: "『Character Material』：人物→人物名。"
+  zh:
+    content: |-
+      {{n1}}
+      比道恩一行更早抵达阿路滋贝利的代行者。拥有一副和蔼的笑容，以及无论何种环境都能迅速适应的交际能力，埋葬机关中人品最好的一员。
+      在外交与谍报工作方面，被当作是第一把手般重视。当然，因为深受埋葬机关“试练耐之，耻辱绝之”(待查)的格言熏陶，一有机会，就会用高腰长靴向人们展示她华丽的舞步。
+      ……还有就是，她的表演风格实在让人不敢恭维。
+    note:
+      n1: "《Character Material》：人物→人物名。"

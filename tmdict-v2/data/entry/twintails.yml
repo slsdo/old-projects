@@ -1,0 +1,30 @@
+---
+id: twintails
+
+en: t
+ja: tsu
+furigana: ついんてーる
+title:
+  en: Twintails
+  ja: ツインテール
+  zh: 双马尾
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 31
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      髪を頭部の左右でまとめた髪型。金髪だとツンデレ。ピンクだとアホの子。では緑は？
+    note: {}
+  zh:
+    content: |-
+      将头发扎在头部两侧的发型。金发傲娇。天然笨蛋粉毛。那么绿色就是？
+    note: {}

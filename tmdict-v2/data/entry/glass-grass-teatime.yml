@@ -1,0 +1,39 @@
+---
+id: glass-grass-teatime
+
+en: g
+ja: ku
+furigana: ぐらすぐらすてぃーたいむ
+title:
+  en: Glass Grass Teatime
+  ja: グラスグラスティータイム
+  zh: Grass Grass Tea Time
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 20
+  category:
+  - technique
+  img: ""
+  en:
+    content: |-
+      Len’s cat-summoning technique. There are four varieties: brown, black, grey, and orange tabby. The A version of the technique summons the brown or orange cat, while the B version of the technique summons the black or grey cat. Also, as an aside, the grey cat is the ultimate cat, capable even of pushing back Nrvnqsr’s Arc Drive.
+      As a succubus, Len has no inherent ability to employ cats as minions or anything like that. They are simply cooperating out of a sense of good will. It seems that Len, who was created from a black cat, can understand the language of cats.
+      The inspiration for this technique comes from the scene in <em>Kagetsu Tohya</em> where you first encounter Len in the park. The name of that event was “Len Covered In Cats.”
+      Also, the C version of the technique summons some sort of cat-like organism that flies off into the sky. Though its majestic figure is reminiscent of mankind’s first functional rocket, the V-2, the truth is it’s a pretty useless move.
+    note: {}
+  ja:
+    content: |-
+      レンが招く猫たち。茶猫、黒猫、灰色猫、茶虎猫の四種類がいる。弱で出すと茶猫か茶虎猫、中で出すと黒猫か灰色猫となる。余談ではあるが、灰色猫はネロ・カオスのアークドライブすら押し戻すアルティミット・キャット。
+      夢魔であるレンには猫を使役する能力はなく、あくまで猫たちによる善意の協力。黒猫を素体とするレンは猫の言葉が分かるのだろう。
+      出典は“歌月十夜”の公園でレンと出会うシーンより。イベント名は「猫まみレン」だった。
+      また、強で出すとネコと思われる生物がロケットで空へ飛んでいく。その勇姿は人類初の実用ロケット・V2を彷彿とさせるが、実の所、あまり使えない技である。
+    note: {}
+  zh:
+    content: |-
+      莲所招来的猫们。有茶色猫、黑猫、灰猫、茶色虎纹猫这四种。以弱发出的是茶色猫或茶色虎纹猫，以中发出的是黑猫或灰猫。题外话，灰猫是连尼禄·卡欧斯的Arc-Drive都能挡回去的Ultimate-Cat。
+      作为梦魔的莲没有役使猫的能力，完全是靠猫们的善意的协助。把黑猫作为本体的莲是懂猫的语言的吧。
+      出处为在《歌月十夜》的公园与莲相遇的场景。事件名是“沾满猫的莲”。
+      另外，以强发出的是被看作猫的生物乘火箭向天空飞去。那英姿让人联想到人类首次的实用火箭·V2，但实际上，是不怎么使用的技。
+    note: {}

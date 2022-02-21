@@ -1,0 +1,45 @@
+---
+id: authority
+
+en: a
+ja: ke
+furigana: けんのう
+title:
+  en: Authority
+  ja: 権能
+  zh: 权能
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 54
+  category:
+  - miracle
+  img: ""
+  en:
+    content: |-
+      Kennou. Authorities are special abilities that fall into a different category than Codecasts, Skills, and Noble Phantasms.
+      An Authority is a power that is on the level of creating a world, and includes things like altering events, time-flow manipulation, and kingdom building.
+      Authorities existed in the age known as the Age of Gods, which was about 6000 years ago, but after entering the Common Era human civilization advanced to the point where Authorities were no longer needed, and so Authorities became a relic of the past.
+      A normal skill “is able to accomplish a certain task by following a corresponding principle,” but an Authority works “simply by making things happen because one has that right.”
+      A divine spirit Servant should naturally possess Authorities, but to use them in the modern age requires a corresponding compensation to be paid (self-destruction).
+      In CCC the one who swallowed up Moon Cell has reached a level of power that is Authority class.
+    note: {}
+  ja:
+    content: |-
+      けんのう。コードキャスト、スキル、宝具とはカテゴリーの違う特殊能力。
+      事象の変動、時間流の操作、国造り、といった、世界を創造しうるレベルの力をこう呼ぶ。
+      神代と呼ばれる時代……およそ6000年以上前……に在ったが、西暦以降、人類の文明レベルが向上した事でようやくその任を解かれ、過去の時代に引退したもの。
+      通常のスキルは『このような理屈でこういう事ができる』というものだが、権能は『ただ、そうする権利があるのでそうする』だけのもの。
+      神霊クラスのサーヴァントなら持ち得ていて然るべきものだが、この時代にその権威を振るうにはそれなりの代償（自身の崩壊）を必要とする。
+      CCCではムーンセルを飲みこんだモノがこの域に達する。
+    note: {}
+  zh:
+    content: |-
+      与Code Cast、技能[Skill]、宝具范畴不同的特殊能力。
+      事象的变动、时间流的操作、建国，如此称呼诸如此类能够创造世界等级的力量。
+      虽然存在过被称为神代的时代——大概6000年以上前，但公历之后，由于人类的文明等级提升总算被解其任的，引退于过去的时代的东西。
+      通常的技能[Skill]是“通过这样的道理能够如此”，但权能则是“只不过，因为有那样做的权利所以就那样做了”这样的东西。
+      若果是神灵阶层[Class]的Servant就会理所当然能拥有的东西，但要在这个时代挥舞其权威相应的代价（自身的崩坏）是必要的。
+      CCC里吞下了Moon Cell的人会到达这个境地。
+    note: {}

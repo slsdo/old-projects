@@ -1,0 +1,171 @@
+---
+id: kohaku
+
+en: k
+ja: ko
+furigana: こはく
+title:
+  en: Kohaku
+  ja: 琥珀
+  zh: 琥珀
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 18
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A sub-heroine in <em>Tsukihime</em>. A servant working at the Tohno mansion. Sympath.
+      An energetic girl, that always sports a bright, unwavering smile. In the story, she was the servant assigned to Akiha, and was in charge of cooking and tending to the gardens.
+      She has a natural cheerfulness about her, and just spending time with her is relaxing. On the other hand, she is also very cool-headed and intelligent—though she isn’t even aware of it herself.
+      She was taken in by Tohno Makihisa together with Hisui, and spent her days confined in Makihisa’s room.
+      Around the time that Akiha entered her second year of middle school—after Shiki was put up for adoption—she found out about Kohaku’s relationship with Makihisa and made her a normal servant working on the mansion grounds.
+      As a character, she represents “the lower ruling the higher.”
+      She was supposed to be a sub-character to the bitter end, but could end up being the most popular of all if we’re not careful.
+      Now, this is supposed to be a secret, but originally Kohaku didn’t even have a route.
+      What changed that, you ask? Well, after we released the Half-moon edition we read through the player feedback, and the one thing that almost everybody mentioned was that Kohaku needed a route too.
+      ……Of course, there was some resistance. As far as the scenario director was concerned, Hisui and Kohaku were a paired set, so something like individual routes was totally impossible, and on top of that the scenario programming and event graphics for the Hisui and Akiha routes still weren’t even finished even though the winter Comiket was only three months away! It was only due to the art director’s passionate arguments that we decided to attempt the impossible in the end.
+    note: {}
+  ja:
+    content: |-
+      月姫におけるサブヒロイン。遠野のお屋敷で働く使用人。感応能力者。
+      いつも明るく、笑顔をたやさない元気な娘。本編では秋葉付きの使用人で、料理と庭の手入れを任されている。
+      天然のほがらかさを持っていて、一緒にいると和む和む。その反面、琥珀本人も気がついていないけれど、極めて冷静で知性派だったりする。
+      翡翠と一緒に遠野槙久に引き取られ、以後は槙久の部屋に軟禁されていた。
+      志貴が養子に出された後、秋葉が中学二年生になった時に槙久との関係が秋葉に知られ、以後は普通の使用人として屋敷で働くことに。
+      本編における最大の下克上キャラ。
+      あくまでサブだった筈なのに、下手をすると一番人気になりかねない。
+      ここで内緒話。実は、当初琥珀さんのシナリオは無かったのです。
+      それがどーしてか、半月版を出して色々とプレイヤーの皆さんの反応を見るかぎり、琥珀さんのシナリオも必要だ、という流れになりました。
+      ……シナリオ担当としては翡翠と琥珀はセットだから、個別のシナリオなんて無理だよー、とか、おいおい、秋葉も翡翠もシナリオプログラムとイベント画の塗りが終わってないじゃん、冬コミまであと三ヶ月程度なんだぜ、とか思いましたが、原画担当が「この流れにそって死のう」と金と銀ばりに言ってくるので無理しました。ちゃんちゃん。
+    note: {}
+  zh:
+    content: |-
+      月姬中的女配角。在远野家宅邸工作的佣人。感应能力者。
+      性格明亮，脸上常带着笑容的活力少女。本篇中是秋叶的贴身佣人，负责料理和整理庭院。
+      有着天然的开朗气质，和她在一起心情就会变得平稳。但反过来看，琥珀本人可能也没发觉，她也是极为冷静的知性派。
+      和翡翠一起被远野槙久领养，之后被软禁在槙久的房间里。
+      志贵被送去当养子后，在秋叶国中二年级时被秋叶知道了与槙久的关系，在那之后，让她以普通佣人的身分在宅邸里工作。
+      本篇中最大的下克上角色。
+      明明只是个配角，一个弄不好还有可能成为人气第一名。
+      在这里说个小秘密，其实当初是没有琥珀的剧本的。
+      不过在出了半月版后，鉴于许多玩家的反应，变成往「需要有琥珀的剧情」这个发展走去。
+      ……因为对剧情负责人来说琥珀和翡翠是一对的，所以个别剧情什么的做不到啦─，喂喂，秋叶和翡翠的剧情框架还有剧情绘图不是都还没好吗，虽然有着“距离冬Comi可是只剩下三个月啰”这类的想法，不过因原画负责人充满活力的说“顺着这个发展去死吧”所以勉强撑了过来，锵锵。
+    note: {}
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 9
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      The craziest strategist serving the Tohno family. From time-to-time you can see her transform into Magical Amber, or maybe not. She always seems to be smiling and laughing… She has great cooking skills, but avoids cleaning like the plague. She is the complete opposite of her younger sister Hisui. She is also the one mainly responsible for taking care of Akiha.
+    note: {}
+  ja:
+    content: |-
+      遠野家の使用人にして最狂の策略家。ときどき、まじかるアンバーに変身したりしなかったり。いつもにこにこと笑っているが……。料理が得意で片付けが壊滅的に苦手。妹の翡翠とはまったく正反対である。なお、普段は秋葉の身の回りの世話を担当している。
+    note: {}
+  zh:
+    content: |-
+      远野家的佣人加最狂之策略家。有时好像会变身成魔法少女Amber又好像不会。虽然经常都笑容满面，但是……。擅长料理而收拾则是歼灭级的不擅长。和妹妹翡翠完全相反。另外，平时负责在身边照料秋叶。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 30
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A sub-heroine in <em>Tsukihime</em>. A servant working at the Tohno mansion. Sympath.
+      An energetic girl, that always sports a bright, unwavering smile. In the story, she was the servant assigned to Akiha, and was in charge of cooking, tending to the gardens, and managing the finances of the estate.
+      She has a natural cheerfulness about her, and just spending time with her is relaxing. On the other hand, she also has an extremely cool-headed and objective point of view—though she isn’t even aware of it herself.
+      She was an orphan taken in by Tohno Makihisa together with Hisui, and spent her days confined in Makihisa’s room. Then, around the time that Akiha entered her second year of middle school—after Shiki was put up for adoption—she found out about Kohaku’s relationship with Makihisa and made her a normal servant working on the mansion grounds.
+      As a character, she represents “the lower ruling the higher.”
+      Supposed to have been a sub-character to the bitter end, but could end up being the most popular of all if we’re not careful… is what the staff thought. Wait, that’s not right, hasn’t there always been blatant favoritism?
+      In reality, when development first started there wasn’t a route planned for Kohaku at all. What changed that, you ask? Well, after we released the Half-moon edition we read through the player feedback, and the one thing that almost everybody mentioned was that Kohaku needed a route too. So we caved to pressure and tacked it on at the very end.
+      Although she was a tragic heroine in <em>Tsukihime</em> itself, ever since then she’s just been running around letting off steam.
+      In <em>Kagetsu Tohya</em>, she gathered popularity as a mischievous housekeeper, and showed the first signs of her budding talent as a mad chemist. Her exploits included building a secret room in the Tohno mansion’s basement, wearing a hood and calling herself a magical girl, and even taking part in a bad end involving anesthetic drugs.
+      In <em>Melty Blood</em>, since she’s more-or-less the Kohaku from <em>Kagetsu Tohya</em> and not the one from <em>Tsukihime</em>, her magical-ness received an upgrade. Though the unbalanced Kohaku is nice, the carefree Kohaku from <em>Melty Blood</em> that does as she pleases is pretty nice too, don’t you think?
+      ……This is a digression, but apparently there are a lot of users that have been completely defeated by Kohaku’s voice in <em>Melty Blood</em>. In fact, even the scenario writer was eviscerated.
+    note: {}
+  ja:
+    content: |-
+      こはく。月姫におけるサブヒロイン。遠野のお屋敷で働く使用人。感応能力者。
+      いつも明るく、笑顔をたやさない元気な女性。本編では秋葉付きの使用人で、料理や庭の手入れ、屋敷内の財務管理等を任されている。
+      天然のほがらかさを持っていて、一緒にいると和む和む。その反面、琥珀本人も気がついていないが極めて冷静で客観的な視点を持っている。
+      翡翠と一緒に遠野槙久に引き取られた孤児で、槙久の部屋に軟禁されていた。志貴が養子に出され、秋葉が中学二年生になった時に槙久との関係が秋葉に知られ、以後は普通の使用人として屋敷で働く事に。
+      本編における最大の下克上キャラ。
+      あくまでサブだった筈なのに、下手をすると一番人気になりかねない。……と、スタッフ内では思われていた。いや、いまでもぼかぁ一番えこひいきしてますよ？
+      実は開発当初、琥珀のシナリオは予定されていなかった。それがどーしてか、半月版を出して色々とプレイヤーの皆さんの反応を見るかぎり、琥珀さんのシナリオも必要という流れになり、最終シナリオとして追加された。
+      月姫本編では悲劇のヒロインだが、その後は今までの鬱憤を晴らすとばかりに疾走する。
+      歌月十夜ではとことんお茶目な家政婦さんとして人気を集め、不思議な薬剤師として才能を開花させた。地下に秘密部屋を作るわ、フードをかぶって魔法少女を名乗るわ、果ては麻酔によるバッドエンドと大活躍。
+      メルティブラッドにおける琥珀は月姫本編の琥珀ではなく歌月十夜の琥珀を基本にしている為、更にマジカルさがアップした。翳りのある琥珀さんもいいですが、メルティのはっちゃけた琥珀さんもいいのです。
+      余談ではあるが、メルティの琥珀のボイスに陥落したユーザーは多い。かく言うシナリオライターも骨抜きにされてしまったとか。
+    note: {}
+  zh:
+    content: |-
+      Kohaku。月姬中的副女主角。在远野家工作的佣人。感应能力者。
+      总是很开朗，笑容不断的朝气蓬勃的女性。正篇中是跟随秋叶的佣人，负责伙食、照料庭院、家庭财务管理等。
+      有着天然的开朗，和她待在一起就会心情平静。但是另一方面，虽然连琥珀自己都没察觉到，她有着极为冷静客观的视点。
+      她是与翡翠一起被远野槙久收养的孤儿，曾经被软禁在远野槙久的房间。志贵被寄养出去后，秋叶初中二年级时知道了琥珀与槙久的关系，之后琥珀作为普通的佣人在远野家工作。
+      正篇中最大的下克上角色。
+      本应该始终只是副的，但是搞不好说不定会成为最受欢迎的……制作组里这么认为过。呀，就是现在我也最偏袒她哟？
+      其实当初开发的时候，并没有预定琥珀的剧本。出了半月版看到玩家们的各种反应，不知为何就倾向于琥珀的剧本也是必要的，于是作为最终剧本追加了。
+      在月姬正篇中是悲剧的女主角，之后为了消除至今的积怨而疾驰。
+      在歌月十夜中作为十分淘气的女佣人聚集了人气，作为不可思议的药剂师发挥了才能。在地下制作秘密房间，披上兜帽自称魔法少女，甚至通过麻醉而Bad End，大大地活跃了一番。
+      Melty Blood中的琥珀不是以月姬正篇的琥珀而是以歌月十夜的琥珀为基本，结果更加得magical了。有心理阴影的琥珀很好，Melty的尽情嬉戏的琥珀也不错。
+      题外话，拜倒于Melty中琥珀的配音的玩家很多。如此说来连剧本担当都被迷晕了什么的。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 26
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The older of the twin sisters working as servants in the Tohno mansion.
+      An energetic girl, that always sports a bright, unwavering smile. In <em>Tsukihime</em>, she was the servant assigned to Akiha, and was in charge of cooking, tending to the gardens, and managing the finances of the estate.
+      In contrast to her natural cheerfulness, she also has an extremely cool-headed and objective point of view that even she herself is not aware of.
+      She was an orphan brought in to the Tohno mansion together with Hisui. She has the bad habit of teasing her master, Akiha, even as she looks after her.
+      Furthermore, she is a skilled pharmacist, and often lends her aid to the anemia-prone Shiki. Though she is indeed well-versed in strange medicines due to her job, that fact was exaggerated by the Tatari, leading to her appearance as the extremely mysterious Magical Doctor Kohaku in <em>Melty Blood</em>.
+    note: {}
+  ja:
+    content: |-
+      こはく。遠野のお屋敷で働く使用人姉妹の姉。
+      いつも明るく、笑顔をたやさない元気な女性。本編では秋葉付きの使用人で、料理や庭の手入れ、屋敷内の財務管理を任されている。
+      天然のほがらかさを持っている反面、琥珀本人も気がついていないが極めて冷静で客観的な視点を持っている。
+      翡翠と共に遠野邸に引き取られた孤児。主人である秋葉を引き立てながらもからかって遊ぶ、という困った趣味を持っている。
+      また薬剤師でもあり、貧血がちな志貴をサポートしている。職業柄妖しげな薬にも精通しているのだが、それがタタリによって拡大解釈 され、MELTY BLOODでは世にも不思議なマジカルドクターとして活躍することに。
+    note: {}
+  zh:
+    content: |-
+      在远野的宅邸工作的佣人姊妹的姐姐。
+      何时都很开朗，笑容不绝的活泼女性。本篇中跟随秋叶的佣人，担任着烹饪和庭园的修整，宅邸内的财务管理。
+      在有着天然明朗的另一面，有着琥珀本人也没有意识到的极为冷静客观的视点。
+      与翡翠一起被远野家领养的孤儿。有着一边照顾作为主人的秋叶一边戏耍，这种让人为难的喜好。
+      另外还是药剂师，支援着常常贫血的志贵。职业性的关系连诡异的药也精通着，但其透过Tatari而被扩大解释、在MELTY BLOOD里非常不可思议地作为Magical Doctor活跃着。
+    note: {}
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 7
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Older sister of the twins serving the Tohno family. Unlike her younger sister Hisui, Kohaku is always smiling and cheerful.
+    note: {}
+  ja:
+    content: |-
+      遠野家の屋敷で働く双子の使用人の姉。妹の翡翠とは対照的に、いつも明るく笑顔を絶やさない。
+    note: {}
+  zh:
+    content: |-
+      于远野家宅邸工作的双子佣人里的姐姐。和妹妹翡翠形成对照，总是展现出明朗的笑颜。
+    note: {}

@@ -1,0 +1,39 @@
+---
+id: codecast
+
+en: c
+ja: ko
+furigana: こーどきゃすと
+title:
+  en: Codecast
+  ja: コードキャスト
+  zh: Code Cast
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 58
+  category:
+  - skill
+  img: ""
+  en:
+    content: |-
+      A program (read: simple spell) used in cyberspace.
+      A wizard writes and compiles the program code in advance, and activates it by passing magic through it.
+      There are two types of Codecast. External Codecasts are one time use consumable Codecasts, while Internal Codecasts are installed into the body… or rather the spiritron structures [that make up one’s body in cyberspace].
+      Codecasts that have been installed are very powerful, however seeing as they change the fundamental nature of the user, not many wizards choose to use them. Codecasts implemented through the use of a Mystic Code fall somewhere in the middle [in terms of power and effects on the user].
+    note: {}
+  ja:
+    content: |-
+      電脳空間で使用される簡易術式[プログラム]。
+      ウィザードはあらかじめコードを設計・製造しておき、これに魔力を通して起動させる。
+      外付けによる消耗型[ワンオフ]と、自身の体……霊子構造に組み込む修得型[インストール]に分かれる。
+      インストール型のコードキャストは強力だが術者の性質を変化させるため、これを選ぶウィザードは少ない。礼装によるコードキャスト使用はこの中間にあたる。
+    note: {}
+  zh:
+    content: |-
+      在电脑空间使用的简易术式[程序]。
+      魔术师们事前会准备Code的设计和制造，然后在通过魔力启动。
+      有外部附加的消耗型[One-off]和用自己的身体……灵子构造时组入体内的修得型[Install]。
+      Install型的Codecast虽然十分的强力但是会让术者的本质发生变化的缘故，使用这类型的魔术师很少。使用来自礼装的Codecast则是比较中距的选择。[比一次性就用完得好，可以反复使用，效果也很好，然而制作更麻烦]
+    note: {}

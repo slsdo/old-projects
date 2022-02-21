@@ -1,0 +1,38 @@
+---
+id: magical-foundation
+
+en: m
+ja: ma
+furigana: まじゅつきばん
+title:
+  en: Magical Foundation
+  ja: 魔術基盤
+  zh: 魔术基盘
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 60
+  category:
+  - magecraft
+  - other_alt
+  img: ""
+  en:
+    content: |-
+      A magical theory engraved into the world. It’s strength is greatly influenced by the faith and the collective unconscious of the people.
+      As a Mystery propagates, it loses power. However, the reason they become more stable as knowledge about them spreads, though it may seem contradictory at first glance, is because of this system of Magical Foundations.
+      In the present day, the most widespread and most powerful Magical Foundation is the “Teachings of God,” used by the Holy Church.
+      Of course, there also exist families who develop magical formulas entirely independent of such Foundations, and weirdos like Flat who “build an entirely new formula from scratch every time.”
+    note: {}
+  ja:
+    content: |-
+      世界に刻みつけられた魔術理論。人々の信仰や無意識によって、この効果は大きく強化される。
+      神秘は広まれば広まるほど力を失う。しかし、知名度が高いほど安定するという、一見矛盾した事柄が成立するのは、この魔術基盤というシステムのため。現行世界において最も広大かつ強大な魔術基盤は、聖堂教会による『神の教え』そのものである。
+      もっとも、家伝の魔術はこうした魔術基盤を利用せず、個人の魔術式だけで成立するし、フラットのように「毎回魔術式を新しく構築する」などという変態も存在する。
+    note: {}
+  zh:
+    content: |-
+      被刻于世界之上的魔术理论。在众人的信仰或无意识的作用下，其效果能获得大幅强化。
+      神秘越是散布就越会失去力量。然而，知名度越高又会越稳定，这种明显矛盾的事情之所以能成立，都是因为这名为魔术基盘的系统。现行世界中最为宏大且强大的魔术基盘，就是圣堂教会的『神之教诲』本身。
+      原本家传的魔术不会利用这类魔术基盘，而是仅靠个人的魔术式来成立，但世上也存在着像弗拉特那样「每次都会构筑新魔术式」的变态。
+    note: {}

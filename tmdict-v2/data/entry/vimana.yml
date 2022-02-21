@@ -1,0 +1,49 @@
+---
+id: vimana
+
+en: v
+ja: u
+furigana: ゔぃまーな
+title:
+  en: Vimana
+  ja: ヴィマーナ
+  zh: 维摩娜
+
+entry:
+- source: fate-zero-material
+  section: fate-zero-encylopedia
+  order: 5
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      His Highness the King of Heroes’ mobile aerial weapon, which took flight for the first time in volume three. A high-tech Noble Phantasm from India that would even put Area 51 to shame. It uses solar energy produced by mercury-powered sun crystals to move. In ancient Indian mythology it came fully loaded with wondrous weapons ranging from ancient machine guns to ancient nuclear warheads, all of which are surely stashed away in the King of Heroes’ treasury.
+    note: {}
+  ja:
+    content: |-
+      金ピカ鎧に我[オレ]魂。三巻で初めて空を飛ぶ――そんな英雄王閣下の空中機動兵器。水銀を燃料とする太陽水晶によって、太陽エネルギーを発生させ駆動するというエリア51も真っ青のインド発ハイテク宝具。古代インドの神話にはこれ以外にも古代マシンガンから古代核弾頭まで素敵ウェポンが満載だそうだが、きっと英雄王の財宝庫ではフルコンプしてるに違いない。
+    note: {}
+  zh:
+    content: |-
+      金甲闪闪宿吾魂。第三卷得以首次翱翔于天际——那位英雄王阁下空中机动兵器。藉由以水银为燃料的太阳水晶，使太阳能[energie]产生来驱动这种连51区[Area 51]{{n1}}都脸色刷白的印度产高科技宝具。在古代印度的神话里传说除此之外还满载从古代机关枪到古代核弹头的绝妙兵器，但肯定英雄王的财宝库里是全部集齐的吧。
+    note:
+      n1: "传说中美国研究UFO的地方，不过当然没有任何官方声明会承认这回事。"
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 4
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      ギルガメッシュが誇る、“神の秘宝”のひとつで、古代インドの大長編叙事詩「ラーマーヤナ」「マハーバーラタ」にその名を残す黄金の舟。黄金とエメラルドで形成されており、水銀を燃料とする太陽水晶により太陽エネルギーを発生させて駆動する。未遠川の戦いでは遥か上空でバーサーカーの駆るF15Jとドッグファイトを繰り広げた。
+    note: {}
+  zh:
+    content: |-
+      吉尔伽美什[Gilgamesh]引以为傲的，作为“神之秘宝”之一，留名古代印度[India]大长篇叙事诗“罗摩衍那[Ramayana]”“摩诃婆罗多[Mahābhārata]”的黄金之船。由黄金和翠玉[Emerald]形成，靠以水银作为燃料的太阳水晶来产生太阳能量[Energy]驱动。在未远川的战斗里和Berserker驱使的F15J于高空展开缠斗[Dogfight]。
+    note: {}

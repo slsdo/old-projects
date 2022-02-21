@@ -1,0 +1,115 @@
+---
+id: enhance
+
+en: e
+ja: e
+furigana: えんはうんす
+title:
+  en: Enhance
+  ja: エンハウンス
+  zh: 安翰斯
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 6
+  category:
+  - person
+  - dead-apostle
+  img: ""
+  en:
+    content: |-
+      One of the 27 Dead Apostle Ancestors. The Knight of Vengeance.
+      A bloodsucker who only just became an Ancestor, he is known derisively as the “Single-edged Enhance Sword.”
+      Although normally Dead Apostles only fight within their own group, Enhance is hunting the other members of the 27 Ancestors themselves.
+      Even though he’s a vampire, he is incomplete, and lacks the superhuman innate abilities possessed by the other Ancestors. On the other hand, his force of will and ability to take action is foremost among the Dead Apostles.
+      By nature, the immortal Dead Apostles are tranquil beings, but as Enhance is still almost human his vindictiveness knows no bounds.
+      He fights using the demonic sword Avenger, which he inherited from the Apostle he replaced, and a gun that was manufactured by the Church. Because of its holy origins, the gun corrodes his left arm each time he uses it.
+      If you’re wondering what an entry like this is doing in this encyclopedia, it’s because he got name-dropped in one of the routes, during a conversation between Arcueid and Ciel.
+    note: {}
+  ja:
+    content: |-
+      死徒二十七祖の一人。復讐騎。
+      エンハンスソード（片刃）と蔑まされる、祖に成ったばかりの吸血種。
+      本来、自分たちのグループでしか争いのない死徒において、他の二十七祖そのものを狩ろうとしている。
+      他の祖のように超抜的な固有能力を持つわけでもなく、吸血鬼としてもハンパ。が、その精神力と行動力は死徒随一。もともと不老不死である死徒達はみな安穏としているのだが、エンハウンスはきわめてヒトに近いので執念深い。
+      君主から譲り受けた魔剣アヴェンジャーと、教会で作り上げた銃で戦う。銃は教会のモノであるため、使用するたびに左手が腐っていく。どうしてこんなのが用語辞典で一項をとっているかというと、あるルートでアルクェイドとシエルの会話でちらっと名前が出てくるから。
+    note: {}
+  zh:
+    content: |-
+      死徒二十七祖之一，复仇骑士。
+      被蔑称为Enhance Sword（片刃），是个刚成为祖的吸血鬼。
+      本身不会与其他派阀争斗，却打算狩猎其他的二十七祖。
+      并不像其他的祖一样拥有超群的固有能力，身为吸血鬼也只是个半吊子。
+      不过其精神力和行动力是死徒中最优秀的。
+      原本不老不死的死徒大多都过着安稳的生活，但因安翰斯极为接近人类所以有着强烈的执念。
+      使用君主给予的魔剑Avenger及教会制的长铳战斗。因长铳是教会的东西，所以使用时左手会渐渐腐坏。
+      问为什么这个名字会出现在用语辞典，因为在某条路线中爱尔奎特和雪儿的对话中有稍稍出现他的名字。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 11
+  category:
+  - person
+  - dead-apostle
+  img: ""
+  en:
+    content: |-
+      One of the 27 Dead Apostle Ancestors. The Knight of Vengeance.
+      A bloodsucker who only just became an Ancestor, he is known derisively as the “Single-edged Enhance Sword.”
+      Although hostility between Dead Apostles is nothing strange, that only refers to power squabbles within a group. In other words, while Dead Apostles will fight for the right to become their own Ancestor’s successor, there is no conflict between the separate Ancestors’ factions. However, Enhance is an exception to the rule, and is hunting the other members of the 27 Ancestors themselves.
+      Even though he’s a vampire, he is incomplete, and lacks the superhuman innate abilities possessed by the other Ancestors. On the other hand, his force of will and ability to take action is foremost among the Dead Apostles.
+      By nature, the immortal Dead Apostles are tranquil beings, but as Enhance is still almost human his vindictiveness knows no bounds.
+      He fights using the demonic sword Avenger, which he inherited (stole) from the Apostle he replaced, and a gun that was manufactured by the Church. Because the gun is an artifact of the Church, it corrodes his left arm each time he uses it.
+      If you’re wondering what an entry like this is doing in this encyclopedia, it’s because he got name-dropped in one of the routes, during a conversation between Arcueid and Ciel.
+      If there’s ever a <em>Tsukihime 2</em>, it’s rumored that the story will revolve around Enhance. Though, the author gets bored really easily so maybe take that with a (huge) grain of salt, yeah?
+    note: {}
+  ja:
+    content: |-
+      死徒二十七祖の一人。復讐騎。
+      エンハンス・ソード（片刃）と蔑まれる、祖に成ったばかりの吸血種。
+      死徒と死徒が敵対する事は珍しくはないが、それはグルーップ内でのみの権力争いを意味する。王である祖の後継者を目指す戦いで、他の派閥（他の二十七祖）と争う事はない。が、エンハウンスはその規律を破り、他の二十七祖そのものを狩ろうとしている。
+      他の祖のように超抜的な固有能力を持つ訳でもなく、吸血鬼としてもハンパ。が、その精神力と行動力は死徒随一。
+      元々不老不死である死徒達はみな安稳としているのだが、エンハウンスは極めてヒトに近いので執念深いのだ。
+      先代の祖から譲り受けた（奪い取った）魔剣アヴェンジャーと、教会で作り上げた銃を主武装とする。銃は教会のモノである為、使用する度に左手が腐っていく。
+      どうしてこんなのが用語辞典で一項をとっているかというと、あるルートでアルクェイドとシエルの会話の中でちらっと名前が出てくるから。
+      月姫の続編があるとしたら、それは彼を主題にした物語と噂されているが、さて。飽きっぽい原作サイドの言い分なんて話半分に聞いておいた方がいいっすよー。
+    note: {}
+  zh:
+    content: |-
+      死徒二十七祖之一。复仇骑。
+      被蔑称为Enhance Sword（片刃），刚成为祖的吸血种。
+      虽然死徒和死徒敌对的事并不罕见，但那是意味着仅限于集团内的权力斗争的。是为了成为身为王的祖的后继者的战斗，并不会与其他的派阀（其他的二十七祖）争斗。然而，安翰斯破坏了这个规律，想要狩猎其他的二十七祖。
+      既不像其他祖那样有超拔的固有能力，作为吸血鬼也不成熟。然而其精神力和行动力是死徒中最优秀的。
+      原本不老不死的死徒们都安稳地生活，然而安翰斯却极接近人类，有着很深的执念。
+      把从前一代的祖那里继承（夺取）的魔剑Avenger和教会制做的枪作为主武装。因为是教会的东西，所以越使用枪左手就越腐烂。
+      要说为什么这样的会在用语辞典里占一项，是因为在某条路线里爱尔奎特和雪儿的对话中出现了一下名字。
+      据说如果有月姬的续篇的话，会是以他为主题的故事。对于没有恒心的原作方的话还是只听一半的好哟！
+    note: {}
+- source: character-material
+  section: prelude-explanation
+  order: 5
+  category:
+  - person
+  - dead-apostle
+  img: ""
+  en:
+    content: |-
+      Avenger. A member of the Twenty Seven Dead Apostle Ancestors. Number Eighteen.
+      He was given the title Blade (Enhance Sword) by those despised him. A Vampire who recently joined the ranks of Ancestors.
+      It was not unusual for Dead Apostles to wage wars against each other, and the purpose was to wrestle for power within the organization.
+      Usually the subordinates fought for the right to inherit the title of an Ancestor. Fighting against the other Ancestors was almost unheard of.
+      Enhance broke this rule, as he actively hunted for the other Ancestors.
+    note: {}
+  ja:
+    content: |-
+      復讐騎。死徒二十七祖の一人。18位。
+      エンハンス・ソード（片刃）と蔑まれる、祖に成ったばかりの吸血鬼。
+      死徒と死徒が敵対する事は珍しくないが、それはグループ内でのみの権力争いを意味する。王である祖のの後継者を目指す戦いで、他の派閥（他の二十七祖）と争うことはない。が、エンハウンスはその規律を破り、他の二十七祖そのものを狩ろうとしている。
+    note: {}
+  zh:
+    content: |-
+      复仇者，死徒二十七祖的一员。第十八位。
+      被他人蔑视地称为片刃剑（Enhance Sword），刚刚成为祖不久的吸血鬼。
+      虽然死徒与死徒间的敌对行为并不罕见。但那仅仅意味着组织内部的权力争斗。那是以王者为目标的，祖的继承者们的战斗，而绝无与其他派系(二十七祖)的斗争。而安翰斯则打破了这一规则，试图狩猎其他的二十七祖。
+    note: {}

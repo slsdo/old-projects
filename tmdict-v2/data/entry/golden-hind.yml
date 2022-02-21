@@ -1,0 +1,42 @@
+---
+id: golden-hind
+
+en: g
+ja: o
+furigana: おーるでんはいんど
+title:
+  en: Golden Hind
+  ja: 黄金の鹿号
+  zh: 金鹿号
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 28
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      This is the boat that Rider sails on when she activates her Noble Phantasm. It’s Francis Drake’s beloved boat.
+      At a length of a little less than 37 meters, both the bow and stern of the ship each have 4 cannons, while the sides of the ship each have 14.
+      In this boat’s heyday the main form of naval combat was still boarding the enemy ship after smashing into it, but this boat’s design reflects the tactics used in the future battles of the Invincible Armada, by employing long range cannon battles. Standard pirate strategy revolves around forcing the target ship to surrender without damaging it, and then proceeding to board it. It seems that if the target ship could be intimidated into surrendering, these cannons were not used. 
+      The galleon’s original name was “The Pelican,” but Drake thought this name was lame (or at least ill-omened), so she changed it.
+      …This is why when someone mentions the name “The Pelican” to Rider she gets seriously ticked off, but her foolish anger is kind of cute.
+    note: {}
+  ja:
+    content: |-
+      ライダーが宝具を展開した時に乗っている船のこと。フランシス・ドレイクの愛船である。
+      全長37メートル弱、船首と船尾に4門ずつの砲を持つ他に、両側舷にも14の砲を搭載。
+      当時はまだ海戦の主流は船をぶつけてのボーディング戦であったのだが、この船は後にアルマダ海戦で取る戦法をすでに反映してか、遠距離砲撃戦が可能な仕様であった───もっとも海賊行為には相手の船を痛めつけないボーディング戦が適していたので、相手が脅しだけでは降伏しないような敵の場合はボーディングを仕掛けたようだ。
+      出港時はペリカン号という名が与えられていたガレオン船であったが、エルドラゴはこの名を「格好が悪い」（またはゲンが悪い）という理由で改名した。
+      ……なので、ペリカンと言われるとマジギレすると姐さんバカ可愛い。
+    note: {}
+  zh:
+    content: |-
+      Rider展开宝具的时候所乘坐的舰船。弗朗西斯·德雷克的爱船。
+      全长接近37米，船首与船尾各有4门大炮，另外两侧船舷也搭载了14门炮。
+      当时尚为海战主流的是，船只撞在一起的接舷战，不过这艘船已经反映出了之后在无敌舰队[Armada]海战中所采取的战法吗，表现出了可以进行远距离炮击战的手段——原本，海贼行为的话，适合采用不伤到对手船的接舷战，只威胁对手而对手不肯投降的敌对情况下，就以接舷战来解决对方。
+      在出港时是一艘命名为鹈鹕[Pelican]的加利恩[Galleon]帆船，El Draque以这个名字“太逊了”（又或者是不吉利）为由改掉了名字。
+      ……因此，说起鹈鹕就大为光火的大姐姐有点蠢萌。
+    note: {}

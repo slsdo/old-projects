@@ -1,0 +1,36 @@
+---
+id: holy-shroud
+
+en: h
+ja: se
+furigana: せいがいふ
+title:
+  en: Holy Shroud
+  ja: 聖骸布
+  zh: 圣骸布
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 43
+  category:
+  - armament
+  img: ""
+  en:
+    content: |-
+      The burial cloth of a saint.
+      What was wrapped around Shirou’s arm in the Sakura route was actually part of the Holy Shroud of Martin.
+      It seems to be something that Kotomine hid away during his time with the Church.
+    note: {}
+  ja:
+    content: |-
+      聖人の亡骸を包んだ布。
+      士郎が腕に巻いたものはマルティーンの聖骸布の一部。
+      教会時代、言峰が隠匿していた物と思われる。
+    note: {}
+  zh:
+    content: |-
+      包裹了圣人遗骸的布。
+      士郎缠在手臂上的是马丁[Martin]的圣骸布的一部分。
+      被认为是教会时代，言峰所藏藏匿之物。
+    note: {}

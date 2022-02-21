@@ -1,0 +1,55 @@
+---
+id: shingon-tachikawa-school-taboos
+
+en: s
+ja: shi
+furigana: しんごんたちかわりゅうのきんき
+title:
+  en: Shingon Tachikawa School Taboos
+  ja: 真言立川流の禁忌
+  zh: 真言立川流的禁忌
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 82
+  category:
+  - doctrine
+  img: ""
+  en:
+    content: |-
+      The Tachikawa Sect is often made out as the villain in a lot of romance novels, but the novels are simply drawing on an extreme example and it does not represent the real Tachikawa Sect.
+      The fundamental methods of the Tachikawa Sect follow the main teachings of Shingon Buddhism and expand upon them. The methods of Tachikawa are not evil on their own by any means.
+      The representative “evil deed” that is taken up by others is the use of skulls as an object of worship, but really the use of skulls in rituals was not uncommon across Japan and in the Kamakura period the use of skulls was endorsed by many a Buddhist master, and the use of skulls was not considered to be something out of the ordinary.
+      Like this, the taboos of Shingon Tachikawa more or less align with those of fundamental Buddhist teachings.
+      The greatest taboo is to defy your master.
+      Buddhism is fundamentally a system where you [the disciple] attain enlightenment by using the methods left behind by the founder of Buddhism [the master] who became a Buddha, Shaka (Gautama Buddha.{{n1}} So the relationship between master and disciple is core in the Buddhist system. And Shaka preached that disciples must not doubt his ideas in any respect, and must only obey— the only time a person may have doubt, is before they formally become a disciple. It’s fine to doubt as much as you like before becoming a disciple, but it best to only become a disciple once all your doubts have been cleared.
+      So for the above stated reasons, Buddhism has always been centered on the relationship between master and disciple, and the power of Buddhism to reach enlightenment is fundamentally passed down through the “bloodline” (the unbroken and perpetual master-disciple link continuity{{n2}}).
+      So essentially the only way to attain enlightenment through Buddhism is to become a very, very distantly connected disciple of Shaka, as it is he who has the power of Buddhism. So if you are excommunicated by your master, it means your link to Shaka will be severed, and all your ascetic practices (Buddhist training) until that point will be reverted to naught.
+    note:
+      n1: "In Japan they usually say Shaka or Shaka-sama, but Gautama Buddha is his name in the Pali language (his original language, though now a dead language)) Seeing as the original Japanese text in this book writes it and annotates it as simply Shaka, I have left it as such throughout the whole book. The name Gautama Buddha would likely be familiar to more readers though, and is completely interchangeable with Shaka."
+      n2: "Not an actual parent-child style bloodline."
+  ja:
+    content: |-
+      様々な伝奇小説で敵役にされがちな立川流だが、それは極端な例にすぎない。
+      立川流の基本技法自体は真言宗の主流派となった折に真言宗全体に広まっており、真言立川流の術そのものは邪悪なものではないからだ。
+      真言立川流の悪行の代表とされる、髑髏本尊（どくろほんぞん）などは日本の呪術ではそれなりに一般的な外法頭の術式の変形に過ぎず、鎌倉当時の達人であれば多かれ少なかれ了解、または使用していておかしくない技法である。
+      このため、真言立川流の禁忌もまた、原則的には仏教教団の禁忌と相通じている。
+      その最大は師に逆らうこと。
+      仏教は原則として、仏となった釈尊からその悟りに至る技法を授けてもらうという師と弟子の関係から出発した。
+      そして釈尊は、弟子に自分の考えに疑問を持たずにひたすらそれに従う事を説いた──疑っていいのは、弟子になるまで。弟子になるまではいくら疑ってもよく、むしろ疑い尽くしてそれが無理になってから弟子となる事がよいとされた。
+      ちなみに上記の理由から、仏教は常に師と弟子の関係を基本とし、悟りに至るための力や法力は、基本として血脈（師弟関係の不断の連続）によって受け継がれていると考えられている。
+      つまり仏教で悟りを得たり、法力を持つ事ができるのは釈尊の遠い遠い孫弟子の関係にある者だけとされる。破門とはこれを断ち切られる事であり、仏教ではそれまでの修行すべてが無に帰す事を意味する。
+    note: {}
+  zh:
+    content: |-
+      虽说是于诸多传奇小说中作为敌役登场的立川流，不过那也只是极端的例子。
+      立川流的基本技法本身是传承自真言宗的主流派由真言宗全体流传的东西，真言立川流的术式本身并非是邪恶的东西。
+      真言立川流的恶性的代表，骷髅本尊不过是日本的咒术一般的外法头的术式的变形而已，是镰仓当时的达人或多或少的了解，或使用的话也不奇怪的技法。
+      因此，真言立川流的禁忌也是，在原则上与佛教教团的禁忌有相通的。
+      其最大的禁忌是违抗师傅。
+      佛教的原则是，从教授成为佛的释尊的到达开悟的技法这样的师与弟子的关系出发的。
+      然后释尊啊，是说过弟子不需要抱有自己的疑问只需要遵从教诲便好──疑问是好的，不过是到成为弟子为止。成为弟子怎样抱有疑惑都好，倒不如正是因为无法答尽疑惑所以才成为了弟子。
+      顺带一提上面所说的事情的理由，佛教一向是以师与弟子的关系为基础，为传授着到达开悟的力量和法力，基由血脉（师弟关系的不断的连续）继承而考量的。
+      也就是说佛教中得到开悟，持有法力的只能是与释尊不知道多少代的徒子徒孙有关系的人。破门与断绝关系这样的事，在佛教里就意味着这之前的修行都归于无了。
+    note: {}

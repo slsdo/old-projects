@@ -1,0 +1,43 @@
+---
+id: princess-of-gold-princess-of-silver
+
+en: p
+ja: o
+furigana: おうごんひめはくぎんひめ
+title:
+  en: Princess of Gold / Princess of Silver
+  ja: 黄金姫・白銀姫
+  zh: 黄金公主·白银公主
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 14
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      The center piece of the Twin Towers of Iselma. Casually written as "a beauty that can’t be expressed by pictures," they were the first on the list of problems for the illustrator Mr. Mineji and the manga artist Mr. Azuma Tou. Who made this character? It was me.
+      If anything brought to its utmost limit could bring one to the Root, my idea was to follow that premise with a supreme beauty.
+      But, as a “beauty that can reach the Root,” it had to follow a completely different path than even the beauty of a goddess. For a supreme beauty that included every possibility, is that really something human standards would find beautiful? The answer to that question exists only in the hearts of those who saw those two face to face.
+
+      As a bit of a digression, the correct formula for the spell is not a woman and a woman, but yang and yin{{n1}} — in short, a man and a woman as a pair would have been more correct. The reason it didn’t end up that way is that magecraft already includes properties of the moon, which symbolizes yin, so it was modified to balance out the fact the ritual leaned towards that element of yin from the beginning.
+    note:
+      n1: "<a href=\"https://en.wikipedia.org/wiki/Yin_and_yang\">Ying and yang</a>, an Asian concept of dualism that symbolizes positive/light (yang) and negative/dark (yin)."
+  ja:
+    content: |-
+      双貌塔イゼルマのメイン。「絵にもできない美しさ」などとしれっと書いて、イラストのみねぢさんも漫画の東冬さんも困らせ続ける筆頭。つくったのは誰だ？僕だ。
+      あらゆる極限は根源へと通じる、という思想から生まれた至高の美。
+      ただし、これは「根源に至るための美」なので、たとえば美の女神などとはまったく違う方向性だ。すべての可能性を内包した至高の美が、本当に人間の基準で美しいものなのか……という問題も含めて、その答えは彼女たちを実際に観た者の中にしか存在しない。
+
+      余談だが、黄金姫・白銀姫の術式は本来女と女ではなく、陽と陰---つまり男と女でセットにする方が正しい。そうなっていないのは、魔術そのものが月や陰の属性を含むため、最初から陰に偏ることを念頭においてバランスをとらされているのだ。
+    note: {}
+  zh:
+    content: |-
+      双貌塔伊泽路玛的中心人物。「无法用绘画表现出来的美丽」这个轻描淡写的形容，最令负责插画的みねぢ老师和负责漫画的東冬老師头疼。写下这句话的人是谁呢？是我。
+      因一切极限皆通往根源这种思想而诞生的至高之美。
+      只不过，这是「为了抵达根源的美」，所以与美之女神那一类的方向性完全不同。包含一切可能性在内的至高之美，真的算是基于人类标准的美吗……也存在着这种问题，而答案就只存在于实际见过她们的人心中了。
+
+      说些题外话，黄金公主·白银公主的术式原本并非女性与女性，而是阳与阴——也就是以男性与女性为一对才是正确的。之所以并没有这样，是因为考虑到了魔术本身就包含月亮或是阴的属性，从一开始就是偏阴性的存在，从而做出了平衡。
+    note: {}

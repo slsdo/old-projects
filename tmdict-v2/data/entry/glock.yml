@@ -1,0 +1,33 @@
+---
+id: glock
+
+en: g
+ja: ku
+furigana: ぐろっぐ
+title:
+  en: Glock
+  ja: グロッグ
+  zh: 格洛克
+
+entry:
+- source: fate-zero-material
+  section: fate-zero-encylopedia
+  order: 15
+  category:
+  - armament
+  img: ""
+  en:
+    content: |-
+      The pistol that Hisau Maiya carries as a sidearm. The model number was never mentioned in the story, but in my head it’s probably definitely a Glock 19.
+      Since it’s hard to imagine Kiritsugu preparing such a normal weapon, it’s likely that Maiya picked it out herself.
+    note: {}
+  ja:
+    content: |-
+      久宇舞弥がサイドアームとして携行する拳銃。型番までは明記しなかったが筆者の脳内的に多分きっとモデル19。
+      切嗣が用意したとは思えない真っ当な銃なので、おそらく舞弥の個人的な選定なのだろう。
+    note: {}
+  zh:
+    content: |-
+      久宇舞弥随身携带用的手枪。虽然没有明载型号，但在笔者的脑内认定多半是Model 19。
+      难以想像是切嗣所准备的正常的枪，所以多半是舞弥自己选定的吧。
+    note: {}

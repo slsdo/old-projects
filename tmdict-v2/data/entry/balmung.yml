@@ -1,0 +1,42 @@
+---
+id: balmung
+
+en: b
+ja: ha
+furigana: げんそうだいけんてんましっつい
+title:
+  en: Balmung
+  ja: 幻想大剣・天魔失墜
+  zh: 幻想大剑·天魔失坠
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 76
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      Phantasmal Greatsword, Felling of the Sky Demon. The Noble Phantasm of Saber of “Black,” Siegfried. The Nibelungs, a tribe which lived in an underground country, requested that Siegfried fairly and impartially divide up and distribute their treasure, and he accepted the request. Balmung was planned to be given to him as payment for this. However, two kings felt that the allocation of treasure was done unfairly (both kings felt they were being treated unfairly, so it’s highly possible that it was actually divided up fairly without Siegfried favoring either one) and fought Siegfried, but he killed them in return.
+      The remaining treasure which no longer had an owner became Siegfried’s, and Balmung also became his weapon. He wielded Balmung in every battle after that. It is also said that he won in the battle against Fafnir thanks to Balmung.
+      It is a sword of twilight that has reached A rank and possesses the quality of both a holy and cursed sword. Perhaps because it was owned by a king, it specializes in fighting against armies, shooting off a semi-circular slash wave. The blue jewel attached to the handle stores True Ether to use as a boost when activating the Noble Phantasm.
+      Now then, it does have a fast activation rate for a so-called beam weapon, but in a comparison of speed, Siegfried when he was alive was the fastest in activating it, with Sieg being the next fastest and the Servant Siegfried being the slowest out of them.
+      Sieg possesses the “Galvanism” ability, which the Servant Siegfried does not have, and can draw out the needed mana all at once when activating the Noble Phantasm. The living Siegfried, on the other hand, had his inborn disposition combined with the transformation of his heart due to being bathed in and drinking a dragon’s blood, so he could draw forth mana and fire the slash wave even faster than Sieg. Unfortunately, the moment he was summoned as the Servant Saber, that special characteristic of his was highly degraded.
+    note: {}
+  ja:
+    content: |-
+      バルムンク。“黒”のセイバー、ジークフリートの宝具。地下の国に住む一族、ニーベルンゲン族が財宝の公平な分配をジークフリートに依頼し、彼はそれに応じた。この時報酬として予め渡されたのが、このバルムンクである。だが、財宝の分配は二人の王にとって不公平に感じられ（両者が共に不平を感じたらしいので、どちらかに肩入れすることなく公平に分配した可能性が高い）、ジークフリートと戦ったが返り討ちにされてしまった。
+      誰のものでもなくなった財宝はジークフリートのものとなり、バルムンクもまた彼の武器となった。以降、あらゆる戦いで彼はバルムンクを振るった。邪竜ファヴニールと戦った際も、このバルムンクで打ち倒したという。
+      Aランクに到達した、聖剣と魔剣両方の属性を持つ黄昏の剣。王が所有していたためか、対軍に特化しており、半円状の剣気を撃ち放つ。柄にある青い宝玉には、宝具発動のブースト用として真エーテルが貯蔵されている。
+      さて、いわゆるビーム兵器の発動速度であるが、生前のジークフリート→ジーク→サーヴァントのジークフリートの順番である。
+      ジークはサーヴァントのジークフリートにはない『ガルバニズム』を持っており、宝具を発動する際に必要な魔力を立ち所に引き出すことができる。生前のジークフリートはそもそもが竜の血を浴び、飲んだことによる心臓の変質と生まれついての資質が組み合わさって、ジーク以上の速度で魔力を引き出し、剣気を撃ち放っていたという。残念ながらサーヴァント、セイバーとして召喚された時点で、その特質はかなり欠落してしまった。
+    note: {}
+  zh:
+    content: |-
+      巴尔孟克。“黑”Saber齐格弗里德的宝具。在地下国度居住的种族－尼贝龙根族因为想平均分配财宝而委托齐格弗里德，他也答应了。当时作为报酬预先支付给他的就是这把巴尔孟克。但是，两名国王觉得财宝的分配不公平（因为两人都觉得不公平，并非是其中一名国王挑拨，所以自发性的想重新分配的可能性比较高），向齐格弗里德对挑起战斗却遭到击退。
+      失去持有人的财宝变成了齐格弗里德的所有物，巴尔孟克也成为他的武器。在那之后，他在大大小小的战斗中都挥舞着它。与邪龙法夫尼尔的那场战斗也是凭藉巴尔孟克将其击倒。
+      达到A级，圣剑与魔剑两种性质兼具的黄昏之剑。因为是王所持有的缘故，性能为对军特化，能击出半圆形的剑气。剑柄上镶嵌的蓝色宝石中蓄积着作为宝具发动增幅剂的真以太。
+      总归来说，光束兵器的发动速度是：生前的齐格弗里德→齐格→身为从者的齐格弗里德，这样的顺序。
+      齐格持有从者齐格弗里德所没有的“贾法尼电流”，能在立足点引出发动宝具所需的魔力。生前的齐格弗里德原本就是因为沐浴并喝过龙血导致心脏变异，再加上天生的资质，能以比齐格更快的速度引出魔力放出剑气。很遗憾的是作为从者－Saber被召唤时，这份特质失去了大半。
+    note: {}

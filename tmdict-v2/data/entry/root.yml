@@ -1,0 +1,32 @@
+---
+id: root
+
+en: r
+ja: ko
+furigana: こんげん
+title:
+  en: Root
+  ja: 根源
+  zh: 根源
+
+entry:
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 32
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      A term that has nothing to do with the story of <em>Tsukihime</em> at all. For more information, please consult <em>Kara no Kyoukai</em>.
+    note: {}
+  ja:
+    content: |-
+      月姫本編には関係しない。
+      詳しくは空の境界を参照のこと。
+    note: {}
+  zh:
+    content: |-
+      与月姬正篇无关。
+      详细请参照空之境界。
+    note: {}

@@ -1,0 +1,30 @@
+---
+id: aias
+
+en: a
+ja: a
+furigana: あいあす
+title:
+  en: Aias
+  ja: アイアス
+  zh: 埃阿斯
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 2
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A hero who fought alongside Achilles during the Trojan War. There is both an Aias the Great and an Aias the Lesser, but neither of them met a decent end. The shield of Aias the Great is the famous “Rho Aias: Seven Rings that Cover the Fiery Heavens.”
+    note: {}
+  ja:
+    content: |-
+      トロイア戦争でアキレウスと共に戦った英雄。大アイアスと小アイアスがいるが、どちらも碌な最期を迎えてはいない。大アイアスの盾が、かの有名な『熾天覆う七つの円環（ロー・アイアス）』である。
+    note: {}
+  zh:
+    content: |-
+      特洛伊战争中与阿基里斯并肩作战的英雄。虽然有大埃阿斯与小埃阿斯，但不管哪一位都没有迎来善终。大埃阿斯的盾牌就是那有名的“炽天覆的七重圆环[Rho Aias]”。
+    note: {}

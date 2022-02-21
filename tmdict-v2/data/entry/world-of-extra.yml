@@ -1,0 +1,93 @@
+---
+id: world-of-extra
+
+en: w
+ja: e
+furigana: えくすとらせかい
+title:
+  en: World of EXTRA
+  ja: EXTRA世界
+  zh: EXTRA世界
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 24
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      “The minds of people became used to being managed and regulated, and civilization stagnated.
+      There are no great tragedies, however there are also no new discoveries.
+      Everyone is pessimistic in this flavorless world where you can only await death.
+      This is our ’reality’.”
+ 
+      Fate/EXTRA is set on Earth in 2030.
+      The world of EXTRA differs from that of Fate/stay night in that it follows a different timeline and events starting from 1970. History took a different path.
+      Mana, the energy required to carry out large scale magecraft, has dried up, and magecraft has been lost from Earth.
+      The magicians of old have disappeared from center stage, and the era of magic has drawn to a complete close.
+      From then on those who called themselves “magus” came to represent Spiritron Hackers, a new generation of mankind.
+    note: {}
+  ja:
+    content: |-
+      『人々の精神は管理に馴れ、文明も停滞した。
+      大きな悲劇は起きないが、新たな発見もない。
+      誰もが悲観し、ゆるやかな死を待つ世界。
+      それが私たちの“現実”だ。』
+
+      Fate/EXTRAの世界は西暦2030年の地球。
+      Fate/stay nightとは違う、1970年代から異なる歴史を歩んだイフである。
+      大規模な魔術を成すためのエネルギーとなる大源[マナ]が枯渇し、魔術は本格的に地球上から失われた。
+      古い魔術師たちは表舞台から消え去り、神秘の時代は完全に終わりを迎えた。
+      以後“魔術師”を名乗るのは、霊子ハッカーと呼ばれる新時代の人類となる。
+    note: {}
+  zh:
+    content: |-
+      “人们的精神习惯于被管理，文明停滞。
+      没有大的悲剧，也没有新的发现。
+      所有人都悲观地、等待着安稳的死亡。
+      那正是我们的现实。”
+
+      ”Fate/EXTRA的世界是西历2030年的地球。
+      与Fate/stay night不同，从1970年开始产生差异。走了别的历史的IF。
+      行使大规模的魔术所需的能源的大源枯竭，魔术从根本上在地球上消失了。
+      古老的魔术师们从正面舞台撤下，神秘的时代迎来完全的终结。
+      以后称为“魔术师”的，是叫做灵子黑客的新时代人类。
+    note: {}
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 13
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      “The minds of people are now accustomed to regulation, and civilization is stagnant.
+      There are no great tragedies, but neither are there new discoveries.
+      Pessimism reigns supreme in this insipid world, where we can only bide our time until death. This is our reality.”
+      The world of EXTRA differs from that of <em>Fate/stay night</em> in that it follows an alternate history, with events having started to diverge in 1970. <em>Fate/EXTRA</em> and its sequels are set on Earth and the Moon, starting in 2030.
+      Mana, the energy required to perform large-scale magecraft, has dried up. True magic has been lost from the Earth.
+      The magicians of old have disappeared from center stage, and the era of magic has drawn to a complete close. A new generation of “Wizards,” technological hackers, rises.
+    note: {}
+  ja:
+    content: |-
+      『人々の精神は管理に馴れ、文明も停滞した。
+      大きな悲劇は起きないが、新たな発見もない。
+      誰もが悲観し、ゆるやかな死を待つ世界。
+      それが私たちの"現実"だ。』
+      『Fate/EX』シリーズの世界は西暦2030年の地球。
+      『Fate/stay night』とは違う、1970年代から異なる歴史を歩んだイフである。
+      大規模な魔術を成すためのエネルギー……大源[マナ]が枯渴し、地球上から魔術は本格的に失われた。
+      古い魔術師たちは表舞台から消え去り、神秘の時代は完全に終わりを迎えた。以後“魔術師”を名乗るのは、霊子ハッカーと呼ばれる新時代の人類となった。
+    note: {}
+  zh:
+    content: |-
+      “人们的精神惯于被管理，文明也陷入停滞。
+      虽然没有重大的悲剧发生，也没有新的发现。
+      每个人都在悲观中等待着缓慢来临的死。
+      这样的世界，就是我们的‘现实’。”
+      《Fate/EX》系列的世界是西元2030年的地球。 不同于《Fate/stay night》，是从1970年代开始就踏上相异历史的假定世界。
+      成就大规模魔术所需要的能源……大源[Mana]枯竭，使得地球上的魔术正式失传。
+      古老的魔术师们从幕前消失，神秘的时代迎来完全的终结。往后自称为“魔术师”的，变成了被称为灵子骇客的新时代人类。
+    note: {}

@@ -1,0 +1,30 @@
+---
+id: mapo-curry
+
+en: m
+ja: ma
+furigana: まーぼーかれー
+title:
+  en: Mapo Curry
+  ja: マーボーカレー
+  zh: 麻婆咖喱
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 52
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      マーボーとカレーによって生み出される奇跡のマトリクスエボリューション。ただし神に仕える連中からは「料理ではない」とまで言われて一蹴される。ひどい。
+    note: {}
+  zh:
+    content: |-
+      由麻婆豆腐和咖喱创造出的奇迹的合体进化[Synthetic Evolution]。不过被神的仆人评价为“算不上料理”而放弃了。真过分。
+    note: {}

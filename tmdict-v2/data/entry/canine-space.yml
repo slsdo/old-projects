@@ -1,0 +1,44 @@
+---
+id: canine-space
+
+en: c
+ja: i
+furigana: いぬくうかん
+title:
+  en: Canine Space
+  ja: 犬空間
+  zh: 犬空间
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 17
+  category:
+  - terrain
+  img: ""
+  en:
+    content: |-
+      This is the bottom of the imaginary number space; the bottom of consciousness made from the dregs of corrupted information. Not even Moon Cell’s surveillance can reach this East of Eden.
+      The ground is covered entirely in velvet, but other than that it is an empty bed of nothingness.
+      This place lacks the concept of “an entrance” or “an exit,” as well as “limits” there is no means of escape.
+      Those who fall here are connected together in the flow of time, wandering aimlessly for all eternity, drifting in a sleep-like state.
+      BB adds a further special rule for those who reside here: “You must be on all fours.” She does this to force the protagonist to surrender to her will by abusing both his body and mind.
+    note: {}
+  ja:
+    content: |-
+      虚数空間の底、悪性情報の底に作られた意識の底。
+      ムーンセルの監視すら届かないエデンの東。
+      地面は一面のベルベッドに覆われているものの、それ以外は何もない虚無の寝所[ベッド]。
+      入り口・出口の概念もなく、果ての概念もないので脱出の手段はない。
+      ここに落ちたものは数珠つなぎになった時間流の中、永遠に彷復い続け、眠り続ける。
+      BBはさらに特殊ルール『よつんばいでなくてはならない』を追加し、心身共に主人公を陥落させにきた。
+    note: {}
+  zh:
+    content: |-
+      虚数空间之底，恶性情报之底所作出的意识之底。
+      Moon Cell的监视无法到达的伊甸之东。
+      除了地面上覆盖着一层天鹅绒床以外，没有其他任何东西的虚无的寝室[床]。
+      没有入口·出口的概念，也没有尽头的概念所以没有从中脱出的手段。
+      落入这里的东西便会于串联的时间流中，永远的彷徨，沉睡下去。
+      而为使主人公身心全部陷落，BB追加了特殊规则“只能匍匐在地”。
+    note: {}

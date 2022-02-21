@@ -1,0 +1,42 @@
+---
+id: garan-no-dou
+
+en: g
+ja: ka
+furigana: がらんのどう
+title:
+  en: Garan no Dou
+  ja: 伽藍の堂
+  zh: 伽蓝之堂
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 16
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      A contract-based production company operated by Aozaki Touko. Although the majority of the jobs were puppet-making, if Touko was interested, all sorts of jobs were accepted. It even produced anime. 
+      Almost no one approached the Garan no Dou because a Boundary Field was deployed over the workshop. People who had no business there avoided it subconsciously. 
+      It appeared to be an abandoned building, and it really was an abandoned building.
+      Touko purchased this building which was abandoned mid-construction and insisted on calling it her office. 
+      The first floor was just ruins. The second and third floors were where Touko worked. The fourth floor was the office. Mikiya and Shiki had only seen the fourth floor.
+    note: {}
+  ja:
+    content: |-
+      蒼崎橙子が経営するよろず請け負い製作会社。一応人形作りがメインだが、橙子にとって面白ければ何でも安請け合いする。アニメも作るぞ。
+      伽藍の堂に用がない人間は無意識に避けて通る、という結界が張られている為、滅多[めった]に人はやってこない。
+      外見はただの廃ビル。実態もただの廃ビル。
+      建築途中で放棄されたビルを買い取って事務所と言い張っている。
+      一階はただの廃墟。二階と三階は橙子の仕事場で、四階が事務所。幹也と式が出入りしているのは四階だけ。
+    note: {}
+  zh:
+    content: |-
+      苍崎橙子经营的各种承包制作公司。虽然大致上主业是制作人偶，但对橙子来说只要有趣，无论什么样的制作委托都会欣然接受。动画也做哟。
+      因为布下了让不是有事到伽蓝之堂的人会无意识中避开的结界，几乎没有人来。
+      外观只是废弃大厦。实际也只是废弃大厦。
+      买下建筑途中放弃的大厦坚称为事务所。
+      一楼只是废墟。二楼与三楼是橙子工作的地方，四楼是事务所。干也与式出入的只是四楼。
+    note: {}

@@ -1,0 +1,172 @@
+{% extends "_base.html" %}
+{% block title %}{{ site }}{% endblock %}
+{% block url %}site{% endblock %}
+
+{% block content %}
+<div class="page-content">
+    <h3 id="site-banner">Link To Us</h3>
+
+    <div class="center"><img title="Link to us!" src="../src/img/banner.png" alt="banner" /></div>
+
+    <h3 id="site-usage">Usage</h3>
+
+    <p>The contents of this site may be used in non-commercial derivative works on the condition that proper credit and linkbacks are provided, attaching additional reference to the translators would also be greatly appreciated. We also ask that you refrain from hotlinking to images found on this site.</p>
+
+    <p>This policy applies to all content excepting translations by translators who have additional policies regarding usage of their work, which have been listed below. When in doubt, we recommend you contact the translator for permission.</p>
+
+    <ul>
+        <li><strong>百岁美萝CM填坑组</strong> (<a href="https://bbs.popgo.org/bbs/read.php?tid=418222">Prelude Explanation</a>)</li>
+        <li><strong>Eternal Dreamer</strong> (<a href="https://fateapocryphathetranslation.wordpress.com/side-materials/fateapocrypha-material/">Fate/Apocrypha</a>)</li>
+        <li><strong>EvoSpace</strong> (<a href="http://forums.nrvnqsr.com/showthread.php/73-Angel-Notes-Translation-by-Evospace?p=2315">Notes.</a>)</li>
+        <li><strong>food</strong> (<a href="http://knkdictionary.pbworks.com/w/page/49204294/Dictionary">Kara no Kyoukai</a>, <a href="http://knkdictionary.pbworks.com/w/page/64769974/talk%20Glossary">Talk.</a>)</li>
+        <li><strong>jabal, 幽远</strong> (<a href="http://tieba.baidu.com/p/122814195">Notes.</a>)</li>
+        <li><strong>Mcjon01</strong> (<a href="http://forums.nrvnqsr.com/showthread.php/4880-Mcjon01-Translates-Things">Tsukihime, MBAC, Fate, Fate/Zero</a>)</li>
+        <li><strong>七夜蒼月</strong> (<a href="https://bbs.sumisora.org/read.php?tid=10951237">Fate/Zero Encylopedia</a>)</li>
+        <li><strong>renshujian0</strong> (<a href="https://bbs.sumisora.org/read.php?tid=4458241">Kara no Kyoukai Settings Glossary</a>)</li>
+        <li><strong>RHuot</strong> (Fate/EXTRA, Tsukihime Dictionary (Colorful MOON), Melty Blood Glossary)</li>
+        <li><strong>十三维</strong> (<a href="https://bbs.sumisora.org/read.php?tid=10890972">Fate Encylopedia</a>)</li>
+        <li><strong>譯月漢化小组</strong> (<a href="https://bbs.sumisora.org/read.php?tid=11058141">Tsukihime Dictionary</a>, <a href="https://bbs.sumisora.org/read.php?tid=11071116">Fate/Apocrypha</a>)</li>
+        <li><strong>zqh1985</strong> (<a href="https://bbs.sumisora.org/read.php?tid=10946479">Tsukihime Dictionary (MBAC)</a>, <a href="http://bbs.sumisora.org/read.php?tid=10946479#2831447">Talk.</a>)</li>
+    </ul>
+
+    <h3 id="site-contact">Contact</h3>
+
+    <p>Have a question? Find an error? Want to contribute? <a href="../contact/contact.php" rel="facebox">Contact us</a>!</p>
+
+    <h3 id="site-update">Updates</h3>
+
+    <p><strong>2016-10-23</strong></p>
+
+    <p>Minor update, fixed a bunch of transcription errors in the Japanese text of <em>Fate/Apocrypha material</em> and <em>Kara no Kyoukai</em>.</p>
+
+    <p><span class="highlight">v1.4.1:</span></p>
+
+    <ul>
+        <li>Edited transcription errors in <em>Fate/Apocrypha material</em> and <em>Kara no Kyoukai</em> (JA)</li>
+    </ul>
+
+    <p><strong>2016-07-30</strong></p>
+
+    <p>Translation for <em>Fate/Apocrypha material</em>, a collaboration project with 譯月漢化小组 and NanoDesu's Eternal Dreamer, is now available!</p>
+
+    <p><span class="highlight">v1.4.0:</span></p>
+
+    <ul>
+        <li>Added Fate/Apocrypha Encylopedia (EN/ZH/JA)</li>
+        <li>Changed <em>Kara no Kyoukai</em> Chinese entry title to “「 」”</li>
+        <li>Fixed an issue with some entries not sorting correctly in Japanese</li>
+    </ul>
+
+    <p><strong>2016-06-11</strong></p>
+
+    <p>Another big update! Aside from correcting various errors and fixing an issue with entry sorting, this update also adds two all new glossaries the site: Tsukihime Dictionary (<em>Colorful MOON Tsukihime</em>) and Melty Blood Glossary (<em>Melty Blood Official Strategy Guidebook</em>).</p>
+
+    <p><span class="highlight">v1.3.0:</span></p>
+
+    <ul>
+        <li>Added Tsukihime Dictionary (EN/ZH/JA)</li>
+        <li>Added Melty Blood Glossary (EN/ZH/JA)</li>
+        <li>Edited English and Chinese translation errors in <em>Tsukihime</em> and <em>Fate/Zero</em> Glossary</li>
+        <li>Fixed an issue with entries not sorting alphabetically based on EN index</li>
+    </ul>
+
+    <p><strong>2016-05-01</strong></p>
+
+    <p>Long time no see! The past few months we've been busy upgrading the site's backend and porting contents to a better database, the codebase is now a lot cleaner and the dictionary database much more scalable and easier to update. This upgrade will also make porting TMdict to mobile apps in the future a reality.</p>
+
+    <p>For those who like to see everything on one page, we've also added a "Books" section, where you can browse the contents by glossary. The diff feature has been taken down, as everything (including the database) is now available on GitHub and version controlled. Finally, minor edits have been made to several categories and entry translations.</p>
+
+    <p><span class="highlight">v1.1.2:</span></p>
+
+    <ul>
+        <li>Major overhaul of site backend</li>
+        <li>Moved glossary database to SQLite</li>
+        <li>Added books/glossary section</li>
+        <li>Removed glossary diff feature</li>
+        <li>Edited several incorrectly translated/assigned categories</li>
+        <li>Edited Chinese translation errors in <em>Tsukihime</em> Glossary</li>
+    </ul>
+
+    <p><strong>2015-08-16</strong></p>
+
+    <p>A glossary diff feature has been implemented in order to keep track of changes to site content. Missing entries in the Chinese version of Tsukihime Dictionary Revised (<em>Plus Period</em>) have also been added.</p>
+
+    <p><span class="highlight">v1.1.1:</span></p>
+
+    <ul>
+        <li>Added glossary diff feature to keep track of change</li>
+        <li>Added missing Chinese entries from Tsukihime Dictionary Revised (<em>Dokuhon</em>)</li>
+    </ul>
+
+    <p><strong>2015-07-29</strong></p>
+
+    <p>Some big backend changes, the site now supports 3 kinds of entries: 1) entry with a common category, a normal glossary entry with one or more sortable category/tag 2) entry with unique category, an entry with a one-of-a-kind category, non-filterable (since by definition there's already only one of it), this is to account for a select few glossary formats, and 3) entries with no category, this opens up the possibility to add "non-glossary" entries such as those from <em>Fate/Complete Material 3</em>, think of it more as a future-proof change. Categories are now also clickable and will lead you to a filtered list when clicked. Most of the changes are under-the-hood. In terms of content, entries from Nasu's <em>Notes.</em> have been added, bumping out version number to 1.1.0.</p>
+
+    <p><span class="highlight">v1.1.0:</span></p>
+
+    <ul>
+        <li>Changed site categorization scheme for future expansion</li>
+        <li>Added Notes. glossary (<em>Dokuhon</em>) Japanese/English/Chinese content</li>
+    </ul>
+
+    <p><strong>2015-05-12</strong></p>
+
+    <p>Japanese content from Tsukihime Dictionary (<em>Dokuhon</em>) and Tsukihime Dictionary Revised (<em>Plus Period</em>) have been completely transcribed, proofread, and added to the site. With this update, the version has been incremented to v1.0.0 :)</p>
+
+    <p><span class="highlight">v1.0.0:</span></p>
+
+    <ul>
+        <li>Added Tsukihime Dictionary (<em>Dokuhon</em>) Japanese content</li>
+        <li>Added Tsukihime Dictionary Revised (<em>Dokuhon</em>) Japanese content</li>
+    </ul>
+
+    <p><strong>2015-03-22</strong></p>
+
+    <p>Thanks to feedback and suggestions we received from the past week, the site's backend and database has been completely revamped, and the default ordering and URL of the glossary terms is now Japanese instead of English.</p>
+
+    <p><span class="highlight">v0.10.1:</span></p>
+
+    <ul>
+        <li>Added missing <em>Kara no Kyoukai</em> Japanese entry “Orange Bag”</li>
+        <li>Changed default sorting and URL order changed from English to Japanese</li>
+        <li>Changed database format to support flexible sorting based on language</li>
+        <li>Changed standardized Chinese name (Arcueid, Ciel, Sion, Roa, etc.)</li>
+        <li>Edited Japanese entry typos (コペンハーゲン, 両儀識)</li>
+        <li>Edited overall Chinese content as result of comprehensive proofreading/editing</li>
+    </ul>
+
+    <p><strong>2015-03-14</strong></p>
+
+    <p>Hello, World!</p>
+
+    <p><span class="highlight">v0.9.5:</span></p>
+
+    <ul>
+        <li>Site launched!</li>
+    </ul>
+</div>
+{% endblock %}
+{% block side %}
+{% if ext %}{{ side }}{% else %}{{ side|replace(".html", "") }}{% endif %}
+{% endblock %}
+
+{% block style %}
+    <link rel="stylesheet" href="../src/lib/facebox/facebox.css" media="screen" />
+{% endblock %}
+{% block script %}
+<script src="../src/lib/jquery.min.js"></script>
+<script src="../src/lib/jquery.form.min.js"></script>
+<script src="../src/lib/facebox/facebox.js"></script>
+<script type="text/javascript">
+    /* Contact Form */
+    $(document).ready(function(){
+      $('#submitform').ajaxForm({
+        target: '#error',
+          success: function() {
+            $('#error').fadeIn('slow');
+          }
+        });
+      $('a[rel*=facebox]').facebox()
+    });
+</script>
+{% endblock %}

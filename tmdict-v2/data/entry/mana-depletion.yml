@@ -1,0 +1,44 @@
+---
+id: mana-depletion
+
+en: m
+ja: ma
+furigana: まりょくこかつ
+title:
+  en: Mana Depletion
+  ja: 魔力枯渇
+  zh: 魔力枯竭
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 142
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      Overcount 1999.{{n1}}
+      In 1970 a ritual was performed in a rural city in England. This ritual set off the depletion of the Earth’s magic that filled the atmosphere.
+      This also caused movement in the Earth’s crust of planetary proportions that caused a shift in the poles; later to be known as The Great Collapse.
+      Despite having overcome two periods of great decline in the past, one at the end of the Age of Gods, and one at the beginning of the Christian calendar, with this event, magecraft finally became a fairy tale of the past.
+      In the world of EXTRA, the only remaining old world magus are the alchemists of the Atlas Institute in Egypt.
+    note:
+      n1: "A term from “Notes. / Land of Steel” (鋼の大地)."
+  ja:
+    content: |-
+      オーバーカウント1999。
+      1970年、イギリスのある地方都市で起きた儀式をきっかけに、大気に満ちていた“地球”の魔力は枯渇。
+      後に大崩壊と呼ばれる地球規模での地殻変動───ポールシフトを呼び起こした。
+      神代の終わり、西暦の始まり、という二つの衰退期を乗り越えた魔術ではあったが、これをもって完全に過去の御伽噺となった。
+      EXTRA世界において、旧世代の魔術師はエジプトはアトラスの錬金術師だけとなっている。
+    note: {}
+  zh:
+    content: |-
+      over count 1999。{{n1}}
+      以1970年英国某个地方城市进行的仪式为契机，大气中满溢的地球的魔力开始枯竭。
+      之后发生了被称为大崩坏的全球性地壳变动——引起了pole shift。
+      神代终结、西历开始，跨越了这两个衰退期的魔术自此成为传说。
+      EXTRA世界中，旧世代的魔术师只有埃及阿特拉斯的炼金术师。
+    note:
+      n1: "钢之大地中的词汇。"

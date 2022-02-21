@@ -1,0 +1,56 @@
+---
+id: serpent
+
+en: s
+ja: he
+furigana: へび
+title:
+  en: Serpent
+  ja: 蛇
+  zh: 蛇
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 55
+  category:
+  - nickname
+  img: ""
+  en:
+    content: |-
+      Roa’s nickname.
+      The Dead Apostles gave it to him, in reference to the way he lives on through reincarnation. Given that he dabbled in alchemy, it’s quite fitting.
+    note: {}
+  ja:
+    content: |-
+      ロアの俗称。
+      転生し生き続ける彼を、死徒たちはそう名づけた。もとから錬金術をかじっていたロアには相応しい俗称といえるだろう。
+    note: {}
+  zh:
+    content: |-
+      罗亚的俗称。
+      借由转生延续生命而被死徒们如此称呼。
+      可以说是和原本就精通炼金术的罗亚很相称的俗称。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 82
+  category:
+  - nickname
+  img: ""
+  en:
+    content: |-
+      Roa’s nickname. The Dead Apostles gave it to him, in reference to the way he lives on through reincarnation. Given that he dabbled in alchemy, it’s quite fitting.
+      Of course, when you hear alchemy the first thing you think of is Sion, but Sion is an Atlas alchemist, which is something totally different from those alchemists that devoted themselves to Western magecraft. It seems that the Atlas alchemists don’t think much of Roa for that very reason, even though they both subscribe to the common idea that “everything flows.” Also, contrary to what you may expect, Sion too is possessed of this same elitism, and looks down on Roa on principle.
+      …Huh? Then are Sion and Ciel actually on bad terms…?
+    note: {}
+  ja:
+    content: |-
+      ロアの俗称。転生し生き続ける彼を、死徒たちはそう名づけた。元から錬金術をかじっていたロアには相応しい俗称といえるだろう。
+      錬金術と言えばシオンだが、シオンはアトラスの錬金術師なので西洋魔術に傾倒した錬金術師たちとは別物。万物、物質の流転は共通のテーマだが、アトラスの錬金術師はロアを軽視しているようだ。シオンもああ見えて選民思想が強いので、ロアを見下している節がある。……あれ？シオンとシエルつて実は仲悪い……？
+    note: {}
+  zh:
+    content: |-
+      罗亚的俗称。转生延续生命的他，被死徒们冠以这个名字。可以说是对原本就精通炼金术的罗亚相称的俗称吧。
+      提及炼金术的话就会想到紫苑，但紫苑因为是阿特拉斯的炼金术师。与偏向西洋魔术的炼金术师是不一样的。万物物质的流转虽是其共同的主题，但是阿特拉斯的炼金术师们似乎很轻视罗亚。别看紫苑这样子，也有很强的选民意识，所以自然而然地看不起罗亚。咦？其实紫苑和雪儿的关系很僵？
+    note: {}

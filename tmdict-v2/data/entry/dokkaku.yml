@@ -1,0 +1,36 @@
+---
+id: dokkaku
+
+en: d
+ja: to
+furigana: どっかく
+title:
+  en: Dokkaku
+  ja: 独角
+  zh: 独角
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 52
+  category:
+  - technique
+  img: ""
+  en:
+    content: |-
+      Single Horn. The name of the martial art practiced by Kishima Kouma.
+      Like the monk who attains enlightenment on his own, it is solitary. Which is to say, it is a martial art that can only be passed down to “one like oneself.” In this case, that refers to the Kishima family of oni hybrids.
+      If the Nanaya martial arts are something that can be inherited by any four-legged beast, then the Kishima martial arts are something that can only be learned by the Kishima.
+    note: {}
+  ja:
+    content: |-
+      どっかく。軋間紅摩が使用する体術の名称。
+      独りで覚りを得た修行僧のように、単一——即ち“同じもの”にしか伝えられない体術の事。この場合、鬼種の混血である軋間の一族を指している。
+      七夜の体術は四脚獣なら継承可能であるが、軋間の体術は軋間にしか覚えられない。
+    note: {}
+  zh:
+    content: |-
+      轧间红摩使用的体术的名称。
+      独力得悟的修行僧那样地，只能传授给单一——即“相同者”的体术。这种情况，指作为鬼种混血的轧间一族。
+      七夜的体术要是四腿兽就可能继承，但轧间的体术只有轧间才能掌握了。
+    note: {}

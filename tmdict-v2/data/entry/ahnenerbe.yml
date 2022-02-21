@@ -1,0 +1,56 @@
+---
+id: ahnenerbe
+
+en: a
+ja: a
+furigana: あーねんえるべ
+title:
+  en: Ahnenerbe
+  ja: アーネンエルベ
+  zh: Ahnenerbe
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 5
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      A cafe where meetings and dates takes place. The strawberry pie there is said to be unmatched.
+      The only link with another tale.
+      Sometimes, a foreign vampire or a habit-wearing nun come to have tea.
+    note: {}
+  ja:
+    content: |-
+      待ち合わせに使われる喫茶[きっさ]店。ストロベリーパイが絶品だとか。
+      違う物語との唯一の接点。
+      たまに、外来の吸血鬼とか法衣姿のシスターとかがお茶を飲んでいたりする。
+    note: {}
+  zh:
+    content: |-
+      {{n1}}
+      相约时等待用的咖啡店。草莓派是绝品什么的。
+      与另一个故事的唯一接点。
+      有时候，外来的吸血鬼呀穿修道服的修女呀会来喝茶。
+    note:
+      n1: "德语：遗产。"
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 2
+  category:
+  - shop
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      「遺産」を意味するドイツ語を店名に掲げた喫茶店。千鍵とひびきは高校入学後からこの店でアルバイトを始めている。平行世界を扱う為のルールが色々とあった筈なのに、ドラマCD以降はどんどんうやむやな方向になってる気がする。なし崩しって怖い。
+    note: {}
+  zh:
+    content: |-
+      将意思为“遗产”的德语[German]作为店名开张的咖啡店。千键与响[Hibiki]从高中入学后开始在这家店打工[Arbeit]。为了应对平行世界本应有着各式各样的规则[Rule]，但Drama CD之后总觉得很快就朝着含糊不清的方向去了。就这样都没乱掉还真吓到了。
+    note: {}

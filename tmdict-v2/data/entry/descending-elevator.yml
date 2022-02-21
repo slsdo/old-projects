@@ -1,0 +1,46 @@
+---
+id: descending-elevator
+
+en: d
+ja: ko
+furigana: こうかえれべーたー
+title:
+  en: Descending Elevator
+  ja: 降下エレベーター
+  zh: 下降电梯
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 55
+  category:
+  - location
+  img: ""
+  en:
+    content: |-
+      In the Holy Grail War, after the six day moratorium{{n1}}, this elevator takes all the Masters to the Decisive Battleground on the seventh day. The appearance of the elevator is similar to that of a church’s confessional.
+      Within the sealed domain behind the firewall, the Masters exchange words for the last time.
+      It’s the final chance to reconfirm each other’s past, future, thoughts, and connections.
+      Enemies and friends who shouldn’t be able to come to an understanding.
+      But perhaps there is a way to come to understand each other, this kind of relationship.
+      Just a few minutes later the battles begin, and Moon Cell is watching, recording the fluctuations of each combatant’s heart and mind.
+    note:
+      n1: "The Japanese literally says “grace period” but it could also mean postponement or extension or even delay, however it’s translated in the game."
+  ja:
+    content: |-
+      聖杯戦争において、六日間の猶予期間を終え、七日目を迎えたマスターたちを決戦場に送る装置。その在り方は教会の懺悔室に似る。
+      ファイヤーウォールで区切られた密室の中、マスターたちは最後の会話を交わす。
+      お互いの過去、未来、思想、因縁、それらを再確認する最後の時間。
+      手を取り合う事のできない敵と味方。
+      けれど、わかり合えたかもしれない関係。
+      数分後に戦いを開始する両者の心の揺らぎを、ムーンセルは観測する。
+    note: {}
+  zh:
+    content: |-
+      在圣杯战争中，结束六日间的犹豫，迎来第七日的Master们送入决战场的装置。其存在方式与教会的忏悔室很相似。
+      以Firewall隔开的密室之中，Master们进行最后的对话。
+      互相的过去、未来、思想、因缘，将其再确认的最后的时间。
+      无法手牵手的敌人与己方。
+      但是，也许能互相理解的关系。
+      Moon Cell在观测着，在数分后开始战斗的二者心灵的动摇。
+    note: {}

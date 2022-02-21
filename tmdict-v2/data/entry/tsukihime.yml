@@ -1,0 +1,40 @@
+---
+id: tsukihime
+
+en: t
+ja: tsu
+furigana: つきひめ
+title:
+  en: Tsukihime
+  ja: 月姫
+  zh: 月姬
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 33
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      A visual novel game written by Kinoko Nasu.
+      It was a story about a youth who had Mystic Eyes of Death Perception just like Ryougi’s.
+      It shared many similarities with <em>Kara no Kyoukai</em>, and the two were also subtly connected.
+      It was published as a doujin work, and is currently out of print. The remake seemed to be in the works, or maybe not…?
+    note: {}
+  ja:
+    content: |-
+      奈須きのこがシナリオを担当したヴィジュアルノベルゲーム。
+      式と同じ直死の眼を持ってしまった少年の物語。
+      『空の境界』とは共通点も多く、両者は微妙にリンクしている。
+      同人作品として発表され、現在は製造が終了している。リメイク版の準備は着々と進められているとかいないとか……？
+    note: {}
+  zh:
+    content: |-
+      奈须蘑菇担当剧本的visual novel game{{n1}}。
+      与式一样持有直死之眼的少年的故事。
+      与《空之境界》有许多共通点，两者微妙地联系着。
+      作为同人作品发表，现在已停产。好像重做版的准备正在一步一步进行中又好像没有……？
+    note:
+      n1: "也可称作sound novel等。与完全没有游戏性的digital novel不同，广义上属于adv(冒险游戏)。"

@@ -1,0 +1,36 @@
+---
+id: sikera-usum
+
+en: s
+ja: shi
+furigana: しくらうしゅむ
+title:
+  en: Sikera Ušum
+  ja: 驕慢王の美酒
+  zh: 骄慢王的美酒
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 51
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      Arrogant King’s Alcohol. The second Noble Phantasm of Assassin of “Red,” Semiramis. Its effect turns the surrounding environment into poison. Not only does it give a poison attribute to all attacks, it can also add poison to even the air and mana itself. It is her certain-kill Noble Phantasm as an Assassin. If a Servant has an anecdote in their legend where they withstood poison, they will receive a bonus to their resistance against this Noble Phantasm, but on the other hand, those who have anecdotes of having been killed by poison have their resistance to it go down.
+      Furthermore, when Semiramis is within the “Hanging Gardens of Babylon: Aerial Gardens of Vanity,” she can even summon creatures of the Phantasmal Races if they have an anecdote related to poison.
+      If she were summoned as a normal Assassin without the skill “Double Summon,” Semiramis wouldn’t be able to use the “Hanging Gardens of Babylon,” so she would use this Noble Phantasm as her main weapon instead.
+    note: {}
+  ja:
+    content: |-
+      シクラ・ウシュム。“赤”のサーヴァント、セミラミスの第二宝具。周囲環境の毒化。あらゆる攻撃に毒属性を付与するだけでなく、空気や魔力そのものにすら毒を添加可能。アサシンとしての必殺宝具。毒に耐えたという逸話があれば抵抗力にボーナスがつくが、逆に毒で殺された逸話がある場合は、抵抗力がダウンする。
+      それだけでなく、『虚栄の空中庭園（ハンギングガーデンズ・オブ・バビロン）』にいるセミラミスなら、毒に関する逸話を持つものであれば幻想種ですら召喚可能。
+      スキル『二重召喚（ダブルサモン）』がない、通常のアサシンとして召喚されたセミラミスは『虚栄の空中庭園』が使用できないため、この宝具を主軸に戦うこととなる。
+    note: {}
+  zh:
+    content: |-
+      Sikera Ušum。“赤”方的从者，赛米拉米斯的第二宝具。周围环境的毒化。不只可以给各种攻击赋予毒属性，连空气和魔力本身都可以下毒。作为Assassin的最终宝具。如果有撑过毒害的传说的话抵抗力会上升，但反过来如果有被毒杀的传说，抵抗力就会下降。
+      不只如此，如果是在“虚荣的空中庭园”里的赛米拉米斯的话，只要有和毒有关的传说，就算是幻想种也可以召唤。
+      如果没有技能“二重召唤”赛米拉米斯会作为通常的Assassin被召唤，也会无法使用“虚荣的空中庭园”，变成以这个宝具为主轴在战斗。
+    note: {}

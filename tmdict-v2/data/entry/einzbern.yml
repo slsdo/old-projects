@@ -1,0 +1,54 @@
+---
+id: einzbern
+
+en: e
+ja: a
+furigana: あいあすつペるん
+title:
+  en: Einzbern
+  ja: アインツベルン
+  zh: 爱因兹贝伦
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 3
+  category:
+  - family
+  img: ""
+  en:
+    content: |-
+      One of the Three Founding Families that established the Holy Grail system employed in Holy Grail Wars. A distinguished magus family, although the family possesses great knowledge of alchemy, it is somewhat lacking in combat capability. This led to the family taking in Emiya Kiritsugu, who excels on the battlefield. The Einzbern’s have zealously sought the Third Magic “Heaven’s Feel (Cup of Heaven)” in their efforts to replicate this miracle that their ancestors once attained.
+    note: {}
+  ja:
+    content: |-
+      聖杯戦争における聖杯システムを構築した始まりの御三家のひとつ。魔術の名家で錬金術に対する造詣が深い反面、戦闘ではやや見劣りする。そのため、戦闘能力に秀でた衛宮切嗣が迎え入れられた経緯をもつ。かつて辿り着いたという一族の結論にして悲願、第三魔法「ヘブンズフィール（天の杯）」を求めて聖杯戦争に身を投じている。
+    note: {}
+  zh:
+    content: |-
+      圣杯战争中构筑圣杯系统[System]的初始的御三家之一。对炼金术造诣颇深的魔术名家的另一面，战斗上略显相形见绌。为此，有了迎入战斗能力出色的卫宫切嗣这样的经过。以过去曾到达一族的结论的悲愿，投身于追求第三魔法“Heaven’s Feel（天之杯）”的圣杯战争。
+    note: {}
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 3
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      One of the Three Families that established the Fuyuki Holy Grail War. The family that lies at the center of events in <em>Fate/stay night</em> and <em>Fate/Zero</em> (Writer: Urobuchi Gen).
+      In <em>Apocrypha</em>, they didn’t become discouraged by the fact that the Greater Grail was stolen in the Third Holy Grail War… rather, they don’t seem to have that kind of mentality in the first place (if they gave up, it would only be when even their greatest creation, Illyasviel, would fail to attain the Third Magic), and they are doing everything they can with the belief that they might be able to reproduce that miracle. Accordingly, they have come to reluctantly have relationships with other magi despite their insular and unsociable nature, and the Musik family took advantage of their confused state of affairs in order to receive a portion of their homunculi craft. However, what the Einzberns taught was merely the equivalent of giving a toy to a child, so it wasn’t much of a problem for them.
+      The Musik family concealed the fact that they were part of the Yggdmillennia clan, but naturally the Einzberns know about it. However, the Greater Grail was formed by taking apart the only successful Justeaze-model homunculus, so the Einzbern agreed to cooperate with them in case they should manage to activate one.
+    note: {}
+  ja:
+    content: |-
+      冬木の聖杯戦争を確立させた御三家の一つ。いわゆる「Fate/stay night」「Fate/Zero」（著作：虚淵玄）の中心に存在する一族である。
+      「Apocrypha」では、第三次聖杯戦争によって大聖杯が強奪されたことにもめげず……というかめげる精神を持っていないらしく（彼らが諦めるとしたら、最高傑作であるイリヤスフィールでも第三魔法に至らなかったときだとか）、奇跡の再現が行えないものかと腐心している。それに伴って、閉鎖的だった彼らもやむなく別の魔術師たちと繫がりを持つようになり、ムジーク家はそのどさくさに紛れて、ホムンクルスの技術の一部提供を受けた。もっとも彼らにとってみれば、子供に持たせる玩具程度の技術しか教えていないので、問題ないのだが。
+      ムジーク家はユグドミレニア一族であることを伏せていたが、当然のようにアインツベルンは承知している。だが、大聖杯は唯一成功したユスティーツァモデルを分解したものであり、それが起動するのであればと協力した。
+    note: {}
+  zh:
+    content: |-
+      成立了冬木市圣杯战争的御三家之一。也就是位在《Fate/stay night》，以及《Fate/Zero》（着作：虚渊玄）中心的一族。
+      在《Apocrypha》里即使第三次圣杯战争的大圣杯遭到抢夺抢夺也不放弃……但不如说他们的精神指令中似乎根本没有放弃两个字（如果要他们放弃，就非得是作为最高杰作的伊莉雅斯菲尔也无法达到第三魔法的情况等等），所以他们将全副心力灌注在重现奇迹是否可行的这件事情上。伴随这个情况，一向封闭的他们也不得不与其他魔术师开始联系，而姆吉克家族则趁乱接收了一部分人造人的技术，不过对他们[爱因兹贝伦]而言不过就是做给小孩子的玩具的程度，所以并没有任何问题。
+      纵使姆吉克家族隐藏了自己身为千界树一族的事实，但爱因兹贝伦对此了若指掌。然而大圣杯是唯一成功的、分解冬之圣女模组后制成的产物，[爱因兹贝伦]正是为了启动它而出手协助。
+    note: {}

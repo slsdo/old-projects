@@ -1,0 +1,33 @@
+---
+id: arc-drive
+
+en: a
+ja: a
+furigana: あーくどらいぶ
+title:
+  en: Arc Drive
+  ja: アークドライブ
+  zh: Arc Drive
+
+entry:
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 3
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      The greatest techniques in <em>Melty Blood</em>, the <em>Tsukihime</em> fighting game. In proper fighting game terms, these would be the super moves and super combos. With these, every character gets a chance to flashily show off their skills when the moment is right. Of course, since Arc Drives are the crown jewel of <em>Melty Blood</em>, we wanted to make sure that they were fun to watch, too. My personal recommendations are Arc’s Marble Phantasm, Berserk Arc’s Moon Drop, and Ciel’s Gundam-like attack with the Seventh Holy Scripture.
+    note: {}
+  ja:
+    content: |-
+      月姫格闘ゲーム・メルティブラｯドにおける最大の技。格闘ゲーム風に言うなら超必殺技、スーパーコンボってなもんである。各キャラクター、ここぞとばかりに派手な自己主張を見せ付けてくれます。アークドライブはメルテイの華なので、一度は決めて悦に浸っていただきたい。個人的おすすめはアルクの空想具現化、ワルクの月落とし、シエル先輩の第七聖典ガン〇ム擊ちであろうか。
+    note: {}
+  zh:
+    content: |-
+      月姬格斗游戏——Melty Blood里的最大技。用格斗游戏的说法的话就是超必杀技、Super Combo这样的东西。各角色，在这一项上都会华丽地展现个人风格。Arc Drive是Melty的亮点，请一定要享受一次。个人推荐的有Arc{{n1}}的空想具现化，Warc{{n2}}的月落，雪儿学姐的第七圣典高○射击{{n3}}吧？
+    note:
+      n1: "公主。"
+      n2: "暴走公主。"
+      n3: "初代高达last shooting。"

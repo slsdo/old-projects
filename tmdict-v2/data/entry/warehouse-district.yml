@@ -1,0 +1,30 @@
+---
+id: warehouse-district
+
+en: w
+ja: so
+furigana: そうこがい
+title:
+  en: Warehouse District
+  ja: 倉庫街
+  zh: 仓库街
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 56
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      セイバーとランサーの初戦の舞台。序盤戦から5騎のサーヴァント（偵察役のアサシンを含めれば6騎）が一堂に会し、大暴れした。この戦いでいくつもの倉庫が倒壊しており、事後処理を行ったと思われる監督役の苦労が偲ばれる……。
+    note: {}
+  zh:
+    content: |-
+      Saber与Lancer初战的舞台。开局就有5骑（包含侦察任务中的Assassin就是6骑）汇聚一堂，大闹了一番。这场战斗中有不少仓库倒塌，缅怀进行事后处理的劳苦监督者……
+    note: {}

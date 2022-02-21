@@ -1,0 +1,51 @@
+---
+id: female-honorific
+
+en: f
+ja: shi
+furigana: じょせいけいしょう
+title:
+  en: Female Honorific
+  ja: 女性敬称
+  zh: 女性敬称
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 78
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      One of President Leo’s presidential affinities.
+      Regardless of who you are talking to, adding “Miss” before a female’s name is etiquette expected of a gentleman.
+      However, he does not use “Miss” when talking to AI, and he calls Sakura solely by her name.
+      Jinako: “Why do you always use ‘Miss’ for every girl you meet?”
+      Leo: “Addressing unmarried women with ‘Miss’ is proper etiquette. But more than that, the sound of the word ‘Miss’ is simply marvelous. Don’t you all think so too?”
+      Rin: “I’m completely in the ‘Fräulein’ camp. There’s nothing that could sound lovelier you know.”
+      Rani: “Hmm… as for me, well I think that each country has its own wonderful honorifics for women, but my favorite has to be ‘Mademoiselle.’”
+      Jinako: “Oh man. You gals are birds of a feather y’know. Using just ‘Fujoshi’ (腐女子) and ‘Orera’ (オレら) is more than enough for god’s sake.”
+    note: {}
+  ja:
+    content: |-
+      レオ会長の、会長たる由縁のひとつ。
+      どんな相手であれきちんとミスをつけるのは紳士として当然の嗜みです。
+      ただしAIに対してはそのかぎりではなく、桜はサクラと敬称なし。
+      ジナコ「なんでいちいちミスとか付けるッスか」
+      レオ「未婚の女性をミスと呼ぶのは礼儀でしょう。それに、ミス、という響きはたいへん素敵だと思いますが。皆さんもそうでしょう？」
+      凛「わたしは断然フロイライン派。響き的に可憐なコトこの上ないったら」
+      ラニ「私は……そうですね。女性の敬称は各国それぞれ素晴らしいものですが、マドモアゼル、が好みです」
+      ジナコ「やっぱりアンタらとは相容れね.凡っス。腐女子、オレらで十分だっつーの」
+    note: {}
+  zh:
+    content: |-
+      雷欧会长的、之所以是会长的原因之一。
+      不管是什么样的对手都会以Miss称呼是作为绅士理所当然的行为。
+      只是对于AI并不在这范围内，像樱就是直接称呼名字。
+      吉娜可：“为什么要一个个加上Miss啊”
+      雷欧：“将未婚的女性以Miss称呼的是礼仪啊。而且我觉得Miss、这个语感非常的美好。大家不这么认为吗？”
+      凛：“我的话是Fräulein派[德文，小姐的意思]。语感十分清纯可怜的感觉。”
+      拉尼：“我的话……说得也是。对女性的敬称虽然每个国家不同是很棒的事情，Mademoiselle[法文]比较符合我的喜好。”
+      吉娜可：“果然我跟你们完全合不来。腐女、俺们之类的就够了！！”
+    note: {}

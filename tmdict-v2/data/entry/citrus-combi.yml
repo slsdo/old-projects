@@ -1,0 +1,30 @@
+---
+id: citrus-combi
+
+en: c
+ja: ka
+furigana: かんきつけいこんび
+title:
+  en: Citrus Combi
+  ja: 柑橘系コンビ
+  zh: 柑橘系CP
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 19
+  category:
+  - name
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      ひびちかコンビを指す。星空めておによって突然命名された。
+    note: {}
+  zh:
+    content: |-
+      指响键CP[Combi]。被星空めてお突然这样命名了。
+    note: {}

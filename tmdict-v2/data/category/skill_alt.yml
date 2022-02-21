@@ -1,0 +1,9 @@
+---
+id: "skill_alt"
+
+type: duplicate
+en: "skill"
+ja: "スキル名"
+zh: "技能名"
+
+duplicate: skill

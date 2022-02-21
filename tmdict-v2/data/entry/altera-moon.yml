@@ -1,0 +1,36 @@
+---
+id: altera-moon
+
+en: a
+ja: a
+furigana: あるてらがつ
+title:
+  en: Altera (Moon)
+  ja: アルテラ（月）
+  zh: 阿提拉（月球）
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 4
+  category:
+  - servant
+  img: ""
+  en:
+    content: |-
+      This mysterious sword-maiden in white, a Saber-class Servant, bursts onto the scene from the Zero Dark.
+      One of the three main heroines of EXTELLA. She is also one of the only three Servants to have a Master.
+      Her backstory runs deep, so please see the “Titan Altera” entry for more information.
+    note: {}
+  ja:
+    content: |-
+      未明領域から現れた謎の英霊。白い剣姫。クラスはセィバー。
+      エクステラのメインヒロイン。マスターを持つ三人目のサーヴァント。
+      色々と込み入った経歴を持つサーヴァントなので、詳しくは『巨神アルテラ』の項目を参照に。
+    note: {}
+  zh:
+    content: |-
+      从未知领域现身的谜之英灵。白衣剑姬。职阶为剑士。 
+      EXTELLA的主要女主角。拥有御主的第三名英灵。 
+      这名英灵的经历复杂，详细内容请参照“巨神阿提拉”的项目。
+    note: {}

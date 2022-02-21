@@ -1,0 +1,81 @@
+---
+id: warcueid
+
+en: w
+ja: wa
+furigana: わるくぇいど
+title:
+  en: Warcueid
+  ja: ワルクェイド
+  zh: W爱尔奎特
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 65
+  category:
+  - nickname
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      Arcueid when she’s rampaging around in a frenzy.
+      You can catch a glimpse of this in the Ciel Route, though it seems she still had enough composure to recognize Shiki.
+    note:
+      n1: "Literally “Berserk Arcueid.”"
+  ja:
+    content: |-
+      逆上して大暴走したアルクェイドのこと。悪クェイドと書く。
+      シエルルートでのみその片鱗を見せるが、志貴を認識できたあたりまだまだ余裕があるようだ。
+    note: {}
+  zh:
+    content: |-
+      指发怒而暴走的爱尔奎特，写作“悪クェイド”。
+      虽然只有在雪儿线崭露头角，不过因为还能认出志贵，所以似乎还有许多转圜的空间。
+    note: {}
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 36
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      This is Arcueid gone mad. Also called Evil Arcueid. In <em>Melty Blood</em>, when TATARI transforms and materializes as Arcueid, this is the name used to refer to him. You can also catch a glimpse of Red Arcueid in <em>Tsukihime</em>’s Ciel route.
+    note: {}
+  ja:
+    content: |-
+      暴走したアルクェイドのこと。悪クェイドとも書く。『メルティブラッド』では、タタリとして現実化したアルクェイドをこう呼ぶことがある。ちなみに『月姫』本編ではシエルルートでちらりと登場する。
+    note: {}
+  zh:
+    content: |-
+      指暴走的爱尔奎特。也写成恶cueid（悪クェイド）{{n1}}。《MELTY BLOOD》中，曾如此称呼以Tatari身份现实化的爱尔奎特。顺带一提《月姬》本篇雪儿路线里略微登场过。
+    note:
+      n1: "坏尔奎德。跟坏利欧差不多（?）。"
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 104
+  category:
+  - person
+  - nickname
+  img: ""
+  en:
+    content: |-
+      Arcueid after going into a wild frenzy and becoming totally indiscriminate with her rage. “Evil” Arcueid.
+      You can catch a glimpse of this in the Ciel Route, though it seems she still had enough composure to recognize Shiki.
+      The Tatari Arcueid in <em>Melty Blood</em> is technically more akin to Arcueid in this state than to the Crimson Moon. Her attacks have become more monstrous due to her personality, and she revels in cruelty. She’s known for the way she shouts “Rip and tear, rip and tear!” as she pulls her enemies apart limb from limb with her own two hands. The root is the selfish princess Arcueid’s former royal manner of speech.
+    note: {}
+  ja:
+    content: |-
+      逆上して見境のなくなったアルクェイドのこと。悪クェイドと書く。
+      シエルルートでのみその片鱗を見せるが、志貴を認識できたあたりまだまだ余裕があるようだ。
+      メルティブラッドでタタリが模したアルクェイドは、朱い月というよりはこちらのワルクェイドに該当する。怪物じみた技といっちゃった性格で、残忍スキーにはたまらないキャラク夕ーに仕上がっている。個人的名台詞は「ズタズタよズタズタ！」自分で八つ裂きにしておいて怒るなんて理不尽ここに極まってます。根がワガママ姫のアルクェイド故の王様発言。裂きイカ・なにサマ・シエルサマー。
+    note: {}
+  zh:
+    content: |-
+      因暴怒而与爱尔奎特相区分的人物。写成恶cueid。
+      雪儿路线可以看到一鳞半爪。被志贵所认识的还是平常十分悠闲的样子。
+      在Melty Blood中Tatari所模拟的爱尔奎特，与其说是朱月，不如说更符合这个Warcueid。
+      怪物似的技能和高亢的性格，构成了残忍得不得了的滑雪角色。个人的名台词是“粉碎掉吧粉碎掉！”自己也已破碎稀烂且发怒到不讲理的极致。
+      来源是任性公主爱尔奎特的王的发言。撕裂吧·这啥·雪儿啊。
+    note: {}

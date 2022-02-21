@@ -1,0 +1,42 @@
+---
+id: pioneer-of-the-stars
+
+en: p
+ja: ho
+furigana: ほしのかいたくしゃ
+title:
+  en: Pioneer of the Stars
+  ja: 星の開拓者
+  zh: 星之开拓者
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 134
+  category:
+  - skill
+  img: ""
+  en:
+    content: |-
+      Rider’s skill.
+      This is a special skill conferred upon the Heroic Spirit that triggered a major turning point in human history.
+      All difficult voyages and challenges which are considered “impossible” turn into “events that can be realized.”
+      A difficult journey that the measurement system of that era is one step short from enabling, to overcome it with normal human power alone. This ability isn’t something that only belongs to a few selected geniuses, it is the “pride” that can be found in any person, the power to completely exhaust it.
+      Francis Drake, who circumnavigated the globe and led England to a supremely dominant position in the world, is without mistake a great pioneer who pushed humanity———the globe to the next level.
+    note: {}
+  ja:
+    content: |-
+      ライダーが持つスキル。
+      人類史においてターニングポイントになった英雄に与えられる特殊スキル。
+      あらゆる難航、難行が“不可能なまま”“実現可能な出来事”になる。
+      その時代の記述力ではあと一歩たりない難行を、入間力だけで乗り越える力。それはひとにぎりの天才が持つ才能ではなく、ひとりの、どこにでもいる人間が持つ『誇り』を燃やし尽くす力でもある。
+      世界一周を為し、英国を世界の覇者に導いたフランシス・ドレイクは間違いなく人類───地球のターンを一つ進めた開拓者に相応しい。
+    note: {}
+  zh:
+    content: |-
+      Rider所持有的技能。
+      人类史上成为转折点的英雄所被赋予的特殊技能。
+      一切困难的航程、行程会“仍旧不可能”地变成“可以实现的事情”。
+      以这个时代的记述力还差一步的难行，仅凭人之力跨越的力量。这并非一少部分天才所拥有的才能，而是一个人的，随处可见的人类所拥有的“骄傲”，将其燃烧殆尽的力量。
+      为了环游世界一周，将英国引向世界霸者的弗朗西斯·德雷克是毫无疑问的人类——与让地球的turn进一的开拓者十分相称。
+    note: {}

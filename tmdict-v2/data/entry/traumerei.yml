@@ -1,0 +1,33 @@
+---
+id: traumerei
+
+en: t
+ja: to
+furigana: とろいめらい
+title:
+  en: Träumerei
+  ja: トロイメライ
+  zh: Träumerei
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 73
+  category:
+  - song
+  img: ""
+  en:
+    content: |-
+      A music composition by Robert Schumann. It is the seventh piece from the set of thirteen collectively called “Kinderszenen” (English: “Scenes from Childhood”). Träumerei means “to see a dream” in German, and in this case it might be most accurate to translate it as a “dream state of mind.”
+      It is the tune that Rikudou Reika played after being badgered by Assassin of “Black,” Jack the Ripper. However, Schumann didn’t actually compose this set of music pieces for children, but rather for adults to reminisce and yearn for their childhood—hence the allusion of a tune for the sake of seeing a dream. If Reika knew this, then perhaps she didn’t choose this tune just for Jack, but also to reveal the way she felt as if she were in a dream right now.
+    note: {}
+  ja:
+    content: |-
+      ロベルト・シューマン作曲。『子供の情景』全十三曲の内、七曲目にあたる。トロイメライはドイツ語で「夢を見る」という意味、この場合は「夢見心地」と訳した方が正しいかもしれない。
+      “黒”のアサシン、ジャック・ザ・リッパーにせがまれて六導玲霞が弾いた曲。だが、実はシューマンはこれらの曲は子供のためではなく、大人が子供時代を懐かしむための———夢を見るための曲と言及している。もし玲霞がそれを知っていたならば、彼女がこの曲を選んだのはジャックのためだけではなく、今が夢のようだという自分の心を露わにしたのかもしれない。
+    note: {}
+  zh:
+    content: |-
+      罗伯特·舒曼作曲，《童年即景》全13首中的第7首，Träumerei是德语中“作梦”的意思，在这个场合或许翻译为“宛如梦见”会更加正确。
+      “黑”Assassin开膛手杰克央求六导玲霞弹的曲子，不过实际上舒曼这一系列的曲子并不是为了小孩而作，而是为了让大人怀念儿时时光－为了让大人看见梦所做的曲子。如果玲霞知道这件事的话，或许她选择了这首曲子不单单只是为了杰克，同时也表现出“自己现在犹如在梦中”的想法也说不定。
+    note: {}

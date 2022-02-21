@@ -1,0 +1,33 @@
+---
+id: feend-vor-sembren
+
+en: f
+ja: fu
+furigana: ふぃーんどヴおるせるべるん
+title:
+  en: Feend vor Sembren
+  ja: フィーンド・ヴオル・セルベルン
+  zh: 芬德·沃尔·森贝伦
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 82
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A former “Red” Master. An elite magus sent by the Mage’s Association—the Clock Tower. He possesses skill worthy of being chosen to participate in the grand stage of the Great Holy Grail War, but he was put into a trance after drinking the tea that was offered to him. Naturally, he was on his guard and had defensive spells deployed, but it was all rendered meaningless by poison compounded by a Servant.
+      Perhaps because he ended up shamefully retiring before he even got to fight, the Sembren family gradually began to fall into ruin after this. His only son is currently struggling hard and making strenuous efforts in a certain classroom, though…
+    note: {}
+  ja:
+    content: |-
+      “赤”の元マスターの一人。魔術協会———時計塔から派遣されたエリート。聖杯大戦という大舞台に選ばれるだけの実力を有していたのだが、差し出された紅茶を飲んでバッドトリップ。もちろん用心していたし、防護用の魔術も張り巡らせていたのだがサーヴァントの調合した毒では、そんなもの全く意味がなかった。
+      戦う前に退場、というアレすぎる結果であったためか、これ以降セルベルン家は少しずつ零落していく。ただ一人、息子がとある教室で奮闘しているのだが……。
+    note: {}
+  zh:
+    content: |-
+      “红”方其中一名原Master，是由魔术协会－时钟塔派遣的新星。虽是个能被选上参加圣杯大战这种大舞台的实力派，却因喝下他人端来的红茶而陷入昏迷。虽然有做防备、也设置了防护用魔术，但对从者调制的毒来说那种东西毫无意义。
+      在开战前就退场，或许是因为这太过愚蠢的结果，从那之后赛尔贝伦家族逐渐凋零。虽然仍有一名子嗣在某间教室死命奋斗着，但……。
+    note: {}

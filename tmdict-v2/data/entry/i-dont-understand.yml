@@ -1,0 +1,42 @@
+---
+id: i-dont-understand
+
+en: i
+ja: wa
+furigana: わからない
+title:
+  en: I Don’t Understand
+  ja: わからない
+  zh: 我不知道
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 66
+  category:
+  - phrase
+  img: ""
+  en:
+    content: |-
+      Shiki’s catchphrase. Repeated every time he’s thrust into a new situation, and really implies wanting the reader themselves to understand the situation
+      Probably said over 100 times throughout <em>Tsukihime</em>, if you include Shiki’s monologues.
+      It was the catchphrase of the first-generation Shiki from <em>Kara no Kyoukai</em>, and <em>Tsukihime</em>’s Shiki inherited it from her. However, it seems that even the scenario director was surprised by how well it suited him.
+      Incidentally, even though we finally finished working on <em>Tsukihime</em> and should be taking time off to relax, for some reason we’re making this book instead.
+      I don’t understand…
+    note: {}
+  ja:
+    content: |-
+      志貴の口癖。なにか新しい事態に陥るたびに繰り返すが、いい加減わかって欲しいってもんである。
+      月姫全編でおそらく百回以上は言っているはず。（志貴のモノローグも含む）
+      初代である式が口癖を持っていたものだからこちらの志貴にも口癖を用意してもらったのだが、シナリオ担当の思惑以上に志貴的にジャストフィットしたらしい。
+      ……ところでようやく月姫が完成して楽になったっていうのに、どうして自分たちはこんな本を作ってるんだろう。
+      それこそ、よくわからない。
+    note: {}
+  zh:
+    content: |-
+      志贵的口头禅。虽然每次陷入新的事件时都会说，不过你也该知道了吧。
+      在月姬全篇大概讲超过百次。（含志贵的独白）
+      因为身为初作的式有着口头禅，所以这边的志贵也准备了口头禅给他，不过似乎比剧情负责人想像中还要更适合志贵。
+      ……是说明明月姬终于完成可以轻松了，为什么我们要做这种本子阿。
+      这才是真的我不知道。
+    note: {}

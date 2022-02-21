@@ -1,0 +1,48 @@
+---
+id: bloodthirsty-killer
+
+en: b
+ja: sa
+furigana: さつじんおに
+title:
+  en: Bloodthirsty Killer
+  ja: 殺人鬼
+  zh: 杀人鬼
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 24
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      A term that appears frequently in the original work. Since it’s not a good thing, I wonder if it was alright to use it as much as it was. Everybody, please don’t go out and become bloodthirsty killers, okay?
+    note: {}
+  ja:
+    content: |-
+      本編でちょくちょく出てくる単語。いいものではないので、あまり多用するのもどうかと思う。みんな、こーゆうのになっちゃダメだぞ。
+    note: {}
+  zh:
+    content: |-
+      在本篇被频繁使用的词汇，因为不是什么好东西，所以用太多次感觉不太好。大家可别变成这样喔。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 34
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      A term that is used incessantly in <em>Tsukihime</em>. Since it’s not a good thing, I wonder if it was okay to use as much as it was. Everybody, please don’t go out and become bloodthirsty killers, okay?
+    note: {}
+  ja:
+    content: |-
+      月姫本編で頻繁に使用される単語。いいものではないので、多用するのもどうかと思う。みんな、こーゆうのになっちやダメだぞ。
+    note: {}
+  zh:
+    content: |-
+      在月姬正篇中被频繁使用的单词。并不是什么好东西，所以用多了也不大好。大家，可不能变成这样哦！
+    note: {}

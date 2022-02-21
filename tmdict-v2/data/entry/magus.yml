@@ -1,0 +1,258 @@
+---
+id: magus
+
+en: m
+ja: ma
+furigana: まじゅつし
+title:
+  en: Magus
+  ja: 魔術師
+  zh: 魔术师
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 57
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      A general term for those who use magecraft, regardless of nationality or field of study.
+      They don’t get along well with the Church, and the two groups are constantly feuding behind the scenes.
+      However, they have pretty much nothing to do with the plot of <em>Tsukihime</em>. If you want more details, please refer to <em>Kara no Kyoukai</em>.
+    note: {}
+  ja:
+    content: |-
+      国籍・ジャンルを問わず魔術を扱う者たちの総称。
+      教会とは水面下で反目しており、仲はよろしくない。
+      月姫本編ではなんら関わりのない人たち。詳しくは空の境界を参照のコト。
+    note: {}
+  zh:
+    content: |-
+      不论国籍、类型，使用魔术的人们的总称。
+      与教会在台面下反目，不相信神。
+      跟月姬本篇没什么关系，详情请参照空之境界。
+    note: {}
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 6
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      Magi [singular: Magus] are practitioners of techniques for the artificial reenactment of Mysteries and Miracles, known as magecraft. Magi are born with a nerve-like system called Magic Circuit throughout their body, which is employed to convert life force into magical energy in order to wield magecraft. To be more specific, magecraft is the ability to reenact Mysteries and Miracles that could possibly be replicated through the efforts of human civilization of the era. On the other hand, Magic is the ability to enact Mysteries and Miracles that are impossible for human civilization to ever achieve through any method or means. In the present era, where almost anything is possible through science and human cooperation, most magecraft has ceased to be Magic, and supposedly a mere five Magic remain today.
+    note: {}
+  ja:
+    content: |-
+      魔力によって人為的に奇蹟や神秘を再現する、魔術と呼ばれる力の行使者。魔術師たちは生まれながらに持つ擬似神経「魔術回路」によって生命力を魔力に変換し、魔術の行使を行う。なお、ここで言う魔術とは、その時代の文明によって代用可能な神秘や奇蹟を指す。これに対して、その時代のいかなるものを使っても実現不可能な結果をもたらす奇跡を魔法と呼ぶ。文明や科学の進歩によって、次々に魔法は魔術へと格下げされて行き、現代に残された魔法はわずか5つのみと言われている。
+    note: {}
+  zh:
+    content: |-
+      以魔力人为地再现奇迹和神秘，行使被称为魔术之力的人。魔术师以天生持有疑似神经“魔术回路”将生命力变换为魔力，进行魔术的行使。顺带，这里说的魔术，指那个时代的文明可以代用的神秘或奇迹。与此相对的，带来就算使用那个时代的所有东西都不可能实现的结果的奇跡{{n1}}被称为魔法。因文明和科学的进步，魔法陆续向魔术降格，据说在现代残留的魔法仅剩5个。
+    note:
+      n1: "原文里魔术的奇迹为“奇蹟”，魔法为“奇跡”，汉字的不同应该是作区分用语，“奇蹟”更多的是用在宗教方面。"
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 21
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      Wizards. In Fate/EXTRA “Wizard” refers to A-class hackers.
+      Compared to your average hacker, wizards posses special abilities and can dive into the cyber world at a soul level.
+      Ordinary hackers fall into two categories:
+
+      - Visual Perception Digitization (only visual)
+      (This is done through a simple spinal insert interface connection.
+      Information is directly streamed into the brain, so they avoid the trouble of transforming each type of information into a digital signal. Favors input only.)
+
+      - Visual and Touch Perception Digitization.
+      (This is done through a wired connection from the nerves to the net. It allows a hacker to project the basic components of their being onto the net. Input/Output capable, and more powerful.
+      However, the user is unable to project a human form in the cyber world.
+      This is at best a simple projection, and as such is not recognized as a life form. Their existing circuit is read from their body, and they just manipulate that projection. They are unable to change or revise their circuit.)
+
+      However, wizards are capable of far more than that, they can digitize and spiritize their consciousness and physical body, creating a copy that is sent inside [the cyber world].
+      It is the materialization of soul inside the cyber world.
+      As for cyber bodies in SE.RA.PH, they refer to the spirit form of three components: body, mind, and soul.
+
+      Hacking knowledge and skills are not particularly important for wizards, physical ability and mental prowess are far more useful.
+      Having magic circuits (also known as imaginary nerves) in your body, and the ability to clearly conceptualize your digital self is essential to help translate the true essence of yourself accurately into a digital image in the cyber world.
+      The way of conceptualizing one’s digital image differs from wizard to wizard.
+      There are a variety of methods; some use computer processing,
+      others use meditation to give birth to their image,
+      and some even take drugs to escape from reality.
+      In present day 2030 Viritual Spiritron hacking has become possible through an external interface, but magus-class hackers remain a rarity.
+      Due to magus having human rights, even the West European Plutocracy couldn’t monopolize them. Aside from those under the control and management of the United Nations, there remains a never ending list of countries who try to harbor free magus behind closed doors.
+
+      ◆
+
+      The definition of life is considered to be “the ability to change the environment you live in through your own actions and of your own accord.”
+      Since wizards can intervene in the cyber world through their souls, Moon Cell accepts them as living, and thus their advance into the cyber world is possible.
+      Pioneering, expanding to new frontiers is, in a way, the greatest meaning and sin of mankind.
+      To wizards who posses this ability, it’s not too much to say that the cyber world is like a second reality.
+      A physical body is merely a “home” of sorts to a wizard.
+      If the physical body of a wizard on Earth were to die, it would simply mean that they would not be able to return “home,” and they would remain in the cyber frontier. As long as their existence in the cyber world is not destroyed, their soul would not disappear.
+      (However, the empty shell that is a Wizard’s real physical body protects them from change in the cyber world, and the loss of it will quite easily and unavoidably transform the structure of their intelligence, as well as their sense of values.)
+      To a wizard, the only true death is the death of their cyber existence.
+      Only after their souls have burned out and crumbled away will they become scrap that is no longer able to be revived.
+    note:
+      n1: "In <em>Fate/EXTRA Material</em>, this entry appears under the あ section (instead of ま)."
+  ja:
+    content: |-
+      ウィザード。EXTRAにおけるA級ハッカー。
+      通常のハッカーに比べて、魂レベルで電脳空間にダイブできる異能者。
+      通常のハッカーは、
+
+      ・視覚のみの電子変換。
+      （脊髄挿入型のインターフェイスによる簡易接続。
+      情報を直接脳に送り込めるので、各種情報をデジタル変換する手間が省ける。恩恵はインプットのみ）
+
+      ・視覚、触覚の電子変換。
+      （有線でネットに神経を繋げ、存在階梯を電子上のものとする。インプット、アウトプット、ともに能力向上。ただし電脳空間では人間としてのカタチは作れない。
+      あくまで一端末としての介入で、生命とは認められない。既存の回路を閲覧し、操作するだけ。回路そのものの変更・改革は不可能）
+
+      となるのだが、ウィザードはその上、自己の精神、自己の肉体を電子化ならぬ霊子化し、分身として送り込める。
+      即ち、電脳空間における魂の物質化である。
+      SE.RA.PHにおける電脳体とは、肉体・精神・魂の三要素を霊子化したものを指す。
+
+      必要なものはハッカーとしての知識・技術ではなく、肉体・精神的な才能[タレント]。
+      魔術回路と呼ばれる架倥神鰹を肉体に持ち、自身の本質を電脳として明確に数値化[イメージ]できる異才が必要となる。
+      このイメージ化の方法はウィザードごとに異なる。
+      演算処理によってデジタル化する者もいれば、
+      瞑想によってイメージを生み出すもの、
+      薬物投与によって逃避するもの、と様々。
+      2030年現在、疑似霊子ハッキングは外付けのインターフェイスで可能となったが、魔術師クラスのハッカーは希少である。
+      魔術師には人権があるため、西欧財閥すら独占できない。国連が管理、所属させるものとされているが、フリーの魔術師たちを秘密裏に囲おうとする国は後を絶たない。
+
+      ◆
+
+      生命の定義とは、住んでいる環境を自身の意志・行動によって変革できるもの、とされる。
+      魂を以て電脳空間に介入したウィザードはムーンセルによって生命と認められ、電脳空間における開拓が可能となる。
+      開拓……フロンティア、パイオニア……こそ人間が行うもっとも大きな意義にして罪。
+      その可能性をもったウィザードにとって、電脳空間は第二の現実と言っても過言ではない。
+      ウィザードにとって肉体はあくまでホーム。
+      仮に地上にある自分の肉体が死んでしまっても家に帰れなくなるだけで、開拓地に留まり、そこで消滅しないかぎり、魂が消え去る事はない。
+      （ただし『変化から自分を護る』殻である実肉体が失われると、その知性体の構造・価値観はたやすく変貌していくため、変質は避けられないが）
+      ウィザードにとって本当の死は電脳死。
+      電脳空間で魂が焼け落ちた時こそ、彼らは再生不可能の塵になるのである。
+    note: {}
+  zh:
+    content: |-
+      Wizards。EXTRA中的A级黑客。
+      比起通常的黑客，可以做到魂水平的电脑空间潜入的异能者。
+      通常的黑客是，
+
+      ·视觉上的电子变换。
+      （脊髓插入型的接口进行简易连接。
+      将情报直接送入脑中，节省了将各种情报变换成数据的步骤。其恩惠只是输入方面的）
+
+      ·视觉、触觉的电子变换
+      （将神经与有线网络连接，存在阶梯化作电子上的东西。输入，输出，所有能力全部提高。但是电脑空间并无法做出人类的形态。
+      不过是作为一个终端介入，并不被作为生命被承认。只能对已经存在的回路进行阅览，操作。对回路本身的变更·改革是不可能的。）
+
+      但是，魔术师则是在那之上的，可以将自己的精神，自己的肉体电子化与灵体化，作为分身送入其中。
+      既，于电脑空间中达成魂的物质化。
+      SE.RA.PH中的电脑体，既是指将肉体·精神·魂的三要素灵体化的东西。
+
+      必要的东西并非作为黑客的知识·技术，而是肉体·精神的才能[Talent]。
+      拥有被称作魔术回路的架空神经的肉体，将自身的本质于电脑中作为明确的数值化[Image]的特殊才能时必要的。
+      这个Image化的方法每个魔术师都是不同的。
+      有通过演算处理而数字化的，
+      也有通过冥想而产生Image的，
+      还有通过使用药物来逃避出来的，等多种多样的。
+      2030年的现在，基于疑似灵子Hacking的外置接口成为可能，但是魔术师类的黑客依旧稀少。
+      因为魔术师也有人权，所以西欧财团也无法独占。除了联合国管理，所属下的那些，秘密窝藏自由的魔术师的国家络绎不绝。
+
+      ◆
+
+      生命的定义，被认为是基于居住的环境而以自身的意志·行动来变革的东西。
+      以魂来介入电脑空间的魔术师被Moon Cell作为生命所承认，使电脑空间的开阔成为可能。
+      开阔……Frontier、Pioneer……这是对人类来说最大的意义与罪行。
+      那可能性对魔术师来说，电脑空间作为第二个现实并非言过其实。
+      对于魔术师肉体不过是个站点。
+      就算留在地上的自己的肉体死去而无家可归，只要留在开阔地，在那里不被消灭，灵魂就不会消失。
+      （但是失去了作为“从变化中保护自己”的壳的实际肉体的话，其作为知性体的构造·价值观会很容易改变，无可避免的变质。）
+      对于魔术师来说真正的死是电脑死。
+      在电脑空间中灵魂烧尽之时，他们将会做不可能复原的灰尘。
+    note: {}
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 22
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      One capable of wielding magecraft. Mages pursue mysteries, and strive to reach the Root.
+    note: {}
+  ja:
+    content: |-
+      魔術を操る者。神秘を探求し、根源への到達を目指している。
+    note: {}
+  zh:
+    content: |-
+      使用魔术之人。探求神秘，目标是到达根源。
+    note: {}
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 9
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      Wizards are the A-Rank hackers in the <em>Fate/EX</em> series. Compared to other hackers, they possess an unusually high level of talent and gift, and can send their very souls into SE.RA.PH.
+      They transform their souls, minds, and bodies not into digital information, but into spiritrons. With their engineering skills, they can then use these avatars to navigate cyberspace.
+      In other words, they are able to fashion “physical” shells, called Cyber Frames, within the digital world. Cyber Frames being the combined spiritron embodiment of body, mind, and spirit in SE.RA.PH.
+      While knowledge and skill are both obviously important to hackers, what’s most important is talent of both mind and body.
+      To be a true hacker, one must have the rare ability to clearly imagine the nature of one’s body virtually as a sequence of numbers, utilizing a set of “virtual nerves” known as “magical circuits.”
+
+      Sentient beings within the digital world, whether they have truly physical bodies are not, can still be considered “alive,” in that they can affect change in their environments according to their own will and conditions.
+      The Moon Cell recognizes beings with this ability, and allows them to explore its virtual space, pioneering new frontiers — as has been mankind’s greatest purpose, and greatest sin.
+      For Wizards who have access to these possibilities, one could even say that cyberspace is a second reality to them. A Wizard’s original body, back on Earth, is merely its “house.” Even if one’s body on Earth should perish, they will be only be unable to return to that house, and nothing more. They can remain in the new frontier of cyberspace, and as long as they are not extinguished there, their soul will continue to exist.
+      (However, Wizards who do lose their physical bodies also lose those bodies’ natural resistance to change. While they can continue to exist, their thought processes and value structures easily bend and warp, and a change of nature becomes as unavoidable.)
+      For a Wizard, “death” is the death of his or her digital brain. The moment his or her soul burns out in the cyber world, they irreversibly turn to dust.
+      The Main Character is a Wizard who now lacks a body on Earth, due to past events explained in a previous game, <em>Fate/EXTRA</em>.
+    note: {}
+  ja:
+    content: |-
+      ウィザード。『Fate/EX』シリーズにおけるA級ハッカー。通常のハッカーに比べて、魂レベルで電脳空間にダイブできる異能者。
+      自己の精神、自己の肉体を電子化ならぬ霊子化し、分身として電脳空間に送り込める技術者。
+      電脳空間における魂の物質化を可能にするもの。SE.RA.PHにおける電脳体とは、肉体　精神　魂の三要素を霊子化したものを指す。
+      必要なものはハッカーとしての知識　技術ではなく、肉体　精神的な才能。
+      魔術回路と呼ばれる架空神経を肉体に持ち、自身の本質を電脳として明確に数値化できる異才が必要となる。
+
+      生命の定義とは、住んでいる環境を自身の意志　行動によって変革できるもの、とされる。
+      魂を以て電脳空間に介入したウィザードはムーンセルによって生命と認められ、電脳空間における開拓が可能となる。
+      開拓……フロンティア　パイオニア……こそ人間が行うもっとも大きな意義にして罪。
+      その可能性をもったウィザードにとって、電脳空間は第二の現実と言っても過言ではない。
+      ウィザードにとって地上の肉体はあくまでホーム。
+      仮に地上にある自分の肉体が死んでしまっても家に帰れなくなるだけで、開拓地に留まり、そこで消滅しないかぎり、魂が消え去る事はない。
+      （ただし「変化から自分を護る』殻である実肉体が失われると、その知性体の構造　価値観はたやすく変貌していくため、変質は避けられないが）
+      ウィザードにとって本当の死は電脳死。電脳空間で魂が焼け落ちた時こそ、彼らは再生不可能の塵になるのである。
+      主人公はある理由から地上の肉体を持たないウィザードであり、その経緯は旧作『Fate/EXTRA』で語られている。
+    note: {}
+  zh:
+    content: |-
+      魔术师[Wizard]。《Fate/EX》系列中的A级骇客。与普通骇客相比，该种异能者能对电脑空间进行灵魂等级的潜入。
+      可将自己的精神与肉体转换为有别于电子的“灵子”， 作为分身送进电脑空间的技术者。
+      拥有能够在电脑空间中将灵魂化为物质的技术。在SE.RA.PH，电脑体是指将肉体、精神、灵魂三要素灵子化后的存在。
+      所需要的不是骇客的知识与技术，而是肉体与精神上的才能[Talent]。
+      也就是说，肉体上必须拥有被称为魔术回路的虚构神经，并具备能将自己的本质作为电脑明确数值化的特异才能。
+
+      生命的定义是，能凭藉自己的意志与行动，为居住环境带来变革的存在。
+      以灵魂介入电脑空间的魔术师被Moon Cell认可为生命的一种，从而能在电脑空间进行开拓
+      开拓……开拓者[Frontier]、拓荒者[Pioneer]……正是人类最具意义的功绩，亦为罪行。
+      对拥有这份可能性的魔术师来说，电脑空间就算说是第二现实也不为过。
+      对魔术师而言，地球上的肉体终究只是家。
+      即使自己在地球上的肉体死去，也只是无法回家而已。
+      只要留在开拓地并确保不在该处消灭，灵魂就不会消失。
+      （但是，肉体是让人得以“从变化中保护自己”的外壳。若失去肉体，知性体的构造与价值观很容易改变，因此难以避免其产生变质。）
+      对魔术师而言，真正的死亡乃是电脑死。
+      灵魂在电脑空间内燃尽之时，他们将化为无法再生的尘埃。
+      由于某种理由，主角虽为魔术师却没有在地球上的肉体，其经过在旧作《Fate/EXTRA》中有所描述。
+    note: {}

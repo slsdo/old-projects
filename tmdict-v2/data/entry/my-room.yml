@@ -1,0 +1,48 @@
+---
+id: my-room
+
+en: m
+ja: ma
+furigana: まいるーむ
+title:
+  en: My Room
+  ja: マイルーム
+  zh: 个人房间
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 137
+  category:
+  - location
+  img: ""
+  en:
+    content: |-
+      My Room refers to the private room given to each Master.
+      It is one of the few places where you can catch a break from the serious atmosphere of the Holy Grail War.
+      My Room is a completely private space, and anything that happens or is discussed inside will never be leaked or overheard.
+      Even though Moon Cell is also recording it, only under special circumstances can it be browsed.
+      By default it’s just a regular classroom, but depending on a Master’s codecast skills it can change in various ways.
+      The protagonist is unable to change the interior design, but someone on the level of Leo or Rin can completely customize everything.
+      Cas-ko’s room in CCC is missing the Yes/No pillows, and instead Agree/Disagree pillows have been unscrupulously implemented.
+    note: {}
+  ja:
+    content: |-
+      マスターひとりひとりに与えられた個室。
+      ギスギスした聖杯戦争において、ほっと一息つける憩いの場。
+      完全なプライベート空間で、ここでの会話や出来事は決して外部には漏れない。
+      ムーンセルも記録こそしているものの、これを閲覧する事は特例事項が起きた時だけである。
+      デフォルト状態はただの教室だが、マスターのコードキャスト技術次第でいかようにも変化する。
+      主人公はインテリアを置くことぐらいしかできなかったが、レオや凛クラスになると内装をがらりとカスタマイズしている。
+      CCCのキャス狐ルームには「イエス・ノー枕」ならぬ「是・非ノ枕」があざとく配置されている。
+    note: {}
+  zh:
+    content: |-
+      Master各自被赋予的个人房间。
+      在冷漠的圣杯战争中，真的是让人喘口气的休息场所。
+      完全的私人空间，这里的会话和发生的事情绝不会泄露到外部。
+      虽然Moon Cell也有在记录，阅览这个仅限于发生特例事项的时候。
+      默认状态就是个教室，凭借Master的Code Cast技术会接连产生任意的变化。
+      主角没能配置内部[Interior]，但是雷欧或者凛这个等级的话，内部装潢自定义[Customize]的百叶窗。
+      CCC的Cas狐Room不是“Yes·No枕头”，而是配置“是·非枕头”的小聪明布置。
+    note: {}

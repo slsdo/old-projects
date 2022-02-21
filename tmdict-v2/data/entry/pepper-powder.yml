@@ -1,0 +1,37 @@
+---
+id: pepper-powder
+
+en: p
+ja: ha
+furigana: はなはじかみこ
+title:
+  en: Pepper Powder
+  ja: 花椒粉
+  zh: 花椒粉
+
+entry:
+- source: character-material
+  section: prelude-explanation
+  order: 8
+  category:
+  - spice
+  img: ""
+  en:
+    content: |-
+      Hua Jiao Fen.{{n1}}
+      The product of grinding cooked peppers with mortar and pestle. It was the spice that represented Chinese cuisine. It was said the pepper powder of Sichuan was exceptionally hot, spicy, and aromatic. It could burn through your tongue.
+      Needless to say, it was an essential ingredient of Mapo Tofu.
+    note:
+      n1: "Apparently Nasu wanted to emphasize this is the specific type of pepper found in Sichuan cooking."
+  ja:
+    content: |-
+      ホワジャオフェン。
+      炒った花椒をすり鉢ですりつぶしたもの。中華料理の代表的な調味料。特に四川のものは辛く熱く香り高く、舌を刺す程だとか。
+      言うまでもありませんが、麻婆豆腐には欠かせないアイテムです。
+    note: {}
+  zh:
+    content: |-
+      花椒粉。
+      在研钵中放入炒过的花椒将其研碎后的产物。是中华料理的代表调味料。据说特别是四川的花椒粉，又辣又热又香，可以将舌头都刺穿。
+      不用说，它是麻婆豆腐不可或缺的材料。
+    note: {}

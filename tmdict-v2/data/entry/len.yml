@@ -1,0 +1,114 @@
+---
+id: len
+
+en: l
+ja: re
+furigana: れん
+title:
+  en: Len
+  ja: レン
+  zh: 莲
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 63
+  category:
+  - person
+  - familiar
+  img: dokuhon_len.png
+  en:
+    content: |-
+      Arcueid’s familiar. A succubus. Normally found hanging around Arcueid in the form of a black cat.
+      She is a succubus that can enter other people’s dreams, and is responsible for causing the wet dream Shiki had about Arcueid, Ciel, Akiha, or Hisui.
+      Though she does not appear in the original work, she is a young girl of about ten years old.
+      She has calm expressions, and wears a black coat with a big ribbon in her hair. It’s no exaggeration to say that her charm is enough to completely overshadow the other heroines.
+      She even had character illustrations and sex scenes finished and ready to go, but in the end they didn’t make it in.
+      She was going to be a secret heroine in <em>Tsukihime</em>, but we had to throw that idea out due to scheduling issues.
+      If you happen to have a copy of the bonus book that came packaged with the Half-moon edition, you can actually see her listed on the sub-characters page.
+    note: {}
+  ja:
+    content: |-
+      アルクェイドの使い魔。夢魔。普段は黒猫としてアルクェイドの傍にいる。
+      他者の夢に入りこむ夢魔で、志貴がアルクェイドやシエル、はては秋葉や翡翠との艶夢を見てしまったのは彼女が原因。
+      本編では出てこないが、十歳ほどの少女。
+      物静かな面持ちに黒いコートを着て、おっきなリボンをしている。お世辞抜きにして他のヒロインが霞んでしまうぐらい愛らしい。
+      ちゃんとキャラ絵もあり、Hシーンだって用意されていたのだが登場できなかった。
+      月姫におけるトップシークレットとして予定されていたが、スケジュールのために今回はパス。
+      半月版でのおまけ本を持っている人はサブキャラクターのページを見てピン!とくるかも。
+    note: {}
+  zh:
+    content: |-
+      爱尔奎特的使魔。梦魔。平常化成黑猫待在爱尔奎特身边。
+      能够进入他人梦境的梦魔，志贵会看到爱尔奎特、雪儿、秋叶或翡翠的艳梦就是因为她。
+      在本篇中没有登场，外表是十岁左右的少女。
+      文静，穿着黑色外衣，绑着很大的蝴蝶结。不讲客套话的话，就是可爱到其他女主角都要黯然失色。
+      虽然角色图好好的，连H镜头都有准备，却没得登场。
+      虽然预定在月姬里是最高机密，不过因为行程的关系所以这次就先跳过。
+      有半月版附录本的人如果看了配角那页说不定会想到什么。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 101
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Arcueid’s familiar. A succubus. Normally found hanging around Arcueid in the form of a black cat.
+      She is a succubus that can enter other people’s dreams, and is responsible for causing the wet dream Shiki had about Arcueid, Ciel, Akiha, or Hisui.
+      She does not appear in the original work, but her outward appearance is that of a young girl of about ten years old. She has calm expressions, and wears a black coat with a big ribbon in her hair. It’s no exaggeration to say that her charm is enough to completely overshadow the other heroines.
+      She appears as a guest heroine in Kagetsu Tohya.
+      …Well, she wasn’t so much a guest as she was the core of the story, actually.
+      Though at first it may seem that she is unable to speak, her voice box is intact and she can understand human language. Apparently she has simply decided not to talk for some reason. In <em>Re-ACT</em>, she only has a single spoken line.
+      Also, her pixel art in <em>Re-ACT</em> is, in a word, amazing. If she had a voice to match, she’d probably be able to conquer the entire world.
+      Because she never talks, it’s hard to really understand her personality, but basically she’s the type that likes to quietly spend her time alone. Just like a cat, she is haughty and fickle, but prone to sudden bursts of attention-seeking craziness as well.
+    note: {}
+  ja:
+    content: |-
+      アルクェイドの使い魔。夢魔。普段は黒猫としてアルクェイドの傍にいる。
+      他者の夢に入りこむ夢魔で、志貴がアルクェイドやシエル、果ては秋葉や翡翠との艶夢を見てしまったのは彼女が原因。
+      本編では出てこないが、外見は十歳ほどの少女、物静かな面持ちに黒いコートを来て、おっきなリボンをしている。お世辞抜きにして他のヒロインが霞んでしまうぐらい愛らしい。
+      歌月十夜でゲストヒロインとして登場。ゲストと言いながら、歌月十夜はレンを主体とした物語である。
+      口がきけないと思われているが、発声器官はあるし人語も理解しているので、『言葉を使用しない』という決まりで活動しているだけのようだ。リアクトではわずか一言だけ、レンとしての台詞があったりする。
+      リアクトでのドットパターンは素晴らしいの一言。あの可愛らしさに声があったら天下を狙えたやもしれぬ。
+      喋らないので性格が掴みづらいが、基本的に一人で静かに過ごすタイプ。その中に猫特性の気位の高さと移り気、唐突に甘えてくる突拍子の無さをもっている。
+    note: {}
+  zh:
+    content: |-
+      爱尔奎特的使魔。梦魔。一般以黑猫形态出现在爱尔奎特的身边。
+      能够进入别人梦境的梦魔，志贵会梦见有关爱尔奎特，雪儿，乃至秋叶和翡翠的艳梦就是她的缘故。
+      本篇没有出现，外表是十岁左右的少女。表情平和，穿着黑色的外套，脑袋后绑着好大的发带。不谙世事、让其他女主角都黯然失色的可爱。
+      歌月十夜的客串女主角，虽说是客串，但歌月十夜主要是以莲为主题的故事。
+      让人觉得无法开口的她，其实既有发声器官也能理解人的语言，只是打定主意在“不使用语言”的情况下活动着而已。Re·Act中仅有的一句话，作为莲的台词。
+      因为不说话所以性格很难把握，基本上一个人安静过活的类型。其中猫特性的高雅气度变化不定，会唐突地来撒娇也不诧异啊。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 72
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Arcueid’s familiar. A succubus. Normally found hanging around Arcueid in the form of a black cat.
+      A guest heroine in <em>Kagetsu Tohya</em>, she was the one responsible for creating the eternally looping day. She is a succubus that can enter other people’s dreams, and due to various events is currently living at both the Tohno mansion and Arcueid’s apartment.
+      In short, Arcueid is her contractual master, while Shiki is the master she chose herself.
+      Though at first it may seem that she is unable to speak, her voice box is intact and she can understand human language. Apparently she has simply decided not to talk for some reason.
+    note: {}
+  ja:
+    content: |-
+      アルクェイドの使い魔。夢魔。普段は黒猫としてアルクェイドの傍にいる。
+      “歌月十夜”でのゲストヒロインで、永遠に繰り返す一日を作り上げていた。他者の夢に入りこむ夢魔で、様々な経緯を経て、いまでは遠野家とアルクスイドの部屋を住み家にしている。
+      アルクェイドは契約上の主人、志貴は自分が選んであげた主人、と区別している。
+      口がきけないと思われているが、発声器官はあるし人語も理解しているので、「言葉を使用しない」という決まりで活動しているようだ。
+      喋らないので性格が掴みづらいが、基本的に一人で静かに過ごすタイプ。その中に猫特性の気位の高さと移り気、唐突に甘えてくる突拍子のなさをもっている。
+    note: {}
+  zh:
+    content: |-
+      爱尔奎特的使魔。梦魔。平常是作为黑猫在爱尔奎特的旁边。
+      “歌月十夜”的临时女主角，造成了永远重复的一日。作为进入他人的梦的梦魔，经验过各种各样的经历，现在把远野家和爱尔奎特的屋子作为住所。
+      爱尔奎特是契约上的主人，志贵是自己所选择的主人，这种区别。
+      被认为不会说话，但因为有发音器官又理解着人的语言，好象以“不使用语言”这个决定活动着那样。
+      因为不说话所以性格不好掌握，但基本上是一个人安静地过活的类型。其中有着猫特性的高傲与反复无常，突然地撒娇也不出奇。
+    note: {}

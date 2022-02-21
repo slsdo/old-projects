@@ -1,0 +1,55 @@
+---
+id: true-assassin
+
+en: t
+ja: shi
+furigana: しんあさしん
+title:
+  en: True Assassin
+  ja: 真アサシン
+  zh: 真Assassin
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 41
+  category:
+  - servant
+  img: ""
+  en:
+    content: |-
+      The real Heroic Spirit of assassinations.
+      He was summoned by Matou Zouken, and came into the world using Sasaki Kojirou’s body.
+      With his white skull mask and black robes, he is the stereotypical assassin.
+      Ability-wise he’s a little underwhelming, but he’s an easy Servant to use. In contrast to his unsettling outward appearance, he’s actually quite loyal, and will faithfully serve somebody he’s acknowledged as his master to the bitter end.
+      Because he is merely one of many wraiths (Heroic Spirit candidates) swarming around the name “Assassin,” his basic parameters are low. To compensate for this, he modified his own body, and so was able to stand against the other Servants.
+      There is no face beneath his mask. His skin and nose have been shaven off, transforming him into “nobody.” That is what it means to become the Old Man of the Mountain.
+      When he was first summoned, he barely had any intelligence at all, but by acquiring Lancer’s heart he rapidly powered up. Afterward, he was influenced by Lancer’s personality.
+      By the way, it seems that he was particularly attached to his dirks, because he would always take care to gather them all up before returning from a battle.
+    note: {}
+  ja:
+    content: |-
+      真の暗殺者の英霊。
+      問桐臓硯によって召喚され、佐々木小次郎の肉体を利用して現界する。
+      白い偶懐面と黒いローブという、ステレオタイプの暗殺者。
+      能力的にはパッとしないが、使い勝手のいいサーヴァント。
+      不気味な外見の割には忠義に厚く、主と認 めた人物は決して裏切らない。
+      もとから“アサシン”という名称で群をなす亡霊（英 霊候補）なので、能力そのものは低い。
+      それを補う為に自身の肉体を改造し、他のサーヴァントたちに対抗している。
+      仮面の下の素顔は無い。皮と鼻を殺ぎ落とし
+      “誰でもなくなる”事によって、山の主の座を受け継ぐのだ。
+      現界時は知性が乏しかったが、ランサーの心臓を得る事で飛躍的にパワーアップ。
+      以後、ランサーの人格に影響を受けていた。
+      ちなみに使用していたダークに愛着があるのか、戦闘後はきちんと拾って帰ります。
+    note: {}
+  zh:
+    content: |-
+      真正的暗杀者之英灵。
+      由间桐脏砚所召唤，利用佐佐木小次郎的肉体现界。
+      白色的骷髅面具于黑色袍子这种，老套[stereotype]的暗杀者。
+      能力上虽不起眼，但方便好用的Servant。相较于毛骨悚然的外表来笃于忠义，决不背叛承认为主的人物。
+      因为原本是以“Assassin”这个的名称成群的亡灵（英灵候补），能力本身低下。为了弥补它而改造自身的肉体，对抗其他Servant们。
+      假面具下的本来面貌没有。削落皮和鼻子，藉由“变得谁都不是”，继承山之主的位置。
+      现界时缺乏知性，但以得到Lancer的心脏而飞跃性地提升[power up]。之后，受到Lancer人格的影响。
+      顺便一提，对使用的短刀[dirk]有留恋，战斗后会好好地捡回来。
+    note: {}

@@ -1,0 +1,39 @@
+---
+id: heavens-corpse
+
+en: h
+ja: te
+furigana: てんのなきがら
+title:
+  en: Heaven’s Corpse
+  ja: 天の亡骸
+  zh: 天之亡骸
+
+entry:
+- source: angel-voice
+  section: notes
+  order: 17
+  category:
+  - type_venus
+  img: ""
+  en:
+    content: |-
+      An Aristoteles estimated to be a thousand meters long. It appeared after the Great War and was flying in the sea of clouds. Its shape was never confirmed by anyone, and its details was unknown.
+      A life form that had a pair of wings, and compared to the other Aristoteles’s, it was close to this planet’s species.
+      According to the records, it was shot down in the mission by the Knights in the 83rd year of the new calendar, and it fell somewhere on the continent. Originally, it was a life form that lands on the earth of a planet, rooting itself, and spreading its spore as it eats away the planet. It can also be described a gigantic carnivorous plant.
+      ……It was put to an eternal sleep by the Black Barrel.
+    note: {}
+  ja:
+    content: |-
+      全長千メートルと推定されたアリストテレス。大戦以後に出現し、雲海の中を飛行していた。その姿を確認した者はいなく、形態は定かではないとヒト人は言っている。
+      二枚の翼らしきモノを生やした生命体で、他のアリストテレスに比べるとこの星の生命系統樹に近い。
+      記録では新暦八十三年に騎士団たちによる壊滅作戦によって撃墜、大陸のいずこかに落下したとのこと。本来はその惑星の地表に落下し、大地に根を張り、自分の分身となる胞子を撒き散らして惑星上を食い散らす生命種。巨大な動食植物と言えるかも。
+      ……ブラックバレルによって眠りについた。
+    note: {}
+  zh:
+    content: |-
+      推测全长达千米的亚里士多德。出现于大战之后，飞行于云海之中。没人确认过其存在，人们都传说它形态并不固定。
+      是个生有一对类似羽翼之物的生命体，与其他亚里士多德相比，更接近这个行星的生命系统树。
+      根据记录，在新历八十三年，由众骑士团的毁灭作战击坠，坠落到大陆某处。原本它是降落在行星地表，植根于大地，扩散自己的分身――也即孢子――将行星啃食殆尽的生命体。可以说是巨大的食肉植物。
+      ……现正因Black Barrel陷入沉睡。
+    note: {}

@@ -1,0 +1,33 @@
+---
+id: sighisoara
+
+en: s
+ja: shi
+furigana: しぎしょあら
+title:
+  en: Sighișoara
+  ja: シギショアラ
+  zh: 锡吉什瓦拉
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 50
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      The name of a real place. It is a Romanian provincial city to the northwest of the capital Bucharest, and it is where Vlad Tepes…Vlad III’s parental home is preserved. It has a long and old history, having been formed primarily as part of colonization from Germany in the 12th century. The old town district in particular is a precious place where buildings from the Middle Ages still remain as they were in the past.
+      Trifas was conceived using this city as a model, while also made so as not to be eye-catching as a tourist attraction in comparison.
+    note: {}
+  ja:
+    content: |-
+      実在の土地名。首都ブカレストの北西にあるルーマニアの地方都市、ヴラド・ツェペシュ……ヴラド三世の生家が保存されている。歴史は古く、十二世紀にやってきたドイツからの植民が中心となって街を形成した。旧市街地は特に中世の建物がそのまま残っている貴重な場所。
+      トゥリファスはこの街をモデルにして、観光地として目を惹かないように作られた。
+    note: {}
+  zh:
+    content: |-
+      真实存在的土地名。在首都布加勒斯特西北边的罗马尼亚地方都市，弗拉德·采佩什……弗拉德三世出生的家被保存在此。历史古老，以十二世纪来自德国的殖民为中心发展成城市。旧市街地是特别将中世纪建筑物以原样保存着的重要区域。
+      图利法斯正是为了不引人注意，以这个城镇为范本作为观光地造出的城市。
+    note: {}

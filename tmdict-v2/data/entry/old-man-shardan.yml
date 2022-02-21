@@ -1,0 +1,33 @@
+---
+id: old-man-shardan
+
+en: o
+ja: shi
+furigana: しゃるだんおきな
+title:
+  en: Old Man Shardan
+  ja: シャルダン翁
+  zh: 夏尔丹翁
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 28
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Upon purchasing the El-Melloi Classroom, the first second grade professor El-Melloi II was able to convince to join.
+      Though his Magic Circuits and family history were nothing particularly special, he had an oddly broad number of connections in the Clock Tower, and boasted a number of underhanded tricks. Up until El-Melloi II’s abduction by Reines, a large portion of the Classroom’s ability to run smoothly could be traced back to this man.
+    note: {}
+  ja:
+    content: |-
+      II世がエルメロイ教室を買い取った際、最初に口説いた二級講師。
+      本人の魔術回路や家の後ろ盾は大したことがないのだが、時計塔でのコネクションは異様に広く、さまざまな裏技に長けている。II世がライネスに誘拐されるまで、教室を無事に運営できたのも、この老人によるところが大きい。
+    note: {}
+  zh:
+    content: |-
+      二世收购埃尔梅罗教室时，最早游说过来的二级讲师。
+      本人的魔术回路和家族后盾虽然算不上什么，但在时钟塔中的门路却异样的广阔，还擅长各种各样的秘技。在二世被莱妮丝诱拐之前，教室能够顺利地营运下去，很大程度上都是多亏了这位老人家。
+    note: {}

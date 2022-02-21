@@ -1,0 +1,30 @@
+---
+id: mana-compass
+
+en: m
+ja: ma
+furigana: まりょくはり
+title:
+  en: Mana Compass
+  ja: 魔力針
+  zh: 魔力指针
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 98
+  category:
+  - magecraft-term
+  img: fzavg1_mana-compass.png
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      常により強い魔力のある方向を指すという計測器。少し早い誕生日プレゼントとして時臣から凛へと贈られた。
+    note: {}
+  zh:
+    content: |-
+      指向存在异常强大魔力方向的仪表。在稍早前被时臣当作生日礼物[Present]赠送给了凛。
+    note: {}

@@ -1,0 +1,36 @@
+---
+id: bbb
+
+en: b
+ja: hi
+furigana: びびび
+title:
+  en: BBB
+  ja: BBB
+  zh: BBB
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 121
+  category:
+  - other
+  img: fem_bbb.png
+  en:
+    content: |-
+      BBB is an invincible anti-Servant robot of annihilation that we planned on putting into chapter three.
+      It was supposed to have been made from parts and pieces of old arenas, but ended up just being an easy to make alternate color version of BB. To differentiate BBB from BB, we made BBB the size of a Gundam. She would have probably made for a pretty disappointing boss. However BBB was supposed to be more honest about her feelings than BB, so that could’ve been pretty cute.
+      Passionlip said that “BBB’s not cute” and supposedly crushed her for that reason, but perhaps it’s best not to say the real reason.
+    note: {}
+  ja:
+    content: |-
+      三章で登場が予定されていた、対サーヴァント用無敵繊滅ロボ。
+      廃棄されたアリーナをまるごと部品として使ったというが、所詮はBBの色違いコンパチキャラか、差別化ができてガンダムサイズ、ぐらいのガッカリボスだったと予想される。でも本人より素直な分、きっと可愛い。
+      リップは「可愛くないから」という理由で潰したが、本当の理由は何だったかは言わぬが華か。
+    note: {}
+  zh:
+    content: |-
+      本来预定在第三章登场的，对Servant用无敌歼灭机器人。
+      说是用废弃掉的整个竞技场制作而成的，但终究只是跟不同色的BB衍生角色，本来的设想只是能跟本尊区分开来的Gundam大小的，令人失望的萝卜而已。不过倒是因为比本尊更坦率，一定更可爱吧。
+      虽然Lip辩解说是“因为她一点都不可爱”而把她给毁了，但真正的理由是什么，我想不用明说吧。
+    note: {}

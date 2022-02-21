@@ -1,0 +1,146 @@
+---
+id: atlas-institute
+
+en: a
+ja: a
+furigana: あとらすいん
+title:
+  en: Atlas Institute
+  ja: アトラス院
+  zh: 阿特拉斯院
+
+entry:
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 5
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      One of the three major branches of the Association. Located in the Atlas mountains of Egypt, it is a place where those dedicated to the study of alchemy gather.
+      Unlike the modern alchemy that rose to prominence in the middle ages, the alchemy studied by Atlas could be said to be the progenitor of magecraft, and an attempt to unravel the truth of the world.
+      For some reason they are on extraordinarily bad terms with the Prague Association, and even the Clock Tower, the very heart of the Association, keeps their distance. They are colloquially known as the Giant’s Pit.
+      In order to avoid the “end” proven by their first director, they endlessly create and dispose of weapon after weapon.
+      There is a saying in the Prague Association: “Lift not the seal of Atlas, lest ye destroy the world seven times over.”
+      …The reason being that the weapons created there to save the world are ultimately nothing more than tools that will further its destruction.
+      Though calling it “one of the three major branches of the Association” sounds nice, in reality it is more like an independent think tank. They have been known, on rare occasions, to loan out their alchemists to other mage’s associations and even the Holy Church upon request.
+      In order to hire an Atlas alchemist, however, one of the written contracts issued by the Atlas Institute is required. Only seven of these contracts were ever issued, and the Atlas Institute considers their recovery a top priority.
+    note: {}
+  ja:
+    content: |-
+      魔術協会三大部門の一つ。エジプトはアトラス山に門を構える、錬金術師の学院。
+      中世から主流となった現代錬金術とは異なる、魔術の祖、世界の理を解明する錬金術師たちの集まり。
+      プラハの協会とは致命的に仲が悪く、魔術協会の心臓部・時計塔からも煙たがられている。通称、“巨人の穴蔵”。
+      初代院長が証明してしまった“終末”を回避する為の兵器を未来永劫に作り上げ、廃棄し続けると言われている。
+      曰く、アトラスの封を解くな。世界を七度滅ぼすぞ―――とはプラハの錬金術師の言。
+      世界を救う為に作り上げた兵器は、更に慘たらしく星を焼く道具にすぎなかった訳である。
+      三大部門と聞こえはいいが、実際は独立した頭脳集団。希に、他協会や聖堂教会からの要請で錬金術師を貸し出す事もある。
+      アトラスの錬金術師を借り受けるには、過去アトラス院が発行した“契約書”が必要となる。七枚しか発行していないこの契約書を回収する事がアトラス院の当面の目的だとか。
+    note: {}
+  zh:
+    content: |-
+      魔术协会三大部门之一。门建在埃及阿特拉斯山的炼金术师学院。
+      是与从中世纪开始成为主流的现代炼金术不同的魔术之祖——解明世界之理的炼金术师们的集团。
+      与布拉格{{n1}}的协会关系极其不好，同时也被魔术协会的心脏——时计塔疏远。通称“巨人的穴藏”。
+      制作出为了回避初代院长所证明的“终末”的兵器，又将其废弃，永远重复着这种行为。
+      布拉格的炼金术师说：“不要揭开阿特拉斯的封！会毁灭世界七次的。”
+      因为为拯救世界而做出的兵器，只不过是更加残酷地灼烧星球的道具。
+      三大部门只是说着好听，其实是独立的头脑集团。极少情况下，也会接受其他协会或是圣堂教会等的请求出借炼金术师。
+      要借阿特拉斯的炼金术师，需要过去阿特拉斯院发行的“契约书”。回收只发行了七份的这契约书是阿特拉斯院当前的目的什么的。
+    note:
+      n1: "欧洲，捷克共和国首都，冥王星被踢出行星之列就发生在2006年8月24日在捷克首都布拉格召开的第26届国际天文学联合会。"
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 6
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      The institute Sion belonged to, and one of the three major branches of the Association. Located in the Atlas mountains of Egypt, it is a place where those dedicated to the study of alchemy gather. Colloquially known as the Giant’s Pit.
+      Unlike the modern alchemy that rose to prominence in the middle ages, the alchemy studied by Atlas could be said to be the progenitor of magecraft. For some reason they are on extraordinarily bad terms with the Prague Association, and even the Clock Tower, the very heart of the Association, keeps their distance.
+      In order to avoid the “end” proven by their first director, they endlessly create and dispose of weapon after weapon.
+      There is a saying in the Prague Association: “Lift not the seal of Atlas, lest ye destroy the world seven times over.”
+      …The reason being that the weapons created there to save the world are ultimately nothing more than tools that will further its destruction.
+    note: {}
+  ja:
+    content: |-
+      シオンが所属していた学院で、魔術協会三大部門の一つ。エジプトはアトラス山に門を構える、錬金術師の学院。俗名として巨人の穴蔵とも。
+      中世から主流となった現代錬金術とは異なる、魔術の祖と言われる錬金術師の集まり。プラハ協会とは致命的に仲が悪く、魔術協会の心臓部・時計塔からも煙たがられている。
+      初代院長が証明してしまった“終末”を回避する為の兵器を延々と作り上げ、未来永劫に廃棄し続けている。
+      曰く、アトラスの封を解くな。世界を七度滅ぼすぞ——とはプラハの錬金術師の言。世界を救う為に作り上げた兵器は、更に惨たらしく星を焼く道具にすぎなかったのだ。
+    note: {}
+  zh:
+    content: |-
+      紫苑所从属的学院，魔术协会三大部门之一。门建在埃及阿特拉斯山的炼金术师学院。作为俗称也被称为“巨人的地窖”。
+      与从中世纪开始成为主流的现代炼金术不同的、被认为是魔术之祖的炼金术师的集团。与布拉格的协会关系致命性地恶劣，同样也被魔术协会的心脏部门·时计塔疏远着。
+      不停地制造出为了回避初代院长所证明的“终末”的兵器，又永久地持续着废弃。
+      曰：别解封阿特拉斯！会毁灭世界七次啊——布拉格的炼金术师之言。为了拯救世界而制造出的兵器，只不过是更加惨烈地焚烧星球的道具。
+    note: {}
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 5
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      The Atlas Institute is an association of magus and alchemists based somewhere in Egypt’s Atlas Mountains. It is also known as the Giant’s Pit.
+      Of the three divisions of what had once been the Mage’s Association, the institute of accumulation and measurement.
+      They were a group of practitioners of alchemy, not of the modern alchemy that became dominant since the medieval times, but the progenitor of magecraft, the alchemy that investigates the truth of the world.
+      They’re not so much as mages as they are individuals with abnormal powers who treat their own bodies like humanoid machines, using them like vessels for working their minds more accurately, more powerfully, more quickly.
+      They believed that humans are a rare sort of computers with motor functions (the five senses), that we humans are intelligent lifeforms that evolved to collect and analyze information and directly solve the problems created from that as manual labor.
+      The correctness of this idea was proven unexpectedly in the world of Extra where magecraft died out.
+      The alchemists of Atlas have poor magic circuits, and did not lead their lives relying on magic power.
+      As they did not rely on it (or to be more precise, could not), they were able to continue their pursuit of knowledge as disciples of magecraft even after the depletion of mana.
+      However, for a long time children had stopped being born, and the Atlas Institute, with its old alchemists taking their lives, was at the end of its ropes irrespective of the mana depletion.
+      All that remains of the Atlas Institute is a single homunculus. The last Atlasian succumbed to disease after creating the homunculus, and only her creations were left in her cave.
+      The Atlas alchemists disappeared, and their research facilities which were built using unknown techniques stretch out in an underground city which is now, more or less, a giant graveyard.
+    note: {}
+  ja:
+    content: |-
+      エジプトはアトラス山脈にある魔術師・錬金術師の協会。巨人の穴倉ともいう。
+      かつて機能していた魔術協会───その三大部門の一つ、蓄積と計測の院。
+      中世から主流となった現代錬金術とは異なる、魔術の祖、世界の理を解明する錬金術師の集団だった。
+      魔術師というよりは自身の肉体をマン・マシーンとして扱う異能者たちで、自身の肉体を『正しく、強く、速く』知性を働かせるための容れ物として扱っていた。
+      人間とは運動機能（五感）をもった類い希なる計算装置である。情報を収集し、解析し、生まれ出る数々の問題に、労働力としてダイレクトに対応できるよう進化した知的生命体が我々人間である、というのが彼らの信条だった。
+      その正しさは魔術の絶えたEXTRA世界で奇しくも証明された。
+      アトラスの錬金術師たちは魔術回路が乏しく、魔力に頼った活動をしてこなかった者たちである。
+      魔力に頼っていなかった（正しくは『頼れなかった』のだが）彼らは魔力枯渇の後でも魔術の徒として探求を続けられた。
+      しかし長く次代の子供たちが誕生しなくなり、古参の錬金術師たちの自決死が続いていたアトラス院は魔術枯渇とは関係なく滅びようとしている。
+      アトラス院にはもはや一人のホムンクルスしか存在しない。最後のアトラスはホムンクルスを鋳造した後に病死し、洞窟には最後の作品だけが残された。
+      錬金術師たちが消え、未知の技術体系によって作られた研究施設だけが連なる地下都市は、さながら巨大な墓標のようだとも。
+    note: {}
+  zh:
+    content: |-
+      于埃及的阿特拉斯山脉的魔术师、炼金术师的协会。
+      “曾经”还行使着机能的魔术协会——其中三大部门的一个，积攒和计量测算的院。
+      和中世纪开始变为主流的现代炼金术相异，“曾经”是魔术之祖、解明世界的理的炼金术师的集团。
+      比起说是魔术师，倒不如说是将自身的肉体当做Man Machine使用的异能者们。她们的肉体只不过是让自身的知性能“正确的、强力的、快速的”运作的容纳器皿被使用着。
+      “人类乃是持有运动机能（五感）的极为稀有的计算装置。收集情报、分析它们、对在这过程中发现的无数问题，能用劳动力直接的进行对应的进化了的知性的生命体便是我们”这些“曾”是他们[炼金术师们]的信条。
+      这信条的正确性在魔术已经根绝的EXTRA世界奇妙的被证实了。
+      阿特拉斯院的炼金术师们乃是缺乏着魔术回路、不进行依赖着魔力的活动的人们。
+      没有依赖着魔力（正确的说，应该是“没求着依赖使用魔力”）的他们即便是在魔力枯竭之后也作为魔术的学徒继续进行着探索。
+      但是，由于长久以来没能诞生次时代的孩子们，古参的炼金术师们持续着自决死[就是自杀]的缘故，阿特拉斯院即便是和魔力枯竭无关，也最终毁灭了。
+      阿特拉斯院已经只存在一个人造人而已了。最后的阿特拉斯[应该是最后的一届院长，就是长得很像紫苑那位]在铸造完人造人后病死，在洞窟中仅仅留下了自己最后的作品。
+      炼金术师们已然消失、仅仅是由未知的技术体系制造的研究设备相连通的古代都市，仿佛巨大的墓碑一般。
+    note: {}
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 1
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      An organization of magi and alchemists based somewhere in Egypt’s Atlas Mountains. One of the three great branches of the Mage’s Association. The Atlas Institute holds that the future demise of mankind is inevitable, and works so as to delay mankind’s expiration in every possible way. Even the metamorphosis or retrogression of humans as a species is accordingly deemed acceptable – as long as such measures enable an extension of humanity’s survival. Unlike other magi, members of the Atlas Institute do not pursue the evolution of humans into lifeforms of a higher order.
+    note: {}
+  ja:
+    content: |-
+      エジプト・アトラス山脈に在る魔術師・錬金術師の協会で、魔術協会の三大部門のひとつ。人類の滅びの未来を確定されたものとし、その到来を少しでも遅くすることを目的とした組織。長く生き延びられるのならば、人類は種として変態・退行しても構わないと考えている。他の魔術師たちとは違い、生命体として高次の段階への進化を目的としていない。
+    note: {}
+  zh:
+    content: |-
+      位于埃及·阿特拉斯山脉的魔术师·炼金术师协会，魔术协会三大部门之一。人类毁灭的未来已经确定，以哪怕只有一点[可能]，也要将那个的到来进行推迟为目标的组织。如果能得以长久延长其寿命的话，就算人类作为种而变态，退化也在所不辞。同其他的魔术师们不一样，并不把生命向高次阶段进化为目标。
+    note: {}

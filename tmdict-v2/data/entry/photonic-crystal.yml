@@ -1,0 +1,36 @@
+---
+id: photonic-crystal
+
+en: p
+ja: fu
+furigana: ふぉとにっくけっしょう
+title:
+  en: Photonic Crystal
+  ja: フォトニック結晶
+  zh: 光子结晶
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 126
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      These are crystals that enclose light.
+      The refractive index of these crystals periodically changes. Light beamed into the crystals is regulated by nano-structures.
+      Due to the light-controlling nano-structure properties of these crystals, scientists expect they can be used in quantum computers, but research into them is still just getting started. As far as other natural materials go, Opal has similar properties. In the world of EXTRA the interior of the Moon is thought to be one giant Photonic Crystal.
+    note: {}
+  ja:
+    content: |-
+      光を閉じこめる結晶体。
+      屈折率が周期的に変化するナノ構造体であり、内部に投射した光をナノ構造によって制御できる。
+      その性質から量子コンピューターへの活用も期待されているが、まだ研究は入り口程度。天然物ではオパールが該当する。EXTRA世界では月の内部は一つの巨大なフォトニック結晶で出来ているとされる。
+    note: {}
+  zh:
+    content: |-
+      将光锁在其中的结晶体。
+      乃是偏折率会周期性变化的纳米构造体，能够对投射其中的光用纳米构造进行制御。
+      介于其性质，虽然也期待其能在量子计算机方面进行灵活的应用，但是研究深度也只不过是才刚到入口的程度。天然物体的话，蛋白石算是这种类型。在EXTRA的世界，月亮的内部有着极为巨大的光子结晶。
+    note: {}

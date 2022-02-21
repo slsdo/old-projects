@@ -1,0 +1,36 @@
+---
+id: druid-street
+
+en: d
+ja: to
+furigana: どるいどすとりーと
+title:
+  en: Druid Street
+  ja: ドルイド・ストリート
+  zh: 德鲁伊街
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 37
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      The place where El-Melloi II’s apartment resides.
+      As with any university professor, he can often be seen at cafes in the area groaning over some thesis or other that he is working on.
+      Druid Street is an actual place in London. The place’s name, openness, character, and atmosphere were all taken into account when selecting it as the place for his home, but upon actually visiting the place for research purposes, the author was really moved, thinking “Ah, this really does look like a place he would live.”
+    note: {}
+  ja:
+    content: |-
+      エルメロイII世が住んでいるアパートのあるあたり。
+      近所では、エルメロイII世は大学の先生ということで通っており、よく喫茶店で呻吟しながら論文を書いている姿が見られる。
+      ドルイド・ストリートはロンドンに実在する土地であり、名前や距離感や土地柄、雰囲気を総合して決めたのだが、取材で実際に行ってみると、「ああいかにもII世が住んでいそうだ」という建物が散見されて、作者は大変感動したものである。
+    note: {}
+  zh:
+    content: |-
+      埃尔梅罗二世居住的公寓的所在地。
+      埃尔梅罗二世在附近地区的身份是大学教授，经常能在咖啡馆看到他边呻吟边撰写论文的身影。
+      德鲁伊街是实际存在于伦敦的地方，虽然是从名字、距离感以及风俗习惯，综合了这些氛围来决定的，但作者到当地实际取材时，见到了许多「啊啊，感觉二世似乎真的就住在这里啊」的建筑，非常感动。
+    note: {}

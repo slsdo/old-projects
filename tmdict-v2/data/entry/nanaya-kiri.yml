@@ -1,0 +1,40 @@
+---
+id: nanaya-kiri
+
+en: n
+ja: na
+furigana: ななやきり
+title:
+  en: Nanaya Kiri
+  ja: 七夜黄理
+  zh: 七夜黄理
+
+entry:
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 70
+  category:
+  - person
+  img: plusperiod_nanaya-kiri.png
+  en:
+    content: |-
+      Tohno Shiki’s real father. The last Nanaya family head.
+      As a member of the Nanaya family that made their living by assassinating demon hybrids, he was a killing machine that started studying and refining the art of slaughter at an extremely young age.
+      His way of utilizing three-dimensional space was just like a spider climbing on a web. His preferred weapon was an iron club that looked like a drumstick, and despite using a blunt instrument he would dismember his targets as efficiently as if he had been using a blade.
+      Though Kiri himself had no doubt that he would live as an assassin his entire life, that all changed with the birth of the son he had fathered for the sole purpose of having a successor, and he retired from the business of killing. But, it was already too late. Six years after he and his family secluded themselves in the mountains, they faced retribution from the demon hybrids, their former prey.
+      …However, just before dying, he was able to engrave a “sense of being alive” into Kishima Kouma, who up until then had lacked any sort of human emotions.
+    note: {}
+  ja:
+    content: |-
+      ななやきり。遠野志貴の本当の父親。七夜家最後の当主。
+      混血の暗殺を生業とする七夜家の人間として、幼い頃から“殺戮技巧”を鍛錬・研究していたキラーマシーン。
+      空間を立体的に使うさまは、さながら巣を張った蜘蛛とさえ言われた。太鼓をたたくバチのような鉄棍を愛用し、殴打器を使いながら人体を刃物で切り裂いたように解体する。
+      一生涯殺し屋として生きていく、と確信していた黄理だが、跡継ぎ問題の為だけにもうけた息子・志貴の誕生で憑き物が落ち、殺し屋稼業から引退する。が、時既に遅く、六年後に今までのツケを払う事になった。死の直前、人間としての感情がなかった軋間紅摩に“生の実感”を刻み込む。
+    note: {}
+  zh:
+    content: |-
+      Nanaya Kiri。远野志贵的亲身父亲。七夜家最后的当家。
+      作为以暗杀混血为生计的七夜家的人类，是一个从小就锻炼钻研杀戮技巧的杀手。
+      能够立体化地使用空间，仿佛就像是张开网的蜘蛛。喜欢用太鼓打击棒般的铁棍，一边使用殴打器一边用刃器将人体撕扯解体。
+      确信一生作为杀手而活着黄理，因为志贵的诞生而让他找回了自己，从杀手的职业上退了下来。可为时已晚，六年前他为至今为止的所行付出了代价。在临死之前，他将生的实感刻进了丧失人类情感的轧间红摩。
+    note: {}

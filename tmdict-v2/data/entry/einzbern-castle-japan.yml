@@ -1,0 +1,30 @@
+---
+id: einzbern-castle-japan
+
+en: e
+ja: a
+furigana: あいんつべるんしろにっぽん
+title:
+  en: Einzbern Castle (Japan)
+  ja: アインツベルン城（日本）
+  zh: 爱因兹贝伦城（日本）
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 77
+  category:
+  - place
+  img: fzavg1_einzbern-castle-japan.png
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      冬木市の郊外にあるアインツベルンの居城。切嗣がケイネスを迎え撃った場所。10年後となる第五次聖杯戦争を描いた「Fate/stay night」では、修復されイリヤの居城となった。
+    note: {}
+  zh:
+    content: |-
+      在冬木市郊外的爱因兹贝伦[Einzbern]的居城。切嗣迎战肯尼斯[Kayneth]的地方。描写10年后第五次圣杯战争的《Fate/stay night》中，成了被修复的依莉雅[Illya]的居城。
+    note: {}

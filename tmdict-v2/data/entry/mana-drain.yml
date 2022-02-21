@@ -1,0 +1,56 @@
+---
+id: mana-drain
+
+en: m
+ja: ma
+furigana: まりょくきゅうしゅう
+title:
+  en: Mana Drain
+  ja: 魔力吸収
+  zh: 魔力吸收
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 50
+  category:
+  - skill_alt
+  img: ""
+  en:
+    content: |-
+      A skill unique to Titan Altera.
+      Her enormous body, made by collecting spiritrons, unconditionally drains processed mana by means of “spells”{{n1}}, turning it into HP and armor points.
+      In this context, science, knowledge, and civilization are all considered “spells.” They are what the Anti-Cell considers most “nutritious.”
+      No matter how flawed that reasoning is, any attack (interference) born of intelligent design will only give Altera more power.
+      The immense firepower of grand magecraft{{n2}}, as well as weapons of war made with scientific techniques, only add fuel to her fire.
+      On the other hand, although pure magical energy equivalent to life force itself is somewhat absorbed by Mana Drain, its effects will apply correctly.
+      The most straightforward strategy to fight against an Anti-Cell is to beat it down with simple physical attacks.
+      Irritating as it is for the attacker, boosting the physical blow with Mana Burst will only result in that magic being absorbed. The only exception to that is the unparalleled power of the Holy Sword.
+      In fact, the White Titan who appeared in the distant past was brought down with a Holy Sword forged in the Inner Sea of the Earth.
+    note:
+      n1: "Officially localized as “ritual,” essentially mana that has been enhanced by science, knowledge, and civilization."
+      n2: "Sometimes also translated as Grand Rituals."
+  ja:
+    content: |-
+      巨神アルテラ専用スキル。
+      霊子集体によって構成された巨神の体は“術式として加工された魔力”を無条件で吸収、HPと装中値に変換してしまう。
+      術式とは即ち技術、知識、文明。アンチセルにとってこれほど“栄養”になるものはない。
+      どれほど稚拙な理論であれ、知性によって考案された攻撃（干渉）はアルテラに力を与えるだけとなる。
+      大魔術による大火力、科学技術による戦術兵器は火に油を注ぐようなもの。
+      一方、生命力そのものと言える純粋な魔力は多少吸収されるものの、正常に効果を発揮する。
+      対アンチセル戦の基本は『単純な物理で殴れ』である。
+      魔力放出による物理攻撃のブーステッドすら吸収する厄介なスキルだが、聖剣のエネルギー放出のみ有効打擊となる。
+      かつて地上に現れた白い巨人は地球の内海で鍛えられた聖剣によって撃返された。
+    note: {}
+  zh:
+    content: |-
+      巨神阿提拉专用技能。
+      由灵子吸收体所构成的巨神躯体能无条件吸收“作为术式加工上去的魔力”，并将之转换为HP与装甲值。
+      术式也就是技术、知识、文明。对反噬晶体来说没有比这更“营养”的东西。
+      无论是再怎么拙劣的理论，透过知性所设计出来的攻击（干涉）都只会徒增阿提拉的力量。
+      庞大魔术所造就的庞大火力、科学技术所研发的战术兵器都只会火上浇油。
+      另一方面，可说是等同于生命力的纯粹魔力虽然多少会被吸收，但能正常发挥效果。
+      对反噬晶体战的基本战略是“单纯以物理方式殴打”。
+      由于这项麻烦的技能连透过魔力放出进行的强化物理攻击都能予以吸收，只有圣剑的能量施放能给予有效的打击。
+      过去曾出现于地球的白色巨人，就是被地球内海锻造而成的圣剑所击退。
+    note: {}

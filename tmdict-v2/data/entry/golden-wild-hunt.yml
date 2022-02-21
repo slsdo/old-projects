@@ -1,0 +1,91 @@
+---
+id: golden-wild-hunt
+
+en: g
+ja: ko
+furigana: ごーるでんわいるどはんと
+title:
+  en: Golden Wild Hunt
+  ja: 黄金鹿と嵐の夜
+  zh: 黄金鹿与暴风夜
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 59
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      The Night of the Golden Hind and the Storm.
+      This Noble Phantasm is Rider’s trump card, but it sees a lot of use.
+      With the flagship Golden Hind at the center, countless small ships swarm out and exterminate the enemy with their overwhelming firepower.
+      It’s an anti-army Noble Phantasm based on a mix of the Fire Ships that destroyed Spain’s “invincible” armada, and the widely known European legend of The Night of Storms.
+      This Noble Phantasm summons the fleet of ships that Drake once commanded in ghost form, and the fleet ships proceed to fire fiercely in unison causing physical damage. This attack has the rather strange property of dealing an amount of damage that corresponds to the amount of money Drake’s Master has.
+      This means that the damage largely depends on the player’s result in the event where you compete with Shinji to find treasure chests.
+
+      ◆
+
+      The episode of Drake destroying the “invincible” armada is extremely famous, and after that Drake came to be known in Spain as El Draque [Demon Dragon].
+      The invincible armada consisted of over 100 huge ships that were each 1000 tons or more and had more than 65,000 troops aboard. They were setting out to conquer England. To counter the Spanish Armada, El Draque, whose formal title was vice-commander (but effectively the top commander), led the English fleet to battle. The English fleet had double the ships of the Spanish Armada, but they were all small ships, and they were manned by less than half the number of soldiers that were aboard the Spanish Armada.
+      However, this mass of small ships was part of El Draque’s surefire victory plan. He (she) fought using primarily long range cannon combat, so the Spanish Armada ships couldn’t get close enough to allow its sailors to board the English ships, which was the Spanish battle plan. The result was that the Spanish Armada was completely toyed with and tossed about by the English fleet.
+      In accounts from after the battle, one could see that the Spanish especially feared El Draque’s Fire Ships which employed pirate-like tactics.
+      These were ships stuffed with combustibles that were rammed into Spanish Armada ships. El Draque used 100-ton class ships (the same size as used in modern naval combat today) as Fire Ships to quickly destroy many Spanish ships.
+      The result is that the troops aboard the Spanish Armada couldn’t even reach land at all; nothing less than complete defeat.
+      This was the downfall of Spain, the kingdom where the sun never sets.
+
+      On the other hand, Wild Hunt is an incarnation of extremely strong winds, rain, or snow that brews up as part of a storm. It appears as a raging storm of hunting dogs, mountain sheep, horses, soldiers clad in armor, monsters, and other terrible creatures.
+      The leader of this storm of beasts is said to be a demonic King Arthur, or the ancient god Odin, or the criminal Cain. In England, the most widely believed is Francis Drake.
+      In principle the leader of the Wild Hunt is that area’s wild or savage hero, famous person, or ancient god.
+      To digress, the leader of the Wild Hunt in Scotland is said to be King Arthur.
+    note:
+      n1: "Localized as “Hunt of the Golden Hind: Golden Stag and the Eventide Tempest,” sometimes also referred to as ”Golden Hind / Wild Hunt.“"
+  ja:
+    content: |-
+      ゴールデンハインド／ワイルドハント。
+      ライダーの奥の手にして日常とも言える宝具。
+      主船・黄金の鹿号を中心に、無数の小船を展開、圧倒的火力をもって敵を殲滅する。
+      スペインの無敵艦隊を破った「火船」の逸話と、ヨーロッパ全域で伝承される「嵐の夜」の逸話がミックスされた対軍宝具。
+      ドレイクが指揮していた船団を亡霊として呼び出し、一斉放火を浴びせる物理ダメージだが、現在の所持金に応じたダメージになる、という妙な特性を持っている。このため、シンジと宝箱を取り合うトレジャーハントイベントの成果によってダメージ数値が変動する。
+
+      ◆
+
+      無敵艦隊破りはドレイクを悪魔の竜[エルドラゴ]とまでスペイン人にいわしめた有名なエピソード。
+      千トン級以上の大型艦100隻以上を主軸とし、合計6万5千人からなる英国征服艦隊──通称、無敵艦隊に対して、エルドラゴは英国艦隊の副司令官（実質的指揮官）として参戦。英国側の戦力は船の数こそスペイン側の2倍だが、小型船ばかりで兵員数はその半分をさらに割っていた。
+      しかしこの小型船ばかりの陣容こそがエルドラゴ必勝の策で、彼（彼女）は遠距離からの砲撃戦を主体にして戦い、接舷することで勝負を決しようとするスペイン側を終始翻弄した。
+      そして特に恐怖を持って語られたのが、エルドラゴの得意とした海賊戦法“火船”である。
+      これは小船などに大量の可燃物を積み込んで火をかけ、敵船に突っ込ませる戦法であったのだが、エルドラゴはここで最低でも百トンクラスの船（今戦闘に用いているのと同サイズ）を“火船”に仕立て、何隻も}気に突っ込ませた。
+      結果として、スペイン側は英国征服を目的に艦隊を動員したにもかかわらず、まったく上陸することすらできずに大敗を喫する。
+      太陽の沈まぬ王国、スペインの落日である。
+
+      一方、ワイルドハントとは暴風雨や吹雪などの嵐の化身で、猟犬や山羊、馬や武装した兵士、怪物などの姿で現れるとされる。
+      これを率いる者は、伝説では悪魔化したアーサー王や古代の神オーディン、最初の咎人カインなどであるとされ、そうした者たちの中でもイギリスで広く信じられているのがフランシス・ドレイクである。
+      原則的にはその土地の荒ぶる英雄や有名人、古代の神などがワイルドハントの首領となる。
+      余談ではあるが、スコットランドでは嵐の夜の長はアーサー王とされている。
+    note: {}
+  zh:
+    content: |-
+      Golden Hind / Wild Hunt。
+      此宝具既是Rider的绝招，也可说是她的日常。
+      以主船·黄金之鹿[Golden Hind]号为中心，展开无数的小船，以压倒性的火力歼灭敌人。
+      将击败西班牙无敌舰队的“火船”逸话、以及传承于欧洲全域的“暴风夜”逸话混合而成的对军宝具。
+      德雷克所指挥的舰队以亡灵形式唤出，一齐猛烈开火的物理伤害，但是，有着呼应现在所持现金而造成伤害的奇妙特性。因此，根据与慎二争夺宝箱的treasure hunt事件，伤害数值会有所变动。
+
+      ◆
+
+      击破无敌舰队，是令德雷克被西班牙人乘坐恶魔之龙[El Draque]的有名篇章。
+      以100艘以上的千吨级以上大型舰作为主轴，合计6万5千人组成的征服英国舰队——通称，无敌舰队，面对此对手，El Draque作为英国舰队的副司令官（实质上的指挥官）参战了。英国一方的战力在船只的数量上是西班牙一方的两倍，但是净是些小型船，士兵数目也分割为一半。
+      但是这净是些小型船的阵容正是El Draque的必胜之策，他（她）以远距离的炮击战为主体进行战斗，止始至终玩弄着准备以接舷战定胜负的西班牙一方。
+      以及特别被带着恐怖提起的是，El Draque所擅长的海贼战法“火船”。
+      那是在小船堆满大量可燃物点上火，突入敌船的战法，但是El Draque在至少也用了百吨级别的船（与现今战斗所用的同一尺寸）当作“火船”，数只一口气突入敌阵。
+      其结果是，西班牙一方别说是以征服英国为目的所动员的舰队了，连登陆都没能做到就遭此大败。
+      日不落帝国，西班牙的落日。
+
+      另一方面，Wild Hunt即为暴风雨以及暴雪等风暴的化身，据说会以猎犬、山羊、马、武装士兵或怪物等姿态现身。
+      统率着它的人，被传成是恶魔化的亚瑟王、古代神奥丁和最初的罪人该隐等等。
+      在这些人们里面，在英国中被广为相信的就是弗朗西斯·德雷克。
+      Wild Hunt的首领原则上是该片土地中粗暴的英雄、名人和古代神等等。
+      附带一提，暴风夜的首领在苏格兰中被当成是亚瑟王。
+    note: {}

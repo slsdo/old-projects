@@ -1,0 +1,26 @@
+# Don't show directory listings for URLs which map to a directory.
+Options -Indexes
+
+# Various rewrite rules.
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+
+  #removes www
+  RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+  RewriteRule ^ http%{ENV:protossl}://%1%{REQUEST_URI} [L,R=301]
+
+  #example.com/page will display the contents of example.com/page.html
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}.html -f
+  RewriteRule ^(.+)$ $1.html [L,QSA]
+
+  #301 from example.com/page.html to example.com/page
+  RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /.*\.html\ HTTP/
+  RewriteRule ^(.*)\.html$ /$1 [R=301,L]
+
+  RewriteRule ^ch/(.*)$ http://tmdict.com/zh/ [r=301,nc]
+  RewriteRule ^jp/(.*)$ http://tmdict.com/ja/ [r=301,nc]
+  RewriteRule ^kara/(.*)$ http://tmdict.com/book/ [r=301,nc]
+  RewriteRule ^extra/fate-extra_v5.htm$ http://tmdict.com/book/fate-extra-material [r=301,nc]
+</IfModule>

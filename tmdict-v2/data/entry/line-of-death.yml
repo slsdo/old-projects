@@ -1,0 +1,48 @@
+---
+id: line-of-death
+
+en: l
+ja: shi
+furigana: しのせん
+title:
+  en: Line of Death
+  ja: 死の線
+  zh: 死线
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 23
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      The constantly shifting, graffiti-like lines visible to Ryougi Shiki.
+      The lines appeared on everything, and by slashing the lines with a knife, the object bearing the lines could be “killed.” Since the lines posed no resistance, everything could be killed with the same ease.
+      The Lines of Death are not the lines at which “an object can be easily cut apart,” rather, they are the concept of longevity given form.
+      Strictly speaking, it is not “tracing the lines causing the object to fall apart,” but “ending the lifespan and killing the object.”
+      To put it into simpler terms, it is the erasure of existence rather than physical destruction.
+      Ryougi Shiki is a living being, and she seemed to have an easier time seeing the end of a living being. This is because as a living being, it is easier to comprehend “the death of a living being.” In order to see the Lines of Death of minerals or Concepts, she either has to become minerals, or use her brain and tap into her “imagination.”
+      In summary, the end (lines) of an existence that humans cannot comprehend is not visible.
+    note: {}
+  ja:
+    content: |-
+      両儀式が視てしまう、常に流動するラクガキのような線。
+      線はありとあらゆる物にあり、刃物で切りつける事により、線が走っていた物体を『殺す』事が出来る。線には強度はないので、どのような物だろうと平等に殺す事が可能となる。
+      死の線は『物が切れやすい』線ではなく、存在の寿命という概念がカタチになったもの。
+      厳密に言えば、線をなぞって物を解体する、ではなく、寿命を切って物を殺している、という事になる。
+      物質的な破壊ではなく、存在的な消去と捉えると解りやすい。
+      式は生物なので、生物の死が視やすいようだ。これは同じ生物として、『生物の死』を容易[たやす]く理解できる為。鉱物、概念の死の線を視るには、彼女が鉱物になるか、脳をフル活動させて『想像』するしかない。
+      要は、人間に理解できない存在の終わり（線）は視えない、という事。
+    note: {}
+  zh:
+    content: |-
+      两仪式看到的，不断流动的涂鸦一样的线。
+      线在各种物体上都有，通过用刀具切开，可以“杀掉”线经过的物体。因为线没有强度，无论什么样的东西都能平等地杀掉。
+      死线不是“物体容易切开”的线，而是存在寿命这种概念形象化的东西。
+      严密地来说，不是描线使物体解体，而是耗尽寿命杀掉物体。
+      不是物质的破坏，而是存在的消去这样来想的话比较容易理解。
+      式是生物，好像容易看到生物的死。这是因为同样作为生物，容易理解“生物的死”。想看矿物、概念的死线，要么她成为矿物，要么只有全开大脑来“想象”。
+      总之就是，人类无法理解的存在的终结(线)看不见。
+    note: {}

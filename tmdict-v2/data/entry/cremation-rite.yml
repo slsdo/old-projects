@@ -1,0 +1,66 @@
+---
+id: cremation-rite
+
+en: c
+ja: ka
+furigana: かそうしきてん
+title:
+  en: Cremation Rite
+  ja: 火葬式典
+  zh: 火葬式典
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 9
+  category:
+  - weapon
+  img: ""
+  en:
+    content: |-
+      An enchantment imbued upon Ciel’s favorite throwing swords.
+      Spell engravings are applied to the blade, causing targets to burst into flames after being pierced.
+      Because it is an effect generated with magecraft, very few Executors make use of it. However, for some reason or another Ciel isn’t a believer of the faith at all, so she makes use of magecraft with impunity.
+      In truth, it seems this is also part of the knowledge that she inherited from Roa. Aside from the Cremation Rite, there is also the Internment Rite, which turns the target into stone, the Mummification Rite, which desiccates the target, and the Excarnation Rite, which causes countless crows to descend upon the target.
+    note: {}
+  ja:
+    content: |-
+      シエルが愛用する投剣に付属した魔術効果。
+      刀身に呪刻が施されており、対象に突き刺さったあとボーボー燃える。
+      魔術効果なので使用する代行者は少ない。シエルはなんだかんだと根っからの信徒ではないので魔術的なものを多く使用する。
+      どうにも、これもロアから受け継いだ知識の一環らしい。他に刺さった個所を石化させる土葬式典や乾燥させる風葬式典、はてはバッサバッサとカラスが寄ってくる鳥葬式典があったりなかったり。
+    note: {}
+  zh:
+    content: |-
+      雪儿爱用的投剑上所赋予的魔术效果。
+      刀身刻有咒术，在刺穿对象后会熊熊燃烧起来。
+      因为是魔术效果所以使用的代行者很少。毕竟雪儿在很多意义上根本不是信徒，所以使用很多魔术类的东西。
+      总之，这似乎也是从罗亚继承来的知识之一。其他有使刺中的部位石化的土葬式典和使其干燥的风葬式典，甚至还有召唤大群乌鸦的鸟葬式典存在。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 16
+  category:
+  - weapon
+  img: ""
+  en:
+    content: |-
+      An enchantment imbued upon Ciel’s favorite throwing swords.
+      The blades are engraved with spells, causing targets to burst into flames after being pierced. It sees very little use amongst the Church’s Executors. It’s because Ciel doesn’t believe in Christianity at all that she makes use of these heresies with impunity.
+      The source of Ciel’s magecraft is the knowledge she inherited from Roa. Aside from the Cremation Rite, there is also the Internment Rite, which turns the target into stone, the Mummification Rite, which desiccates the target, and the Excarnation Rite, which causes countless crows to descend upon the target.
+      Ciel herself is reluctant to make use of Roa’s knowledge, but if it’s for the sake of annihilating Dead Apostles she’ll use his (taboo) magecraft without even a bit of hesitation.
+    note: {}
+  ja:
+    content: |-
+      シエルが愛用する投剣に付属した魔術効果。
+      刀身が呪刻されており、対象に突き刺さったあとボーボー燃える。使用する教会の代行者は少ない。シエルは根っからの信徒ではないので魔術的なものを多く使用する。
+      シエルが扱う魔術はロアから受け継いだ知識の一環。他に刺さった個所を石化させる土葬式典や乾燥させる風葬式典、果てはバッサバッサとカラスが寄ってくる鳥葬式典があったりなかったり。
+      シエル自身ロアの知識を扱う事に抵抗はあるものの、死徒殲滅の為なら躊躇なく魔術（禁忌）を行使する。
+    note: {}
+  zh:
+    content: |-
+      雪儿在爱用的投剑上附加的魔术效果。
+      刀身被施加了咒刻，在刺入对象之后就会“呼～呼～”地燃烧。在教会的代行者中使用这个的人不多。雪儿因为不是虔诚的信徒所以使用很多魔术方面的东西。
+      雪儿使用的魔术是从罗亚继承的知识的一环。另外好像还有使刺中的部分石化的土葬式典，使干燥的风葬式典，甚至是乌鸦啪唦啪唦靠过来的鸟葬式典。
+      虽然雪儿自己对于使用罗亚的知识有抵触，但如果是为了歼灭死徒的话就会毫不犹豫地行使魔术（禁忌）。
+    note: {}

@@ -1,0 +1,46 @@
+---
+id: taiji
+
+en: t
+ja: ta
+furigana: たいきょく
+title:
+  en: Taiji
+  ja: 太極
+  zh: 太极
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 30
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      A philosophy originated in ancient China, a graphical representation of the Yin-Yang theory.
+      It attempts to capture the essence of everything on a conceptual level: those that are active are defined as Yang (white), and the opposite are defined as Yin (black).
+      The Taiji symbolizes opposing concepts such as day and night, light and darkness, male and female. At the same time, you may also call it a condensed version of the ever-changing, dynamic World.
+      Furthermore, there is a dot of Yin in Yang, and conversely a dot of Yang in Yin. This indicates that the distinction between Yin and Yang is not absolute. There is darkness even in light.
+      Taiji is the “one” at the beginning, the Yin and Yang that divide the “one” are called Liangyi{{n1}}.
+      As an aside, the magi in this story were all practitioners of Western magecraft who were incompatible with Chinese philosophies.
+    note:
+      n1: "Liangyi is read as Ryougi in Japanese. Shiki’s name alludes to this concept of Yin/Yang duality."
+  ja:
+    content: |-
+      古代中国で生まれた思想、陰陽[おんみょう]説を表す図。
+      万物の状態を概念的に捉[とら]えたもので、能動的・活動的であるものを陽（白）、その逆になるものを陰（黒）と分けている。
+      昼と夜、明と暗、雄と雌と相反するものを象徴しながら、影響しあい流れあう世界の縮図とも言える。
+      また、陽の中には一点の陰、陰の中には一点の陽があるが、これは陰陽の区別は絶対的なものでなく、明の中にも暗がある、という事を示している。
+      太極は始まりの一であるが、この二つに分かれた陰陽を両儀という。
+      余談ではあるが、本編における魔術師たちは中国の思想とは相容[あいい]れない西洋魔術の術師である。
+    note: {}
+  zh:
+    content: |-
+      在古代中国产生的思想，表现阴阳说的图。
+      概念性地理解万物状态的东西，能动的、活动的东西分为阳(白)，与之相反的东西分为阴(黑)。
+      象征了昼与夜、明与暗、雄与雌这些相反的东西的同时，也可说是互相影响、流动的世界的缩图。
+      另外，阳中有一点阴，阴中有一点阳，这是表示阴阳的区别并不是绝对的东西，明之中也有暗。
+      太极即是起始的一，而这被一分为二的阴阳则称作两仪。
+      虽是余谈，正篇中的魔术师们是与中国思想并不相容的西洋魔术的术师。
+    note: {}

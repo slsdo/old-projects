@@ -1,0 +1,182 @@
+---
+id: marble-phantasm
+
+en: m
+ja: ku
+furigana: くうそうぐげんか
+title:
+  en: Marble Phantasm
+  ja: 空想具現化
+  zh: 空想具现化
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 19
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      Imagination Materialization. As the name suggests, it is the ability to manifest anything you can imagine. I really wish I could do this.
+      It is the ability possessed by elementals, which are the sense of touch of the natural world. By connecting their will directly to the world, they are able to transfigure the world into whatever environment they imagine.
+      Of course, the level of manifestation varies depending on the scale of the elemental, and it goes without saying that only nature can be transfigured—things that exist independently of nature are immune.
+      In <em>Tsukihime</em>, Arcueid eliminated Roa by using marble phantasm to turn the layers of the atmosphere in the hallway into a vacuum, like a carving knife slicing up a daikon radish.
+      Though she could not affect Roa himself, it was impossible for him to avoid the finely sliced atmosphere, and he was reduced to nothing but ankles. (The gap above the floor was the result of a deficiency in Arcueid’s imagination.)
+      Also, it is assumed that in the world of <em>Tsukihime</em> there exists another world on top of the normal world, things like legendary lands and countries of eternal spring, products of the imagination of the fairies that rule over this alien world. Consequently, it is possible for humans to wander into them by accident.
+      The castle in the mountains that Arcueid calls home is actually a product of her marble phantasm.
+    note: {}
+  ja:
+    content: |-
+      マーブル・ファンタズム。
+      呼んで字の如く。空想を具現化する能力のこと。自分も欲しいです。
+      自然、世界の触覚である精霊が持つ能力で、自己の意志を世界と直結させて、世界を思い描くどおりの環境に変貌させる事。
+      精霊の規模によってその具現レベルには差があり、あくまで変貌させられるのは自然のみ。自然から独立しているモノを変貌させる事はできません。
+      本編でロアを消し去ったアルクェイドの空想具現は、包丁で大根を切るように廊下の大気の層を真空状態にした、ということ。
+      ロア本人に影響は与えられないが、微塵切りされていく大気を避けられる筈もなく、ロアは足首だけがかろうじて残った（アルクの想像には、床にまで断層を作る、という意志が足りなかった）というわけです。
+      『月姫』では世界上にある別世界ではない異界、隠れ里や常春の国はその異界の主である精霊が描いた空想世界と考える。故に、人間が迷い込む事が可能なのだ。
+      ちなみにアルクェイドが住んでいた山間の城は彼女の空想具現化によるものなんだって。
+    note: {}
+  zh:
+    content: |-
+      Marble Phantasm。
+      正如其名，是将空想具现化的能力。我也很想要。
+      作为自然、世界触觉的精灵所持有的能力，让自己的意识与世界接通，使世界依照自己的想像改变。具现的等级会因精灵规模的大小出现差异，而且能改变的也只有自然而已。没有办法使独立于自然的个体改变。
+      在本篇里爱尔奎特用来消灭罗亚的空想具现，就是把走廊的大气像菜刀切白萝卜般变成真空状态。
+      虽然无法对罗亚本人造成影响，但罗亚也没办法逃离渐渐被斩碎的大气，只有脚踝部分勉强留了下来。（在爱尔奎特的想像里，“连地板也作出断层”这一意识不够强烈。）
+      《月姬》中认为世界上存在着非其他世界的异界，如桃源乡，常春的国度等，身为其异界之主的精灵所描绘的空想世界。所以，人类误入其中是有可能的。
+      顺带一题，爱尔奎特所住过的山中城堡就是她空想具现化的产物。
+    note: {}
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 14
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      ① Imagination Materialization. (Also see the entry for “Marble”)
+      ② The name “marble” comes from glass marbles used in a well-known example of the clustering illusion{{n1}}.
+      ③ The user directly connects and imposes their will on the world which creates an interference that transforms the world as they see fit (as they imagine). They make reality an illusion (something impossible in reality).
+      ④ More specifically a marble phantasm is thought to be realized when a multitude of phenomena are interfered with probability-wise, forcibly invoking the impossible{{n2}}.
+      ⑤ What can be materialized is not limited to material objects, anything can be created as long as it’s a possible result of an interference in the probability of (natural) phenomena.
+      ⑥ In the world of <em>Tsukihime</em>, a Marble Phantasm is the materialization of a part of an alien world that exists on top of the normal world, the fantasy world born from the imagination of elemental spirits. Therefore, it is possible for regular humans to wander into a Marble Phantasm.{{n3}}
+      
+      <strong>Strength</strong>
+      The Marble Phantasm user can transform the world around them at will. It is exceedingly versatile.
+      
+      <strong>Weakness</strong>
+      Only nature can be transformed by a Marble Phantasm. A Marble Phantasm is incapable of directly affecting existences independent from nature such as humans. Accordingly, in order to affect an independently existing individual/phenomena, the creator of the Marble Phantasm must first create an object in reality/nature, and then use it to affect the target. The effects of world transformation are not directly applied to the target.
+    note:
+      n1: "Clustering illusion is when you find “non-random” patterns or groups in actually random sets => Also see the entry for “Marble.”"
+      n2: "This means that the Marble Phantasm effectively creates a continuous chain of desired coincidences through by manipulating the probability of an event, to realize what is almost a complete overwrite of the world in the Marble Phantasm area. See “Marble.”"
+      n3: "Spirits are of nature, so the world doesn’t reject a Marble Phantasm, which is a major point of difference from a Reality Marble."
+  ja:
+    content: |-
+      ①マーブル・ファンタズム。（マーブルの項参照）
+      ②ダンゴ現象に由来するという事からマーブルとはおはじきの事らしい。
+      ③自身の意思を世界と直結させることによって世界を思い描いた通りに変貌させる世界干渉。現実を幻想（現実にはありえない想像）足らしめる。
+      ④具体的には数多の事象が発生する〝確率〟に干渉することによって、本来ありえざる事象を強引に発生させているものと思われる。
+      ⑤事象が発生する確率へ干渉した結果であるから、具現化できるものは物体に限らないと思われる。
+      ⑥月姫世界においては世界上に存在する異界の一部は精霊が思い描いた空想世界がこれによって具現化されたものである。それゆえ人間が迷い込む事が可能。
+      
+      <strong>長所</strong>
+      術者の思い通りに世界を変貌させる事が可能であるため非常に汎用性が高い。
+      
+      <strong>短所</strong>
+      変貌させられるのはあくまで自然のみであり、自然から独立した存在（人間など）には直接干渉できない。よってそのような存在には何か別のものを具現化し、それによって間接的に干渉せざるを得ない。
+    note: {}
+  zh:
+    content: |-
+      ①Marble Phantasm。（参照Marble项）
+      ②由于取自团子现象所以Marble似乎是指弹珠。
+      ③让自己的意志直接与世界连接，借此让世界变化成内心描绘（的样子）那样的世界干渉。使现实成为幻想（现实中不可能的想像）。
+      ④具体应该是干涉众多事象的发生“几率”，强行使本来不可能（发生）的事象发生。
+      ⑤因为这是干渉事象发生几率的结果，所以能够具现化的东西应该不限于物体。
+      ⑥在月姬世界里，存在于世界上的一部分异界，就是由精灵所描绘出的空想世界具现化而成。因此人类有可能会误入。
+      
+      <strong>长处</strong>
+      因为可以让世界变化成术者所想的那样，所以泛用性非常高。
+      
+      <strong>短处</strong>
+      能够变化的始终只有自然，不能直接干渉独立于自然的存在（人类等）。所以对上那样的存在，就必须具现化其他东西，间接地用它来干渉。
+    note: {}
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 7
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      A special attack performed using Arcueid’s special gauge (magic circuit). Also called Marble Phantasm. In <em>Tsukihime</em>, Arcueid’s marble phantasm is depicted as an ability that allows her to materialize her thoughts. In <em>Melty Blood</em>, TATARI (Night of Wallachia), who transforms into Red Arcueid uses Marble Phantasm to materialize Millenium Castle Brunstud. Originally, Marble Phantasm was a power held by elementals, or “the touch of the Earth,” but it turned out that there are some within the Dead Apostles who can also use it.
+    note: {}
+  ja:
+    content: |-
+      アルクェイドのゲージ使用技の名前。マーブルファンタズムとも言う。『月姫』本編では「考えたことを具現化する能力」として描かれている、『メルティブラッド』内でも、暴走アルクェイドと成ったタタリが空想具現化を使って千年城「ブリュンスタッド」を作り上げる。本来、世界の触覚である精霊が持つ能力とのことだが、死徒の中にもこの空想具現化を使う者がいるとかなんとか。
+    note: {}
+  zh:
+    content: |-
+      爱尔奎特的气槽使用技的名称。也称为Marble Phantasm。《月姬》本篇中被描绘成“将所想的东西具现化的能力”，《MELTY BLOOD》内变成暴走爱尔奎特的Tatari也使用空想具现化制造出千年城“布伦史塔德”。本来是身为世界之触觉的精灵持有的能力，但死徒中也有使用这个空想具现化的人什么的。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 25
+  category:
+  - ability
+  img: ""
+  en:
+    content: |-
+      Imagination Materialization. As the name suggests, it is the ability to manifest anything you can imagine.
+      It is the ability possessed by elementals, which are the sense of touch of the natural world. By connecting their will directly to the world, they are able to transfigure the world into whatever environment they imagine. Of course, the level of manifestation varies depending on the scale of the elemental, and it goes without saying that only nature can be transfigured—things that exist independently of nature are immune.
+      In <em>Tsukihime</em>, Arcueid eliminated Roa by using marble phantasm to turn the layers of the atmosphere in the hallway into a vacuum, like a carving knife slicing up a daikon radish. Though she could not affect Roa himself, it was impossible for him to avoid the finely sliced atmosphere, and he was reduced to nothing but ankles. (The gap above the floor was the result of a deficiency in Arcueid’s imagination.)
+      Also, in the world of <em>Tsukihime</em> spiritual realms are not alternate dimensions, but rather exist within the world itself. Things like legendary lands and countries of eternal spring are the products of the imagination of whatever elemental rules over them. Consequently, it is possible for humans to wander into them by accident.
+      The castle in the mountains that Arcueid calls home is actually a product of her marble phantasm.
+    note: {}
+  ja:
+    content: |-
+      マーブル・ファンタズム。呼んで字の如く、空想を具現化する能力。
+      自然、世界の触覚である精霊が持つ能力で、自己の意志を世界と直結させ、世界を思い描く通りの環境に変貌させる。精霊の規模によってその具現レベルには差があり、あくまで変貌させられるのは自然のみ。自然から独立しているモノを変貌させる事はできない。
+      本編でロアを消し去ったアルクェイドの空想具現は、包丁で大根を切るように廊下の大気の層を真空状態にした、という事。ロア本人に影響は与えられないが、微塵切りされていく大気を避けられる筈もなく、ロアは足首だけがかろうじて残った（アルクの想像には、床にまで断層を作る、という意志が足りなかった）訳である。
+      『月姫』では世界上にある別世界ではない異界、隠れ里や常春の国はその異界の主である精霊が描いた空想世界と考える。故に、人間が迷い込む事が可能となる。アルクェイドが住んでいた山間の城は彼女の空想具現化によるもの。
+    note: {}
+  zh:
+    content: |-
+      Marble Phantasm。如字面一般，使空想实现的能力。
+      身为自然、世界之触觉的精灵所拥有的能力，将自己的意志与世界直接相连，使世界变化成与想象相符的环境。按照精灵规模的不同其具现等级也不同，而且能改变的最多也只有自然。无法改变从自然独立出来的东西。
+      在正篇中消去罗亚的爱尔奎特的空想具现，是像用菜刀切萝卜一样使走廊的空气层成为真空状态。虽然不能影响罗亚本人，但是不可能回避被切得粉碎的大气，罗亚只有脚掌勉强留了下来。（在Arc的想象中“连地板也做出断层”的意志不够）
+      在《月姬》中，与世隔绝的村庄和常春之国等位于此世的异界被认为是身为该异界之主的精灵的空想世界。因此，人类有可能无意间闯入。爱尔奎特所住的山间城堡是她的空想具现化的产物。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 66
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      Imagination Materialization. As the name suggests, it is the ability to manifest anything you can imagine.
+      It is the ability possessed by elementals, which are the sense of touch of the natural world. By connecting their will directly to the world, they are able to transfigure the world into whatever environment they imagine. Of course, the level of manifestation varies depending on the scale of the elemental, and it goes without saying that only nature can be transfigured—things that exist independently of nature are immune.
+      Also, in the world of <em>Tsukihime</em> spiritual realms are not alternate dimensions, but rather exist within the world itself. Things like legendary lands and countries of eternal spring are the products of the imagination of whatever elemental rules over them. Consequently, it is possible for humans to wander into them by accident. The castle in the mountains that Arcueid calls home is actually a product of her marble phantasm.
+      In <em>Melty Blood</em>, it makes an appearance as Arcueid’s Arc Drive. Countless chains act as an extension of her sense of touch, temporarily augmenting the sensation in her hands. As for why the organ doing the grabbing is a chain instead of hands, it’s probably because of her feelings about always having to restrain herself.
+    note:
+      n1: "This entry appeared in the book under “マーブル・ファンタズム” as opposed to “空想具現化.”"
+  ja:
+    content: |-
+      {{n1}}
+      空想具現化。呼んで字の如く、空想を具現化する能力。
+      自然、世界の触覚である精霊が持つ能力で，自己の意志を世界と直結させ、世界を思い描く通りの環境に変貌させる。精霊の規模によってその具現レベルには差があり、あくまで変貌させられるのは自然のみ。自然から独立しているモノを変貌させる事はできない。
+      『月姫』では世界上にある別世界ではない異界、隠れ里や常春の国はその異界の主である精霊が描いた空想世界と考える。故に、人間が迷い込む事が可能となる。アルクェイドが住んでいた山間の城は彼なの空想具現化によるもの。
+      MELTY BLOODではアルクェイドのアークドライブとして登場。無数の鎖は彼女の触覚の延長で、一時的に手の感覚が増大したものである。掴み取る器官が手ではなく鎖なのは、常に自身を縛っていなければならない彼女の心の在り方からだろう。
+    note:
+      n1: "マーブル・ファンタズム"
+  zh:
+    content: |-
+      {{n1}}
+      空想具现化。如字面所说，具现化空想的能力。
+      作为自然、世界的触觉的精灵所拥有的能力，让自己的意志与世界直接连结，使世界变化为与想象一样的环境。根据精灵的规模其具现等级存在差距，终究能被改变的只有自然。不能令从自然独立出的东西改变面貌。
+      在《月姬》世界中隐匿的村落或常春之国——并非在另一个世界的异界——被认为是其异界之主的精灵所想象的空想世界。故，人类有可能误入。爱尔奎特所居住的山间之城是她的空想具现化的产物。
+      在MELTY BLOOD里作为爱尔奎特的Arc-Drive登场。无数的锁链是她触觉的延长，一时地增大了手的感觉。抓取的器官不是手而是锁链，是源于不得不一直束缚着自己的她的心应有的样子吧。
+    note:
+      n1: "这个词条在书里被成为“マーブル・ファンタズム”（而不是“空想具現化”）。"

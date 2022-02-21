@@ -1,0 +1,78 @@
+---
+id: sion-eltnam-atlasia
+
+en: s
+ja: shi
+furigana: しおんえるとなむあとらしあ
+title:
+  en: Sion Eltnam Atlasia
+  ja: シオン・エルトナム・アトラシア
+  zh: 紫苑·艾尔特拉姆·阿特拉西亚
+
+entry:
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 11
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Her former name was Sion Eltnam Sokaris. She is the heroine of <em>Melty Blood</em>. She is an alchemist of Atlas, and expertly uses her etherlite filament to freely read the thoughts of others. Despite being an alchemist she possesses envious level of physical prowess, which rivals or surpasses that of a Dead Apostle. When led astray by TATARI (Night of Wallachia) in the past, she was saved by Riesbyfe Stridberg. She says that she is conducting research on how to return Dead Apostles to being human, but…
+    note: {}
+  ja:
+    content: |-
+      元の名はシオン・エルトナム・ソカリス。『メルティブラッド』のヒロイン。アトラスの錬金術師であり、人の思考を自由に読み取るエーテライトを自在に操る。錬金術師にしては恐るべき運動能力を持ち、そのパワーは死徒とも互角以上に渡りあえる。過去にタタリに遭遇し、盾の騎士、リーズバイフェに助けられた。死徒を人間に戻すための研究をしていると言うが……。
+    note: {}
+  zh:
+    content: |-
+      原本的名字是紫苑艾尔特拉姆Sokaris。《MELTY BLOOD》的女主角。是阿特拉斯的炼金术师，将自由读取人思考的エーテライト操纵自如。拥有对身为炼金术师来说可怕的运动能力，她的力量甚至能与死徒交锋而占优。过去遭遇Tatari，被盾之骑士，利兹拜斐救了。说是进行着为了让死徒变回人类的研究，不过……。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 33
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      An Atlas alchemist who came to Misaki in order to put an end to the Tatari.
+      Her weapons are Etherlite (a nano-scale filament) and the Barrel Replica (an imitation of the “Black Barrel”).
+      Even within Atlas, she is one of the most promising up and coming alchemists, and the name Atlasia marks her as the Institute’s next director.
+      She participated in the battle against the Tatari three years ago, but was defeated. Though she was the sole survivor, afterward she began pursuing the Tatari on her own without returning to either Atlas or the Church.
+      She has an overly serious and inflexible personality, but deep down she’s a warmhearted genius scholar. Among the constantly feuding <em>Tsukihime</em> heroines, she’s a rare type capable of getting along with everybody.
+    note: {}
+  ja:
+    content: |-
+      タタリを終了させる為に三咲町に現れた、アトラスの錬金術師。
+      ナノ単位のフィラメント・エーテライトと“黒い銃身”の模造品・バレルレプリカを武器にする。
+      アトラスでも一、二を争う将来有望な錬金術師で、アトラシアという名称はアトラス院の次期院長を意味する。
+      三年前のタタリ討伐に参加するも、失敗。唯一の生還者と言われているが、事件の後はアトラスにも教会にも戻らず、単身でタタリを追いかけている。
+      生真面目で融通のきかない性格だが、根は温かい天才学者。仲の悪い月姫ヒロインたちにおいて、たいていのヒロインともそれなりに仲良くできる珍しいタイプ。
+    note: {}
+  zh:
+    content: |-
+      为了使Tatari结束而出现在三咲町的、阿特拉斯的炼金术师。
+      将纳米单位的细丝·Etherlight与“黑枪”的仿制品·Barrel Replica作为武器。
+      身为连阿特拉斯都数一数二大有前途的炼金术师，阿特拉西亚这个名称意味着阿特拉斯院的下期院长。
+      参加三年前的Tatari讨伐，同样失败。被认为是唯一的生还者，但事件之后即不回阿特拉斯也不回教会，只身追赶着Tatari。
+      虽是一本正经不知变通的性格，但本性是暖和的天才学者。在关系恶劣的月姬女主人公们中，与大部分的女主人公都能相应地关系和睦的罕见类型。
+    note: {}
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 9
+  category:
+  - "-"
+  img: baa_sion-eltnam-atlasia_w.png
+  en:
+    content: |-
+      Bestowed with the name Atlasia; she is designated as the next director of the Atlas Institute. Finds fault in her own way of life, but has difficulty placing a finger on what troubles her. Participated in the operation to take out TATARI; but was met with defeat and inadvertently became part Dead Apostle. Shook off her pursuers. Roams the city at night with Ries and Satsuki.
+    note: {}
+  ja:
+    content: |-
+      アトラス院の次期院長で、アトラシアの名を授かっていた。自分の在リ方に疑問を持ち「何が間違っているかわからない問題」を泡えた。タタリ討伐に参加するも敗北し、半死徒となってしまう。追手から逃れ、リーズ、さつきとともに夜の街をさまよう。
+    note: {}
+  zh:
+    content: |-
+      阿特拉斯院的下期院长，并被授予了阿特拉西亚之名。抱持着对自己状态的疑问“有哪里搞错了但自己并没察觉到的问题”。参加Tatari的讨伐并败北，成了半死徒。从追捕者手下逃离，和莉兹、五月一起流落夜晚的街头。
+    note: {}

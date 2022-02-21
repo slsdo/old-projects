@@ -1,0 +1,41 @@
+---
+id: index.zh
+
+content: |-
+  <div class="page-content">
+    <h4>2020-04-09</h4>
+
+    <p>君主·埃尔梅罗二世事件簿 material的完整翻译，来自TwilightsCall（英文）和Akiraka（中文），已成为本站词库的一部分。</p>
+
+    <p><span class="highlight">v2.5.3:</span></p>
+
+    <ul>
+      <li>添加君主·埃尔梅罗二世事件簿用语辞典（英文翻译，中文翻译，日文原文）。</li>
+      <li>更改中文“艾尔梅洛伊”为“埃尔梅罗”。</li>
+      <li>修改诸多词条翻译错误。</li>
+      <li>修改少数网页显示和分类功能的bug。</li>
+    </ul>
+
+    <h4>2020-03-17</h4>
+
+    <p><span class="highlight">v2.4.2:</span></p>
+
+    <p>2020年的第一个更新！这次更新以Fate/EXTELLA material为主，把缺漏的英文翻译补齐，Extella辞典正式完工。跟如往一样，如果还碰到错误或不顺的地方，请务必<a href="../contact/">联系我们</a>！</p>
+
+    <ul>
+      <li>添加Fate/EXTELLA material用语辞典英文翻译。</li>
+      <li>修改诸多词条翻译错误。</li>
+    </ul>
+
+    <h4>2019-12-06</h4>
+
+    <p><span class="highlight">v2.4.1:</span></p>
+
+    <ul>
+      <li>添加Fate/EXTELLA material用语辞典（日文，中文）。</li>
+      <li>添加部分英文Fate/Zero动画视觉指南I: 第四次圣杯戦争用语集词条。</li>
+      <li>修改词条语法和翻译错误。</li>
+    </ul>
+
+    <div class="readmore"><a href="./site#site-update">更新记录</a></div>
+  </div>

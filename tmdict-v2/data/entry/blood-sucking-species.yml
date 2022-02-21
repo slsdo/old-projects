@@ -1,0 +1,120 @@
+---
+id: blood-sucking-species
+
+en: b
+ja: ki
+furigana: きゅうけつしゅ
+title:
+  en: Blood-Sucking Species
+  ja: 吸血種
+  zh: 吸血种
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 15
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      A general term for those that suck the blood of other living creatures.
+      Dead Apostles and True Ancestors both fall under this classification.
+      Although the terms vampire and bloodsucker were confusingly used to mean different things in <em>Tsukihime</em> itself, you can pretty much think of them as synonymous.
+      Creatures that suck blood are found all over the world, and they all have different characteristics. Because of that, the term bloodsucker is used as a catch-all term to describe them. In that sense, even Akiha would be considered a bloodsucker.
+      The Church concerns itself with the hunting of vampires specifically. That is, Dead Apostles and True Ancestors. Accordingly, they don’t really care about things like the bloodsucking animals of South America, or the vampiric flying heads of mainland China.
+      Good news, eh, Akiha?
+    note: {}
+  ja:
+    content: |-
+      同じ生物の血を吸うモノたちの総称。
+      死徒、真祖もこれに分類される。
+      本編では吸血鬼だの吸血種だの使い別けられて混乱するが、どっちもほとんど同じ意味と考えておつりは結構です。
+      吸血行為をするモノは世界中におり、かつその性質はみな微妙に異なる為こういった総称ができた。そういう意味でいえば秋葉だって吸血種。
+      教会の敵は吸血鬼。死徒、真祖である。ゆえに南米の吸血動物だの、大陸の吸血飛頭なんかは相手にしない。
+      よかったね、秋葉。
+    note: {}
+  zh:
+    content: |-
+      吸取同类生物血液的生物的总称。
+      死徒与真祖也属于此类。
+      虽然在本篇很容易被吸血鬼和吸血种两种不同的使用方式搞混，不过把两者想成几乎同意思也是可以的。
+      进行吸血行为的物种遍佈世界，他们的性质全部都有着微妙的差异，所以取了这个总称。依照这个意思来看的话，秋叶也是吸血种。
+      教会的敌人是吸血鬼、死徒、真祖。所以南美的吸血动物和大陆的吸血飞头之类的并不会理会。
+      真是太好了呢，秋叶。
+    note: {}
+- source: yoi-no-myoujou
+  section: talk
+  order: 1
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      A general term used to describe organisms that consume the blood of their own kind.
+      Einnashe was a special exception as a subspecies of Blood-Suckers.
+      Most of the Blood-Suckers were weak against sunlight, but there were indeed Blood-suckers who were only active during the day.
+      The Dead Apostles of <em>Tsukihime</em> were representative of the Blood-Suckers. They were Blood-Suckers derived from mankind.
+    note: {}
+  ja:
+    content: |-
+      同じ生物の血を吸うモノたちの総称。
+      中には亜種として、アインナッシュのような特例が誕生する。
+      多くの吸血種は日の光に弱いが、中には日中しか活動できないという稀な吸血種も存在するとか。
+      月姫では死徒と呼ばれる、人間から吸血種となったモノたちを代表的な吸血種として扱っている。
+    note: {}
+  zh:
+    content: |-
+      吸同样生物的血的东西的总称。
+      其中作为亚种，会诞生像Einneshe一样的特例。
+      大多的吸血种受不了日光，但其中也存在只能在日光中活动这样稀有的吸血种什么的。
+      在月姬里被称为死徒，从人类变为了吸血种的人们被当成代表性的吸血种。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 24
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      A general term for those that suck the blood of other living creatures.
+      Dead Apostles and True Ancestors both fall under this classification. Although the terms vampire and bloodsucker were confusingly used to mean different things in <em>Tsukihime</em> itself, you can pretty much think of them as synonymous.
+      Creatures that suck blood are found all over the world, and they all have different characteristics. Because of that, the term bloodsucker is used as a catch-all term to describe them. In that sense, even Akiha would be considered a bloodsucker.
+      Moreover, the Church concerns itself with the hunting of vampires specifically. That is, Dead Apostles and True Ancestors. Accordingly, they don’t really care about things like the bloodsucking animals of South America, or the vampiric flying heads of mainland China.
+      Good news, eh, Akiha?
+    note: {}
+  ja:
+    content: |-
+      同じ生物の血を吸うモノたちの総称。
+      死徒、真祖もこれに分類される。本編では吸血鬼だの吸血種だの使い分けられて混乱するが、どっちもほとんど同じ意味と考えておつりは結構です。
+      吸血行為をするモノは世界中におり、かつその性質がみな微妙に異なる為この総称で呼ばれている。そういう意味でいえば秋葉だって吸血種。
+      また、教会の敵は吸血鬼。死徒、真祖である。故に南米の吸血動物だの、大陸の吸血飛頭なんかは相手にしない。
+      よかったね、秋葉。
+    note: {}
+  zh:
+    content: |-
+      各种吸生物之血的东西的总称。
+      死徒、真祖也被分类为这个。正篇中根据不同的场合用了吸血鬼呀吸血种呀不同的称呼看起来很混乱，但只要认为哪个都是差不多的意思就足够有余了。
+      进行吸血行为的东西世界各地都有，再加上其性质都有些微妙的不同所以用这个总称来称呼。以这种意义来说的话秋叶也是吸血种。
+      还有，教会的敌人是吸血鬼。即死徒、真祖。所以不会去管南美的吸血动物、中国的吸血飞头什么的。
+      真是太好了呢，秋叶。
+    note: {}
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 6
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Common term for those that suck the blood of their own kind.
+    note: {}
+  ja:
+    content: |-
+      同じ生物の血を吸うモノたちの総称。
+    note: {}
+  zh:
+    content: |-
+      吸食同样生物血之物的总称。
+    note: {}

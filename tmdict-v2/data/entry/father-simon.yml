@@ -1,0 +1,30 @@
+---
+id: father-simon
+
+en: f
+ja: shi
+furigana: しもんしんぷ
+title:
+  en: Father Simon
+  ja: シモン神父
+  zh: 西蒙神父
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 35
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      アリマゴ島の神父。いつもは温厚だが矩賢を目の敵にしており、助手として矩賢のもとへ通うシャーレイに幾度も警告を与える。死徒となったシャーレイのことを切嗣より聞き、村へ伝えに向かうも殺される。
+    note: {}
+  zh:
+    content: |-
+      亚力马哥[Alimango]岛的神父。虽然总是一副温厚的样子却把矩贤视作眼中钉，多次警告以助手身份和矩贤往来的夏蕾[Shirley]。从切嗣那听闻了夏蕾[Shirley]变成死徒，即使向村里传达也一样被杀害了。
+    note: {}

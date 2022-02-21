@@ -1,0 +1,34 @@
+---
+id: shape-ist-leben
+
+en: s
+ja: ke
+furigana: けいがいよせいめいをやどせ
+title:
+  en: shape ist Leben
+  ja: shape ist Leben
+  zh: shape ist Leben
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 87
+  category:
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      物質の錬成と創製、応用というアインツベルン伝来の魔術による貴金属の形状操作。アイリスフィールが綺礼との戦闘において使用。針金に魔力を通わせて、巨大な鷹を模した針金細工、即席のホムンクルスを錬成する。
+    note:
+      n1: "形骸よ、生命を宿せ"
+  zh:
+    content: |-
+      {{n1}}
+      以物质的炼成与创制、应用这样的爱因兹贝伦[Einzbern]传来的魔术操作贵金属的形状。爱丽丝菲尔[Irisviel]在与绮礼的战斗中所使用。以魔力贯通金属丝，模仿了巨大的鹰的金属丝工艺品，炼成临时的Homunculus。
+    note:
+      n1: "形骸啊，获得生命"

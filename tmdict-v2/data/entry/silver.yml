@@ -1,0 +1,30 @@
+---
+id: silver
+
+en: s
+ja: ki
+furigana: ぎん
+title:
+  en: Silver
+  ja: 銀
+  zh: 银
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 13
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      A color of the realm of the gods. Spiritual energy which approaches the realm of the gods is said to be replete with this color.
+    note: {}
+  ja:
+    content: |-
+      神域の色。神域に近いモノの思念の中にはこの色も見られるらしい。
+    note: {}
+  zh:
+    content: |-
+      神域之色。接近神域之人的思念（？）似乎也会出现这个颜色。
+    note: {}

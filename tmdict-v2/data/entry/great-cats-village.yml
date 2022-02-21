@@ -1,0 +1,33 @@
+---
+id: great-cats-village
+
+en: g
+ja: ku
+furigana: グレートキャッツビレッジ
+title:
+  en: Great Cats Village
+  ja: グレートキャッツビレッジ
+  zh: Great Cat’s Village
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 22
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      The mysterious, unearthly kingdom of cats. Also known as the GCV. An underground kingdom that is both everywhere in this world, and nowhere.
+      Its size is constantly fluctuating from village to cottage to company, but in the end it’s basically a village. There are some that say it is the dream of a certain mighty cat.
+    note: {}
+  ja:
+    content: |-
+      不思議な不気味な猫の王国。通称GCV。この世の何処にでもあり、どこにもない地下王国。悪の都パンゲアのモデルなのでは、とネコアルクたちは噂している。
+      ビレッジやらコテージやらカンパニーやら、頻繁に規模が変わるが基本はビレッジ。ある偉大なネコが見た夢なのでは、とも。
+    note: {}
+  zh:
+    content: |-
+      不可思议的可怕的猫之王国。通称GCV。人世间何处都有，何处都没有的地下王国。因为是恶之都Pangaea的模型，猫Arc们这么传说着。
+      Village啦Cottage啦Company啦，频繁地改变规模，但基本是Village。因为是某个伟大的猫所做的梦，也被这样说。
+    note: {}

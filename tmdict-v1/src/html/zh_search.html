@@ -1,0 +1,31 @@
+{% extends "_base.html" %}
+{% block title %}{{ search }}{% endblock %}
+{% block url %}search{% endblock %}
+
+{% block content %}
+<div class="page-content">
+    <div id="tipue_search_content"></div>
+</div>
+{% endblock %}
+{% block side %}
+{% if ext %}{{ side }}{% else %}{{ side|replace(".html", "") }}{% endif %}
+{% endblock %}
+
+{% block style %}
+    <link rel="stylesheet" href="../src/lib/tipuesearch/tipuesearch.css" />
+{% endblock %}
+{% block script %}
+<script src="../src/lib/jquery.min.js"></script>
+<script src="../src/js/search.js"></script>
+<script src="../src/lib/tipuesearch/tipuesearch_set.js"></script>
+<script src="../src/lib/tipuesearch/tipuesearch.min.js"></script>
+<script type="text/javascript">
+    /* Search */
+    $(document).ready(function() {
+      $('#tipue_search_input').tipuesearch({
+        'minimumLength': '2',
+        'highlightEveryTerm': 'true'
+      });
+    });
+</script>
+{% endblock %}

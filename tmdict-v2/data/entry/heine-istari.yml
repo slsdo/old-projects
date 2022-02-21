@@ -1,0 +1,45 @@
+---
+id: heine-istari
+
+en: h
+ja: ha
+furigana: はいねいすたり
+title:
+  en: Heine Istari
+  ja: ハイネ・イスタリ
+  zh: 海涅·伊斯塔利
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 39
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      One of the invitees to Adra, the Castle of Separation.
+      He has the double elemental affinity of Fire and Water. His specialty in magecraft is “Change.”
+      For a human magus, he is in the strongest class of combat ability. A pure and noble “Knight.”
+      Furthermore, as was mentioned in the Kadokawa paperback edition, he mentions that the title of knight wasn’t given to him by “her Highness the Queen.” His reasoning for the use of “Her Highness” rather than “Her Majesty” is that, “someone who is only a member of an earthly royal family isn’t qualified for the highest title.” A very magus-like sentiment.  At any rate, he has a background in France, and the character of one who was once a member of the Holy Church.
+      The fate he reached at the Castle of Separation could only be described as a result of coming up against the wrong opponent. An issue of compatibility, as is so often the case in Type Moon.
+      Taking care of Rosalind up until the very moment of his death, his wish was entrusted to Seigen. Though ultimately Seigen was the culprit behind the Adra case…even so, there was no betraying the wish of that knight.
+    note: {}
+  ja:
+    content: |-
+      剥離城アドラの招待客のひとり。
+      属性は火と水の二重。魔術の特性は流転。
+      人間の魔術師としては、最強クラスの戦闘力の持ち主。高潔なる『騎士』。
+      なお、角川文庫版では補足してあるが、女王閣下に騎士の称号を授かったわけではありませんからの一言は、さらっと女王を閣下呼ばわりすることで、「たかが俗世の王族に陛下なんて最大の尊称は使いませんよ」と魔術師らしいアピールをしたものであった。とにかく隙のない、フランス帰りかつ聖堂教会気質。
+      そんな彼が剥離城アドラでああなったのは、ひとえに相手が悪かったとしか言えない。タイプムーンあるある相性問題である。
+      死の間際までロザリンドを気にかけていた彼は、清玄に望みを託していた。結果からすれば、清玄こそが剥離城アドラの真犯人だったのだが……それでも、騎士の願いが裏切られることはなかった。
+    note: {}
+  zh:
+    content: |-
+      剥离城阿德拉的来客之一。
+      属性是火与水的二重。魔术特性是流转。
+      拥有作为人类魔术师而言的最高级别战斗力。高洁的『骑士』。
+      另外，在角川文库版中有补充这么一句话，他的骑士称号并非由女王阁下所授予，通过直接利落地称呼女王为阁下，做出了「不过是俗世的王族，不会对其使用陛下这种最大的尊称」这种具有魔术师风格的呼吁。总之就是无懈可击，法国海归兼圣堂教会气质。
+      这样的他竟然会在剥离城阿德拉落得那番下场，完全只能说是遇到的对手太不利了。也就是TYPE-MOON经常出现的相性问题。
+      临死之际依然担心着罗莎琳德的他，将希望寄托在了清玄身上。从结果来看，清玄正是剥离城阿德拉的真凶……但即便如此，骑士的愿望也没有遭到背叛。
+    note: {}

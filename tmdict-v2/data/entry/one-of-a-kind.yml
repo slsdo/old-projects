@@ -1,0 +1,42 @@
+---
+id: one-of-a-kind
+
+en: o
+ja: i
+furigana: いっぴんもの
+title:
+  en: One of a Kind
+  ja: 一品もの
+  zh: 孤品
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 7
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      Sprites that were only used once in the entire story.
+      <em>Fate/stay night</em> boasts an absolutely ridiculous number of character sprites, but there are some that were made especially for specific scenes, that players could go the entire game without seeing depending on what choices they made.
+      Some examples would be things like Saber after taking a bath, Rin looking down shyly, Rin giving a hug, and the comically angry Saber.
+      Also, strangely enough there were even sprites that were made but went unused.
+      Between the extensive play time and the Tiger Dojos, it’s not the really most streamlined game around, huh?
+    note: {}
+  ja:
+    content: |-
+      本編で一回しか使われなかった立ち絵のコト。
+      一種キチOイじみた立ち絵数を誇るFateだが、 その中でも「シーン専用」として作られ、選択肢によっては一生日の目を見ない不遇の存在。
+      湯上りセイバー、照れうつむき凜、抱きつき凜、コミカル怒りセイバーなどが代表格。
+      また、あろう事か作られていながらも使用しなかっ た立ち絵もあるとか。
+      膨大なプレイ時間といい、タイガー道場といい、無駄の多いゲームです。
+    note: {}
+  zh:
+    content: |-
+      是指在本篇里只使用了一次的立绘。
+      以一些异常质朴的立绘的数量而夸耀的FATE，其中有不少的是作为“某剧情专用”而画出来的，如果选择得不对可能一辈子都见不到的稀有存在。
+      以刚洗完澡的Saber，羞涩垂下头的凛，抱姿的凛，滑稽生气样子的Saber等为代表。
+      另外，还有一些立绘是以为用得上而画出来了但最后却没有用上的。
+      庞大的游戏时间也好、老虎道场也好，真是个充满了浪费的游戏呢。
+    note: {}

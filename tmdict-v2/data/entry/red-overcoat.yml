@@ -1,0 +1,35 @@
+---
+id: red-overcoat
+
+en: r
+ja: a
+furigana: あかいがいとう
+title:
+  en: Red Overcoat
+  ja: 赤い外套
+  zh: 红色外套
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 4
+  category:
+  - armament
+  img: ""
+  en:
+    content: |-
+      The clothes that symbolize Archer. They are actually a first-class conceptual armament.
+      Rather than protecting the wearer from enemies, it would be more accurate to say that they provide protection against the outside world. Apparently they were made from the Holy Shroud of a certain saint.
+    note: {}
+  ja:
+    content: |-
+      外套とはマントの事。
+      アーチャーを象徴する服装で、
+      実は一級品の概念武装だったりする。
+      外敵に対する守りではなく外界に対する守りで、ある聖人の聖骸布で作られているとか。
+    note: {}
+  zh:
+    content: |-
+      外套指的就是披风[manteau]。象征Archer的服装，实际上是一级品的概念武装。
+      并非对外敌的防御而是对外界的防御，是以某位圣人的圣骸布制作的。
+    note: {}

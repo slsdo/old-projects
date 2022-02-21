@@ -1,0 +1,36 @@
+---
+id: agrius-metamorphosis
+
+en: a
+ja: a
+furigana: あぐりおすめたもろーぜ
+title:
+  en: Agrius Metamorphosis
+  ja: 神罰の野猪
+  zh: 神罚的野猪
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 12
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      The Boar of Divine Punishment. The pelt of the Calydonian Boar, a Monstrous Beast which the virgin Goddess Artemis let loose upon the earth. It looks like a wild boar, but that is merely because the lifeform that was used as its basis just happened to be a boar. Just as depicted in the novels, if the pelt is worn by a person, they will become a Monstrous Human rather than a Monstrous Beast.
+      It grants power equivalent to that of A rank Mad Enhancement and grants an A rank Transformation skill, bestowing various characteristics depending on the environment. In exchange, the wearer loses their reason and, depending on the situation, becomes unable to discern and identify even their Master. It is a Noble Phantasm whose use pretty much equals self-destruction, and its use has never been confirmed in any of the subspecies Holy Grail Wars.
+      However, even the author himself couldn’t help having doubts about how it transformed into bird wings for Atalanta, fused with her bow and shot arrows weaved out of mana. Was it supposed to be like the T virus or something?{{n1}}
+    note:
+      n1: "The last line is a <em>Resident Evil</em> reference."
+  ja:
+    content: |-
+      アグリオス・メタモローゼ。処女神アルテミスが地上に遣わした魔獣カリュドンの皮。一見は猪に見えるが、それは素体となる生物がたまたま猪だっただけ。人が被れば、魔獣ならぬ魔人となるのは本編での描写通り。
+      Aランク狂化に相当する力と環境に応じて特質を獲得するAランクの変化スキルを獲得。代償として理性は消失し、状況によっては己のマスターですらも識別不可能となる。ほぼ自爆に等しい宝具であり、亜種聖杯戦争において使用が確認されたことはなかった。
+      しかし鳥の翼に変形させたり、弓と融合して魔力で編み出した矢を射出したりするのは、作者本人もどうかと思いました。Tウィルスか何かでもやっておられる？
+    note: {}
+  zh:
+    content: |-
+      Agrius Metamorphosis。处女神阿耳忒弥斯派遣到地上的魔兽－卡吕冬的皮。乍看之下像猪，但那只是偶然以猪作为依附生物罢了。依照本篇的描述，如果有人披上这张皮，变化后就会是魔人而非魔兽。
+      装备后可获得相当于A级的狂化，以及对应环境藉此附加某些特质的A级变化技能。代价是理性消失，根据情况可能连自己的御主都不认得。这种宝具几乎等同于自爆，在亚种圣杯战争中从未有过使用纪录。
+    note: {}

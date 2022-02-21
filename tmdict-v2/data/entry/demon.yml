@@ -1,0 +1,33 @@
+---
+id: demon
+
+en: d
+ja: ma
+furigana: ま
+title:
+  en: Demon
+  ja: 魔
+  zh: 魔
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 24
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      ① Demons are a part of the law of nature itself, but their existence is unnecessary to nature since their demon powers distort the flows of natural power.
+      ② Their existence itself is distortion, so demon hunters move to exterminate them as soon as possible.
+    note: {}
+  ja:
+    content: |-
+      ①自然の法則にありながらその流れを歪めるモノとして必要とされなかった力を行使するモノ達。
+      ②発生しているだけで歪みである。故に退魔は即座にこれを禁じる。
+    note: {}
+  zh:
+    content: |-
+      ①虽然身处在自然的法则内，却会行使不必要的力量使其流动歪曲的存在。
+      ②单是出现就是歪曲。所以退魔会马上禁制他们。
+    note: {}

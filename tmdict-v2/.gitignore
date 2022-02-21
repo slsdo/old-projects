@@ -1,0 +1,10 @@
+# Dependency directory
+node_modules
+
+# Garbage files
+.DS_Store
+
+# Output dir
+dist/*
+bin/*
+src/components/data/*

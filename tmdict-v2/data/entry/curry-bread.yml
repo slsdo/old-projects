@@ -1,0 +1,72 @@
+---
+id: curry-bread
+
+en: c
+ja: ka
+furigana: かれーぱん
+title:
+  en: Curry Bread
+  ja: カレーパン
+  zh: 咖喱面包
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 10
+  category:
+  - weapon
+  img: ""
+  en:
+    content: |-
+      A Ciel-specific weapon. If it’s deep-fried, there’s even an instant death effect.
+      However, it has no effect on Akiha at all.
+    note: {}
+  ja:
+    content: |-
+      シエル限定の武器。揚げたてのカレーパンなら即死効果さえある。
+      ただし、秋葉には効果はない。
+    note: {}
+  zh:
+    content: |-
+      雪儿专用的武器，炸过的咖哩面包什至具备即死效果。
+      不过对秋叶没有用。
+    note: {}
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 8
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      ① Unlike curry rice or curry udon noodles, curry bread is easy to carry around. This makes it an important item when you want to negotiate with Ciel.
+    note: {}
+  ja:
+    content: |-
+      ①カレーライスやカレーうどんと違い持ち運ぶのに便利。よってシェル先輩と交渉したい場合に重宝するアイテム。
+    note: {}
+  zh:
+    content: |-
+      ①跟咖哩饭或咖哩乌冬不同并方便挪动。所以在想跟雪儿学姐谈判的时候是方便的道具。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 18
+  category:
+  - weapon
+  img: ""
+  en:
+    content: |-
+      A Ciel-specific weapon. If it’s deep-fried, there’s even an instant death effect.
+      However, it has no effect on Akiha at all.
+    note: {}
+  ja:
+    content: |-
+      シエル限定の武器。揚げたてのカレーパンなら即死効果さえある。
+      ただし、秋葉には効果はない。
+    note: {}
+  zh:
+    content: |-
+      雪儿限定的武器。刚烤好的咖喱面包的话甚至有即死效果。
+      但是，对秋叶没有效果。
+    note: {}

@@ -1,0 +1,42 @@
+---
+id: bb-channel
+
+en: b
+ja: hi
+furigana: びびちゃんねる
+title:
+  en: BB Channel
+  ja: BBちゃんねる
+  zh: BB Channel
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 120
+  category:
+  - event
+  img: ""
+  en:
+    content: |-
+      From the second chapter onwards, there is a “BB channel” movie for each layer that introduces the new game play elements of that stage. Sponsored by BB, produced by BB, and featuring BB.
+      There are 6 main broadcasts with 3-4 additional mini-broadcasts of BB’s show.
+      In the show BB is so hyped up that her high-strung attitude almost hurts, this is because BB Channel is the only time that BB gets to spend with the protagonist, so she is desperately trying to show her appeal. However her efforts are rather fruitless, and have the opposite effect.
+      Originally the BB Channel sections only comprised of one background CG with BB’s face in front, but thanks to the hard work of the development staff it became a series of short movies before I knew it.  Actually the BB channel movies were produced in the last month before the development deadline.
+      It might have been interesting to include an investigation and report about each arena as part of BB Channel. “Excuse meeeeeeeee” and then after entering the room she just finds the whiteboard used in EXTRA’s “Bonus Theater” (Omake Theather) and the SakuRider cosplay outfit…
+    note: {}
+  ja:
+    content: |-
+      二章以降、その階層の導入部に差し込まれるステージ紹介ムービー。提供BB、制作BB、主演BBによるハイパー自演タイム。
+      本放送六回+追加放送三～四回。
+      BBが痛いぐらいにハイテンションなのは、ここでしか主人公と関われないため、必死にアピールしているからである。努力むなしく逆方向にフラグをたてるBBであった。
+      当初は一枚絵の背景CGとBBのフェイス絵だけで進むものだったが、開発スタッフの熱意とがんばりによって、気がつくとムービー形式のイベントになっていた。実にマスターアップ一ヶ月前の事である。
+      ゲーム中のサブイベントで、BBチャンネルを収録していたアリーナの調査、とかあったら面白かったかもしれない。お邪魔しマース、と中に入ると、そこには『EXTRAおまけ劇場』で使われたホワイトボードとサクライダーのコスプレ衣装が……。
+    note: {}
+  zh:
+    content: |-
+      第二章开始，在该楼层的导入部插入的舞台介绍影像。由BB赞助、BB制作、BB主演的超级自演时间。
+      正式播放六回+追加播放三～四回。
+      BB的情绪之所以那么高得令人发指，是因为她只有在这里才能跟主角牵扯上，所以她才在拼命主张自己的存在感。拼命努力的结果却是朝着反方向立旗的BB。
+      当初是打算只用一张背景CG和BB的脸绘来进行的，因为开发组的热情和努力，回过神来就变成影像模式了。而这时已经到截止期限的一个月前了。
+      如果游戏里有调查录制BBC的竞技场，这种支线剧情可能会很有趣吧。“打扰了”，进入里面后，发现里面放着“EXTRA附赠剧场”时使用的白板和樱Rider的cosplay服装……。
+    note: {}

@@ -1,0 +1,30 @@
+---
+id: nakata-jouji
+
+en: n
+ja: na
+furigana: なかたじょうじ
+title:
+  en: Nakata Jouji
+  ja: 中田譲治
+  zh: 中田让治
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 35
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      TYPE-MOONにとっての英霊（ご存命ですが）。別の収録でお会いする機会があり、一言謝ろうとした矢先に「携帯サイト見ましたよ、出してくれてありがとう！」と爽やかなお言葉をいただいてしまう。あれから一年、次にお会いした時には土下座程度で足りるのだろうか。
+    note: {}
+  zh:
+    content: |-
+      对TYPE-MOON而言的英灵（虽然还活着）。也有在其他收录中见到的机会，刚要道一声谢谢之前承蒙收到了“手机网站看到了哟，能搞出来真是感谢”这样爽朗的话语。那之后已经一年了，下次见面的时候得下跪才够吧。
+    note: {}

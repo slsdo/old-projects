@@ -1,0 +1,30 @@
+---
+id: dark-sky
+
+en: d
+ja: ka
+furigana: そらが、くらい
+title:
+  en: Dark Sky
+  ja: 空が、昏い
+  zh: 天空，好暗
+
+entry:
+- source: angel-voice
+  section: notes
+  order: 8
+  category:
+  - cloud-sky
+  img: ""
+  en:
+    content: |-
+      Sky covered by clouds. The thick layers of cloud hides the sky since the great war. It doesn’t mean the sky is gray; they just can’t see the sky.
+    note: {}
+  ja:
+    content: |-
+      雲に覆われた空。何十と重なった雲層は、大戦以後、空というものを隠している。空が灰色なのではなく、空が見えないというコトらしい。
+    note: {}
+  zh:
+    content: |-
+      云层覆盖的天空。几十层的云层自大战结束以后便遮蔽了天空。不是说天空是灰色的，而是指看不到天空。
+    note: {}

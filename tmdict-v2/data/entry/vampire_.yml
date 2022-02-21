@@ -1,0 +1,41 @@
+---
+id: vampire_
+
+en: v
+ja: u
+furigana: うﾞぁんばいや
+title:
+  en: VAMPIRE
+  ja: ヴァンパイヤ
+  zh: Vampire
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 6
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      ① Refers to a living dead that has regained its ego and self-awareness over time (regained the knowledge and wisdom it had when human).
+      ② The probability of a living dead successfully becoming a vampire is about 1 in 10,000.
+      ③ A vampire whose actions created a living dead, which then successfully became a vampire in turn, is referred to as a Dead Apostle.
+      ④ There have been instances in which a vampires killed their Dead Apostle progenitor, thereby becoming a new Dead Apostle themselves.
+    note: {}
+  ja:
+    content: |-
+      ①リビングデッドが時間をかけて人間だった頃の知識を取り戻した段階。
+      ②この段階まで残れる確率はおよそ一万人に一人。
+      ③このヴァンパイヤ達の生みの親となったヴァンパイヤは死徒と呼ばれる。
+      ④親である死徒を殺して自らが新たな死徒となる事がある。
+    note: {}
+  zh:
+    content: |-
+      {{n1}}
+      ①Living Dead花费时间，取回了人类时期的知识的阶段。
+      ②残存到这个阶段的几率大约一万人中有一人。
+      ③成为这些Vampire亲本的Vampire被称为死徒。
+      ④有的Vampire会把作为亲本的死徒杀死，然后自己成为新死徒。
+    note:
+      n1: "不打中文是因为要将“Vampire”和“吸血鬼”词条区分开……"

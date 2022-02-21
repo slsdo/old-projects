@@ -1,0 +1,30 @@
+---
+id: fuyuki-city
+
+en: f
+ja: fu
+furigana: ふゆきし
+title:
+  en: Fuyuki City
+  ja: 冬木市
+  zh: 冬木市
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 17
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      Surrounded in the north and the south by nature with mountains on one side and ocean on the other, Fuyuki is a city in Japan. The city is divided into east and west by the Mion river. Shinto, the commercial district, lies to the east, and Miyama Town, the older, suburban residential area, is to the west. Fuyuki is the stage of the Holy Grail War. The Three Founding Families chose Fuyuki for the Holy Grail War for its powerful leylines, and as a location in the far-east away from the prying eyes of the Mage’s Association and Holy Church.
+    note: {}
+  ja:
+    content: |-
+      南北を山と海に挟まれた自然豊かな日本の地方都市。中央を流れる未遠川によって東西が分断されており、東側の新都は商業地区、西側の深山町は古くからの住宅街と分かれている。また、聖杯戦争の舞台でもある。魔術協会や聖堂教会の目が届かない極東の地、そして優れた霊脈を持つ土地柄から、200年前に始まりの御三家によって聖杯戦争の開催地として選ばれた。
+    note: {}
+  zh:
+    content: |-
+      南北被山和海包夹的自然环境丰富的日本地方都市。以中央流淌的未远川分成东西，东侧的新都是商业地区，被分开的西侧的深山町为自古以来的住宅街。另外，还是圣杯战争的舞台。魔术协会和圣堂教会目所不能及的极东之地，然后因为是持有优秀的灵脉的土地，于200年前被初始的御三家选为了举办地。
+    note: {}

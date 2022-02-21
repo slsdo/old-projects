@@ -1,0 +1,42 @@
+---
+id: anti-cell
+
+en: a
+ja: a
+furigana: あんちせる
+title:
+  en: Anti-Cell
+  ja: アンチセル
+  zh: 反噬晶体
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 7
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      The vanguard of the Umbral Star. Velber sends these to conquer planets.
+      Like the Moon Cell that designed high-level information life forms from human civilizations (the Servants), the Umbral Star designed organic life forms that could efficiently destroy civilizations — known as the “Anti-Cells.”
+      These land on planets that have been marked for harvest and use a range of methods to ravage the civilizations there.
+      All of the Anti-Cells have an idiosyncratic approach to completing this task. They grow by draining the spiritrons from intelligent life forms, and starve and die once all intelligent life has been destroyed, as that is their source of food.
+      As the Umbral Star’s harvesters, they prioritize its commands above all.
+    note: {}
+  ja:
+    content: |-
+      遊星の尖兵。ヴェルバーが惑星に送りこむ尖兵。
+      ムーンセルが地球文明から高度な情報生命体───サーヴァントをデザインしたように、ヴォイドセルは文明を効率よく破壊するための有機生命体──アンチセルをデザインした。
+      これが捕食対象の惑星に降り立ち、それぞれの手段で文明を破壊する。
+      アンチセルたちは方法（アプローチ）こそ違えど、知性体から霊子を吸収して成長するため、全知性体が消滅すれば栄養源がなくなり自壊する。
+      遊星の指令を第一として活動する収穫者である。
+    note: {}
+  zh:
+    content: |-
+      游星尖兵。威尔帕送至行星上的尖兵。
+      如同Moon Cell取材地球文明而设计出了高度资讯生命体——英灵，虚无晶体为了更有效率地破坏文明而设计出了有机生命体——反噬晶体。
+      反噬晶体会降落在捕食目标的行星，使用各种手段破坏文明。
+      虽然各个反噬晶体使用的方法（Approach）不同，但皆会从知性体身上吸收灵子成长。而当所有知性体消灭，就会失去营养源而自我毁灭。
+      以游星的指令为第一优先活动的收货者。
+    note: {}

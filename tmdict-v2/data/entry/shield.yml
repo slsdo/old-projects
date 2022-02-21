@@ -1,0 +1,39 @@
+---
+id: shield
+
+en: s
+ja: shi
+furigana: しーるど
+title:
+  en: Shield
+  ja: シールド
+  zh: 盾
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 73
+  category:
+  - terrain
+  img: ""
+  en:
+    content: |-
+      Unobservable defensive barriers that are scattered throughout Sakura Labyrinth.
+      These walls protect the secrets held within the hearts of the girls who were placed in the Labyrinth.
+      In conjunction with Secret Garden, if their secret is revealed they lose the will to protect it, and are destroyed.
+      Secrets that are too fondly thought of are also risky.
+    note: {}
+  ja:
+    content: |-
+      サクラ迷宮に点在する計測不可能の防壁。
+      迷宮にされた少女たちの秘密を守る心の壁。
+      SGと連動しており、秘密が明らかになればそれを守る意義を失い、消滅する。
+      あまり壊し過ぎてもいけない。
+    note: {}
+  zh:
+    content: |-
+      散布在Sakura迷宫的无可计量的防御壁。
+      守护化作迷宫的少女们秘密的心之壁。
+      与SG进行联动，解明秘密的话，就失去了守护其的意义，进而消灭。
+      太坏心眼也不好。
+    note: {}

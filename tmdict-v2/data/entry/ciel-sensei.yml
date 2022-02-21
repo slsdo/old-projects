@@ -1,0 +1,66 @@
+---
+id: ciel-sensei
+
+en: c
+ja: shi
+furigana: ちとくとめせんせい
+title:
+  en: Ciel-sensei
+  ja: 知得留先生
+  zh: 知得留老师
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 27
+  category:
+  - nickname
+  img: ""
+  en:
+    content: |-
+      Administrator of the Tsukihime Help Corner.
+      The fact that she fits even better here than in the main story is almost frightening. As for why it’s Ciel, well, basically we figured if we could turn an older-sister type character into the current Ciel, then turning the half-baked upperclassman Ciel into a teacher should be fine.
+      Incidentally, for a while we couldn’t decide if we wanted the host of the help corner to be a teacher, or a child version of Shiki.
+      The art director ended up unilaterally making the decision all on his own, authoritatively declaring “You know, Ciel seems kind of like a teacher.” Then even though we were swamped with work at the time, he somehow ended up drawing a bunch of character artwork for Ciel-sensei anyway. Of course, we couldn’t very well half-ass things after that, so we were basically forced to throw ourselves into covering all the possible ending patterns.
+      Oh, and I forgot to mention, this happened two days before the final test play. We barely finished!
+    note: {}
+  ja:
+    content: |-
+      ちえる、ではない。しえる、と読む。月姫お助けコーナーの支配者。
+      本編よりはまっているのが恐ろしい。シエルもお姉さんキャラが原型なら、先輩なんていうパンハな位置より教師だったらよかったのに、と思わせるぐらいだ。
+      余談ではあるが、あのコーナーの司会者は先生か子供志貴の役割だった。
+      そこを原画担当が「シエルは先生っぽい」と鶴の一声をあげ、かつ忙しいっていうのに知得留先生の立ち絵を描いてしまった。そうなるとこっちとしてもハンパな真似はできないので、わざわざ全てのエンドパターンを作成するハメに。
+      なんと、最終テストプレイ二日前の出来事である。滑りこみもいいところだ。
+    note: {}
+  zh:
+    content: |-
+      不是CHIERU，是念作SHIERU。月姬救助单元的支配者。 
+      可怕的是比本篇还喜欢。足以让人感觉雪儿的原型也是姐姐型角色。如果不是学姐这种半调子的位置，而是当老师就好了。 
+      顺带一提，那个单元的司仪是老师和小孩志贵。 
+      原画负责人的一句“雪儿很有老师的气质”解决了所有意见，明明已经够忙了却还是画出了知得留老师的立绘。既然如此这边也不能漏气，所以变成特别做出所有结局模式的情况。 
+      这一切竟然是最终试玩两日前所发生的事。赶上的时间也恰到好处。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 38
+  category:
+  - nickname
+  img: ""
+  en:
+    content: |-
+      Administrator of the Tsukihime Help Corner.
+      The fact that she fits even better here than in the main story is almost frightening. As for why it’s Ciel, well, basically we figured if we could turn an older-sister type character into the current Ciel, then turning the half-baked upperclassman Ciel into a teacher should be fine.
+      Since her partner Neco Arc made her solo debut in <em>Melty Blood Re-ACT</em>, there’s a part of her that wants to force her way onto the stage, too.
+    note: {}
+  ja:
+    content: |-
+      ちえる、ではない。しえる、と読む。月姫お助けコーナーの支配者。
+      本編よりはまっているのが恐ろしい。シエルもお姉さんキャラが原型なら、先輩なんていうハンパな位置より教師だったらよかったのに、と思わせるほど。
+      相方の猫アルクはメルティブラッド・リアクトにてソロデビューを飾ったので、知得留先生もなんとか出番をもぎ取ってほしいところである。
+    note: {}
+  zh:
+    content: |-
+      月姬救助栏目的支配者。
+      比正篇还要合适是其可怕之处。合适到让人觉得，雪儿既然是以大姐姐角色为原型的话，比起学姐这种不上不下的位置来说当教师更好。
+      搭档的猫Arc在Melty Blood Re·Act中独自亮相了，知得留老师也要想办法争取出场机会呀！
+    note: {}

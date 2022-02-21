@@ -1,0 +1,51 @@
+---
+id: fairies
+
+en: f
+ja: yo
+furigana: ようせい
+title:
+  en: Fairies
+  ja: 妖精
+  zh: 妖精
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 45
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      Ouji Misaya’s familiars.
+      Originally, fairies are considered the nature’s sense of touch, something that humans cannot perceive.
+      However, there are indeed some fairies who were born wearing humans’ imagination as shells.
+      Ouji Misaya’s Familiars are false fairies. They are formless low-rank Spirits possessing the image of woodland fairies.
+      They can indeed wield a portion of the original fairies’ powers due to wearing fairy-like shells.
+      The fairies-disguises are thought to be the creation of Misaya’s Master rather than hers.
+      As an aside, true fairies at the scale of capable of being perceived by humans are called Elementals. A certain white vampire seemed to be of this class.
+      One more thing, the foundation of fairies and elementals are of a mystery that cannot be reached through magecraft.
+    note: {}
+  ja:
+    content: |-
+      黄路美沙夜が使役[しえき]していた使い魔。
+      本来、妖精とは自然の触覚として捉えられる概念で、人に知覚できるものではない。
+      が、そういった人間の想像図を外殻にして生まれてしまう妖精も稀[まれ]に存在する。
+      黄路美沙夜が使役したモノは、森に棲むとされる一般的な妖精のイメージに、カタチを作れない下級の霊を憑依[ひょうい]させ、妖精に偽装したもの。
+      妖精としての殻を被ったそれらは、元になった妖精の能力の一部を行使できる。
+      妖精偽装は黄路美沙夜ではなく彼女の師が行ったと思われる。
+      余談ではあるが、本物の妖精は人間にも知覚できるほどの規模になると精霊と呼ばれる。某白い吸血鬼はこちらに属するとか。
+      更に余談ではあるが、妖精・精霊もその基盤は魔術では成しえない神秘である。
+    note: {}
+  zh:
+    content: |-
+      黄路美沙夜使役的使魔。
+      本来，妖精是作为自然的触觉来被理解的概念，不是人能感觉到的东西。
+      不过，把这种人类的想象图作为外壳而出生的妖精也存在一些。
+      黄路美沙夜使役之物，是将栖息于森林的一般的妖精的形象，让不能成形的下级灵凭依，伪装成妖精的东西。
+      披上了作为妖精的壳的那些东西，能行使原来的妖精的能力的一部份。
+      妖精伪装被认为不是黄路美沙夜而是她师傅做的。
+      虽是余谈，真正的妖精达到人类也能感觉到的程度的规模的话被称作精灵。某白色吸血鬼好像就属于这种。
+      更加余谈，妖精、精灵其基盘是通过魔术不能达成的神秘。
+    note: {}

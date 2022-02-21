@@ -1,0 +1,46 @@
+---
+id: white-titan
+
+en: w
+ja: shi
+furigana: しろいきょじん
+title:
+  en: White Titan
+  ja: 白い巨神
+  zh: 白色巨神
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 33
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      The Anti-Cell who crashed on the moon after being purged by the Umbral Star.
+      A giant, godlike being who laid waste to the civilizations of Earth during the Paleolithic era, which was also the dawn of the era of the Gods. She is also responsible for damaging the Moon Cell 14,000 years ago.
+      She fought viciously within the Moon Cell as an Anti-Cell, and on the Earth’s surface as an organic life form.
+      Her goal is to ravage the entirety of civilization on Earth and in Moon Cell, leaving not a trace behind, but she failed to accomplish this in both cases when she was literally one step away.
+      Her main body was shut down by the firewall of the Moon Cell and sequestered in the Zero Dark, and her alter ego on the surface of the Earth was defeated by a divine sword and returned to the soil.
+    note: {}
+  ja:
+    content: |-
+      捕食遊星の尖兵としてパージされ、月に落下したアンチセル。
+      一万四千年前、地球の文明（旧石器時代、神代の黎明期）とムーンセルに多大なダメージを与えた白い巨神。涙の巨神とも。
+      ムーンセル内ではアンチセルとして、地球の地表では有機生命体として猛威を振るった。
+      目的は文明の破壊、一掃である。
+      そのどちらも文字通り『後一歩』というところで果たされずに終わった。
+      本体はムーンセルのファイヤーウォールによって停止し、未明領域に放棄された。
+      地表の分身も聖剣によって敗北し、土に帰った。
+    note: {}
+  zh:
+    content: |-
+      以捕食游星尖兵的身分被排出，落至月球上的反噬晶体。
+      一万四千年前，带给地球文明（旧石器时代、神代黎明期）与Moon Cell莫大伤害的白色巨神，又被称为泪之巨神。
+      以反噬晶体的型态肆虐于Moon Cell内部，以有机生命体的型态肆虐于地球的表面。
+      目的是将文明破坏殆尽。
+      而无论是在Moon Cell或地球，都在只缺“临门一脚”的状态下以失败收场。
+      其主体被Moon Cell的防火墙停止了活动，并流放至未知领域。
+      地表的分身也被圣剑打败而归于尘土。
+    note: {}

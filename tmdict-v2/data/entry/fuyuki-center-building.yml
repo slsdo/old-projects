@@ -1,0 +1,48 @@
+---
+id: fuyuki-center-building
+
+en: f
+ja: fu
+furigana: ふゆきせんたーびる
+title:
+  en: Fuyuki Center Building
+  ja: 冬木センタービル
+  zh: 冬木中央大厦
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 74
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      ハイアット・ホテル爆破時に舞弥が陣取っていた建設中のビル。38階で待機していた。なお、10年後となる「Fate/stay night」ではビルは完成している。
+    note: {}
+  zh:
+    content: |-
+      凯悦·酒店（Hyatt·Hotel）爆破时舞弥所驻扎的建设中的大厦[Building]。在38层待机中。顺带，10年后的《Fate/stay night》里大厦[Building]已经建完。
+    note: {}
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 23
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      新都に建つ高層ビル。新都開発を担う企業のオフィスがテナントに入っている。このビルの屋上でソラウは舞弥からの奇襲を受け、令呪とともに右手を失った。
+    note: {}
+  zh:
+    content: |-
+      建在新都的高层建筑[Building]。负责新都开发的企业办公室[Office]租[Tenant]在这。索菈乌[Sola-Ui]在这建筑的屋顶被舞弥奇袭，失去了连同令咒一起的右手。
+    note: {}

@@ -1,0 +1,61 @@
+---
+id: twice-h-pieceman
+
+en: t
+ja: to
+furigana: とわいすえいちぴーすまん
+title:
+  en: Twice H. Pieceman
+  ja: トワイス・H・ピースマン
+  zh: 特维斯·H·皮斯曼
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 110
+  category:
+  - character
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      Pieceman is a medical researcher and scientist who lived from 1970 to 1999.
+      He specialized in the use of cybernetics to improve prosthetics, while also doing significant work in brain surgery, electronic engineering, and even development of the network.
+      He is an individual who played a big role in laying the foundation for the infrastructure that is used in the present (2030). He is a great man whose many meritorious achievements include analyzing the amnesia syndrome disease, and providing medical assistance in war zones among others.
+      He was born in the 70s, in the midst of a so-called proxy war taking place in Southeast Asia, as the mixed-race son of a local and an American soldier.
+      Born in the fires of war, which would claim the lives of both his parents by its end (that being said his father died early on in the war after being sent to the front lines). He lived as a war orphan, but was eventually adopted for his potential as a Wizard. The name Pieceman belongs to his adoptive father.
+      (It’s reasonable to assume that he is not aware of this. Twice was adopted when he was around the age of five, and it is assumed that he no longer has memories of that time. His adoptive family went as far as altering their family registry, and even up to his death he never found out that he was a war orphan.)
+      After graduating from University, he was offered a promising future working at the think tank of a famous conglomerate, but he declined this to follow the ideals he strongly believed in, and so he left the safety of home. After that, disregarding the opposition from the people around him, he headed to strife-filled, war-torn areas, “To experience war firsthand.” and became widely known for his work as an engineer.
+      In 1999 he traveled to an experimental future city in the Far East to help as a volunteer in the aftermath of a disaster. He helped save many people, but then died in a terrorist attack.
+    note:
+      n1: "Twice H. Pieceman appears as two separate entries (character and concept) in the glossary."
+  ja:
+    content: |-
+      1970～1999年に生きた医学者、科学者。
+      人工義肢を目的としたサイバネティックス技術に傾倒しながらも、脳外科と電子工学、ネットワークの発端にも功を成した。
+      現在〔2030年）におけるインフラ設備の基礎にかかわった一人。アムネジア・シンドロームの解析や戦地における医療活動など、多くの功績から偉人として伝えられている。
+      70年代、東南アジアで行われた代理戦争の中、戦地で生を受けたアメリカ人兵士と現地人のハーフ。
+      戦火の中で生まれ、終戦間際に両親を失い（といっても夫の方はいきずりの行為なのでとっくに前線に出て戦死している）、戦災孤児として暮らしていたがウィザードとしての才能を買われ養子となる。ピースマン姓はそのおりにあてがわれた養父のもの。
+      （もっとも、その事実を彼が知る事はなかった。
+      トワイスが養子となったのは五歳頃なので、この頃の出来事を本人は記憶していなかったとされる。
+      戸籍も改竄されているので、死の間際まで自分が戦災孤児である事を彼は知らなかった）
+      大学卒業後、有名財団のシンクタンクから将来を有望されたが、本人の強い意志でこれを辞退し、野に下る。以後、彼は周囲の反対や疑問を余所に、積極的に紛争が起こった地に向かい、『戦争を実体験する』工学者として知れ渡るようになる。
+      1999年、極東における未来都市のモデルケースで起きた災害事故の援助にボランティアとして参加し、多くの人命を救うも、テロ活動によって死亡した。
+    note: {}
+  zh:
+    content: |-
+      {{n1}}
+      1970～1999年生人，医学家、科学家。
+      不仅是在以人工义肢为目的得控制论[Cybernetics]技术上受到敬仰，还在脑外科、电子力学和network的开端时期也获得了硕果。
+      可以说是奠定了现在（2030年）的基础{{n2}}设备的基础的人。
+      由于有着解析了失忆症候群并且积极的前往战地施以医疗活动等数多的功绩，而被称作为伟人。
+      乃是[19]70年，东南亚进行的代理战争中，于战地之中幸存下来的美国人士兵和当地人的混血。在战火之中被生下，直到临近终战时失去了两亲（倒不如如说，特维斯的诞生是父亲不经意间的行为所致，他早就已经在前线战死了），身为战争孤儿被收养，却又因为其自身的魔术师才能被看上，随后被买走当做养子。Pieceman的姓氏便是随着养父的。
+      （然而，欠片男并非知道这个事实。
+      特维斯被收做养子是五岁左右的事，那段时间还没有开始正经的记事，所以本人并没有什么记忆。
+      由于户口也遭到了篡改的缘故，他直到死都没能知道自己是战灾孤儿的事。）
+      大学毕业后，虽然受到了自有名财团的智囊团对其将来的期待，但是由于本人强力的意志的缘故而辞退，将自己置身于民间。
+      之后，他抱着周围对其的反对和疑问，积极的赶赴发生着纷争的地区，做为“自身经历战争”的工学家而被世间广为流传。
+      1999年，以无偿的自愿者身份参与了于极东的未来都市的model case所引发的灾害事故的救援[应该就是冬木市]。在这个过程中拯救了许许多多人的性命，最后因遭到恐[怖]活动而死亡。
+    note:
+      n1: "特维斯·H·皮斯曼在辞典里出现两次（人物和事项）。"
+      n2: "インフラ，infrastructure的缩写。"

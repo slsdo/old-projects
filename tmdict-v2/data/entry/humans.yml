@@ -1,0 +1,36 @@
+---
+id: humans
+
+en: h
+ja: hi
+furigana: にんげん
+title:
+  en: Humans
+  ja: 人間
+  zh: 人类
+
+entry:
+- source: angel-voice
+  section: notes
+  order: 10
+  category:
+  - last-seed
+  img: ""
+  en:
+    content: |-
+      Human species who hasn’t received any modification, or their descendent. Since they are no longer able to survive on this planet, it is said that they are on the verge of extinction. 
+      In order for humans to live outside, they need support from medication or machines. They can’t directly inhale the air, nor can they eat the food made in the factory because they raise the physical ability too much that they become poisonous. 
+      They are rare, but have no value.
+    note: {}
+  ja:
+    content: |-
+      品種改良を受けていない人間種。もしくは、その末裔。すでにこの惑星上では生存不可能な為、絶滅寸前といわれている。
+      人間が外界で生存していくためには薬物や機械によるサポートが必要で、空気も素のままで吸引すれば死に至り、工場で作られる食物は身体能力を向上させすぎ、逆に毒となってしまう。
+      希少種であるが、希少価値はない。
+    note: {}
+  zh:
+    content: |-
+      没有接受品种改良的人类种。或者说是末裔。由于已经无法在这行星上生存，正濒临灭种。
+      人类为了在外界生存，需要药物或者机械的支持。直接呼吸外界的空气都会导致死亡，工厂生产的食物由于过度提升身体能力，反而变成了毒药。
+      虽是稀少的物种，却没有稀少的价值。
+    note: {}

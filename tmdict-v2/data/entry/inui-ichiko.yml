@@ -1,0 +1,45 @@
+---
+id: inui-ichiko
+
+en: i
+ja: i
+furigana: いぬいいちこ
+title:
+  en: Inui Ichiko
+  ja: 乾一子
+  zh: 干一子
+
+entry:
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 10
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      Arihiko’s older sister. Her nickname is Miss Strawberry.
+      Because Shiki has been hanging out at the Inui house since he was a middle school student, Ichiko could also be considered an acquaintance of his. Or perhaps it would be better to call her an existence he can’t defy.
+      Though her way of life is even more self-indulgent than Arihiko’s, she is a splendidly independent adult woman.
+      As far as Shiki and Arihiko know, she’s a mysterious person who changes jobs about once a year.
+      Sometimes if something good happens she’ll give Shiki a present to commemorate it, but invariably it’s always something completely inscrutable. Still, since it seems to mean a lot to Ichiko, Shiki values them greatly.
+    note: {}
+  ja:
+    content: |-
+      いぬいいちこ。愛称はいちごさん。有彦の姉。
+      志貴は中学時代から乾家に入り浸っていた為、一子とも面識がある。というか、頭の上がらない存在。
+      有彦以上に自堕落な生活スタイルなのだが、立派に自立したオトナの女性だったりする。
+      志貴と有彦が知るかぎり、一年ごとに職業が変わる謎な人。
+      なんかいい事があったりすると志貴におみやげをくれるのだが、そのほとんどは意図不明の品物。が、一子にとっては深い意味がありそうなので、志貴は大事にとっているようだ。
+      歌月十夜の番外編で少しだけ登場。
+    note: {}
+  zh:
+    content: |-
+      Inui Ichiko。爱称是草莓{{n1}}小姐。有彦的姐姐。
+      志贵因为从中学时就常常往乾家跑，所以和一子也见过面。应该说，是在一子面前抬不起头来。
+      虽然过着比有彦更自我堕落的生活，但是是很自立的成熟女性。
+      就志贵与有彦所知，是个每过一年就会更换职业的神秘人物。
+      有碰上什么好事之类的话会给志贵带礼物，但几乎都是些意图不明的东西。然而，因为看起来对一子来说有很深的意义，所以志贵好像会很珍惜。
+      在歌月十夜的番外篇里稍微出场了一下。
+    note:
+      n1: "日语Ichigo。"

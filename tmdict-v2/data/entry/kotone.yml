@@ -1,0 +1,64 @@
+---
+id: kotone
+
+en: k
+ja: ko
+furigana: ことね
+title:
+  en: Kotone
+  ja: コトネ
+  zh: 琴音
+
+entry:
+- source: fate-zero-material
+  section: fate-zero-encylopedia
+  order: 17
+  category:
+  - person
+  img: fzavg1_kotone.png
+  en:
+    content: |-
+      Rin’s classmate, who was kidnapped by Gilles and Ryuunosuke. A young girl with a murky fate.
+      In the first draft, I unthinkingly named her “Satsuki” and ended up getting punished by the original author. I had totally forgotten that Satsuki was Sacchin’s real name—or rather, I had forgotten that Sacchin even had a real name at all! To all the Yumizuka Satsuki fans around the world, I humbly beg your forgiveness.
+      Kinoko: “Urobuchi… please, a little consideration…”
+      Gen: “But… without a ’Satsuki,’ suffering isn’t moe!”
+      Well, anyway, a conversation like that may or may not have actually happened.
+    note: {}
+  ja:
+    content: |-
+      凛のクラスメイトで、ジルと龍之介により拉致され、まぁその、ゴニョゴニョな運命を辿る少女。
+      第一稿においては何の考えもなく「サツキ」という名称が与えられていたが、原作者から鉄拳制裁くらう
+      まで、筆者はさっちんの本名を忘れていた――つうか、さっちんに本名があることすら失念してますた。
+      全国の弓塚さつきファンの皆様に謹んでお詫び申し上げまする。
+      茸「藤淵……もう少し、手心というものを……」
+      虚「（被虐対象は）サツキでなければ萌えませぬ」
+      なんて会話があったとかなかったか。
+    note: {}
+  zh:
+    content: |-
+      凛的同班同学，被吉尔和龙之介绑架，恩…落到那个下场的少女。
+      第一稿的时候什么都没想就取了“Satsuki”{{n1}}这样的名字，一直到受到原作者的铁拳制裁为止，笔者都忘了Sacchin的本名―――不如说连Sacchin有本名这回事都忘的一干二淨。在此对全国的弓冢五月支持者们致上最深的歉意。
+      茸：“藤渊{{n2}}……多少考虑一些分寸……”
+      虚：“（被虐对象）如果不是Satsuki就萌不起来”
+      好像有又好像没有这种对话的样子。
+    note:
+      n1: "此为さつき的罗马拼音，也就是在月姬和MB中登场的五月。"
+      n2: "ふじふち，不过虚渊应该是うろぶち，不过是误字还是梗就不知道了。"
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 97
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      凛と仲がよいクラスメイトの女の子。龍之介に浚われるが、原作小説とは違い凛の活躍によって無事に救い出される。
+    note: {}
+  zh:
+    content: |-
+      和凛关系好的作为同学[Classmate]的女孩子。虽被龙之介拐走，但和原作小说不同由于凛的活跃而被安全救出。
+    note: {}

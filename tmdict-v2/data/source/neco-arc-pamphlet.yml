@@ -1,0 +1,16 @@
+---
+id: neco-arc-pamphlet
+
+release-date: "2005-08-12"
+en: "Neco-Arc Pamphlet"
+ja: "NECOARCパンフ"
+zh: "Neco-Arc Pamphlet"
+
+sections:
+  cats-encyclopedia:
+    id: cats-encyclopedia
+    page: 8–9
+    glossary: misc
+    en: "Cats Encyclopedia"
+    ja: "猫大百科"
+    zh: "猫大百科"

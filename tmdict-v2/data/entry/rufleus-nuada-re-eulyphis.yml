@@ -1,0 +1,43 @@
+---
+id: rufleus-nuada-re-eulyphis
+
+en: r
+ja: ru
+furigana: るふれうすぬぁざれゆりふいす
+title:
+  en: Rufleus Nuada-Re Eulyphis
+  ja: ルフレウス・ヌァザレ・ユリフイス
+  zh: 卢弗雷乌斯·努亚达雷·尤利菲斯
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 66
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      Lord of the Faculty of Spiritual Evocation.
+      Perhaps due to belonging to the Faculty of Spiritual Evocation, which manipulates untold numbers of spirits, he also gives the impression of a dead man. In Grand Roll, he demonstrated a level of power on par with that of the Lord of Trambelio, Magdanel, and Inorai.
+      The offering of his daughter Sola-Ui for a political marriage demonstrated his expectations for Kayneth, who died during the Fourth Holy Grail War.
+      For more details, please view the Secret File.
+      →Secret File: “Rufleus Nuada-Re Eulyphis”
+    note:
+      n1: "Sometimes also translated as Rulfurus Nuada-Re Eulyphis."
+  ja:
+    content: |-
+      降霊科の君主。
+      無数の霊を操る降霊科ゆえか、本人も死者のごとき雰囲気を漂わせた老人。冠位決讓においては、トランベリオの君主たるマグダネルや、イノライに劣らぬ格と存在感を示した。
+      第四次聖杯戦争で死んだケイネスにはかなり期待を寄せていたらしく、娘であるソラウを政略結婚に差し出したのも、その期待のあらわれだったろう。
+      詳しくはシークレットファイルを参照。
+      →シークレットファイル／『ルフレウス・ヌァザレ・ユリフイス』
+    note: {}
+  zh:
+    content: |-
+      降灵科（尤利菲斯）的君主[Lord]。
+      由于是操纵无数灵魂的降灵科，就连本人也散发出死者般氛围的老人。在冠位决议中，展现出不逊色于特兰贝利奥的君主[Lord]玛格达尼尔或伊诺莱的格局与存在感。
+      似乎对在第四次圣杯战争中死去的肯尼斯寄予了深厚的期待，提议让他和女儿索菈乌政治联姻，也出于这份期待。
+      →详情请参考Secret File『卢弗雷乌斯·努亚达雷·尤利菲斯』。
+    note: {}

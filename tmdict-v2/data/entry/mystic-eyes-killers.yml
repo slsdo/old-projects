@@ -1,0 +1,45 @@
+---
+id: mystic-eyes-killers
+
+en: m
+ja: ma
+furigana: まがんごろし
+title:
+  en: Mystic Eyes Killers
+  ja: 魔眼殺し
+  zh: 魔眼杀
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 38
+  category:
+  - accessory
+  img: ""
+  en:
+    content: |-
+      A magical construct capable of suppressing the power of Mystic Eyes.
+      Since Mystic Eyes are a power derived from the oculus, Mystic Eyes Killers are commonly made into glasses. The glasses Touko wore are also Mystic Eyes Killers.
+      The protagonist of <em>Tsukihime</em>, Tohno Shiki, acquired Mystic Eyes Killers crafted by Touko from someone. They relieved him of the unbearable sight of Death, and allowed him to live normally again.
+      This also reflected just how self-abusive Ryougi Shiki was, declining the Mystic Eyes Killers. No… it was more an episode that reflected her heart of clear water.
+      As a side note, Touko poured an obscene amount of money into constructing Ryougi Shiki’s Mystic Eyes Killers, but Shiki shoved them back saying “Why should I do it to please you?”
+      The reason Shiki declined the Mystic Eyes Killer was the same as when she refused to wear the uniform of Reien Girls Academy.
+    note: {}
+  ja:
+    content: |-
+      魔眼の力を抑える事の出来る魔術品。
+      眼、という事もあり、大体はメガネとして作られる。橙子がかけているメガネも魔眼殺し。
+      『月姫』の主人公、遠野志貴[とおのしき]は視えてしまう死に耐えられず、人づてで橙子謹製の魔眼殺しを譲ってもらい、なんとか生活していけるようになった。
+      魔眼殺しをつけずに暮らしている式がどれほど捨て鉢[ばち]……じゃなくて、達観した精神かを物語るエピソード。
+      ちなみに、橙子が巨額を投じて作った式用の魔眼殺しは、「なんでオレがおまえを喜ばせないといけないんだ」と式に突っ返された。
+      式がメガネを突っ返した理由は、礼園の制服の時と同じと思われる。
+    note: {}
+  zh:
+    content: |-
+      能够抑制魔眼之力的魔术品。
+      因为是眼，所以通常做成眼镜。橙子带着的眼镜也是魔眼杀。
+      月姬的主人公远野志贵忍受不了看到的死，从别人那儿得到了橙子谨制的魔眼杀，才总算变得能够生活。
+      表现出不带魔眼杀生活的式有多么破罐破摔……不是，是达观的精神的章节。
+      顺带一提，橙子投巨资制作的式用的魔眼杀，“为什么我非要让你高兴啊”被式塞了回来。
+      式塞回眼镜的理由，据认为和礼园制服的时候一样。
+    note: {}

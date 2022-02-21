@@ -1,0 +1,40 @@
+---
+id: origami
+
+en: o
+ja: o
+furigana: おりがみ
+title:
+  en: Origami
+  ja: 檻髪
+  zh: 槛发
+
+entry:
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 12
+  category:
+  - ability
+  img: ""
+  en:
+    content: |-
+      Caging Hair. It’s the name of the tenth day of the Kohaku route, but here it’s referring to the name of Akiha’s ability.
+      Akiha is a demon hybrid that “plunders” the heat of any living being that she is able to visually confirm, and Origami is the name for the maximum output state of this ability. Though the plundering is based on sight, if somebody with spiritual vision were to observe it, they would see it as something similar to red threads twining around and consuming the target in a fiery aura. And, at their maximum output, these threads are capable of covering not just the target, but the entire environment the target is in, making escape impossible—thus the name Origami, or “Caging Hair.” During the last day of the Kohaku route, the reason Shiki couldn’t escape from the school building was because the school building itself had been totally covered by Akiha’s Origami.
+      Against normal people with no spiritual defenses, this is an absolute method of attack, but against somebody like Arcueid whose spiritual rank is on a whole other level, it would merely be a hindrance similar to the world being filled with spider webs. Though, with backup from a sympath it might be able to actually tie her down.
+      In <em>Melty Blood</em>, it became both Akiha and Vermilion Akiha’s Arc Drive, under the name “Red Lord Origami.” On a side note, the martial arts practiced by the Tohno family are divided into “Blazing Rendition” techniques usable by everybody, and “Red Lord” techniques permitted only to the family head. These are in turn surpassed by the “Crimson Lord” techniques, which are a taboo even among the taboo.
+    note: {}
+  ja:
+    content: |-
+      おりがみ。琥珀ルート十日目のタイトルでもあるが、元は秋葉の能力名である。
+      秋葉は視認した生物から熱を奪う“略奪”の混血だが、その最大出力時の状態を檻髪と呼ぶ。秋葉の略奪は視認する事で発動するが、霊視を可能とする者なら、その過程は何か赤い糸のようなものが巻き付き、赤く焦がしているように視える。
+      これを最大限———対象のみならず、対象を含む地域全体を赤い糸で覆い、脱出不可能にした状態が檻髪なのである。琥珀ルート最終日、志貴が校舎から出られなかったのは校舎そのものが秋葉の檻髪に覆われていた為だ。
+      霊的な防御を持たない一般人には絶対的な攻擊法だが、アルクェイドのように霊格がケタ違いの相手には「世界中に蜘蛛の巣が張っていてうざい」程度の妨害にしかならないとか。感応者のバックアップがあれば、アルクェイドを縛り付ける程度の束縛はできるかもしれない。
+      メルティブラッドでは「赤主・檻髮」という名で秋葉、紅赤朱秋葉のアークドライブとなっている。余談ではあるが、遠野の当主が扱う武術は通常のものを『赫訳』、当主にのみ許されたものを『赤主』と分ける。赤主の上をいく禁忌中の禁忌を『紅主』と呼ぶ。
+    note: {}
+  zh:
+    content: |-
+      既是琥珀线第十天的标题，也是秋叶的能力名。
+      秋叶是从视认到的生物夺取热的“掠夺”的混血，其最大出力时的状态称作槛发。秋叶的掠夺虽是通过视认来发动，但有灵视能力的人能看到其过程是某种赤丝一样的东西缠绕、使变焦。将它发挥到最大程度——以赤丝覆盖包含对象的整个地域，使对象不能逃脱的状态就是槛发。琥珀线最终日，志贵不能离开校舍就是因为校舍本身被秋叶的槛发覆盖了。
+      虽然对于没有灵性防御的一般人是绝对的攻击法，但对爱尔奎特这样灵格不在一个档次上的对手来说只是“到处都是蜘蛛网很烦”程度的妨碍。如果有感应者的辅助的话，也许能做到绑住爱尔奎特的程度。
+      Melty Blood中以“赤主·槛发”的名字成为秋叶、红赤朱秋叶的Arc Drive。题外话，远野当主使用的武术分为通常的“赫訳”和只有当主允许使用的“赤主”。赤主之上的禁忌中的禁忌称为“红主”。
+    note: {}

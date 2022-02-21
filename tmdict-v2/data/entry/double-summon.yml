@@ -1,0 +1,33 @@
+---
+id: double-summon
+
+en: d
+ja: chi
+furigana: でゅあるさもん
+title:
+  en: Double Summon
+  ja: 二重召喚
+  zh: 二重召唤
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 64
+  category:
+  - skill
+  img: ""
+  en:
+    content: |-
+      Double Summon. The skill possessed by Assassin of “Red,” Semiramis. It is an underhanded skill that is only invoked when certain conditions are met during the summoning ritual, like a “command input on the title screen.”
+      Of course, this kind of skill has some restrictions, with the three Knight classes (Saber, Archer and Lancer) and some of the extra classes (like Ruler, Shielder and Avenger) incapable of being applied to the Double Summon skill. In other words, only a combination of the Berserker, Caster, Assassin or Rider classes is possible. However, though rare, a modern day extra class like Gunner can apparently be combined with another class through this skill.
+    note: {}
+  ja:
+    content: |-
+      ダブルサモン。“赤”のアサシン、セミラミスが所有するスキル。召喚の際に特殊な条件付けを行わなければ発動しないという、「タイトル画面でコマンド入力」みたいな裏技スキルである。
+      もちろん、この手のスキルには制限があって三騎士（セイバー、アーチャー、ランサー）及び一部エクストラクラス（ルーラー、シールダー、アヴェンジャーなど）は二重召喚に該当しない。つまりバーサーカー、キャスター、アサシン、ライダーの組み合わせでなければならない。ただし、稀だがガンナーのような近現代のエクストラクラスは兼用可能になるようだ。
+    note: {}
+  zh:
+    content: |-
+      Double Summon。“赤”方Assassin赛米拉米斯持有的技能，在召唤时如果没有附上特别的条件就不会发动，就像是“在标题画面输入指令”那样的密技一样。
+      当然，这个技能也有一些限制。三骑士（Saber, Archer, Lancer)以及一部分的特殊职阶（Ruler, Shielder, Avenger等）是不适用于二重召唤的。也就是说只能从Assassin, Berserker, Rider, Caster里面去组合，不过，虽然实际上很稀少，但像是Gunner这样的近现代特殊职阶也是可以兼用的。
+    note: {}

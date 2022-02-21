@@ -1,0 +1,63 @@
+---
+id: vasavi-shakti
+
+en: v
+ja: u
+furigana: ゔぁさゔぃしゃくてぃ
+title:
+  en: Vasavi Shakti
+  ja: 日輪よ、死に随え
+  zh: 日轮啊，顺从死亡
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 19
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      O Sun, Abide to Death.
+      Launcher Karna’s anti-army Noble Phantasm.
+      It is a spear made of lightning that will completely destroy anything in a single hit.
+      It can be thought of as the Hindu version of the Buster Launcher.
+      In the game he goes around busting stuff up with this. Karna has no idea himself, but between his appearance, and the wings that are scattered around when he uses this attack, he makes for quite the Visual Kei style Servant.
+    note: {}
+  ja:
+    content: |-
+      ヴァサヴィ・シャクティ。
+      ランチャーことカルナが持つ対軍宝具。
+      一撃のみの光槍で、雷光で出来た必滅の槍。
+      インド版バスターランチャーと思いねえ。
+      ゲーム中ではこの宝具を筆頭に、とにかく弾丸系を撃ちまくるカルナさん。本人はまったく意図していないようだが、その格好といい、撃ち放った後の翼が散っていく演出といい、とことんヴィジュアル系のサーヴァントである。
+    note: {}
+  zh:
+    content: |-
+      Vasavi·Shakti。
+      Launcher·迦尔纳所拥有的对军宝具。
+      仅此一击的光枪，是由雷光构成的必灭之枪。
+      可以看作是印度版的导弹发射器[Buster Launcher]。
+      在游戏中以此宝具为首，迦尔纳发射了不少弹丸型的飞行道具。虽然他本人似乎并不是刻意为之，但无论是他的外形、还是发射后其光翼散去的演出，真的是十足的视觉系Servant。
+    note: {}
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 19
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      O Sun, Abide to Death. The Anti-Divine Noble Phantasm of Lancer of “Red,” Karna. A god-killing spear given to him by the thunder god Indra in the <em>Mahabharata</em>. The secret weapons among secret weapons, which doesn’t exist even in the treasure vault of the King of Heroes. Just as shown in the illustrations within <em>Complete Material IV</em>, his spear transforms and officially becomes this Noble Phantasm after he sheds his golden armor.
+      It’s not like the spear he usually uses is a fake, but it can’t activate its name of “Vasavi Shakti: O Sun, Abide to Death” in this state.
+    note: {}
+  ja:
+    content: |-
+      ヴァサヴィ・シャクティ。“赤”のランサー、カルナの対神宝具。『マハーバーラタ』にて、雷神インドラより渡された神殺しの槍。かの英雄王の宝物庫にすら存在しない、まさに秘密兵器中の秘密兵器。「コンプリートマテリアルⅣ」に図解で掲載されている通り、黄金の鎧が剥がされ変形することで正式にこの槍となる。
+      通常振るっている槍も偽物という訳ではないのだが、『日輪よ、死に随え』の真名を発動させることはできない。
+    note: {}
+  zh:
+    content: |-
+      Vasavi Shakti。“红”Lancer迦尔纳的对神宝具。参照《摩诃婆罗多》，是雷神帝势天交给他的弒神之枪。这东西甚至不存在于英雄王的宝物库内，堪称秘密武器中的秘密武器。正如同《Complete Material IV》刊载的图解，是藉由黄金铠甲剥落后变形，并正式化为此枪。
+      平时挥舞的枪并非冒牌货，但无法让“日轮啊，顺从死亡”的真名发动。
+    note: {}

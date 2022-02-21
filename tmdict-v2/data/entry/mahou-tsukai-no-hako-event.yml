@@ -1,0 +1,32 @@
+---
+id: mahou-tsukai-no-hako-event
+
+en: m
+ja: ma
+furigana: まほうつかいのはこ
+title:
+  en: Mahou Tsukai no Hako (Event)
+  ja: マホウツカイノ匣
+  zh: 魔法使之匣（活动）
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 56
+  category:
+  - mobile-site
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      {{missing}}
+    note:
+      n1: "Tite is in katakana, refers to the 2010 April Fools’ event."
+  ja:
+    content: |-
+      2010年4月1日に、突如として出現した謎のイケメンパラダイス。
+    note: {}
+  zh:
+    content: |-
+      2010年4月1日，突如其来的谜之帅哥乐园[Paradise]。
+    note: {}

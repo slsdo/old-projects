@@ -1,0 +1,56 @@
+---
+id: marchen-meines-lebens
+
+en: m
+ja: me
+furigana: めるひぇんまいねすれーべんす
+title:
+  en: Märchen Meines Lebens
+  ja: 貴方のための物語
+  zh: 为你而写的故事
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 152
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      A Story Just For You.
+      Noble Phantasm used by the poison-tongued shota writer Andersen.
+      He observes a person, and then writes a complete book about the ideal life for them based on his observations.
+      If the book ends up being well written, it can be used as a Noble Phantasm to make the target develop into their “ultimate form” which is written in the book.
+      While this may seem useful as a support type Noble Phantasm, the biggest problem is that it takes a very long time to complete it, so within the context of the Moon’s Holy Grail War it is not useful in any way.
+      Furthermore, there is the risk that even if Andersen had enough time to write a whole book, it’s possible that the book turns out poorly and can’t be used.
+      We should really try inferring the dejection that Kiara displayed after summoning Andersen and finding out about his Noble Phantasm.
+      “Ahahaha. Well this game is impossible now isn’t it ♥”
+      Laughed the nun.
+    note: {}
+  ja:
+    content: |-
+      メルヒェン・マイネスレーベンス。
+      毒舌ショタ作家・アンデルセンの使えね、凡宝具。
+      人間ひとりを観察し、その人物にとって理想の人生・在り方を考察し、一冊の本として書き上げるもの。
+      この本の出来が良いと宝具として成立し、その人物を本に書かれた通りの“究極の姿”に成長させる。
+      後方支援型の宝具と割り切れば価値はあるが、とにかく成立まで時間がかかるため、月の聖杯戦争ではマイナス面が大きすぎる。
+      加えて、ようやく完成しても駄作に終わるかもしれない、というリスクまでついている。
+      アンデルセンを召喚し、彼の宝具を知った時のキアラの落胆は推して知るべし。
+      「うふふ。無理ゲーですわ、これ♥」
+      と、尼僧は清らかに微笑んだという。
+    note: {}
+  zh:
+    content: |-
+      {{n1}}
+      Märchen Meines Lebens。
+      毒舌正太作家·安徒生所使用的宝具。
+      观察某个人类，考察对该人物来说理想的人生·存在方式，写出一本书来。
+      这本书的完成的不错，就会作为宝具成立，该人物会成长为书里写的那样的“究极姿态”。
+      明确的来说作为后方支援型宝具有其价值，但是到成立为止需要时间，在月之圣杯战争中放大了Minus的一面。
+      再加上，好不容易完成也有可能成为渣作，也有着这样的风险。
+      召唤了安徒生，知晓他宝具的时候祈荒的丧气可想而知。
+      “呵呵呵。是个不讲理游戏啊，这个♥”
+      尼姑清爽地微笑道。
+    note:
+      n1: "“为你撰写的故事”、“为你写的故事”。"

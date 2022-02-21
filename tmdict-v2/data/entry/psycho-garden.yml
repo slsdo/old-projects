@@ -1,0 +1,38 @@
+---
+id: psycho-garden
+
+en: p
+ja: sa
+furigana: さいこがーでん
+title:
+  en: Psycho Garden
+  ja: サイコガーデン
+  zh: Psycho Garden
+
+entry:
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 33
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      Kohaku’s own personal Mekong Delta. Made for Kohaku, by Kohaku. The botanical gardens in the Tohno mansion’s back yard.
+      This is the source of both Makikyuu X and Tonamin Z. It seems that recently even fireball-shooting Piranha Plants have taken root here.
+      Thanks to a collaboration with Sion, you can expect the development of even more devilish drugs in the future. It’s the advent of next-century biotechnology.
+    note: {}
+  ja:
+    content: |-
+      琥珀の、琥珀による、琥珀の為のメコンデルタ。遠野家の裏庭にある植物園のコト。
+      まききゅーXとかとなみんZの元凶。最近は火を吐くパッ〇ンフラワーさえ棲息しているらしい。
+      シオンとのタッグにより、更なる魔境化・魔薬精製が期待される。未来世紀のバイオ科学だ。
+    note: {}
+  zh:
+    content: |-
+      琥珀的，由琥珀所造的，为了琥珀的金三角{{n1}}。指位于远野家后院的植物园。
+      Makikyuu-X和Tonamin-Z等的元凶。最近好像还栖息了喷火的Pa○n Flower{{n2}}。
+      随着和紫苑的合作，可以期待更加地魔境化和魔药精制。这正是未来世纪的生物科学。
+    note:
+      n1: "原文是メコンデルタ，查google不论日文英文都是湄公河三角洲，位于湄公河入海口，是越南粮仓和旅游景点。但按上下文蘑菇应该是指金三角，即泰国、缅甸、老挝交界处的毒窝，湄公河流经这里。"
+      n2: "Pakkun Flower，超级玛丽里吐火球的花。"

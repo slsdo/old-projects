@@ -1,0 +1,104 @@
+---
+id: synchronization
+
+en: s
+ja: ka
+furigana: かんおうのうりょく
+title:
+  en: Synchronization
+  ja: 感応能力
+  zh: 感应能力
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 11
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      The ability to sympathize with other people. Putting it simply, it’s giving one’s own physical strength to somebody else.
+      As Kohaku and Hisui are particularly talented sympaths, they don’t just give their own physical strength, but also strengthen and support the mental and physical strength of their target.
+      Also, because this is sympathy and not empathy, even if the target is injured there won’t be any feedback for the sympath.
+      The method of sympathizing varies depending on the practitioner. For some, it is possible to sympathize regardless of the target’s will, while for others some sort of ritual is necessary.
+      The ritual is a switch on the spiritual plane passed down within a family, to control heretical abilities. It is a mental block implanted in the subconscious that prevents the ability from activating unless certain conditions are met.
+      ……In other words, Kohaku and Hisui’s family must have been a bunch of perverts, huh?
+    note:
+      n1: "Sometimes also translated as “Sympathy” or “Synchronization Ability.” Note that while “Synchronization” may sound like a two-way ability, this is actually just a one-way ability, giving strength without any feedback from the target."
+  ja:
+    content: |-
+      他者に感応する能力。簡単に言って、自分の体力を誰かに分け与える事である。
+      琥珀、翡翠は特に優れた感応能力者で、自分の体力を分け与えるばかりか対象の精神や体力さえも強化・補助する。
+      共感能力ではないので、対象が傷をおっても感応している側にはなんのフィードバックもない。
+      感応する方法は能力者によってマチマチ。対象の意志とは無関係に感応できる者もいれば、なんらかの儀式を必要とする者もいる。
+      儀式とは、その家系に伝わっている精神面でのスイッチのこと。異端の能力は制御されてしかるべきものなので、意識下で「～こうしなければ発動できない」という抑制が働いており、このスイッチをオフにしないと能力の発揮されないのだ。
+      ……にしても、琥珀さんと翡翠の家系はえっちだなあ。
+    note: {}
+  zh:
+    content: |-
+      能感应他人的能力。简单来说就是能把自己的体力分给别人。
+      琥珀和翡翠是特别优秀的感应能力者，不仅能把自己的体力分给他人，连对象的精神与体力也能给予强化、补助。
+      因为不是共感能力，所以就算对方受伤了，感应者这侧也不会感受到任何回馈。
+      感应的方式每个能力者因人而异，有不考虑对象意志进行感应的人，也有需要某些仪式的人。
+      所谓仪式，指的就是在其家系所流传、精神层面的开关。因为异端的能力是需要被制御的存在，所以潜意识中会有“不这么做就无法发动”的想法抑制其能力，如果不关闭这个开关，能力就无法发挥。
+      ……是说，琥珀和翡翠的家系还真色呢。
+    note: {}
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 9
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      ① The ability to transfer energy to another person. Those who excel at using this ability can even improve the physical prowess and mental fortitude of the recipient.
+      ② While is it possible to transfer energy to a recipient under normal circumstances (without the explicit desire of the recipient, or without doing anything special), there are those with the synchronization ability that require some kind of ceremony to be performed. This acts as a safety lock for the powers of demon-children and individuals with special abilities because of the persecution or abuse they could face (if their powers were to be discovered).
+      ③ The ceremony is a mechanism to allow the synchronizer to remove the subconscious safety lock placed on the ability. Ceremonies differ from family to family.
+    note: {}
+  ja:
+    content: |-
+      ①自身の体力を他者に分け与える能力。優秀な能力者ともなると対象の体力・精神を強化する事も可能。
+      ②対象の意思とは無関係に感応する事も可能であるようだが、鬼子・超能力者達への迫害を考えれば異端の能力は制御されてしかるべきである為、なんらかの儀式を必要とする者もいる。
+      ③儀式とは無意識下で能力を制御している精神面でのスイッチを解除するもので、内容は能力を伝える家系によってまちまちである。
+    note: {}
+  zh:
+    content: |-
+      ①将自己的体力分给他人的能力。优秀的能力者更可以强化对象的体力、精神。
+      ②似乎可以无关对象的意志进行感应，但考虑到人们对鬼子和超能力者们的迫害，异端的能力被控制起来也是理所当然的，所以也有人需要用上某些仪式。
+      ③仪式就是解除无意识下控制着能力的精神面开关的东西，内容因传授能力的家系（不同）而各不相同。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 19
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      The ability to sympathize with other people. Putting it simply, it’s giving one’s own physical strength to somebody else. (Synchronizing with somebody else would be empathy.)
+      As Kohaku and Hisui are particularly talented sympaths, they don’t just give their own physical strength, but also strengthen and support the mental and physical strength of their target.
+      Also, because this is sympathy and not empathy, even if the target is injured there won’t be any feedback for the sympath. In game terms, it’s like turning off collision detection.
+      The method of sympathizing varies depending on the practitioner. For some, it is possible to sympathize regardless of the target’s will, while for others some sort of ritual is necessary.
+      The ritual is a switch on the spiritual plane passed down within a family, to control heretical abilities. It is a mental block implanted in the subconscious that prevents the ability from activating unless certain conditions are met.
+      ……In other words, Hisui’s family must have been a bunch of perverts, huh?
+    note: {}
+  ja:
+    content: |-
+      他者に感応する能力。簡単にいって、自分の体力を他者に分け与える事。（他者と同一化するのは共感能力）
+      琥珀、翡翠は特に優れた感応能力者で、自分の体力を分け与えるばかりか対象の精神や体力さえも強化・補助する。
+      共感ではないので、対象が傷を負っても感応している側には何のフイードバックもない。まさしくあたり判定の無いオプションである。
+      感応する方法はその能力者によってマチマチ。対象の意志とは無関係に感応できる者もいれば、何らかの儀式を必要とする者もいる。
+      儀式とは、その家系に伝わっている精神面でのスイッチを指す。異端の能力は制御されてしかるべきものなので、意識下で「～こうしなければならない」という抑制が働いており、このスイッチをオフにしないと能力の発揮はできないのだ。
+      にしても、翡翠の家系はえっちだなぁ。
+    note: {}
+  zh:
+    content: |-
+      感应他者的能力。简单地说，是把自己的体力分给其他人。（与他者同一化是共感能力）
+      琥珀、翡翠是特别优秀的感应能力者，不仅能将自己的体力分给对象，还能强化/辅助对象的精神和体力。
+      因为不是共感，所以即使对象负伤，进行感应的这一方也不会受到任何反冲。正是没有击中判定的附件。
+      感应的方法随能力者而不同。既有与对象意志无关进行感应的，也有需要某种仪式的。
+      仪式，是指家系中所传的精神方面的开关。因为异端的能力是需要被制御的东西，所以潜意识中有着“～不这样做不行”的抑制，不把这开关关掉的话就不能发挥能力。
+      即使这样，翡翠的家系真是H呀。
+    note: {}

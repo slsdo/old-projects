@@ -1,0 +1,30 @@
+---
+id: riding-skill
+
+en: r
+ja: ki
+furigana: きじょうすきる
+title:
+  en: Riding Skill
+  ja: 騎乗スキル
+  zh: 骑乘技能
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 52
+  category:
+  - skill
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      セイバーとライダーに付与されるクラス別能力。ランクによるが、あらゆる乗り物を乗りこなすことができる。高ランクになると幻獣や神獣といった幻想種すら手懐けることも可能。セイバーが車を運転できたのはこのスキルによるもの。
+    note: {}
+  zh:
+    content: |-
+      付与Saber与Rider的职阶[Class]特别能力。根据Rank，可以驾驭所有载具。高Rank的话就连幻兽或神兽这样的幻想种也可以驯服。Saber可以驾车就是靠这个技能[Skill]。
+    note: {}

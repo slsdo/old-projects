@@ -1,0 +1,42 @@
+---
+id: soul
+
+en: s
+ja: ta
+furigana: たましい
+title:
+  en: Soul
+  ja: 魂
+  zh: 魂
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 101
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      A soul resides in all life forms that are intelligent. It is spiritual life that is not part of any physical phenomenon.
+      In the world of EXTRA it is said to be the source that enables a container to have life.
+      In the past, in the medical community, it was thought that the body = life, and the body was an output device needed to power the soul. Without a living body, a soul could not be generated.
+      However, in the magus community the opposite was thought to be true. The soul is a “will” that lies in another dimension, and that will occupies a body.
+      Which school of thought is correct still remains unknown today, however in the world of EXTRA Pseudo-Spiritron Theory has been established. From this theory it became clear that the soul can activate even without a physical body, and as such the soul has come to be treated as “the source of a person.”
+    note: {}
+  ja:
+    content: |-
+      知性持つ生命ひとつひとつに宿る、肉体的ではなく精神的な命。
+      EXTRA世界では“その容器を生命たらしめる根源”と言われている。
+      かつての医学界では、肉体は生命:……魂を動かすための出力装置であり、生命活動なくして魂は発生しないと考えられていた。
+      しかし魔術世界ではその逆、魂は別次元にある“意思”であり、その意思が肉体に宿っている、と考えた。
+      どちらが正解なのか未だ答えは出ていないが、EXTRA世界では疑似霊子理論が確立され、以後、魂は肉体がなくとも稼働する“その人間の源”として扱われる事になった。
+    note: {}
+  zh:
+    content: |-
+      持有知性的生命各个寄宿着的，并非是肉体，而是精神的“生命”。
+      在EXTRA世界可以说是“将这个容器[肉体]化为生命的根源”。
+      曾经的医学界认为肉体就是生命……灵魂乃是为了活动而处理的装置，如果不进行生命的活动灵魂也就不会发生。
+      但是魔术的世界则是相反的，认为灵魂是处于别次元的“意识”，是那个意识寄宿在了肉体上的。
+      虽然哪边是正确的到现在也没有结论，但是由于EXTRA世界疑似灵子理论的确立的缘故，之后，灵魂即便是没有了肉体也能继续运作下去。灵魂也就成为了“那个人类的源”。
+    note: {}

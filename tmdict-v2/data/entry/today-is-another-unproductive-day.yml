@@ -1,0 +1,30 @@
+---
+id: today-is-another-unproductive-day
+
+en: t
+ja: ki
+furigana: きょうもいちにちのびのびと
+title:
+  en: Today is Another Unproductive Day!
+  ja: 今日もいちにちのびのびとー！
+  zh: 今天也能悠哉一整天哇！
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 20
+  category:
+  - phrase
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      身も心もタイツものびのびとさせてくれる不思議な呪文。
+    note: {}
+  zh:
+    content: |-
+      不管是身还是心还是什么紧绷[Tights]着的都能舒展开来的不可思议的咒文。
+    note: {}

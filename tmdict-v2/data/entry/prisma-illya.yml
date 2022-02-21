@@ -1,0 +1,31 @@
+---
+id: prisma-illya
+
+en: p
+ja: fu
+furigana: ぷりずまいりや
+title:
+  en: Prisma Illya
+  ja: プリズマ☆イリヤ
+  zh: 魔法少女☆伊莉雅
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 49
+  category:
+  - manga
+  img: hibichika_prisma-illya.png
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      この魔法少女がすごい2010年度大賞作品。そして祝☆魔法少女来店。どんな時でも決してサービスシーンを忘れないひろやま先生は一流の紳士だと思います。クマ吉くん的な意味で。
+    note: {}
+  zh:
+    content: |-
+      这个魔法少女真厉害2010年大奖作品。然后祝☆魔法少女来店。无论何时都不会忘了杀必死场景[Service Scene]的广山先生真不愧是一流的绅士。熊吉{{n1}}的意思。
+    note:
+      n1: "“绅士”梗的由来，变态=绅士。"

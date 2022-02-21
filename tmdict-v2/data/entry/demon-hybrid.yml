@@ -1,0 +1,39 @@
+---
+id: demon-hybrid
+
+en: d
+ja: ko
+furigana: こんけつ
+title:
+  en: Demon Hybrid
+  ja: 混血
+  zh: 混血
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 29
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      Refers to the descendants of humans who consorted with something “inhuman” in the distant past. Tohno Akiha and Kishima Kouma fall under this classification.
+      Though their blood is growing thinner with each successive generation, on rare occasions a child is born who has strongly inherited that “inhuman” characteristic.
+      As for Tohno Akiha, her blood is primarily human, but what inhuman blood she does have is exceptionally high class. Because of this, she could be considered the answer to the demon hybrids’ evolution, capable of awakening as a demon hybrid while still remaining a human being.
+      Kouma, on the other hand, is an archetypical demon hybrid whose oni blood runs too thick, making life as a human completely impossible.
+    note: {}
+  ja:
+    content: |-
+      遙か昔、人以外のものと交わった人間の末裔を指す。遠野秋葉、軋間紅摩が該当。
+      代を重ねるごとに血は薄くなっていくが、希に特性を濃く受け継いだ子供が生まれる。
+      秋葉は人間としての血の割合が多いながらも、割合の低い妖の血が最上級なものなので“人のまま混血として覚醒できる”という、混血たちの進化の答えじみたタイプ。
+      反して、紅摩は鬼の血が多すぎて人でなくなってしまう、典型的な混血の末路と言える。
+    note: {}
+  zh:
+    content: |-
+      指遥远的往昔，与人之外者结合了的人类的后裔。远野秋叶，轧间红摩就符合。
+      每一代反复地让血逐渐变得稀薄下去了，但罕有地会诞生继承了浓厚特性的孩子。
+      虽然秋叶作为人类的血的比例较高，但却因为比例较低的妖之血是最高级的东西，所以“仍是人就能够作为混血觉醒”，这种混血们进化的答案般的类型。
+      反之，红摩的鬼之血太多已经变得非人了，可说是典型的混血的末路。
+    note: {}

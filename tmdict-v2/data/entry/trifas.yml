@@ -1,0 +1,36 @@
+---
+id: trifas
+
+en: t
+ja: to
+furigana: とぅりふぁす
+title:
+  en: Trifas
+  ja: トゥリファス
+  zh: 图利法斯
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 69
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      Sighișoara is where Vlad III’s family home is. The town next to it is the land managed by Yggdmillennia, Trifas. It was originally the landed overseen by the Prestone family… Darnic’s family. The town resembles Sighișoara, but it has virtually no sightseeing landmarks, so Trifas is rarely considered as a destination in Romania’s sightseeing tours.
+      Naturally, this is a result of measures taken by Yggdmillennia so as to divert attention away from this land, and members of Yggdmillennia who have secretly infiltrated the country’s travel agencies will immediately take action if someone even brings up Trifas’ name for a sightseeing tour. They do allow a few tourists to visit so as not to make the town too insular and unsociable.
+      The town’s current population is twenty thousand, and concealed among them are many people connected to Yggdmillennia, who, while not being magi, do know of the existence of magecraft. When tourists go out to bars and the like, the native people all look at them with transparent eyes. Well, an insular town in the countryside is the perfect setting for horror. Horror, you know?
+    note: {}
+  ja:
+    content: |-
+      ヴラド三世の生家があるシギショアラ。その近隣にある都市がユグドミレニアの管理地、トゥリファスである。元々はプレストーン……ダーニックの一族の管理地であった。都市はシギショアラに酷似しているが、観光名所はほとんどないため、ルーマニアの観光ツアーではトゥリファスはほとんど顧みられることはない。
+      当然ながら、この土地が目を惹かないようにするためのユグドミレニアの措置であり、トゥリファスに関しては観光ツアーで名前が話題に上るだけで、直ちに旅行会社などに潜伏しているユグドミレニアの血族の手が伸びる。閉鎖的になりすぎないよう、少数の観光客は受け入れている。
+      現在の人口は約二万人、魔術師ではないが魔術の存在を知っているユグドミレニアに連なる人間たちも多数潜伏している。観光客がバーとかに繰り出すと、地元の人間が皆こっちを透明な瞳で見つめていたりする。まあ、閉鎖的な田舎ってホラーだよね。ホラー。
+    note: {}
+  zh:
+    content: |-
+      弗拉德三世的出生地锡吉什瓦拉，在它附近的都市就是千界树管理地图利法斯。原本是普雷斯通，达尼克一族的管理地，都市跟锡吉什瓦拉很像不过因为没什么观光景点，罗马尼亚的观光几乎没有照顾到图利法斯。
+      当然，由于千界树为了使这块土地不引人注目的措施，光是在观光提到图利法斯这个地方的名字就会有潜伏在旅行社里的千界树族的人出手，不过为了不变的太封闭，有接受少量的观光客。
+      现在的人口约两万人，也潜伏了很多与千界树有关联的且虽然不是魔术师但是知道魔术存在的人，如果观光客一起去酒吧之类的地方，当地的人会用无机质的眼睛往这边[观光客]盯着看。哎呀，封闭的乡下还真是可怕，可怕。
+    note: {}

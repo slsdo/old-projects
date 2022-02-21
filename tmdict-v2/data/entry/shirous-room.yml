@@ -1,0 +1,39 @@
+---
+id: shirous-room
+
+en: s
+ja: shi
+furigana: しろうのへや
+title:
+  en: Shirou’s Room
+  ja: 士郎の部屋
+  zh: 士郎的房间
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 40
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      The protagonist Shirou’s room, obviously.
+      It’s so empty it’s actually impressive.
+      Fuji-nee is always dropping her junk off in here, but every time she does Shirou ends up neatly putting it away in the storehouse.
+      Somehow it feels a bit like a student doing chores in exchange for room and board.
+    note: {}
+  ja:
+    content: |-
+      言わずとも無し、主人公である士郎の部屋。
+      どこかの洋館に引っ越した男よろしく、見事なまでになんにもない。
+      よく藤ねえがガラクタを落としていくのだが、その度に土蔵に片付けているようだ。
+      どことなく書生さんチック。
+    note: {}
+  zh:
+    content: |-
+      没什么可说的，作为主人公的士郎的房间。
+      那里洋馆与搬迁到的男人适合，在早前一直没漂亮过。
+      能很好地让藤姐丢落破烂儿，不过那个好象每次士郎都在土墙仓房整理了。
+      总觉得这对一个学生先生很抽。
+    note: {}

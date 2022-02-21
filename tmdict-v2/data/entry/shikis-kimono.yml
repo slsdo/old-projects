@@ -1,0 +1,37 @@
+---
+id: shikis-kimono
+
+en: s
+ja: shi
+furigana: しきのきもの
+title:
+  en: Shiki’s Kimono
+  ja: 式の着物
+  zh: 式的和服
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 22
+  category:
+  - accessory
+  img: ""
+  en:
+    content: |-
+      A luxury item that was not immediately apparent to the eye. It appeared to be an unremarkable kimono, but the quality was revealed in the fine details. If you ask which part of it is haute couture, it must be that Shiki could still perform high kicks while wearing a kimono.
+      In a related note, the early concept of Shiki was “a juxtaposition of Eastern and Western concepts.”{{n1}}
+    note:
+      n1: "Literally “an unhomogenized compromise between the East and the West.”"
+  ja:
+    content: |-
+      さりげなく高級品。パッと見なんのヘンテツもない着物だが、細かいところで手を加えられている。
+      どのヘンがオートクチュールかと言うと、着物なのにハイキックが打ててしまうあたりである。
+      余談ではあるが、式の初期コンセプトは“混ざらない和洋折衷[わようせっちゅう]”だった。
+    note: {}
+  zh:
+    content: |-
+      不表现出来的高级品。乍一看是不怎么出奇的和服，但细部做了加工。
+      要说哪里haute conture{{n1}}的话，就是穿和服却做出了上段踢吧。
+      虽是余谈，式的初期概念是“没混合的和洋折衷”。
+    note:
+      n1: "法语：高级服装店，尤其指巴黎的高级服装店协会加盟店。这里应该是用引申义。"

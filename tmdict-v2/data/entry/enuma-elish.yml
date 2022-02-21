@@ -1,0 +1,73 @@
+---
+id: enuma-elish
+
+en: e
+ja: te
+furigana: てんちかいりすかいびゃくのほし
+title:
+  en: Enuma Elish
+  ja: 天地乖離す開闢の星
+  zh: 天地乖离·开辟之星
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 57
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      Star of Creation that Split Heaven and Earth.
+      The cutting of space with the Sword of Rupture, Ea.
+      Air pressure faults, compressed and smashed against each other, become a pseudo-fault in time and space that pulverizes all who oppose it.
+      With output matching or even exceeding Excalibur, it is without a doubt the sword that “cut the world.”
+      Strictly speaking, the Noble Phantasm is actually Ea, while Enuma Elish is the name of Ea’s maximum output state.
+      …By the way, the sword’s drill shape is modeled after the bedrock excavators used when making underwater tunnels.
+      Though normally you’d think of a drill as something that tapers down to a point like a spear, the drills used to bore out enormous holes actually look more like numerous overlapping gears.
+      The way the blades rotate individually and shave away at the bedrock… just imagining it is so cool!
+    note: {}
+  ja:
+    content: |-
+      エヌマ・エリシュ。
+      乖離剣・エアによる空間切断。
+      圧縮され閲ぎ合う風圧の断層は、擬似的な時空断層となって敵対する全てを粉砕する。
+      セイバーのエクスカリバーと同等か、それ以上の出力を持つ“世界を切り裂いた”剣である。
+      厳密に言うと、エヌマ・エリシュはエアの最大出力時の名称で、宝具なのはエアの方。
+      余談ではあるが、このドリル状の剣は海底トンネル作成時に使用される岩盤削岩機をモデルにしている。
+      ドリルといったら槍のようにとんがったものを連想するが、巨大な穴を作るドリルは円盤（ギア）が複数 重なったような形状をしている。
+      三枚の刃が個別に回転し、岩盤を削っていく様は想像するだけでカッコイイ。
+    note: {}
+  zh:
+    content: |-
+      Enuma·Elish。
+      乖离剑·Ea（エア）所造成空间切断。
+      被压缩的的风压相互冲突造成的断层，成为模拟性的时空断层粉碎敌对的全部。
+      是与Saber的Excalibur有同等或者更高出力的“切开世界之剑”。
+      严格地说，Enuma·Elish是Ea（エア）最大输出时的名称，Ea本身才是宝具。
+      接下来是闲话，不过，这螺旋状的剑是以做成海底隧道的时候使用的岩盘凿岩机做为模型的。
+      要说凿岩机的话，一般是联想到长枪一样的东西吧，不过，为做出巨大的孔的凿岩机会做成复数的齿轮重叠了一般的形状。
+      三枚刃各自旋转削去岩盘的样子，光是想像就觉得好酷。
+    note: {}
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 56
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      {{n1}}
+      森羅万象すべてを崩壊させる対界宝具。乖離剣エアを最大出力にした状態を指しており、圧縮され絡み合った風圧の断層が、擬似的な時空断層となって空間切断を可能にする。その一撃は世界そのものを穿ち、あらゆる敵を粉砕する。同レベルのダメージをぶつけない限り相殺することは不可能。また、宝物庫に保管された宝具のバックアップによってその威力はさらに跳ね上がる。
+    note:
+      n1: "エヌマ・エリシュ"
+  zh:
+    content: |-
+      {{n1}}
+      将森罗万象全数毁坏的对界宝具。指乖离剑Ea最大输出的状态，被压缩而纠缠的风压的断层，使成为疑似时空断层的空间切断为可能。那一击是将世界这个东西贯穿，粉碎所有敌人。如果不以同等级[Level]的伤害[Damage]对撞是不可能抵消的。另外，依靠被保管在宝物库中的宝具的支援[Backup]其威力会更进一步地跳跃。
+    note:
+      n1: "Enûma Eliš"

@@ -1,0 +1,39 @@
+---
+id: ultimate-one
+
+en: u
+ja: a
+furigana: げんしょのいち
+title:
+  en: Ultimate One
+  ja: 原初の一
+  zh: 原初之一
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 11
+  category:
+  - skill
+  img: ""
+  en:
+    content: |-
+      This is one of White Berserker’s skills.
+      White Berserker receives power and support from the planet itself in order to increase her specs to be one rank higher than the enemy she is facing.
+      …Unfortunately due to a misunderstanding with her Master Gatou she is completely unable to use this skill.
+      If the location of battle is on Earth, or if her opponent is something or someone that originates from Earth, she would normally be able to activate this skill without penalty or limitation. However, on the Moon Cell there are restrictions to its duration, and it seems that there are beings there of a scale it can’t exceed.
+    note: {}
+  ja:
+    content: |-
+      白いバーサーカーのスキル。
+      星からのバックアップを受ける事で、敵対する相手より一段階上のスペックになるスキル。
+      ……なのだが、マスターであるガトーの勘違いでまったく機能していない。
+      舞台が地球である場合、相手が地球産のものである場合は何のペナルティもなく発動するが、ムーンセルでは使用時間の制限がかかり、また、上回れない規模の存在もでてくるようだ。
+    note: {}
+  zh:
+    content: |-
+      白色Berserker的技能。
+      接收来自星球的支援、提升为比敌对象更高一阶段的规格。
+      ……虽说如此，因为Master卧藤弄错真身的缘故、此机能完全没有运作。
+      舞台为地球的场合，只要对手是生自地球之物、便无需任何规制（Penalty）地发动，但是在Moon Cell上有使用时间的限制。另外、似乎也有无法凌驾其上之规模的存在。
+    note: {}

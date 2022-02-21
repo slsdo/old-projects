@@ -1,0 +1,30 @@
+---
+id: cassock
+
+en: c
+ja: ka
+furigana: かそっく
+title:
+  en: Cassock
+  ja: カソック
+  zh: 长袍
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 24
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      聖職者にとっての制服であり、璃正や綺礼が着用する典礼用の衣装。このカソックによって隠された璃正の右腕には預託令呪が刻まれている。なお、綺礼の僧衣には防弾加工、呪的防護処理が施されている。
+    note: {}
+  zh:
+    content: |-
+      作为圣职者的制服，璃正和绮礼穿着的典礼用衣服。被这长袍[Cassock]掩盖的璃正的右手腕上刻着预托令咒。顺带，绮礼的僧衣不仅有防弹加工，也施与了诅咒防护处理。
+    note: {}

@@ -1,0 +1,33 @@
+---
+id: knights
+
+en: k
+ja: ki
+furigana: きし
+title:
+  en: Knights
+  ja: 騎士
+  zh: 骑士
+
+entry:
+- source: angel-voice
+  section: notes
+  order: 5
+  category:
+  - ether-liner
+  img: ""
+  en:
+    content: |-
+      Life form that received an even stronger effect from the drastic environment. They wield a special weapon called the Demonic Swords. Aggressive species that can fight the A-rays equally without any support of firearms of the old age.
+      There are currently 78 Knights enlisted.
+    note: {}
+  ja:
+    content: |-
+      人間種の中でも激変した環境の影響をより強く受諾した生命種。魔剣と呼ばれる特殊兵器を使用する。旧時代の兵器の助力なしで亜麗と対等に競いあえる攻性種。
+      現在は七十八人が登録されている。
+    note: {}
+  zh:
+    content: |-
+      人类种中受到剧变的环境影响较强的生命种。使用被称为魔剑的特殊武器。可不凭借旧时代武器与亚丽对等战斗的攻性种。
+      现在有78人登录在册。
+    note: {}

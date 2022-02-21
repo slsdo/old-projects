@@ -1,0 +1,51 @@
+---
+id: preliminary
+
+en: p
+ja: yo
+furigana: よせん
+title:
+  en: Preliminary
+  ja: 予選
+  zh: 预选赛
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 156
+  category:
+  - event
+  img: ""
+  en:
+    content: |-
+      The Preliminary is the ceremony of passage to obtain the right to participate in the Holy Grail War.
+      The Preliminary takes place in an artificial “what-if” world that is made to reflect Japanese high school student life as it was around the turn of the 21st century.
+      The magus who were summoned to the Moon have their personality temporarily sealed away, and they attend Tsukimihara Gakuen as regular students.
+      While living a normal life, only the students who are able to restore their personality are allowed to proceed to the Holy Grail War main tournament.
+      Once the Preliminary is determined to be over, the students who have failed to restore their personality are deleted along with the school buildings.
+      The Preliminary takes place in a loop world without a start or end.
+      In EXTRA the Preliminary takes place over four days.
+      In CCC the Preliminary takes place over just one day, but that’s because the setting is a loop world designed to allow the protagonist to sleep peacefully.
+    note: {}
+  ja:
+    content: |-
+      聖杯戦争に参加するための通過儀礼。
+      異なる歴史においてあったかもしれない、西暦2000年代の日本の高校生活を模した“もしも”の世界。
+      月に招かれた魔術師たちは一時的にパーソナリティを封印され、一般生徒として月海原学園に通わされる。
+      そのルーチンワークとも言える日常の中で自己を取り戻した者だけが本選に進む事ができる。
+      予選が終わり次第、自分を思い出せずにいた参加者は校舎ともども消去される。
+      始まりと終わりのない、学園生活のループ世界。
+      EXTRAでは四日間の予選。
+      CCCでは一日だけの風景だが、あれは主人公が安らかに眠れるよう設定されたループ空間である。
+    note: {}
+  zh:
+    content: |-
+      为了参加圣杯战争的通过礼仪。
+      也许是有着不同的历史，模仿西历2000年代的日本高中生活的“如果”的世界。
+      被月球招待而来的魔术师们暂时性的封印personality，作为一般学生在月海园学园上学。
+      只有在那可以说是routine work的日常之中取回自我的人才能进入本选。
+      预选结束之后，没能回想起自我的参加者们会随校舍一同消去。
+      无始无终的，学园生活的loop世界。
+      EXTRA中是四日间的预选。
+      CCC中是仅有一日的风景，但是那是为了让主角安稳睡去而设定出来的loop空间。
+    note: {}

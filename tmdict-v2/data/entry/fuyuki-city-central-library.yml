@@ -1,0 +1,30 @@
+---
+id: fuyuki-city-central-library
+
+en: f
+ja: fu
+furigana: ふゆきしちゅうおうとしょかん
+title:
+  en: Fuyuki City Central Library
+  ja: 冬木市中央図書館
+  zh: 冬木市中央图书馆
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 34
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      A library located in Fuyuki Central Park, in Shinto. Rider destroys the security shutter as he exits the building after finding a book.
+    note: {}
+  ja:
+    content: |-
+      新都市民公園の中にある図書館。本をもち出そうとしたライダーによって、無惨にも入り口シャッターを破壊された。
+    note: {}
+  zh:
+    content: |-
+      在新都市民公园中的图书馆。入口的百叶卷门[Shutter]被带出书本的Rider残忍地破坏掉了。
+    note: {}

@@ -1,0 +1,33 @@
+---
+id: asagami-girls-academy
+
+en: a
+ja: a
+furigana: あさうえじょがくいん
+title:
+  en: Asagami Girls Academy
+  ja: 浅上女学院
+  zh: 浅上女学院
+
+entry:
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 4
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      The private boarding school for girls that Akiha attends.
+      It is about an hour away from the Tohno mansion by car. Normally students are forced to live on campus, but Akiha has received special permission to commute to school from her own home. She actually did live in the school dorms when Shiki was living with the Arima, but it seems she forced the matter after he moved back into the Tohno mansion. Unfortunately, the oafish big brother didn’t notice his noble little sister’s efforts at all.
+    note: {}
+  ja:
+    content: |-
+      秋葉の通う、全寮制のお嬢様学校。
+      遠野の屋敷からは車で一時間もかかる。秋葉は特例として実家からの登校を許可されている。志貴が帰ってくるまでは寄宿舎で生活していたが、志貴が帰ってきたので無理を通して屋敷から通っているのだ。健気な妹と、その努力に気が付かない唐変木なお兄ちゃん。
+    note: {}
+  zh:
+    content: |-
+      秋叶所上的，全寄宿制贵族女子学校。
+      从远野家坐车也要花1小时。秋叶是作为特例被允许从自家上学。在志贵回到远野家之前是在宿舍生活的，因为志贵回来了而克服万难从家里上学。坚强的妹妹和没有察觉到这份努力的傻哥哥。
+    note: {}

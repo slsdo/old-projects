@@ -1,0 +1,30 @@
+---
+id: sparrow-missile
+
+en: s
+ja: su
+furigana: すぱろーみさいる
+title:
+  en: Sparrow Missile
+  ja: スパローミサイル
+  zh: 麻雀导弹
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 8
+  category:
+  - armament
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      F15J搭載の火器。バーサーカーによって呪装化された26ポンドの炸薬。かつてはレーダー波によって誘導される電子兵器だったが、呪装化によりバーサーカーの憎悪の対象を追尾する魔導器へと変貌を遂げた。
+    note: {}
+  zh:
+    content: |-
+      F15J搭载的热兵器。被Berserker咒装化的26磅[Pound]炸药。虽然曾是根据雷达[Radar]波而诱导的电子兵器，但呪装化后则变成了会追踪Berserker憎恶对象的魔导器。
+    note: {}

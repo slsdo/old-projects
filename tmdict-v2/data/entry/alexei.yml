@@ -1,0 +1,30 @@
+---
+id: alexei
+
+en: a
+ja: a
+furigana: あれくせい
+title:
+  en: Alexei
+  ja: アレクセイ
+  zh: 亚历士
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 93
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      ライダーがマッケンジー夫妻に名乗った名前。彼の真名であるイスカンダルことアレキサンダー大王に由来する。
+    note: {}
+  zh:
+    content: |-
+      Rider对麦肯锡[Mackenzie]夫妻自报的名字。由来自以他的真名伊斯坎达尔[Iskandar]的亚历山大[Alexander]大帝。
+    note: {}

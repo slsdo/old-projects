@@ -1,0 +1,36 @@
+---
+id: stone-head-like-stone-head
+
+en: s
+ja: i
+furigana: いしあたまないしあたま
+title:
+  en: Stone-Head-Like Stone Head
+  ja: いしあたまな石頭
+  zh: 石头脑袋的石头脑袋
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 7
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      Not a typographic error.
+      Shiki occasionally behaves as such. As Touko said, it is evidence that Shiki lives by feelings alone.
+    note: {}
+  ja:
+    content: |-
+      誤字にアラズ。
+      式はときおりこういった表現をする。橙子曰く、感覚だけで生きている証拠だとか。
+    note: {}
+  zh:
+    content: |-
+      {{n1}}
+      没有错字。
+      式有时会有这种表现。橙子说，只靠感觉来活的证据什么的{{n2}}。
+    note:
+      n1: "原文是いしあたまな石頭，注音：いしあたまないしあたま。"
+      n2: "指式根本不用大脑。"

@@ -1,0 +1,70 @@
+---
+id: cursed-cutting-crater
+
+en: c
+ja: ka
+furigana: かーすどかっていんぐくれーたー
+title:
+  en: Cursed Cutting Crater
+  ja: C.C.C.
+  zh: C.C.C.
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 32
+  category:
+  - noble-phantasm
+  img: fem_cursed-cutting-crater.png
+  en:
+    content: |-
+      C.C.C.
+      An anti-planet Noble Phantasm. It’s an attack that violates the world through BB’s control over Moon Cell. It’s also called a pseudo-spiritron trap.
+      By drawing out the maximum potential of BB’s EX skill Potnia Theron, a world purge via rewriting of events is carried out.
+      The space that BB invades becomes an imaginary space and it becomes a curse that eclipses the world. Just like its name C.C.C. it causes huge damage from the curse cutting away at reality.
+      The name “Cursed” is based on the image of a giant spoon that scoops out the surface of the Moon and turns it into a cursed space (the imaginary space).
+      During development when the game’s concept was still being decided, we considered making it a Noble Phantasm that was homage to Black Sakura.
+
+      1. Camera: Close up of BB followed by a rapid zoom out of the camera. The sky behind BB becomes black. BB, as if to welcome a man, spreads her arms wide and then melts into the darkness of the background.
+      2. The camera is placed even farther away; the goal is not to show the characters, but to show the backdrop and scenery. The camera shows the ground which appears to be tilted diagonally. The tilted ground and horizon make the viewer feel uneasy. The camera is pulled far back, so the horizon can be seen more clearly. On the other side of the horizon is a phantasm of a giant BB (homage to Black Sakura).
+      3. The giant Black Sakura, with a bewitching laugh, then reaches out and scoops up the ground that the protagonist is standing on. It looks as easy as if she just scooped out a bite of pudding.
+      4. The giant Black Sakura closes her hand and crushes everything in her hand, protagonist and all. It’s great if you can tell this is homage to the scene in Fate/stay night where Black Sakura crushes the insects of Matou Zouken.
+
+      …is what we wanted to do, but the cost to design and implement this Noble Phantasm and Black Sakura from scratch was high enough that we decided to use the money elsewhere. Hence it was axed.
+      Like BB says, money isn’t unlimited. In order to get the Servants all dressed up in their swimsuits, there had to be some cuts in other areas of the game.
+    note: {}
+  ja:
+    content: |-
+      カースド・カッティング・クレーター。
+      対星宝具。ムーンセルを掌握したBBによる、世界を犯す攻撃。疑似霊子陥穽とも。
+      BBが獲得したEXスキル『百獣受胎[ポトニア・テローン]』を最大限に活用した、事象書き換えによるワールド・パージ。
+      BBに侵食された空間は虚数空間となり、現実を蝕む呪いとなる。『C．C．C．』はその名の通り、現実をえぐり切り取る呪いの大穴なのだ。
+      カースド～という名前は、『月の表面を巨大なスプーンでえぐり取り、呪いの空間（虚数空間）にする』というイメージから。
+      まだゲームのイメージが固まっていない開発初期ではstay nightの黒桜をオマージュした宝具と考えられていた。
+
+      1．カメラ、BBにアップからロングに思いっきり引く。BBの背後の空間が黒くなる。BB、男性を迎え入れるような、両手を広げたポーズをして背後の黒領域に溶けていく。
+      2．カメラ、さらにロングに引く。人物を写すのではなく風景を映す絵に。地面を水平ではなく斜めに移すカメラ。地面と地平線が斜めに移ることにより、見ているユーザーの不安定さを演出する。
+      カメラをロングに引いたので地平線がより明確に見える。その地平線の向こうに巨大なBBのヴィジョン（黒桜オマージュ）が現れる。
+      3．巨大黒桜、妖艶に笑いながら手のひらで主人公が立つ地平ごと、ゴバッとすくいあげる。プリンをスプーンで切り取るような滑らかさ。
+      4．巨大黒桜のヴィジョン、主人公たちをすくい上げた空間ごと握りつぶす。Fate/stay nightであった黒化した桜が間桐臓硯の虫を潰すシーンのオマージュだと分かるとグッド。
+
+      ……というのをやりたくはあったが、この宝具のためにCCC版黒桜を一からデザインするコストを払うなら他にコストを払おう、という事で没に。
+      BBも言っているように、資源[コスト]は無限ではない。サーヴァントたちに水着を着せるためには、やむなくカットされるものもある。
+    note: {}
+  zh:
+    content: |-
+      Cursed Cutting Crater。
+      对星宝具。掌握了Moon Cell的BB所放出的，侵犯世界的攻击。又称疑似灵子陷阱。
+      将BB所获得的EX技能“百兽母胎（Potnia Theron）”活用至最大限度，透过改写现象来实现的世界肃清[World Purge]。
+      受到BB侵蚀的空间会成为虚数空间，化成侵蚀现实的诅咒。“C.C.C.”正如其名，是将现实挖出并切割开来的诅咒大坑洞。
+      所谓“Cursed”的名字，是由“以巨大的勺子[spoon]挖去月球表面，化为诅咒空间（虚数空间）”这样的印象而来的。
+      在游戏的印象还没固定下来的开发初期，是考虑作向stay night的黑樱致敬的宝具的。
+
+      1. 镜头，以BB的特写为开始，尽可能来个远景延伸。BB背后的空间是黑色的。BB，像是迎接男性一般，以张开两手的pose溶入背后的黑色领域。
+      2. 镜头，再来个远景。不是描写人物而是映出风景。不是水平于地面而是倾斜着移动镜头。凭借地面与地平线倾斜移动，表现出正在观看的玩家的不安感。因远景镜头，能够更加明确的看到地平线。在地平线的对面，巨大版本的BB（致敬黑樱）现身。
+      3. 巨大黑樱，一边妖艳地笑着，一边将手掌伸向主角所在的地面，一把捞起主角。像是用勺子挖布丁那样的光滑感。
+      4. 巨大黑樱的形象，捏碎主角等人被捞起来的空间。能明白这是致敬Fate/stay night里的黑樱捏碎间桐脏砚化身的虫子的场景就好了。
+
+      ……虽然有过这种想法，但是为了这个宝具从头设计出CCC版黑樱而占用cost的话，其他的cost就会被挤掉了，于是乎未采用。
+      就像BB说过的那样，资源[cost]并不是无限的。为了让Servant们穿上泳装的话，迫不得已砍掉的东西也是有的。
+    note: {}

@@ -1,0 +1,42 @@
+---
+id: west-europe-plutocracy
+
+en: w
+ja: se
+furigana: せいおうざいばつ
+title:
+  en: West Europe Plutocracy
+  ja: 西欧財閥
+  zh: 西欧财阀
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 89
+  category:
+  - organization_alt
+  img: ""
+  en:
+    content: |-
+      The economic organization headed by Harwey.
+      Harwey is effectively the king on Earth in EXTRA.
+      At a very early stage Harwey predicted that the world’s resources would run dry, and developed an unsuitably large fear of what might happen. He came up with the solution of carefully managing the north pole, and gave his undivided attention to it.
+      The foundation of his organization had a lot of religious power, and it’s speculated that the Holy Church helped him out because a huge amount of financial resources soon gathered under Harvey.
+      The defacto leader of the Holy Church in the world of EXTRA, Cardinal Laurentis, does have a good relationship with Harwey.
+    note: {}
+  ja:
+    content: |-
+      ハーウェイを筆頭にした経済団体。
+      EXTRA世界における地上の王。
+      来るべき資源枯渇を早い段階から予見、杞憂し、その解決策として北極の管理に専心していた。
+      その基盤には強い信仰の力があり、ハーウェイの下に多くの資産が集まった理由として、聖堂教会の助けがあったと言われている。
+      この時代における聖堂教会の事実上の指導者、ラウレンティス枢機卿とハーウェイは懇意の関係にある。
+    note: {}
+  zh:
+    content: |-
+      以哈维家[雷欧家]为首领的经济团队。
+      于EXTRA世界的地上的王。
+      早阶段预见了即将到来的资源枯竭、[为这场灾害]忧愁、为了寻求其解决的方法而专心的管理着北极。
+      传闻哈维家是受到了根基是拥有着强力的信仰的力量的圣堂教会的援助，所以其旗下才会集结了如此之多的资源。
+      在这个时代的圣堂教会的实质指导者——ラウレンティス枢机卿和哈维家有着融洽的关系。
+    note: {}

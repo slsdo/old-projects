@@ -1,0 +1,51 @@
+---
+id: rejected-routes
+
+en: r
+ja: ho
+furigana: ぼつルート
+title:
+  en: Rejected Routes
+  ja: 没ルート
+  zh: 消失的路线
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 80
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      Exactly what it sounds like. Route ideas that didn’t make the cut.
+      In the beginning, the plan was for <em>Fate/stay night</em> to have four different routes, one for each heroine.
+      It would start off by letting the player arbitrarily choose between playing as either Shirou or Rin. Then around the middle of the story they would finally meet, and after that you would branch off into one of the four routes for the last half of the game. Yeah, I don’t really understand how it was going to work either.
+      Anyway, getting back to the rejected routes, it goes without saying that the Illya route tops the list.
+      Besides that, there was also the “Rider route where you fight against Rin and Saber,” and the “Caster route where Caster gets turned into a loli and becomes your partner.”
+      While all traces of the Caster route were completely erased, the development where you teamed up with Rider was actually folded into part of the final story.
+      If the Illya route had made it into the game, the diversion point probably would have been on the ninth day of the Sakura route. Instead of choosing between being a superhero and choosing Sakura, there would be a third choice where you could choose Illya.
+      But unfortunately, as it stands that choice doesn’t exist.
+    note: {}
+  ja:
+    content: |-
+      その名の通り、没になったルート案。
+      「Fate」は初め、四ヒロイン分の四ルートとして考えられていた。
+      前半まで士郎と漂のどちらかを任意でプレイ、中盤 に達した時点で二人が出会い、その後の後半戦を四ルートに分けて行う……という、なんだかよく分からないプロットをしていたのである。
+      没になったルートの筆頭は、ご存知イリヤルー卜。
+      その他、凜&セイバーコンビと戦うライダールート、 キャスターをロリっ娘にしてパートナーにしようというキャスタールートがあった。
+      キャスタールートは完全に消滅したが、ライダーと協力する展開は、一部本編で受け継がれている。
+      イリヤルートがあるとしたら、桜ルート九日目で正 義の味方でもなく桜の味方でもなく、イリヤの味方を 選ぶコトで分岐するのたろう。
+      残念ながら、本編でその可能性は途絶えてしまったのだが。
+    note: {}
+  zh:
+    content: |-
+      就如名称所示那样，已消失了的路线的方案。
+      《Fate》开始，是作为四个女主角分为四条路线被考虑的。
+      前半段为止可以任选士郎或凛哪方来进行，达到了中盘的时刻二人相遇，然后把此后的后半战斗分成四条路线来进行……，如此，不太明白的情节。
+      变消失了的路线的第一条，众所周知是依莉雅的路线。
+      其他的，也有像与凛&Saber的组合战斗的Rider线、 决定把Caster变为萝莉组合搭档的Caster路线。
+      Caster路线完全消失了，不过，与Rider合作的展开，以正编一部分被继承了。
+      如果有依莉雅路线的话，樱路线九日目将不会是正义的味方也不会是樱的味方，而是选择依莉雅的味方的分歧点吧。
+      虽然遗憾，但是正编那个可能性已断绝了。
+    note: {}

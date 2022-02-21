@@ -1,0 +1,30 @@
+---
+id: blowpipe-portable-surface-to-air-missile
+
+en: b
+ja: fu
+furigana: ぶろーぱいぷけいこうちたいくうみさいる
+title:
+  en: Blowpipe Portable Surface-to-Air Missile
+  ja: ブローパイプ携行地対空ミサイル
+  zh: 吹管携带地对空导弹
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 40
+  category:
+  - armament
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      切嗣があらゆる手を尽くし、ニューヨークのブラックマーケットで入手した携行式の地対空ミサイル。このミサイルによって切嗣はナタリアの乗るエアバスを撃ち落とした。
+    note: {}
+  zh:
+    content: |-
+      切嗣用尽手段，于纽约[New York]的黑市[Black market]入手的携带式地对空导弹[Missile]。切嗣用这个导弹[Missile]将娜塔莉亚[Natalia]所乘坐的空中巴士[Airbus]击落了。
+    note: {}

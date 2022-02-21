@@ -1,0 +1,153 @@
+---
+id: vampire
+
+en: v
+ja: ki
+furigana: きゅうけつき
+title:
+  en: Vampire
+  ja: 吸血鬼
+  zh: 吸血鬼
+
+entry:
+- source: tsukihime-data-collection
+  section: tsukihime-dictionary
+  order: 14
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      A general term for those that suck human blood.
+      Refers specifically to the Dead Apostles, or those that have become bloodsuckers because of them.
+      The vampires in <em>Tsukihime</em> extract human blood to maintain their own flesh. If, during this process, the vampire injects their own blood into their human prey, that human will be unable to peacefully pass away.
+      For a normal person, death will still find them before long regardless. However, on rare occasions, if the victim has high physical potential and the capacity of their soul is excellent, they will remain in the world of the living.
+      Afterward, their corpse is buried, and left alone for several years. During this time their brain melts, their soul is liberated from the cage of the body, and eventually they arise as a ghoul.
+      As a ghoul, they feed on the corpses sleeping in the graves around them to supplement their own missing flesh, restoring their physical body little by little.
+      After many years of this, they will eventually regain their brain and intelligence. At this stage they can finally be called a vampire.
+      However, although this new vampire is free now, they cannot escape the rule of their sire’s blood.
+      Finally, after spending decades acclimating to life in the darkness, the vampire will begin attacking humans to create servants of their very own, while remaining subservient to the vampire that made them.
+      The Church exists to obstruct this infinite cycle. Their ultimate goal is the utter elimination of all vampires, and the sealing of the 27 Ancestors that made them.
+    note: {}
+  ja:
+    content: |-
+      人の血を吸うモノの総称。
+      死徒、ないし死徒によって吸血種となったモノを指す。
+      月姫における吸血鬼は、自らの肉体保持のためにヒトの血を搾取する。この過程で自らの血液を獲物である人間に送りこむと、その人間は死にきれずに残ってしまう。
+      常人ならばそれでもやがて死に至るが、時折肉体的なポテンシャルが高く、魂のキャパシティさえも優れた者は現世に留まれる。
+      その後、遺体として埋葬されてから数年。脳髄が溶け、魂が肉体という檻から解き放たれて始めて食屍鬼（グール）として活動できる。
+      グールは自らの欠けた肉体を補充せんと墓に眠る遺体を食らい、少しずつ肉体を復元する。
+      その後、やはりまた何年と月日を要して幽体としての脳を形成し、知能を取り戻してようやく吸血鬼と呼ばれるに至る。
+      吸血鬼に成った者はもはや自由だが、親である吸血鬼の血があるためにその支配から逃れられない。
+      何十年と闇の生活に慣れた後、吸血鬼は親である吸血鬼に従いながら、自分だけの下僕を作るために人間を襲い血を送る。
+      この、ほぼ無限の循環を阻止するために教会が存在する。教会の最終的な目的は全吸血鬼の排除と、因となる二十七祖の封印にある。
+    note: {}
+  zh:
+    content: |-
+      吸取人血的生物的总称。
+      这边指的是死徒，以及因死徒而变成吸血种的生物。
+      月姬中的吸血鬼为了保持自身肉体而榨取人血。如果在过程中将自身血液送入猎物体内的话，猎物将不会死亡并存活。
+      虽然常人就算这么做也还是会死亡，不过偶尔会有肉体具备高度的潜在能力，灵魂容量也很优秀的人得以留存在人间。
+      作为遗体被埋葬数年之后，脑随溶解，灵魂从名为肉体的牢笼中得到解放时，就能以食尸鬼（Ghoul）的身分活动。
+      食尸鬼为了补充自己欠缺的肉体而捕食沉睡在坟墓的遗体，使肉体渐渐的复原。
+      在那之后，还需要数年的时间形成身为灵体的脑部。再取回智能后，才终于成为我们口中的吸血鬼。
+      虽然成为吸血鬼后可说是自由的，但因体内流着“吸血鬼的亲长”的血，所以无法逃离其支配。
+      在习惯了几十年的黑暗生活后，吸血鬼会一边服从亲长，一边为了制造属于自己的下仆而去袭击人类、输入血液。
+      教会的存在就是为了阻止这近乎无限的循环。其最终目的为排除全部的吸血鬼，以及封印身为源头的二十七祖。
+    note: {}
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 10
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      This term is used to refer to True Ancestors and Dead Apostles. True Ancestors were vampires from the moment they came into existence, but Dead Apostles are those who became vampires sometime after their birth.
+    note: {}
+  ja:
+    content: |-
+      ①もとから吸血種であった「真祖」と後天的に吸血種となった「死徒」に分けられる。
+    note: {}
+  zh:
+    content: |-
+      ①分成原来就是吸血种的“真祖”和后天成为吸血种的“死徒”。
+    note: {}
+- source: tsukihime-dokuhon-plus-period
+  section: tsukihime-dictionary-revised
+  order: 23
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      A general term for those that suck human blood. Refers specifically to the Dead Apostles, or those that have become bloodsuckers because of them.
+      The vampires in <em>Tsukihime</em> extract human blood to maintain their own flesh. If, during this process, the vampire injects their own blood into their human prey, that human will be unable to peacefully pass away. For a normal person, death will still find them before long regardless. However, on rare occasions, if the victim has high physical potential and the capacity of their soul is excellent, they will remain in the world of the living.
+      Afterward, their corpse is buried, and left alone for several years. During this time their brain melts, their soul is liberated from the cage of the body, and eventually they arise as a kind of living dead called a “ghoul.”
+      As a ghoul, they feed on the corpses sleeping in the graves around them to supplement their own missing flesh, restoring their physical body little by little. After many years of this, they will eventually regain their brain and intelligence. At this stage, they can finally be called a “vampire.”
+      However, although this new vampire can move by their own will, they cannot escape from the rule of their sire’s blood. Finally, after spending decades acclimating to life in the darkness, the vampire will begin attacking humans to create servants of their very own, while remaining subservient to the vampire that made them.
+      In order to obstruct this infinite cycle, the Church created the Burial Agency, Inquisitors that exist to slay Dead Apostles. The Burial Agency’s goal is the elimination of all vampires, and the sealing of the 27 Ancestors that made them.
+    note: {}
+  ja:
+    content: |-
+      人の血を吸うモノの総称。死徒、ないし死徒にょって吸血種となったモノを指す。
+      月姫における吸血鬼は、自らの肉体保持の為ヒトの血を搾取する。この過程で自身の血を獲物である人間に送りこむと、その人間は死にきれずに残ってしまう。常人ならばやがて死に至るが、時折肉体的なポテンシャルが高く、魂のキャパシティさえも優れた者は現世に留まれる。
+      その後、遺体として墓に埋葬されてから数年。脳髄が溶け、魂が肉体という檻から解き放たれ、初めて食屍鬼（グール）と呼ばれる動く死者（リビングデッド）となる。
+      グールは自らの欠けた肉体を補充せんと墓に眠る遺体を食らい、少しずつ肉体を復元する。その後、やはりまた何年と月日を経て幽体としての脳を形成し、知能を取り戻してようやく“吸血鬼”と呼ばれるに至る。
+      吸血鬼に成った者は自分の意志で活動できるが、親である吸血鬼の血がある為、その支配から逃れられない。何十年と闇の生活に慣れた後、吸血鬼は親である吸血鬼に従いながら、自分だけの下僕を作る為、人間を襲い血を送る。
+      この、ほぼ無限の循環を阻止する為、教会には死徒を殲滅する異端狩り・埋葬機関が存在する。埋葬機関の目的は全吸血鬼の排除と、因となる二十七の祖の封印にあるという。
+    note: {}
+  zh:
+    content: |-
+      吸人血之物的总称。指死徒或被死徒变成吸血种的东西。
+      月姬中的吸血鬼，为了保持自己的肉体而榨取人类的血。在这个过程中如果把自己的血送进作为猎物的人体内，那个人就会不能完全死掉而留下来。常人的话最终还是会死，但有时会有肉体的潜能高，连灵魂的能力也优秀的人能留在现世。
+      其后，作为遗体被埋进坟墓之后数年。脑髓溶化，灵魂从肉体这个牢笼中解放出来，才成为被称作食尸鬼（ghoul）的会动的死者（Living Dead）。
+      食尸鬼为了补充自己欠损的肉体而吃沉睡于墓中的遗体，渐渐地使肉体复原。之后，仍然还要经过数年的岁月形成作为幽体的脑，取回智能，才终于能被称为“吸血鬼”。
+      成为吸血鬼的人虽然能以自己的意志活动，但是因为有父辈吸血鬼的血，所以无法脱离其支配。花几十年适应了暗之生活后，吸血鬼一边服从父辈吸血鬼，一边为了制造只属于自己的下仆，袭击人类送出血液。
+      为了阻止这近乎无限的循环，教会中存在歼灭死徒的异端狩猎者——埋葬机关。据说埋葬机关的目的在于排除所有吸血鬼，和封印身为原因的二十七个祖。
+    note: {}
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 17
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      Monsters that suck human blood. Refers mostly to the Dead Apostles, or those that have become bloodsuckers because of them. Though they are basically unaging and immortal, they require human blood to maintain their flesh. Thus, their immortality is imperfect.
+      Those that have been turned into vampires by Dead Apostles can operate by their own will, but because their behavioral principles are bound by their parent vampire, it is impossible for them to escape their control. In the event that they successfully attack a human and acquire their blood, the majority of it will be taken by the parent vampire.
+      Consequently, the child vampire will eventually try to become a parent vampire themselves. After spending decades acclimating to life in the darkness, they will start to threaten the world by creating servants of their very own.
+      In order to put a stop to this vicious cycle of vampirism, the Church created the Burial Agency—heresy hunters whose aim is the complete extermination of all Dead Apostles.
+    note: {}
+  ja:
+    content: |-
+      人の血を吸うモノ。多くは死徒、ないし死徒によって吸血種となったモノを指す。基本的に不老かつ不死ではあるが、肉体の維持に人間の血が必要な為、不完全な不老不死と言えるだろう。
+      死徒によって吸血鬼に成った者は自分の意志で活動できるが、行動原理を親である吸血鬼に縛られる為、その支配から逃れられない。人間を襲い血を得たところで、その大半を親である吸血鬼に奪われてしまうのである。
+      よって子である吸血鬼は自らも親になろうとし、何十年と闇の生活に慣れながら自分だけの下僕を作ろうと世を脅かす。
+      この吸血循環を阻止する為、教会には死徒を殲滅する異端狩り·埋葬機関が存在する。
+    note: {}
+  zh:
+    content: |-
+      吸人血者。大多指死徒，乃至藉由死徒变成吸血种之人。基本上是不老且不死，但因为肉体的维持需要人类的血，可说是不完全的不老不死吧。
+      藉由死徒成为了吸血鬼之人虽能以自己的意志活动，但因为行动原理被作为父母的吸血鬼所束缚，无法从其支配下逃脱。即使袭击人类得到了血，也被作为父母的吸血鬼夺去了其大半。
+      因此作为子女的吸血鬼自己也要成为父母，尽管几十年后适应黑暗的生活，却还要创造只属于自己的下仆，这样就威胁到世间。
+      为了阻止这个吸血循环，教会存在着歼灭死徒的异端狩猎·埋葬机关。
+    note: {}
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 5
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      Common term for those that suck the blood of humans. Vampire refers to Dead Apostles and the blood-sucking species created thereby.
+    note: {}
+  ja:
+    content: |-
+      人の血を吸うモノの総称。死徒ないし、死徒によって吸血種となったものを指す。
+    note: {}
+  zh:
+    content: |-
+      吸食人血之物的总称。指死徒及因死徒而变吸血种之物。
+    note: {}

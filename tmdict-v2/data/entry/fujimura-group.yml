@@ -1,0 +1,62 @@
+---
+id: fujimura-group
+
+en: f
+ja: fu
+furigana: ふじむらぐみ
+title:
+  en: Fujimura Group
+  ja: 藤村組
+  zh: 藤村组
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 76
+  category:
+  - organization
+  img: fsm_fujimura-group.png
+  en:
+    content: |-
+      Fuji-nee’s family home.
+      Illya is freeloading off of them during the epilogue of the Saber route.
+      Fuji-nee’s grandfather, Raiga, is their boss, and her father (who was adopted into the family as a son-in-law) is a reliable, taciturn giant of a man.
+      Perhaps it was these people and their anything-goes attitude that caused Fuji-nee to turn out the way she did?
+      Shirou often helps out Old Man Raiga with his hobbies, and gets a fair amount of spending money in return.
+    note: {}
+  ja:
+    content: |-
+      藤ねえの実家。
+      セイバールートのエピローグではイリヤが居候するところ 。
+      藤ねえのお爺ちゃんである雷画がいまだ親分さん。
+      婿養子の藤ねえのお父さんは、これまた頼りがいのある無口な巨漢さん。
+      ここの人たちの放任主義が、あのような問題児を育んでしまったのか。
+      士郎は雷画爺さんの趣味に付き合って、よくお小遣いを貰う。
+    note: {}
+  zh:
+    content: |-
+      藤姐的父母家。
+      Saber线结尾依莉雅寄食的地方 。
+      作为藤姐爷爷的老人雷画至今是头目。
+      作为养老女婿的的藤姐爸爸，此亦是位靠得住的不爱说话的大汉先生。
+      是因为这里的人们的放任主义，才哺育了那样的问题儿童吗。
+      士郎附和雷画老人先生的爱好，能经常地得到零花钱。
+    note: {}
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 65
+  category:
+  - organization_alt
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      深山町に本拠を据える任侠一家。組長は藤村雷画。切嗣や士郎との交流も深い。
+    note: {}
+  zh:
+    content: |-
+      在深山町安置据点的侠气一门。组长为藤村雷画。与切嗣和士郎交流颇深。
+    note: {}

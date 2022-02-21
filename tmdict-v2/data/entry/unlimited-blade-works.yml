@@ -1,0 +1,85 @@
+---
+id: unlimited-blade-works
+
+en: u
+ja: mu
+furigana: むげんのけんせい
+title:
+  en: Unlimited Blade Works
+  ja: 無限の剣製
+  zh: 无限之剑制
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 94
+  category:
+  - noble-phantasm
+  - magecraft
+  img: ""
+  en:
+    content: |-
+      Infinite Creation of Swords.
+      Though it is treated as a Noble Phantasm, technically speaking it is a type of magecraft called a reality marble.
+      Within this reality marble exists all the ingredients needed for the creation of swords. So long as Archer has seen the original, he is able to easily replicate it.
+      However, the replicated weapon has its rank reduced by one.
+      Replication of defensive armaments is also possible, but it requires two to three times more magical energy than a normal projection.
+      Once an armament has been replicated, it is registered inside the boundary field and can be manufactured with Gradation Air even without expanding the reality marble.
+      Against a normal opponent this is little more than a mildly annoying ability, but it is the natural enemy of a certain King of Heroes.
+    note: {}
+  ja:
+    content: |-
+      アンリミテッドプレイドワークス。
+      宝具扱いだが、正確には固有結界と呼ばれる魔術である。
+      この固有結界には全ての剣を形成する要素があり、オリジナルを見た事があれば容易く複製する事が可能。
+      ただし、複製した武器はランクが一つ下がる。
+      防具も可能だが、その場合は通常投影の二倍ー三倍の魔力を必要とする。
+      一度複製した武具は結界内に登録され、固有結界を起動させずとも、投影魔術として作り出せる。
+      通常の相手には多少厄介な能力にすぎないが、彼の英雄王にとっては正に天敵となる宝具。
+    note: {}
+  zh:
+    content: |-
+      Unlimited Blade Works。
+      一般视为宝具，不过正确来说是被称为固有结界的魔术。
+      这个固有结界有形成剑全部的要素，若看过原型的话则很容易使复制这样的事成为可能。
+      但是，复制的武器会下降一个等级。
+      防具虽也可能，但那样的情况通常以投影两倍到三倍的魔力为必要。
+      复制过一次的武具会被登陆在结界内，即使不使启动固有结界，投影魔术也能做出。
+      对于通常的对手不过是多少麻烦的能力，但对英雄王他来说确实为天敌般的宝具。
+    note: {}
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 147
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      How many times have I’ve gone over this, Nausicaa?
+      This is Archer’s Noble Phantasm. It’s a barren wasteland with a thousand swords scattered about.
+      A great ritual deployed using eight lines of projection.
+      It’s a kind of old world magecraft known as a Reality Marble. A Reality Marble materializes the user’s inner world and overwrites the real world with it for a short period of time.
+      All the weapons that Archer can project are present in this space, and there is no need for him to project anything from scratch. He can immediately use any weapon that’s sticking in the ground.
+      In EXTRA, since the requirements for producing wrought iron have increased, Holy Sword class projections are possible (although their power is inferior to the originals).
+      …Well, what really happened is I took my eyes off the 3D art team for a second, and when I looked again I was surprised to find they had made an animation of “Excalibur Projection.” Since they put the effort in to make it, I figured might as well include it. As long as the Holy Swords are inferior to the originals I deemed them to be borderline safe as far as the lore goes.
+    note: {}
+  ja:
+    content: |-
+      何度目だナウシカ。
+      アーチャーの宝具。千の剣が並ぶ無人の荒野。
+      投影八節を用いて展開される大儀式。
+      固有結界と呼ばれる、術者の心象世界を具現化し、わずかな時間だけ世界を上書きする旧世界の魔術。
+      アーチャーが投影できる武装がすべて揃っており、この空間ではいちいち武器を投影する必要はなく、刺さっている武器なら即座に使用できる。
+      EXTRAでは錬鉄の可能条件もアップするため、性能は劣るものの、聖剣クラスの投影も可能のようだ。
+      ……つーか、目を離しているうちに3Dスタッフによって「エクスカリバー投影」が作られていてきのこビックリ。まあせっかくの新モーションだし、没にする事もなし。劣化品ならギリギリアリってコトで、ひとつ。
+    note: {}
+  zh:
+    content: |-
+      第几次了娜乌西卡。
+      Archer的宝具。数以千计的剑并立的无人荒野。
+      投影八节展开的大仪式。
+      被称为固有结界，具现化术者的心像世界，短时间内覆盖世界的旧世界魔术。
+      集齐了Archer所能投影的武装，在这个空间内没有一一投影武器的必要，若是插在上面的武器的话可以马上拿来使用。
+      EXTRA中炼铁的可能条件也上升了，即便性能下降，圣剑级别的似乎也可以投影。
+      ……在不注意的时候三次元的art staff已经制作出了“Excalibur投影”，蘑菇吓了一跳。难得的新动作，也就没有废弃了。劣化品的话勉勉强强有，这是理由之一。
+    note: {}

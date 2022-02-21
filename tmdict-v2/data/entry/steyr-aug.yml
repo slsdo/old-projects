@@ -1,0 +1,43 @@
+---
+id: steyr-aug
+
+en: s
+ja: su
+furigana: すてあーAUG
+title:
+  en: Steyr AUG
+  ja: ステアーAUG
+  zh: 斯泰尔AUG
+
+entry:
+- source: fate-zero-material
+  section: fate-zero-encylopedia
+  order: 23
+  category:
+  - armament
+  img: ""
+  en:
+    content: |-
+      The assault rifle used by Hisau Maiya. It seems it’s one of the better weapons prepared by Kiritsugu.
+      As the first successful example of a bullpup rifle, it must have seemed almost bizarre when it was first released. The fact that it consistently outperformed subsequent bullpup rifles, and is even used as the official weapon of many militaries to this day is, quite frankly, amazing.
+      One of its primary features is its easy-to-disassemble modular construction. However, thanks to the popularity of scenes like the one from Day of the Jackal where the assassin assembles their weapon on the spot, it’s often mistaken for a sniper rifle in movies. Well, it does have a sort of “secret weapon” look to it, so I guess I understand.
+      …Ah, wait, now that I think about it didn’t Maiya try to snipe at Kayneth’s hotel from the neighboring building?
+    note: {}
+  ja:
+    content: |-
+      久宇舞弥が使用した突撃銃。切嗣陣営が用意した銃器の中では一番マシな部類に入ると思われる。
+      ブルバップラィフルの開祖的存在であり、発表当初はどう見てもゲテモノとしか思えない代物として扱われてきたが、後発のブルバップ銃より高い詳価を受けつつ今なお各国の軍用正式採用銃とし
+      て活躍しているのは本当に凄い。分解の容易なモジュール構造も特徴のひとつだが、そこが映画業界では「暗殺者が狙撃現場でライフルを組み立てる」という元祖ジャッカル的シチュエーションの
+      演出に良しとされたのか、銀幕ではやたらと段し屋御用達の「スナイパーライフル」として誤解されがら。まぁ絵面として秘密兵器っぽいハッタリが炸裂する外観の銃だし、気持ちは解らなくもな
+      いが。
+      ……あ、そういや舞弥もケイネスのホテルを狙撃しようとしてたっけ。
+    note: {}
+  zh:
+    content: |-
+      久宇舞弥使用的突击步枪，我想是切嗣阵营准备的枪械中最正经的类型吧。
+      犊牛式{{n1}}来福的开山始祖，当初发表时虽然被当作是不入流的烂东西，但评价却比之后的犊牛式要高，现在以各国正式军用枪的身分活跃，实在是太猛了。
+      容易分解的规格化设计虽然是特征之一，不过电影业界中是因为“狙击手在暗杀现场组合来福枪”这个在“豺狼之日”{{n2}}中的场景的演出非常棒，在银幕上时常被误认为杀手专用的狙击来福枪。不过因为外表看起来就像秘密兵器，震撼力十足的枪，也不是不能理解啦。
+      ……啊，话说回来舞弥好像也想要狙击肯尼斯住的饭店？
+    note:
+      n1: "犊牛式（又名牛犊式或无托结构）是枪械的一种设计，较常见于步枪上。犊牛式是将弹匣和机匣的位置改为扳机后方的枪托内（因此也有被叫作“弹匣后置枪”或“后置弹匣枪”）。"
+      n2: "原名The Day of the Jackal，1973年轰动一时的经典名片。"

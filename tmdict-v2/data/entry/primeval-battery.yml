@@ -1,0 +1,33 @@
+---
+id: primeval-battery
+
+en: p
+ja: ke
+furigana: げんしでんち
+title:
+  en: Primeval Battery
+  ja: 原始電池
+  zh: 原始电池
+
+entry:
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 26
+  category:
+  - mystic-code_alt
+  img: ""
+  en:
+    content: |-
+      An imitation created by Flat at the behest of El-Melloi II after he analyzed the spell and Mystic Code used by Atram. As a result, Caules was able to awaken his own talent for Electricity Magecraft, which he was most compatible with.
+      Because there was no patent for the batteries, there was no problem between them and the Faculty of Law, but Reines’ concern shown by her complaint of “don’t come crying to me when they murder you over it” was perhaps natural.
+    note: {}
+  ja:
+    content: |-
+      アトラムが使っていた術式と礼装を、解体したエルメロイII世が、フラットに依頼して模倣させたもの。結果、最も相性の良かったカウレスが電気魔術に目覚めるきっかけとなった。
+      特許は取っていなかったので、法政科的な問題にはならないのだが、ライネスがぶち殺されても文句言えないぞと気を揉むのは当然である。
+    note: {}
+  zh:
+    content: |-
+      将阿特拉姆所使用的术式和礼装解体后，埃尔梅罗二世委托弗拉特模仿而成的东西。结果却成为了与其相性良好的考列斯觉醒电气魔术的契机。
+      因为并没有被申请专利，所以法政科那边不会有问题，但就算被莱妮丝给打死也不能有怨言的这种忧虑自然还是有的。
+    note: {}

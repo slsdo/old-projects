@@ -1,0 +1,57 @@
+{% extends "_base.html" %}
+{% set gojuuon_code = active_ja %}
+{% block title %}{{ title }}{% endblock %}
+{% block url %}{{ url }}{% endblock %}
+
+{% block content %}
+                    <div class="entry-header group">
+                        <div class="entry-title">{{ title }}</div>
+                        <div class="permalink"><a title="{{ link }}" href="../{{ lang }}/{{ url }}">#</a></div>
+                        <div id="contact" class="contact"><a href="site{% if ext %}.html{% endif %}#site-contact">{{ report }}</a></div>
+                    </div>
+{% for item in source %}
+                    <div class="group">
+                        {% if not loop.first %}
+                        <div class="section">&sect;</div>
+                        {% endif %}
+                        {% if category_type[loop.index0] != '0' %}
+                        <div class="entry-category{% if category_type[loop.index0] == '2' %} uniq{% endif %}">{{ category_name[loop.index0]|join(' &middot; ') }}</div>
+                        {% endif %}
+                        <div class="entry-content">
+                            <p>{{ content[loop.index0] }}</p>
+                        </div>
+                        <div class="entry-source"><a href="./#ja+src.{{ source[loop.index0] }}">{{ source_name[loop.index0] }}: {{ source_section[loop.index0] }}</a></div>
+                    </div>
+{% endfor %}
+{% if img != '' %}
+                    <div class="group">
+                        <div class="section">&sect;</div>
+                        <div class="entry-image">
+                        {% for item in img %}
+                            {{ item }}
+                        {% endfor %}
+                        </div>
+                    </div>
+{% endif %}
+{% if tlnotes|length > 0 %}
+                    <div class="group">
+                        <div class="entry-note">
+                            <h5>{{ notes }}</h5>
+                            <ol>
+                            {% for tlnote in tlnotes %}
+                                {% for tln in tlnote %}
+                                {{ tln }}
+                                {% endfor %}
+                            {% endfor %}
+                            </ol>
+                        </div>
+                    </div>
+{% endif %}
+{% endblock %}
+{% block side %}
+                    <ul>
+                    {% for entry in side %}
+                        {{ entry }}
+                    {% endfor %}
+                    </ul>
+{% endblock %}

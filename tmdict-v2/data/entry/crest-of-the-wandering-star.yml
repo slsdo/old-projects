@@ -1,0 +1,57 @@
+---
+id: crest-of-the-wandering-star
+
+en: c
+ja: yu
+furigana: ゆうせいのもんしょう
+title:
+  en: Crest of the Wandering Star
+  ja: 遊星の紋章
+  zh: 游星纹章
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 56
+  category:
+  - skill_alt
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      A skill unique to Titan Altera and the key skill in her character design.
+      It allows her to take on a giant form in order to destroy civilization.
+      This is a passive skill that allows Altera to absorb the lives, creations, and concepts she destroys as spiritron-information, making her grow even larger. It is not a skill that she can remove of her own volition.
+      Her HP increases by an order of magnitude{{n2}} when she absorbs the same amount of mana as her current HP.
+      When her body reaches a size that is twice as large as her previous proportions (at 16, 32, 64,128, 256, 512, and 1024 meters), all her parameters increase by one level as she transitions to the next part of her titan adjustment.
+      (For example, her Strength is A-rank, so if you think of it as 150 points, adding one level at A+ rank would double that number, putting it at 300 points.)
+      And if the Titan adjustment is added to that, 300 points at the first stage would become 3,000 at the second stage, 30,000 at the third stage, and so on. At the seventh stage, it would be 300,000,000.
+      This is an energy mass on the scale of a star, comparable to the power level of the legendary Golden White Face’s nine-tailed form (387,420,489).
+      This is just some extra trivia, but the “Crest of the Star” skill possessed by the Altera in <em>Fate/Grand Order</em> is missing one character{{n3}}.
+    note:
+      n1: "Localized as Umbral Symbol, sometimes also known as Umbral Crest."
+      n2: "The Japanese says doubles, but the explanation right below it indicates otherwise."
+      n3: "In FGO the skill is called 星の紋章 (Crest of the Star), missing the character “遊” in 遊星の紋章 (Crest of the Wandering Star)."
+  ja:
+    content: |-
+      巨神アルテラの専用スキル。
+      文明を破壊するために巨神化する能力。巨神アルテラの基本設計。
+      自らの手で破壊した生命、建造物、概念を霊子情報として吸収し、巨大化していくパッシブスキル。アルテラの意思ではこのスキルは外せない。
+      自身の現HP数値と同じだけの魔力数値を吸収する事でHP上限が倍化していく。
+      また、巨人補正として、前のサイズから一回り大きな構造体（16、32、64、128、256、512、1024M）に到達した時、次の段階に移行したとして全ての能力値の桁が一つあがる。
+      （筋力でいいならAは150値と考え、+が一つ入っているので二倍の300。
+      これに上記の巨神補正が入ると、第一段階では300だったものが第二段階では3000、第三段階では30000、とあがっていく。第七段階では300000000となる。
+      これは金色反面の九尾状態（387420489）に迫る、恒星クラスのエネルギー量である。
+      余談ではあるが、『Fate/GO』のアルテラが持つ『星の紋章』は、このスキルが一文字欠けたもの。
+    note: {}
+  zh:
+    content: |-
+      巨神阿提拉的专用技能。
+      用以破坏文明的巨神化能力。巨神阿提拉的基本设计。能将自己亲手破坏的生命、建筑物及概念，作为灵子情吸收并藉此巨大化的被动技能。阿提拉无法以自己的意志卸除这个技能。
+      透过吸收数值等同于自己目前HP数值的魔力，来使HP上限翻倍。
+      此外，作为巨神的调整，当构造体的尺寸提升至前一个尺寸的两倍（16、32、64、128、256、512、1024M）时，会视为转移到下一个阶段，所有的能力值都将多一个位数。
+      （以筋力举例，若A的数值是150，提升为A+便是两倍的300 ）
+      再加上上述的巨神调整，第一阶段为300的数据到了第二阶段将变为3000，到第三阶段将提昇为30000 . 第七阶段便是300000000。
+      这是恒星职阶的能源量，直逼金色反面的九尾状态（387420489）。
+      顺道一提，《Fate/GO》中阿提拉所持有的“星之纹章”技能，其实少了一个字。
+    note: {}

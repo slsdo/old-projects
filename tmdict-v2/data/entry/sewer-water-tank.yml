@@ -1,0 +1,30 @@
+---
+id: sewer-water-tank
+
+en: s
+ja: ke
+furigana: げすいかんないのちょすいそう
+title:
+  en: Sewer Water Tank
+  ja: 下水管内の貯水槽
+  zh: 下水道内的储水槽
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 96
+  category:
+  - place
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      キャスターが魔術工房を構えていたポイント。未遠川の近辺にある。留守中にライダーの侵入をゆるし、工房はめちゃくちゃに蹂躙されてしまう。
+    note: {}
+  zh:
+    content: |-
+      Caster魔术工房的构建点[Point]。在未远川附近。因留守中纵容Rider入侵，工房被蹂躏得一塌糊涂。
+    note: {}

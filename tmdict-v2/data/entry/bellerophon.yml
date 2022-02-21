@@ -1,0 +1,47 @@
+---
+id: bellerophon
+
+en: b
+ja: ki
+furigana: きえいのたづな
+title:
+  en: Bellerophon
+  ja: 騎英の手綱
+  zh: 骑英之缰
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 19
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      Bridle of Chivalry.
+      An oddity even among the Noble Phantasms, it is a bridle and whip paired as a set. As you’d expect, it has no effect without a mount to use it on.
+      It is a rank A+ Noble Phantasm, and has extraordinary offensive and defensive capabilities.
+      When Pegasus is directed by Bellerophon, its limiters are removed and all of its ability scores increase by one rank. On top of that, its defensive power is improved by several times due to the protection of its colossal magical energy.
+      If Saber’s Excalibur is a golden flare, then you could say that Rider is a white comet.
+      Oh! This is just a digression, but the name of the young man who tamed and rode Pegasus in Greek mythology was—you guessed it—Bellerophon.
+    note: {}
+  ja:
+    content: |-
+      ベルレフォーン。
+      宝具の中でも変り種で、手綱と鞭のセット武装。
+      無論、単体では効果はない。
+      ランクA+の宝具で、攻守ともに破格の能力を持つ。
+      ベルレフォーンで操られた天馬はリミッターをカットされ、全ての能力値をーランクアップし‘膨大な魔 力の守りにより防御力を数倍に向上させる。
+      セイバーのエクスカリバーが黄金のフレアなら、ライダーは白い琴星と言える，たろう。
+      あ。余談ですが、ギリシャ神話でベカサスを乗りこなした青年の名は、正しくはペルレフォンでーす。
+    note: {}
+  zh:
+    content: |-
+      Bellerophon。
+      宝具的变种，缰绳和鞭子的组套武装。
+      当然，没有单体效果。
+      宝具等级A+，攻防都具有超常的能力。
+      被Bellerophon所操纵的天马会解除限制装置，使用时全能力上升一个等级，因庞大的魔力守护的缘故防御力也会以数倍提升。
+      如果说Saber的Excalibur是黄金之光的话，那么这样的Rider就是白色彗星。
+      嗯。接下来是闲话，在希腊神话中曾骑乘天马Pegasus的青年的名字，正是Bellerophon。
+    note: {}

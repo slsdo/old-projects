@@ -1,0 +1,69 @@
+---
+id: saver
+
+en: s
+ja: se
+furigana: せいヴぁー
+title:
+  en: Saver
+  ja: セイヴァー
+  zh: Saver
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 88
+  category:
+  - servant
+  img: ""
+  en:
+    content: |-
+      Buddha. The Savior Servant.
+      Being a Buddha means that one has attained enlightenment.
+      The Master who summons this servant, regardless if they are good or evil, must have awakened a strong desire to “save mankind.”
+      The most famous Buddha, Shaka, achieved enlightenment on his own. While still alive he was liberated from so-called “suffering.” His “teachings to attain Buddhahood” are what makes up Buddhism.
+      However, in Buddhism there is nothing that says, “If you study this you will be saved.”
+      Buddhism is the collection of principles that Shaka followed to reach enlightenment, and Shaka never proclaimed that his teachings were the only path to attain Buddhahood. The path to enlightenment varies from person to person.
+      As far as Buddhism is concerned, the potential to become a Buddha is present within everyone. Every human will eventually attain enlightenment. Of course this includes those who are good as well as those who are evil, those who are kind and those who are heartless; everyone is subject to the process of becoming a Buddha.
+      The reason that Saver answers the summons to become a servant is that its Master’s suffering is too great and cannot be ignored, and also burdened with sins that are too great.
+      “There is no way for this soul to be saved.
+      Well then at least until he has realized the result he desires for the human race,
+      I will walk alongside him.”
+      Saver has no desire to lend his powers to the Master, he only cooperates out of mercy and benevolence he feels for the King of Conflict.
+      …For this person who has been constantly embroiled in battle from birth and till death. Savior will become a shield for the final chapter of this poor soul who despite resenting war, was unable to deny it, and forced to walk a pain-filled path. Like the flowers of a saul tree.
+    note: {}
+  ja:
+    content: |-
+      覚者[ブッダ]。救世主のサーヴァント。
+      覚者とは悟りに至ったものを示す。
+      このサーヴァントを獲得するマスターは、善悪はどうあれ『人類を救う』理念に開眼している。
+      もっとも有名な覚者である釈尊は、自ら悟って覚者となった。彼は生きながらあらゆる苦悩から開放された。この『覚者になる教え』が仏教である。
+      しかし仏教では「これを学べば救われる」とは一言も言っていない。
+      仏教とは釈尊が覚者にいたった理念であり、釈尊は「この教えだけが仏への道である」とは述べていない。覚者になる方法は人それぞれにある。
+      仏教において、人はみな仏になる可能性を秘めているとされる。人間は最終的にはみな悟りに至る。善も悪も有情も無情も、すべてはその過程にすぎない。
+      セイヴァーがサーヴァントとして召喚に応じたのは、そのマスターの苦悩があまりにも見捨てがたく、また罪深かったからだ。
+      “この魂には一切の救いがない。
+      ならばせめて、彼が願った人類の結末まで、
+      ともに有り続けましょう───”
+      セイヴァーはマスターにカを貸したのではなく、
+      戦いの王に慈悲を示したにすぎない。
+      ……その誕生から死去まで戦争と向き合い続けた人物。戦争を憎みながらも否定しきれず、苦行を歩み続けた男の最期を看取る、沙羅讐樹[さらそうじゅ]の花のように。
+    note: {}
+  zh:
+    content: |-
+      觉者（佛陀）。救世主的Servant。
+      所谓觉者就是表示至悟之人。
+      获得这个Servant的Master，无论善恶如何都会顿悟“拯救人类”的理念。
+      身为最有名的觉者的释尊，自悟而成为了觉者。他活着被从所有苦恼开放{{n1}}了。这个“成为觉者的教导”就是佛教。
+      然而佛教一句也没说过“如果学这个就会被救”这话。
+      所谓佛教是释尊达至觉者的理念，释尊并未陈述过“光这个教导是向佛的道路”。成为觉者的方法因人而异。
+      在佛教，人被认为皆隐藏有成为法佛的可能性。人类最终皆会至悟。善也好恶也好有情也好无情也好，一切都不过是其过程。
+      Saver会作为Servant响应召唤，是因为其Master的苦恼也太过难以割舍，兼又罪孽深重。
+      “这个灵魂完全没有救赎。
+      若是如此，至少，直到他所祈望的人类的终结，
+      共同继续下去吧——”
+      Saver并非借给Master力量，
+      而不过是给战争之王宣示慈悲。
+      ……从其诞生至死去持续与战争对峙的人物。照望这个尽管憎恨战争却又否定不了战争，持续前行于苦行的男人的终末，就如沙罗双树之花那样。
+    note:
+      n1: "开放，应为解放的错字，两者日文中同音。"

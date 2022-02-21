@@ -1,0 +1,60 @@
+---
+id: venus-statue
+
+en: v
+ja: u
+furigana: ゔぃーなすすたちゅー
+title:
+  en: Venus Statue
+  ja: ヴィーナス・スタチュー
+  zh: 维纳斯雕像
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 20
+  category:
+  - terrain
+  img: fem_venus-statue.png
+  en:
+    content: |-
+      These are the statues of young females that block the end area of each layer.
+      They are the true form of the girls who have been transformed into Sentinels, and thus they are each part of the Labyrinth core.
+      In the game they are called “relief.” The statues basically have the girls entrapped inside the walls.
+      They are supposed to be “the border of the world” impervious to physical attacks.
+      Even BB can’t enter the territory held inside them.
+      BB assumed that even if the protagonist and company made it through Sakura Labyrinth, if they were blocked by these impenetrable statues, they wouldn’t be able to do anything.
+      However, using the secret technique developed by Kiara, the protagonist was able to jump over the border into the statue interior, and so the invincible Sentinel System’s last line of defense fell.
+      By the way, the massive avatars of the statues that are half buried in the wall are the result of being connected to BB’s expanded memory. It is needed in order to freely make modifications to the Sakura Labyrinth.
+      Once you get inside the statue, defeat the Sentinel, clean their heart of contamination, and free them from BB’s control (by severing their connection to BB), they will return to their original size.
+      Their name in the early designs was “Chocolate Veil.”
+      The inside of the statue is somewhat different from the “relief” of a Servant’s inner-heart world, which is more like something deep rooted in one’s heart, an existence similar to the “shape of one’s soul.”
+    note: {}
+  ja:
+    content: |-
+      各階層の最後に立ちふさがる少女像。
+      センチネル化した少女の本体にして、迷宮の核。
+      ゲーム内では“レリーフ”と呼ばれている。壁に囚われた少女、というコンセプトでデザインされた。
+      本来なら物理干渉では破壊できない“世界の果て”。
+      その内部はBBですら立ち入れない禁猟乙女領域。
+      サクラ迷宮をすり抜けたところで最後にこの壁がある以上、主人公たちが何をしようが無駄なあがきにすぎないとBBは想定していた。
+      しかし心の専門家であるキアラの秘術によって『内部に飛び降りる』などという離れ技が実行され、無敵のセンチネルシステムは攻略可能な防壁に格落ちしてしまった。
+      ちなみに壁に埋め込まれた肥大化アバターはBBからのメモリ増築の結果。迷宮を自在に変革するためにはあれだけの改造が必要という事だ。
+      スタチューの中でセンチネルを倒し、心の淀みを振り払い、BBの支配から解放（接続を解除）されれば元の大きさに戻れる仕組み。
+      開発初期の名称はショコラヴェールだった。
+      一方、サーヴァントたちの心象世界にあるレリーフはこれとは違うもの。あれこそ深層にある“魂のカタチ”と思ってもらえばよい。
+    note: {}
+  zh:
+    content: |-
+      耸立在各个阶层最后的少女塑像。
+      卫士化后的少女的本体、迷宫的核心。
+      游戏内则是被称为“Relief”。由像是被囚禁在墙内的少女、的概念所设计的。
+      本来是无法接受物理性的干预和破坏的“世界的尽头”。
+      那个内部是连BB都无法进入的禁猎少女特区。
+      就算穿越了Sakura迷宫最后还是会被这个墙挡住、主角们再怎么挣扎都是没用的——本来BB是如此预测的。
+      但是经由心象专家祈荒的秘术，使用了“可以降落到内部”的犯规技，本来是无敌的卫士系统就这么贬值到可以被攻略的防卫壁等级。
+      顺带一提，埋在墙内的虚拟人物是由BB的memory构筑所产生的。即是为了将迷宫自由的变动所以必须做到这种程度的改造的意思。
+      将雕像之中的卫士打倒、将心的阴霾挥去、从BB的支配中解放（把接续解除）之后就会回到原本的大小了。
+      在开发初期的名称是Chocolate Veil。
+      另一方面、Servant的心象世界中的Relief则是和这个不同的东西。那个就像是真正的在内心深处的、“灵魂的形状”一样的存在吧。
+    note: {}

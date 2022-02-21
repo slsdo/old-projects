@@ -1,0 +1,36 @@
+---
+id: dark-jade-fist
+
+en: d
+ja: a
+furigana: あんこくひすいけん
+title:
+  en: Dark Jade Fist
+  ja: 暗黒翡翠拳
+  zh: 暗黑翡翠拳
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 10
+  category:
+  - technique
+  img: ""
+  en:
+    content: |-
+      Hisui’s Arc Drive. Rotating both arms, she stores up a mysterious energy, then shoots it forward in a home-maid killer move. It seems that she’s fueling the attack with her complaints and dissatisfaction toward the excessively harsh manual labor she’s put through every day. Huh? Could this be a new form of malignant information…?
+      It’s quite useful for a projectile technique, since it lingers for a bit after it’s shot and pressures the opponent. During Blood Heat it becomes the Grand Dark Jade Fist, which has the power to shake the very earth itself.
+      The source of the technique is the mystery story “Imogirisou” in <em>Kagetsu Tohya</em>. It’s a reproduction of the action demonstrated by Hisui when she was possessed by the evil spirit.
+    note: {}
+  ja:
+    content: |-
+      翡翠のアークドライブ。両手を回転させ、謎のエネルギーを溜め込んで前方に放つメイド殺法。日々の過酷な労働への不平不満が変換されたものと思われる。これも悪性情報の新種であろうか……？
+      使い勝手がよく、放出した後もしばらく残るので相手にプレッシャーを与えられる優れた飛び道具。ブラッドヒート時は大暗黒翡翠拳となり、大地を揺るがすほどの迫力を持つ。
+      出典は“歌月十夜”のミニストーリー、妹切草から。悪霊に取り憑かれた翡翠が見せる素敵アクションをゲーム上で再現した。
+    note: {}
+  zh:
+    content: |-
+      翡翠的Arc-Drive。让双手回转，聚积谜之能量于前方放出的女仆杀法。被认为是对每天严酷的劳动的不平不满所转换之物。这也是恶性情报的新品种……吗？
+      实用性好，因为放出之后都还久留不散，能给予对手压迫的优秀的飞行道具。Blood Heat时变为大暗黑翡翠拳，具有震动大地程度的迫力。
+      出处来自于《歌月十夜》的小故事——妹切草。在游戏上再现了被恶灵附身的翡翠展现的绝妙动作。
+    note: {}

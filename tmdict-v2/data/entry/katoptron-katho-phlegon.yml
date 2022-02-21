@@ -1,0 +1,61 @@
+---
+id: katoptron-katho-phlegon
+
+en: k
+ja: ka
+furigana: かとぷとろんかたぷれごん
+title:
+  en: Katoptron Katho Phlegon
+  ja: 集いし藁、月のように燃え尽きよ
+  zh: 成束的稻草如月亮般焚尽一切吧
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 20
+  category:
+  - noble-phantasm
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      The Gathered Straw Shall Burn Up Like The Moon
+      Rank: B. Type: Anti-Army noble phantasm. Range: 50. Maximum number of targets: 1 ship.
+      This is the optical weapon from ancient stories of Archimedes that was used to burn enemy warships on the shores of Syracuse.
+      Archimedes was little-known in Western Europe (the first comprehensive compilation on him was published c. 5-600 AD, enjoying a brief period of attention, but soon forgotten). It wasn’t until the literature and scholarly pursuits of ancient Greece were revived during the Renaissance that Archimedes would again be topic of the day. Of course, his weapon that could set fire to ships was of great interest to many.
+
+      One particular account stated: “After Marcellus backed his ships into the range of the arrows, the old man Archimedes set four mirrors of the same kind that were linked and moved with hinges in gaps that matched the size of the mirrors. The hexagonal mirrors he created collected the midday sun within them and shot out a ray of light regardless of whether it was summer or winter. Afterwards, when the sun beam reflected off of the mirrors, a terrible fire rose up on top of the ships, and then the ships that were within arrows’ reach all turned to ash.”
+
+      No method exists on today to burn a ship using only the reflection of a mirror, regardless of what kind of experiments are conducted. This is proof that Archimedes lived in a time when mana still saturated the atmosphere.
+      Archimedes had used magecraft to create a Mystic Code that absorbed mana in tandem with sunlight and fired it out as a heat ray.
+    note:
+      n1: "Official localization: Katoptron Katopregon."
+  ja:
+    content: |-
+      カトプトロン カタプレゴン。
+      ランク　B、種別　対軍宝具、レンジ　50 、最大捕捉　一隻。
+      アルキメデスの伝説にある、シラクサ海岸に停泊した軍船を燃やしたとされる光学兵器。
+      アルキメデスの事績について西欧世界では長らく忘れ去られており（5〜6世紀頃に伝記が著されて顕彰されたが、それすらもいったん忘却の彼方となった）、古代ギリシャの文芸や学問が掘り起こされ、盛んに議論されたルネサンス期以降に注目されることになった。
+      とりわけセンセーショナルな話題として取り沙汰されたのが、敵船に火災を起こしたという発明だった。
+
+      「マルケルスがそれら（彼の船団）を弓の射程距離にまで下がらせた時、老人(アルキメデス)は鏡の大きさに比例した間隔で、四隅に同様の鏡を配直、接続してヒンジによって稼働し、太陽光線（サンビーム） ───夏冬に関わらず真昼の光線を中心部に捉える六角形の鏡のようなものを構築した。然る後、光線が鏡に反射すると、船上で恐ろしい炎が燃え上がった。そして、弓の届く距離内の船は、灰となったのである」
+
+      現在の地球ではどのような実験をしても鏡の反射で船を焼く事はできない。
+      これは彼が生きていた頃の大気に魔力（マナ）がまだ残っていた事を示している。
+      アルキメデスは太陽光だけでなく周囲のマナを取りこみ、熱線として照射する魔術礼装を開発したのである。
+    note: {}
+  zh:
+    content: |-
+      Katoptron Katho Phlegon
+      等级：B 种别：对军宝具
+      范围：50 最大捕捉：一艘
+      阿基米德的传说中，将停泊于叙拉古海岸的军船燃烧殆尽的光学兵器。
+      在西欧世界，阿基米德的事迹被遗忘了很长一段时间，（虽曾在5〜6世纪时的传记被大力赞扬，但连这些都一度被抛至千里之外。）直到文艺复兴时期，古代希腊的文艺与学问被挖掘出来，并掀起议论热潮，他才又受到瞩目。
+      特别轰动社会、引起大众热烈讨论的，则是火烧敌船的发明。
+
+      “当马克卢斯将其（他的船团）驶至弓箭射程内时，老人（阿基米德）用与镜子大小成比例的间隔，在四个角落放了同样的镜子。接着构筑出如同六角形镜子般的装置，以铰链来运转，将太阳光线（Sunbeam）——不受季节影响的正午光线捕捉至中心部。其后，被镜子反射的光线，在船上引发了恐怖的烈焰。进入弓箭射程内的船就这样化为灰烬。”
+
+      在如今的地球，无论进行什么实验都无法以镜子的反射来焚烧船只。
+      这正显示了他在人世的时候，大气中仍残留有魔力 （Mana）。
+      阿基米德所开发的魔术礼装不只能采取太阳光，还能一并采取周围的魔力，化为热线照射。
+    note: {}

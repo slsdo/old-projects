@@ -1,0 +1,52 @@
+---
+id: shirazumi-lio
+
+en: s
+ja: shi
+furigana: しらずみりお
+title:
+  en: Shirazumi Lio
+  ja: 白純里緒
+  zh: 白纯里绪
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 26
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A twenty years old youth. Kokutou Mikiya’s senior during high school, and he was more or less familiar with Shiki. He had handsome features, but did not stand out due to his quiet personality. He was one of the three who made contact{{n1}}.
+      He quit school for some reason shortly before graduation.
+      Lio was the first chess piece Souren Araya prepared, and also the one he saved for last. However, the magus was defeated by the Counter Force before Lio could take the stage.
+      Although Shirazumi Lio lost his commander, he considered it a fortunate turn of events. With the obstructive Araya out of the way, Lio was able to realize his own desire.
+      He made his face to resemble Shiki, and chose the same clothing as Shiki. Only his hair was left golden, which conjured the image of a lion.
+      The obsession with the Anima was in his nature. Or, it was a gender identity disorder that he was not aware of. …As far as his attraction to Shiki was concerned, it might be that he was attracted to the male personality rather than the female one.
+      Lio was something that fell out of <em>Kara no Kyoukai Shi</em>, which was the story of Araya. He was supposed to make his exit before the evil mastermind presented himself. However, in order to provide a resolution of the story of Kokutou Mikiya and Ryougi Shiki, the serial killer must stay.
+    note:
+      n1: "With Araya/Shiki?"
+  ja:
+    content: |-
+      二十歳の青年。黒桐幹也の高校時代の先輩。式とも多少面識がある。整った顔立ちをしていたが、大人しい性格のため目立つ事はなかった。接触する三人のうちの一人。
+      ある理由から卒業間近に学校を辞めてしまった。
+      荒耶宗蓮が用意した最初にして最後を飾るはずだった駒だが、彼の出番を待たずして魔術師は抑止力の前に敗れ去る。
+      司令塔を失いはしたが、それは白純里緒にとって幸運な事だった。目障りな荒耶が消えた事で、彼は己の欲望を叶える為だけに行動を開始する。
+      顔を式に似せ、服装も式と同じものにするが、髪だけが金なのは獅子[しし]をイメージしての事。
+      アニマ嗜好[しこう]は天性のものと思われる。或[ある]いは、自覚していなかった性同一性障害では。……となると、式に惹[ひ]かれたのは式にではなく識[シキ]にだったのかもしれない。
+      『空の境界式』という荒耶の物語から外れてしまったもの。本来なら黒幕の前に退場するべきだったもの。が、黒桐幹也と両儀式の物語を締めるには、殺人鬼である彼が残っていなくてはならなかったのだ。
+    note: {}
+  zh:
+    content: |-
+      二十岁的青年。黑桐干也高中时的学长。跟式也多少认识。虽然相貌端正，但因为沉稳的性格而并不显眼。接触的三人中的一人。
+      为了某个理由而在快毕业时退学了。
+      荒耶宗莲准备的最初的也是应该装饰最后的棋子，但是还没等他上场魔术师已经在抑止力的面前败退了。
+      虽然失去了指挥，但这对白纯里绪来说是幸运的事。碍眼的荒耶消失了，他只为了实现自己的欲望而开始行动。
+      脸弄得像式，服装也用和式一样的东西，不过只有头发是金色的让人想起狮子。
+      Anima{{n1}}嗜好被认为是天性。又或者，是没有自觉到的性同一性障碍{{n2}}。……这样的话，被式吸引并不是被式而是被织{{n3}}也说不定。
+      从《空之境界式》这个荒耶的故事当中脱离之物。本应在幕后黑手之前退场的人。然而，要解决黑桐干也与两仪式的故事，身为杀人鬼的他不留下不行。
+    note:
+      n1: "拉丁文：荣格用来指男性心中无意识的女性倾向。"
+      n2: "对异性具有持续强烈的同一感或对自身的性的作用出现不适感，即肉体的性别与性自认不一致的现象,是属于精神病学领域的疾病。"
+      n3: "这个用语集中全都是両儀識，但压缩包中的日版空境中确实是両儀織。估计是输入的人认错了字，一直以为是两仪识。"

@@ -1,0 +1,30 @@
+---
+id: holy-virgin
+
+en: h
+ja: se
+furigana: せいしょじょ
+title:
+  en: Holy Virgin
+  ja: 聖処女
+  zh: 圣处女
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 69
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      キャスターが妄信するジャンヌ・ダルクのこと。
+    note: {}
+  zh:
+    content: |-
+      Caster所妄信的贞德·达尔克[Jeanne·d’Arc]。
+    note: {}

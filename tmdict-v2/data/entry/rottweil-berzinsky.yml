@@ -1,0 +1,33 @@
+---
+id: rottweil-berzinsky
+
+en: r
+ja: ro
+furigana: ろっとうぇるべるじんすきー
+title:
+  en: Rottweil Berzinsky
+  ja: ロットウェル・ベルジンスキー
+  zh: 洛特维尔·贝尔津斯基
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 109
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      A “Red” Master. His nickname is Silver Lizard. Just like the other “Red” Masters such as Gene Ram and the Pentel Brothers, he has fought both together and against Shishigou at various times in the past. He is obsessed with animals, particularly lizards, and the skin on almost all his vital spots besides his face are covered with silver scales.
+      He and the others were given such individualistic settings, but they were all completely defeated with Semi-sama’s attack of “Now, now, have a cup of tea.”
+    note: {}
+  ja:
+    content: |-
+      “赤”のマスター。通称、銀蜥蜴。ジーン・ラムやべンテル兄弟共々、獅子劫とは共闘したり対立したりの間柄。動物、それもトカゲに執着しており、顔以外の急所のほとんどを皮膚を変換した銀の鱗で覆っている。
+      そんな感じの個性豊かな面々でしたが、セミ様の「まあまあ紅茶を一杯」攻撃で全滅したのであった。
+    note: {}
+  zh:
+    content: |-
+      “赤”方的御主。通称银蜥蜴。与金·拉姆和潘铁尔兄弟一同，与狮子劫是共同战斗或敌对的立场。对动物，或者该说是蜥蜴非常执着，除了脸以外的要害皮肤全都以变换的银色鳞片覆盖住。
+      虽然是这样个性丰富的人们，仍在赛米大人的“嘛嘛来杯红茶”攻击之下全灭。
+    note: {}

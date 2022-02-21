@@ -1,0 +1,30 @@
+---
+id: riesbyfe-stridberg
+
+en: r
+ja: ri
+furigana: りーずばいふぇすとりんどばぁり
+title:
+  en: Riesbyfe Stridberg
+  ja: リーズバイフェ・ストリンドヴァリ
+  zh: 莉兹拜斐·斯托琳多巴利
+
+entry:
+- source: mb-back-alley-alliance-nightmare
+  section: encyclopedia-of-rojiura-nightmare
+  order: 25
+  category:
+  - "-"
+  img: baa_riesbyfe-stridberg_w.png
+  en:
+    content: |-
+      Former leader of the Holy Church’s Knights of the Inquisition. Participated in the operation to take out Wallachia. Fought alongside Sion in battle against Wallachia, but was defeated. She roams the city at night with Sion and Satsuki.
+    note: {}
+  ja:
+    content: |-
+      聖堂教会が擁する異端審問騎士団の団長だった。ワラキア討伐に参加し、シオンとともにワラキアに桃むが敗れ、シオン・さつきとともに夜の街をさまよう。
+    note: {}
+  zh:
+    content: |-
+      圣堂教会所属的异端审问骑士团团长。参加瓦拉齐亚讨伐，同紫苑[Sion]挑战瓦拉齐亚失败，和紫苑[Sion]、五月一起流落夜晚的街头。
+    note: {}

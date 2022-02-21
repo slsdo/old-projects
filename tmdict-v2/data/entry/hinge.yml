@@ -1,0 +1,30 @@
+---
+id: hinge
+
+en: h
+ja: hi
+furigana: ひんじ
+title:
+  en: Hinge
+  ja: ヒンジ
+  zh: 转轴
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 45
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      ここでは携帯電話の液晶部と操作部を繋ぐパーツの事を指す。人体で言えば腰。
+    note: {}
+  zh:
+    content: |-
+      指手机的液晶屏部和操作部位相连接的部分[Part]。就人体而言的话就是腰部。
+    note: {}

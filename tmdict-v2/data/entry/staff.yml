@@ -1,0 +1,30 @@
+---
+id: staff
+
+en: s
+ja: tsu
+furigana: つえ
+title:
+  en: Staff
+  ja: 杖
+  zh: 手杖
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 6
+  category:
+  - mystic-code
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      時臣がもつ魔術礼装。柄頭には大粒のルビーが埋め込まれており、炎の術式を呼び起こす。戦場においても優雅さを忘れない時臣らしい礼装といえるだろう。
+    note: {}
+  zh:
+    content: |-
+      时臣持有的魔术礼装。柄头处嵌有大颗的红宝石[Ruby]，可以唤起火焰的术式。可以说是同在战场上也不忘记优雅的时臣相称的礼装。
+    note: {}

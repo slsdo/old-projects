@@ -1,0 +1,39 @@
+---
+id: demon-hunter-organization
+
+en: d
+ja: ta
+furigana: たいまそしき
+title:
+  en: Demon Hunter Organization
+  ja: 退魔組織
+  zh: 退魔组织
+
+entry:
+- source: colorful-moon-tsukihime
+  section: tsukihime-glossary
+  order: 19
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      In Japan this can refer to:
+      ① An organization of demon hunters.
+      ② An organization created in order to protect society.
+      ③ As such, they generally don’t have powers that are suited to bringing harm to people. They generally remain passive/defensive when faced with a mixed-blood adversary who is on the borderline of being human.
+    note: {}
+  ja:
+    content: |-
+      少なくとも日本に限って言えば、
+      ①退魔をなす者達の組織。
+      ②人が人の社会を守る為に作り上げた組織
+      ③それゆえ人を害するには向いておらず、人としての側面をも持つ混血が敵となった場合は後手にまわることになる。
+    note: {}
+  zh:
+    content: |-
+      至少限定于日本而言，
+      ①进行退魔的人们的组织。
+      ②人类为了守护人类社会而创造出来的组织
+      ③因此当敌人是不倾向于加害人类，而且拥有人类一面的混血时，退魔组织会陷于被动。
+    note: {}

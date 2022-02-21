@@ -1,0 +1,44 @@
+---
+id: magical-beast
+
+en: m
+ja: ma
+furigana: まじゅう
+title:
+  en: Magical Beast
+  ja: 魔獣
+  zh: 魔兽
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 83
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      In the world of <em>Fate/stay night</em>, a general term for beasts which do not correspond to normal ecosystems.
+      They are divided into three ranks: monstrous, mythical, and divine.
+      The vast majority of monstrous beasts are crossbreeds (chimera) living in still-uncivilized regions, but it seems that those of mythical rank and above have shifted to the far side of the world.
+      Though the Pegasus that appears in the story is a monstrous beast, its long life puts it at the level of a mythical beast. Ordinary magi are completely unable to compete with something of this rank.
+      Also, beings that take after dragons are considered to be superior, regardless of classification. Since dragons are endowed with the characteristics of several species, it appears that even consorting with humans was not uncommon.
+    note: {}
+  ja:
+    content: |-
+      「Fate」世界における、通常の生態系に該当しない獣の総称。
+      彼らにもランクがあり、魔獣、幻獣、神獣と分類される。
+      魔獣の多くは掛け合わせ(キメラ)であり、いまだ未開の地に生息しているが、幻獣はその特性上、世界 の裏側にシフトしてしまったらしい。
+      本編で登場するライダーの天馬は魔獣だが、長く蓄 えた年月により幻獣の域に達している。
+      幻獣ランクのモノには、並大抵の魔術師では歯が立たない。
+      また、竜を模したモノは分類に関係なく最優種とされる。
+      竜種は三類の属性を備えている為、人と交わる事も多かったようだ。
+    note: {}
+  zh:
+    content: |-
+      《Fate》世界里，不符合通常的生态系的兽的总称。
+      他们也有等级之分，被分类为魔兽，幻兽，神兽。
+      魔兽多数是交配而成的（奇美拉），生息于尚未开垦之地，但幻兽似乎转移[shift]到了世界内侧。
+      正篇里登场的Rider的天马是魔兽，但因长久积累的岁月而达到幻兽之域。对幻兽等级，寻常的魔术师是敌不过的。
+      另外，形如龙的不论分类地被认为是最优种。龙种因为具有三类的属性，也不乏与人类打交道的事例的样子。
+    note: {}

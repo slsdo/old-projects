@@ -1,0 +1,41 @@
+---
+id: altar-bed
+
+en: a
+ja: shi
+furigana: しんだいしんでん
+title:
+  en: Altar Bed
+  ja: 寝台神殿
+  zh: 睡床神殿
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 34
+  category:
+  - item_alt
+  img: ""
+  en:
+    content: |-
+      An enormous altar, which Titan Altera uses as a bed in her cavern.
+      At some point in the past, she saw the roof of a temple she had conquered and thought, “Oh, that’s just the right size. I could sleep well on that.” Altera would never admit it, but it is one of her favorite things.
+      Just as there are secrets under everyone’s bed, Altera’s secrets are hidden inside of the altar.
+      In the initial planning stages of the game, we wanted to create a sequence of events where you’d think, “Oh, the Anti-Cell must be in that temple!” And then we’d say, “I’m sorry, the temple is just a bed and the Anti-Cell is the person asleep on top of it.” Unfortunately, we simply didn’t have the budget to make a dungeon out of it.
+    note: {}
+  ja:
+    content: |-
+      石室にある巨神アルテラのベッド。
+      かつて征服した神殿の屋根を見て、「あ、ちょうどいい大きさ。寝やすそう」とベッドにしているだけ。本人は口にしないがお気に入りの模様。
+      ベッドの下には秘密があるように、神殿の中にはアルテラの秘密が隠されている。
+      ゲーム企画当時は「あの神殿の中にアンチセルがいるのか！」
+      ⮕「すみません、その神殿ただのべッドでアンチセルは屋根で寝てる人ですよ」という流れにしたかったが、神殿内部のダンジョンを作る予算がなかったのじゃ。
+    note: {}
+  zh:
+    content: |-
+      巨神阿提拉位于石室的床铺。
+      只是刚好看到了过去征服过的神殿屋顶，心想：“啊，大小刚好，应该很好睡吧。”而拿来当床铺用。虽然没有说出口过，但本人似乎非常中意。
+      正如同俗话说床铺下总是藏着秘密，阿提拉的秘密就藏在神殿之中。
+      在游戏的企划阶段，原先打算设计成“莫非那个神殿中藏著反噬晶体！”
+      ⮕“真不好意思，这个神殿只是单纯的床铺，反噬晶体是睡在上头的人喔”这种展开，但没有预算制作神殿内部的迷宫啊。
+    note: {}

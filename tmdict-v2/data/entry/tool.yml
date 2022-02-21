@@ -1,0 +1,36 @@
+---
+id: tool
+
+en: t
+ja: to
+furigana: とぅーる
+title:
+  en: Tool
+  ja: トゥール
+  zh: 杜尔
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 68
+  category:
+  - person
+  img: fam_tool.png
+  en:
+    content: |-
+      One of the homunculi created by Gordes. Though her Magic Circuits are meager, she excels in fighting ability and inspiration, so she was selected as a commander. Just as told in the novels, battle-type homunculi have extremely short lifespans, with a limit of two to three months of life.
+      For a homunculus, she has a neat and lively personality. If we were describing her using visual novel or light novel terminology, then she would be the “female teacher-type who has sex appeal, but is unfortunately coarse and ill-mannered.”
+      At Gordes’ request, she has taken charge of thoroughly beating up his son. Naturally, his wife protested when their son was beat up, so Tool beat her up and beat up Gordes too while she was at it, winning supremacy over their family. It is said that, for three months, this homunculus stood at the top of the Musik family.
+    note: {}
+  ja:
+    content: |-
+      ゴルドによって鋳造されたホムンクルスの一人。魔術回路こそ乏しいものの、戦闘能力と感応能力に優れていたため、指揮官に抜擢される。本編の言葉通り、戦闘用ホムンクルスは寿命が極端に短く、ニヶ月か三ヶ月程度が限界。
+      ホムンクルスにしてはこざっぱり&豪快な性格。ギャルゲーやラノベで言うところの「色気があるけど、がさつで残念な女教師」系。
+      ゴルドの頼みで、息子を徹底的に叩きのめす役割を負う。当然叩きのめしたら奥方が抗議してきたので叩きのめし、ついでにゴルドも叩きのめして天下を獲獲った。三ヶ月間、ムジーク家ではこのホムンクルスが頂点の座に位置していたという。
+    note: {}
+  zh:
+    content: |-
+      歌尔多铸造的人造人之一。虽然魔术回路相当贫乏，但因战斗力和感应能力优良的关系被拔擢为指挥官。正如本篇所说，战斗用人造人的寿命极短，二到三个月已经是极限。
+      作为人造人性格干脆豪爽，以GALGAME或轻小说来说就是“虽然有色气，但很大剌剌的残念女教师”系的人。
+      接受歌尔多请求，担任了彻底殴打她儿子的工作。当然打下去之后夫人会抗议所以就继续打，一不小心连歌尔多也被打，最后她获得了天下，以人造人的身分在姆吉克家君临了三个月的时间。
+    note: {}

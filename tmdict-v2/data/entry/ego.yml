@@ -1,0 +1,45 @@
+---
+id: ego
+
+en: e
+ja: e
+furigana: えご
+title:
+  en: Ego
+  ja: エゴ
+  zh: Ego
+
+entry:
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 25
+  category:
+  - concept
+  img: ""
+  en:
+    content: |-
+      In latin this means one’s self; the ego.
+      In CCC it’s described as “One’s Desire.”
+      Egos are made from the fragmented personality of the girls who were made into sentinels, and are essentially no more than incomplete “copies.”
+      They are sentient beings who seeped out of the cracks of the dungeon floor, and like shields, attacking them is useless.
+      After making it past their Secret Garden they are destroyed, and they return to their original body.
+      They are the heart and core of each floor, so as you search around it’s not difficult to encounter them. However the real problem starts from then. How do you deal with an Ego, the true essence of one’s desire? Will you be able to overcome them?
+    note: {}
+  ja:
+    content: |-
+      ラテン語で自我を意味する。
+      CCCでは『欲身』と書かれる。
+      センチネルにされた少女たちの人格が分割して現れたもので、基本的には“写し身”にすぎない。
+      そのフロアからにじみ出た意識体なので、シールド同様、基本的には攻撃を受け付けない。
+      SGを抜かれると消滅し、本体のいるレリーフ内部に戻っていく。
+      そのフロアの心なので、フロアを探索すればエゴを発見する事は難しくない。問題はその後、欲望そのものといえるエゴとどう対話し、これを解決するかだ。
+    note: {}
+  zh:
+    content: |-
+      拉丁语的翻译是自我的意味。
+      CCC则是写作“欲身”。
+      被当作卫士的少女们的人格分裂后产生的、基本上只是“分身”的存在。
+      由该层迷宫溢出的意识体、与护盾[Shield]一样，原则上是无法被攻击的。
+      SG拔除后就会消灭、回到本体所在的雕像内去。
+      由于是该层迷宫的心，只要探索了那层迷宫，发现Ego并不是那么困难的事情。问题是在于发现了Ego之后，和欲望的化身的Ego对话、并解决状况的这个部分。
+    note: {}

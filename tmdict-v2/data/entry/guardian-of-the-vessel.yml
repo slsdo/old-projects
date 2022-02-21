@@ -1,0 +1,30 @@
+---
+id: guardian-of-the-vessel
+
+en: g
+ja: u
+furigana: うつわのしゅて
+title:
+  en: Guardian of the Vessel
+  ja: 器の守手
+  zh: 保护容器
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 91
+  category:
+  - magecraft-term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      アインツベルンのホムンクルスであるアイリが背負う任。聖杯の降臨に大きく関係する。
+    note: {}
+  zh:
+    content: |-
+      作为爱因兹贝伦[Einzbern]人造人[Homunculus]的爱丽[Iri]所背负的责任。和圣杯的降临有很大的关系。
+    note: {}

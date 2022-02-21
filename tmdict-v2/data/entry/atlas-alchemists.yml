@@ -1,0 +1,43 @@
+---
+id: atlas-alchemists
+
+en: a
+ja: a
+furigana: あとらすのれんきんじゅつし
+title:
+  en: Atlas Alchemists
+  ja: アトラスの錬金術師
+  zh: 阿特拉斯的炼金术师
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 7
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      Alchemists affiliated with the Atlas Institute.
+      They specialize in thought partitioning and thought acceleration, techniques that make use of the human body as an arithmetic unit.
+      Their way of thinking concerning their body (flesh) is also unique. That is, they do not believe that the brain exists to control the body, but rather that the body exists solely so that the brain may function more effectively.
+      If you just want a mathematical prodigy, there’s no need for an alchemist—an engineer would do just fine. What sets apart an alchemist is that for them, the human body in its entirety (body, mind, and soul) is a unit for calculating, executing, and nurturing events.
+      Also, they typically have very few magic circuits, the proof that one is a magus. Though this means that on their own they cannot use nature interference sorceries at all, they’re perfectly okay with that. As far as they’re concerned, there’s no need to be strong themselves, because they can just make up for it by creating the strongest weapons.
+    note: {}
+  ja:
+    content: |-
+      アトラス院に所属する錬金術師。
+      思考分割、高速思考、と人体を演算装置として用いる術に特化している。
+      身体（肉体）に対する考え方も独特で、脳が身体をコントロールするのではなく、脳をよりよく機能させる為に肉体がある、と考えている。
+      単純な演算能力の怪物を生み出すだけなら錬金術師である必要はなく、技術者になればいいだけだ。彼らにとって人体とは“肉体・精神・魂の三位含めて計算、実践、成長するに優れた個体”なのである。
+      また、魔術師にとって明確な機能の証明となる魔術回路数が少ないのも特徴。単体では自然干渉系の魔術はまったく使えないのだが、彼らはそれを良しとしている。曰く、「最強である必要はない。最強である物を作ればいいだけなのだから」
+    note: {}
+  zh:
+    content: |-
+      从属于阿特拉斯院的炼金术师。
+      特化于思考分割、高速思考这样将人体作为演算装置使用的技术。
+      对于身体（肉体）的观点也独特，不是脑控制身体，而是为让脑更好地发挥机能而有肉体，这样认为。
+      若只是产生出单纯的演算能力的怪物，没有作为炼金术师的必要，只要成为技术人员就可以了。对他们来说所谓的人体是“肉体·精神·魂三位一体，在计算、实践、成长上优秀的个体”。
+      另外，对魔术师来说成为明确的机能证明的魔术回路数不多也是特征。以单体完全不能使用自然干涉系的魔术，但他们将其视为是容许的。
+      曰，“没有作为最强的必要。因为只要制作出作为最强之物即可”。
+    note: {}

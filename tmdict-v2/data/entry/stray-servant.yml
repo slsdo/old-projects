@@ -1,0 +1,47 @@
+---
+id: stray-servant
+
+en: s
+ja: ha
+furigana: はぐれサーヴァント
+title:
+  en: Stray Servant
+  ja: はぐれサーヴァント
+  zh: 消失的从者
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 70
+  category:
+  - other
+  img: fsm_stray-servant.png
+  en:
+    content: |-
+      A heroine candidate that vanished without a trace during the plotting stage.
+      She was conceived of as an “abandoned puppy” type heroine, who killed her Master and went on a rampage.
+      As a Servant of the shield, she was going to be a rival to Saber, the Servant of the sword, but…
+      Just like Gilgamesh, she would have been a Servant that had remained behind after the previous Grail War. Unfortunately, though, she had to be cut for the sake of keeping things manageable for the player.
+      After all, around this point, the plot itself was starting to stray. Not only Rider, but even Caster was a potential heroine candidate. It was terrifyingly chaotic.
+      Hmm? Fuji-nee? I don’t know what you’re talking about, Fuji-nee never had a main route even during the plotting stage.
+    note: {}
+  ja:
+    content: |-
+      プロット段階で消えたヒロイン候補。
+      マスターを殺して暴走している“捨てられた子犬系”のヒロインとして予定されていた。
+      盾のサーヴァントで、セイバーのライバルになる予 定だったのだが……いつのまにか消えていた子である。
+      ギルガメッシュと同様、前回から残っているサーヴァ ントとして考えられていたが、
+      とれ以上登場人物を増やしてプレイヤーを混乱させてもよろしくない、とカットされた。
+      この頃はプロットも迷走しており、ライダーはおろかキャスターさえヒロイン候補だった、という恐ろしいカオスっぷりだったのだ。
+      藤ねえ？藤ねえにはプロット段階からメインルートなんてねえよ。
+    note: {}
+  zh:
+    content: |-
+      在企划阶段消失了的女主人公候选。
+      作为杀死主人乱跑着的“被抛弃的小狗系”的女主人公被预定。
+      盾之从者，将成为Saber的对手是……不知到什么时候消失的了孩子。
+      与吉尔伽美什一样，被考虑为从上次开始留下的从者。
+      因为登场人物增加会使演出混乱而不堪，所以被剪去了。
+      最近情节也很彷徨，别说Rider就连是所说的Caster也能是女主人公候选的，可怕的混沌态。
+      藤姐？藤姐从企划阶段起就没有过给她设计主线的打算呢……
+    note: {}

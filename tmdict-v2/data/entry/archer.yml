@@ -1,0 +1,194 @@
+---
+id: archer
+
+en: a
+ja: a
+furigana: あーちゃー
+title:
+  en: Archer
+  ja: アーチャー
+  zh: Archer
+
+entry:
+- source: fate-side-material
+  section: fate-encyclopedia
+  order: 1
+  category:
+  - servant
+  img: ""
+  en:
+    content: |-
+      Heroic Spirit of the bow. A type of Servant that has low basic parameters, but makes up for it with Skills and Noble Phantasms.
+      Of course, the Archer in the story was no exception, fighting to the bitter end while freely making use of unknown Noble Phantasms.
+      He is a thoroughly pragmatic cynic, but oddly enough, he also has a childish streak to him that makes him impossible to truly dislike.
+      His true identity is XXX. He is important enough to be considered a shadow protagonist, and it could be said that half of <em>Fate/stay night</em> is his story.
+      At the beginning of the game, his memory was supposedly fuzzy due to an imperfect summoning, but in reality that was only partially true.
+      The night he was summoned (after Rin went to sleep), he assessed the present situation, figured out his circumstances, and concluded that the opportunity to complete his objective had at long last appeared.
+      However, he didn’t realize the girl who summoned him was Tohsaka Rin until she introduced herself. (His memory wasn’t fuzzy, the name “Tohsaka Rin” had simply been worn away by time.)
+      At that moment, it all came rushing back like lightning.
+      
+      “Then I’ll call you Rin. …Yes, it suits you well.”
+      
+      Archer’s murmur at that time was thick with a heartfelt and madly passionate affection.
+      …By the way, there was lots of vague foreshadowing about Archer’s identity throughout the game, but none was more subtle than after the battle with Berserker in the Saber route.
+      Also, his skin was darkened from the rebound caused by using a certain spell… well, that’s the story, anyway.
+    note: {}
+  ja:
+    content: |-
+      弓兵の英霊。基本能力は低いが、その分スキルや宝具で補うサーヴァントイプ。
+      本編のアーチャーもその例に漏れず、正体不明の宝 具を駆使して戦い抜く。
+      皮肉屋で徹底した現実主義者……なのだが、妙に子供くさいところがあり、憎めない性格をしている。
+      その正体は■■■。影の主役とも言える重要な役ど ころで、「Fate」の半分はこの男の物語と言える。
+      ゲーム開始時、不完全な召喚のせいで記憶が暖昧 だった、というのは半分ホン卜で半分ウソ。
+      召喚された夜、渡が眠った後に現状を把握し、今の 状況を推測、推理し、自分がようやく目的を可能とす る機会を得た、と確信した。
+      自分を召喚した少女が“遠坂凛”なのだと確信(記憶が暖昧なのではなく、そもそも遠坂凜という名称が磨耗していた)したのは、凛が自己紹介をした瞬間。
+      その時、雷光の速度でアーチャーは思い出した訳で ある。
+      
+      「————では凜と。ああ、この名前は————」 
+      
+      あの時のアーチャーの呟きは本心からの、狂おしいまでの親愛がこもった一言だったのだ。
+      ……ちなみに伏線らしきものは多々あるのだが、その中でもギリギリなのがセイバールート・バーサーカー戦後の一文。
+      ある魔術を使った反動として、肌が黒く変色していた……というのは、まあそういうコトな訳だったり。
+    note: {}
+  zh:
+    content: |-
+      弓兵的英灵。基本能力偏低，但以技能和宝具来弥补的从者类型。
+      本篇的Archer也不例外，使用正体不明的宝具进行战斗。
+      讽刺家兼彻底的现实主义者……虽如此，不过却像微妙的小孩子那样，有着那种让人没办法讨厌的性格。
+      其真身是■■■。可以说是影子主角般的重要角色，「Fate」有一半可以说是这个男人的故事。
+      游戏开始时，称因不完全召唤的缘故而记忆暧昧，其说法一半是真一半是假。
+      被召唤的夜晚，在凛睡着后把握了现状，并推测、推理现今的状况，确信自己终于得到了可以达到目的的机会。
+      确信召唤自己的少女是“远坂凛”，(并不是记忆暧昧，而是远坂凛这名字被磨耗掉了)是在凛自我介绍的瞬间。
+      那时，Archer以电光般的速度回想起来了：
+      
+      「———那么就凛。哎呀……这声音……」
+      
+      那个时候的Archer的嘟哝是由真心而发的、简直像疯了似的充满深情的一句话。
+      此外还有许多伏笔的地方，但在那之中除了Saber线与Berserker战后的一篇外都很有限。
+      因为某个魔术所造成的反冲的缘故，肤色变得很黑……大概就是这样子了吧。
+    note: {}
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 1
+  category:
+  - person
+  img: hibichika_archer.png
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      第5次聖杯戦争において遠坂凛に召喚された弓兵のサーヴァント。キザで皮肉屋の現実主義者。赤い携帯電話の中身がこの人って事にしたら面白いよね、という一言からドラマCDを作る羽目になったとか何とか。言い出しっぺは武内崇。
+    note: {}
+  zh:
+    content: |-
+      第五次圣杯战争中被远坂凛召唤的弓兵的Servant。刺耳讽刺家的现实主义者。要是红色手机里面是这个人大概会很有意思吧，就这么一说而制作了Drama CD什么的。最先提出来的是武内崇。
+    note: {}
+- source: fate-extra-material
+  section: encyclopedia-of-fate-extra
+  order: 1
+  category:
+  - servant
+  img: ""
+  en:
+    content: |-
+      Archer is one of the main Servants that the protagonist contract.
+      Enveloped in his red cloak, he is a young man in his mid-20s.
+      Despite belonging to the Archer class, he is a tough-as-steel Heroic Spirit and usually engages in close quarters combat. He is sometimes referred to as Koucha{{n1}}, or even Red Archer in order to avoid being confused with the Archer who wears green clothing.
+      Archer usually uses the personal pronoun 私 (watashi), but depending on the situation he lets オレ (ore) slip out from time to time.
+      
+      Having been introduced in Type-Moon works countless times, he is a very familiar Servant.
+      He is a cool-headed cynic, but he is also helpful and caring. Due to his character he is said to be a Servant who is also suitable to serve as a butler. Archer’s origin differs from that of other Heroic Spirits, and he cannot be considered a legitimate Heroic Spirit.
+      Archer is a guardian. He was born into the world as a kind of defense mechanism which arose from the collective unconscious desire of mankind for continued existence.
+      He was essentially unconsciously elected by the masses to be their faceless representative.
+      He carries out his mission as a guardian following a simple rule, “If some evil appears that threatens to speed up the collapse of mankind, I will eliminate it and all accessories.”
+      He crushes threats to mankind that the masses don’t even know or realize exist. He is, so to speak, a repairman of the ages. If there were ever a time without Archer’s deterrent power at work, destruction would rapidly spread and mankind would soon find itself facing an inevitable “END.”
+      Please refer to the EXTRA game contents to find out why this Heroic Spirit became one of mankind’s guardians.
+      
+      Archer is a calm, collected professional, and he never lets his personal feelings interfere. He is always making a stern face, however this is probably due to his lack of freedom.
+      Although he takes up his role as a knightly bow-wielder, he was originally an old world magus.
+      He uses Projection Magic, which is the ability to replicate an object just by imagining it for a few minutes. He is a faker that can reproduce many famous swords.
+      The reason his main weapon is a bow is thought to be because he isn’t that strong of a Heroic Spirit, so he settled on ranged combat as his ultimate combat style.
+      In EXTRA Archer is almost the same entity as the Archer in Fate/stay night (although not the same person), but their true names are different. Please refer to Archer’s Special My Room in EXTRA to find out why his true name is just a regular noun, and not a normal human name.
+      Unlike Cas-Ko, Archer’s Special My Room is very simple to access. You can activate all his flags by talking to him in between rounds, Ms. Shirano.{{n2}}
+      
+      ◆
+      
+      In CCC Archer appears as a half-naked perv— I mean… he is stylishly donning a red leather jacket. In CCC he is somewhat of a scoundrel, but nonetheless still reliable.
+      Even when he is on the far side of the Moon he coolly and wildly grasps the situation and helps out the amnesic protagonist. Sometimes he can be quite the nagging instructor.
+      In CCC his rival is Meltlilith.
+      If you choose both the female protagonist and the Servant Archer, the contents of Meltlilith-related events change completely.
+      Also Archer is the only Servant whose END differs from the rest.
+      The Servants based on Saber feature “The Future that begins in the Present,” while Archer features “The Present that begins in the Future.”
+      The reason for this can surely be understood by those of you who have fought to the end alongside Archer. I’m sure you understand without me putting it into words.
+    note:
+      n1: "Literally “red tea.”"
+      n2: "This Ms. Shirano seems to be an inside joke. Maybe someone called Shirano sent them a fan letter asking how."
+  ja:
+    content: |-
+      主人公と契約するメインサーヴァントのひとり。
+      赤い外套に身を包んだ、二十代中盤の青年。
+      弓兵のクラスでありながら白兵戦を主体にする錬鉄の英霊。緑衣のアーチャーとの混同を避けるため、紅茶、赤アーチャー、と呼ばれる事も。
+      一人称は『私』。ある条件でのみ『オレ』と洩らしてしまう事も。
+      
+      もう何回解説したか分からなくなる程度にはお馴染みのサーヴァント。
+      皮肉屋で冷徹、そのくせ面倒見のいい執事系サーヴァントとも言う。他の英霊たちとは出典が異なるため、正統な英霊とは言えない。
+      この英霊は守護者と呼ばれるもので、人類の“存続するべき”無意識が生み出した防衛装置のようなもの。
+      要は名も無い人々が選出した、顔の無い代表者だ。
+      『人類の滅亡を加速させる害悪が現れた場合、これを成立させる要素をすべて消去する』といった目的で守護者は現れ、仕事をこなす。
+      人知れず人類滅亡の危機を潰している、時代の補修人といったところ。この抑止力が働かなくなったとき滅びは速やかに進行し、人々はもう取り返しの付かない“終わり”と体面する。
+      この英霊がなぜ守護者の一部になったのかは、EXTRA本編を参照のこと。
+      
+      基本的に冷徹な仕事人なので、私情を挟めない法の執行官、とイメージするとしっくりくる。いつも厳[いか]めしい顔をしているのはそのあたりの不自由さ故なのだろう。
+      弓の騎士として確立しているが、もともとは旧世界の魔術師。
+      投影魔術……道具をイメージで数分だけ複製する魔術……を用い、多くの名剣、魔剣を模造する贋作者[フェイカー]。
+      基本武装が弓になったのは、彼が英霊としてはそこまで強力ではなく、最終的な戦闘スタイルが狙撃に落ち着いたからと思われる。
+      stay nightのアーチャーとほぼ同一存在（同一人物ではない）だが、英霊としての真名は異なる。
+      なぜ彼の真名が人名ではなく名詞なのかはEXTRA本編のスペシャルマイルームで語られる。
+      キャス狐と違って見るのはたいへん簡単。各回戦ごとにこまめにマイルームでトークしていればフラグ達成ですよ白野さん。
+      
+      ◆
+      
+      CCCでは赤ジャケ半裸のヘンタ───赤いレザージャケットをスタイリッシュに着込んだ、頼れる無頼フォームで登場。
+      月の裏側であろうとクール＆ワイルドに状況を把握、記憶を失った主人公を助けていく。その在り方は口うるさい教官のようだ。
+      CCCにおけるライバルはメルトリリス。
+      女主人公＋アーチャーの組み合わせでのみ、メルトリリス関連のイベントはがらりと内容を変える。
+      またサーヴァントENDもアーチャーだけはその在り方が異なっている。
+      セイバーたちは『現在から始まる未来』であり、
+      アーチャーは『未来から始まる現在[イマ]。
+      なぜそうであるのかはアーチャーと戦い抜いた“貴方”なら、言葉にせずとも理解できている筈だ。
+    note: {}
+  zh:
+    content: |-
+      与主角契约的主要从者中的一人。
+      身穿红色外套、二十五岁左右的青年。
+      虽然职阶为弓兵却主要采用白刃战的炼铁的英灵。为了避免与绿色衣服的Archer混淆，有时也被称为“红茶”、“红Archer”。
+      第一人称用“私”。只在某种情况下才说溜嘴用“俺”。
+
+      已经不知道解说过多少次，大家已经很熟悉的从者。
+      讽刺家、冷静而透彻，却很会照顾人的执事系从者。因为与其他从者出处不同，不能说是正统的英灵。
+      这个英灵被称为守护者，类似于为了人类的存续而无意识产生的防卫装置。
+      他的关键点是无名的人们选出的、没有面孔的代表者。
+      “在出现加速人类灭亡的危害之时，消除掉让这个危害所成立的要素”，守护者以此为目的现身，把工作贯彻到底。
+      这个英灵为什么会成为守护者请参照EXTRA本篇。
+
+      因为基本上是个冷静而透彻的工作狂，很符合不夹带私情的法的执行官的形象。总是一副严肃的面孔也是因为这种不自由的缘故吧。
+      虽然确立为弓的骑士，但他本来是旧世界的魔术师。
+      使用投影魔术——凭借想象仅几分钟就把道具复制出来的魔术——仿制了大量的名剑、魔剑的赝品制造者。
+      基本武器为弓是因为他作为英灵并不是很强，最终的战斗风格定为狙击。
+      虽然与stay night的Archer大致上是同一存在（非同一人物），作为英灵的真名却不一样。
+      为什么他的真名不是人名而是名词，EXTRA本篇的特别自室有说。
+      与Cas狐不同，很简单就看得到。各回战都勤勤恳恳地进行自室对话的话，就能达成FLAG哦，白野。
+
+      ◆
+
+      在CCC里是穿着红色夹克的半裸变——以红色鹿皮夹克的时髦打扮，可靠的无赖造型登场。
+      在月之里侧，冷静而粗野地把握了状况去救助失忆的主角，就像一名啰嗦的教官。
+      CCC中的对手是Meltlilith。
+      只有女主角＋Archer的组合才会在与Meltlilith相关的事件上内容出现突变。
+      并且从者结局也只有Archer的方式与别不同。
+      Saber他们是“从现在开始的未来”，
+      Archer是“从未来开始的现在”。
+      为什么会这样，这点与Archer一直战斗过来的“你”，即使不作任何解释也应该能理解。
+    note: {}

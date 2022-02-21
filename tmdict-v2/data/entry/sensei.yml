@@ -1,0 +1,32 @@
+---
+id: sensei
+
+en: s
+ja: se
+furigana: せんせい
+title:
+  en: Sensei
+  ja: 先生
+  zh: 老师
+
+entry:
+- source: mb-official-strategy-guide
+  section: melty-blood-glossary
+  order: 18
+  category:
+  - "-"
+  img: ""
+  en:
+    content: |-
+      {{n1}}
+      Sensei [or Teacher] is the character that Shiki recalls and describes in his conversation with Sion. One of five true magicians in the world. The Sensei’s real name is Aozaki Aoko. She gave Shiki the glasses that helps him suppress his Mystic Eyes of Death Perception, and is the only character that Shiki refers to as Sensei.” They say “she’s the trouble maker from London” or “she’s a great witch… but only when it comes to destroying things…” but rumors aside she can be pretty troublesome you know!?
+    note:
+      n1: "Teacher."
+  ja:
+    content: |-
+      志貴がシオンとの会話で思い出す、世界に5人しかいない魔法使いの一人。本名、蒼崎青子。志貴に直死の魔眼を抑えるメガネをくれた人であり、彼が唯一「先生」と呼ぶ。ロンドンの問題児とか、壊すということにおいてのみ稀代の魔女だとか、酷い言われようだが、その実、酷い人らしい！？
+    note: {}
+  zh:
+    content: |-
+      志贵在和紫苑的对话中想起来的，世界上只有5位的魔法使其中之一。本名，苍崎青子。给予志贵抑制直死魔眼的眼镜的人，也是他唯一会称为“老师”的人。伦敦的问题儿童啊、只在破坏上是稀世的魔女啊，被人说得很过分，但其实，好像真的是个很过分的人！？
+    note: {}

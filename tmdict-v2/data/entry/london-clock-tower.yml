@@ -1,0 +1,30 @@
+---
+id: london-clock-tower
+
+en: l
+ja: ro
+furigana: ろんどんとけいとう
+title:
+  en: London Clock Tower
+  ja: ロンドン時計塔
+  zh: 伦敦时计塔
+
+entry:
+- source: fate-zero-animation-guide-i
+  section: glossary-of-the-holy-grail-war
+  order: 19
+  category:
+  - place_alt
+  img: ""
+  en:
+    content: |-
+      The Clock Tower in London is the headquarters of the Mage’s Association. The institution is devoted to education and research of magecraft. Both Kayneth and Waver come from the Clock Tower. The institution is rife with loud-and-proud discrimination based on family pedigree, which doesn’t make for a particularly healthy atmosphere. Kiritsugu has a spy inside the Clock Tower, monitoring the organization’s activities.
+    note: {}
+  ja:
+    content: |-
+      魔術協会の総本山。魔術の更なる発展のための教育・研究機関が存在しており、ケイネスやウェイバーもここに所属している。門閥による権威主義がはびこっており、決して健全とはいえない状況に置かれている。なお、切嗣は時計塔にスパイを送り込んでおり、その動向を観察していた。
+    note: {}
+  zh:
+    content: |-
+      魔术协会的总管辖处。为魔术更进一步发展而存在着的教育·研究机关，肯尼斯[Kayneth]和韦伯[Waver]也所属于此。蔓延着门阀权威主义，处于不能说是绝对健全的状态。顺带，切嗣往时计塔安插了眼线[Spy]，观察着其动向。
+    note: {}

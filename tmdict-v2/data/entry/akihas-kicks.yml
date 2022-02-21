@@ -1,0 +1,34 @@
+---
+id: akihas-kicks
+
+en: a
+ja: a
+furigana: あきばのあしわざ
+title:
+  en: Akiha’s Kicks
+  ja: 秋葉の足技
+  zh: 秋叶的足技
+
+entry:
+- source: mb-act-cadenza-ps2-manual
+  section: tsukihime-dictionary
+  order: 4
+  category:
+  - technique
+  img: ""
+  en:
+    content: |-
+      There are various kick techniques found in Tohno Akiha’s list of normal skills. It is a tomboyishness unbecoming of a young lady from a respectable family.
+      For example, 5C’s Miss “Current Family Head” Kick, 6C’s Miss “Yakuza” Kick, J2C’s Miss “Divine Punishment Is Swift” Kick, etc.
+      So far, many different kicks have been demonstrated. Please expect more of them in the future.
+    note: {}
+  ja:
+    content: |-
+      なにかと足クセが悪い遠野秋葉の通常技。良家の令嬢にはあるまじきおてんばさである。
+      通常技・立ち強のお嬢当主キック、→強で出るお嬢極道キック、空中で↓強で出るお嬢天罰覿面キック等々、様々な足技を披露してくれる。今後も彼女の足技には期待したいところ。
+    note: {}
+  zh:
+    content: |-
+      爱踢人的远野秋叶的通常技。是良家大小姐不应有的野蛮。
+      通常技·站立强的嬢当主Kick（踢），→強发出的嬢极道Kick（踢），空中↓強发出的嬢天罚临头Kick（踢）等等，各种各样的足技被披露出来。今后也请期待她的足技。
+    note: {}

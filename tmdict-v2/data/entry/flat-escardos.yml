@@ -1,0 +1,85 @@
+---
+id: flat-escardos
+
+en: f
+ja: fu
+furigana: ふらっどえすかるどす
+title:
+  en: Flat Escardos
+  ja: フラット・エスカルドス
+  zh: 弗拉特·艾斯卡尔德斯
+
+entry:
+- source: fate-apocrypha-material
+  section: fate-apocrypha-encylopedia
+  order: 86
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      →To learn more about this problem child, go check out <em>Fate/strange Fake</em>.
+    note: {}
+  ja:
+    content: |-
+      →この問題児については「Fate/strange Fake」を参照せよ
+    note: {}
+  zh:
+    content: |-
+      →关于这个问题儿童请参照《Fate/strange Fake》
+    note: {}
+- source: lord-el-melloi-ii-case-files-material
+  section: lord-el-melloi-ii-case-files-glossary
+  order: 50
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      One half of the El-Melloi Classroom’s legendary duo.
+      The blessed unwanted child. Or, more frankly, the idiot genius. Originally a character from <em>Fate/strange Fake</em>. For most of his lines, the author received assistance from his fellow writer, Narita Ryōgo. Though, Case Files and Fake have a number of key premises that are extremely different.
+      His elemental affinity is Void.
+      Normally, a magus is bound by what magecraft they specialize in. But in Flat’s case, he recklessly creates a new magical formula every time, and hardly ever relies on a preexisting magical Foundation. For this reason, he has the apparently glaring weakness of “being completely unable to use the same magecraft twice,” but he doesn’t care so much about that. Maybe that’s what it means to be a genius.
+      In most cases, he uses one of the following incantations. 
+      Casting proactively: “Game Select” (“Interference, Start”) + “Game Over” (“Observation Complete”)
+      Casting reactively: “Play Ball” (“Intervention, Start”) + “Game Set” (“Situation Resolved”)
+      That being said, while the ruby text of “Game Select” may remain constant with each cast, the kanji are decided at the time of casting.{{n1}} This decision is based both on Flat’s whims at the time and any changes he wants to make to the spell’s formula through the meaning of the incantation.
+      Though he may seem like an omnipotent cheat character, his hand-to-hand fighting ability is surprisingly zero. Or rather, negative. He fails out of every single self defense class. That is why even after Svin graduated, Flat was still unable to graduate from the El-Melloi Classroom. The scene of Svin coming back to the classroom and chastising Flat for still causing trouble for their professor has become a regular occurrence. 
+      “I’ll ask just in case. Why did you do a drop kick for self defense?”
+      “Because it’s cool, Professor!!”
+      “Alright, die then. There’s no way a drop kick would ever be considered in a realistic self defense scenario, you absolute idiot!”
+      “But Professor, I believe he only failed due to his inexperience.”
+      “…please, Miss, don’t encourage him.”
+    note:
+      n1: "In the Japanese text, Flat’s Incantations (like most Type-Moon incantations) are written as Kanji with an indicator above them as to how they should be read. This pronunciation guide actually spells out the English phrases (“Game Select,” “Play Ball,” etc). The Kanji below them show the intended meaning of the phrase, and is in Japanese (“Interference, Start,” “Intervention, Start”). The comment here refers to the fact that while the pronunciation guide of “Game Select” remains constant, the kanji representing the actual meaning that should be taken from the phrase are different for each casting. "
+  ja:
+    content: |-
+      エルメロイ教室の双璧。その片割れ。
+      天恵の忌み児。もしくは率直に天才馬鹿とも。出典は『Fate/strange Fake』。セリフのほとんども同作者の成田良悟の監修を受けている。もっとも、事件簿とFakeではいくつか前提条件が大きく異なっているのだが。
+      属性は空。
+      本来、得意とする魔術に、魔術師は縛られる。しかし、フラットは毎回その場で魔術式をつくり、魔術基盤にほぼ頼らないという暴挙に出ている。このため、そもそも「まったく同じ魔術を二度使えない」などという弱点もあるのだが、本人は気にしたことなどない。天才とはそういうものかもしれない。
+      多くの場合、呪文は以下の二通りにわかれる。「干渉開始」（主導の場合）+「観測完了」
+      「介入開始」（受け身の場合）+「状況終熄」
+      ただし、毎度一致するのはルビのゲームセレクトなどの方だけで、漢字についてはそのときの気分で変わる。このあたりはフラットの気まぐれと、魔術式の変化によって呪文に込める意味が変わるという双方の理由である。
+      おおよそ万能のチートキャラにも思えるが、格闘センスについてはびっくりするほどゼロ。むしろマイナス。護身術の授業は毎度赤点。これがスヴィン卒業後も、フラットだけはエルメロイ教室を卒業できない理由で、しばしばOBとして訪れたスヴィンに、お前はいつまで先生に迷惑をかけるつもりだと説教される流れが定番となっている。「一応聞こうか。なぜ護身術でドロップキックをやった？」
+      「はい教授！かっこいいからです!!」
+      「よし死ね。実戦的な護身術でドロップキックなどという選択肢があるはずないだろうこの戯けが！」「あら、それはフラットが未熟だから失敗しただけですわ」
+      「……レデイ、話がややこしくなるからやめてくれ」
+    note: {}
+  zh:
+    content: |-
+      埃尔梅罗教室的双壁之一。
+      得天独厚的不祥之子。或者说是直率的天才笨蛋。出处是『Fate/strange Fake』。台词基本上都有受到作者成田良悟的监修。不过事件簿和FSF原本就有数个前提条件存在巨大差异就是了。
+      属性是空。
+      魔术师原本会受到自己所擅长的魔术束缚。然而，弗拉特每次都会根据情况构筑魔术式，做出基本不依赖于魔术基盘的莽撞举动。因此有着「无法再次使用完全相同的魔术」这种根本性的弱点，但本人对此并不在意。说不定所谓的天才就是指这类家伙吧。
+      大多数情况下，咒文会分成以下两种。
+      「干涉开始（Game Select）」（主导的情况）+「观测完毕（Game Over）」
+      「介入开始（Play Ball）」（被动的情况）+「状况平息（Game Set）」
+      只不过，每次都一致的只有注音的Game Select这些词，汉字则是会根据当时的心情改变。这方面有着两个原因，一是弗拉特的心血来潮，二是藉由魔术式的变化来改变注入咒语之中的意义。
+      给人一种基本上是万能的作弊角色的感觉，但格斗意识却是令人震惊的零。甚至可以说是负数。护身术的课程每次都不合格。这也是连斯芬都毕业后，唯独弗拉特还无法从埃尔梅罗教室毕业的原因，而经常以OB身份来访的斯芬，训斥弗拉特道「你打算给老师添麻烦到什么时候啊」的过程也是固定节目。
+      「我姑且问一下。你的护身术为什么是飞身踢啊？」
+      「是，教授！因为这样很帅气！！」
+      「很好去死吧。实战中的护身术怎么可能有飞身踢这种选项啊，你这蠢货！」
+      「哎呀，这都是因为弗拉特不够成熟所以才会失败喔」
+      「……Lady，妳这样说会导致事情变得更混乱的，麻烦妳住嘴吧」
+    note: {}

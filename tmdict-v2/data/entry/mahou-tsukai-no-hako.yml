@@ -1,0 +1,30 @@
+---
+id: mahou-tsukai-no-hako
+
+en: m
+ja: ma
+furigana: まほうつかいのはこ
+title:
+  en: Mahou Tsukai no Hako
+  ja: まほうつかいの箱
+  zh: 魔法使之箱
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 55
+  category:
+  - mobile-site
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      2009年にオープンしたTYPE-MOON公式携帯サイト。よく「魔法使いの箱」とか「まほうつかいの夜」と間違えられる。逆も然り。
+    note: {}
+  zh:
+    content: |-
+      2009年开放[Open]的TYPE-MOON官方手机网站。《魔法使之箱》和《魔法使之夜》是大不同的。反之亦然。
+    note: {}

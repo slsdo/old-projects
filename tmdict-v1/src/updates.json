@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2016-10-23",
+    "version": "1.4.1",
+    "en": {
+      "summary": "<p>Minor update, fixed a bunch of transcription errors in the Japanese text of <em>Fate/Apocrypha material</em> and <em>Kara no Kyoukai</em>.</p>",
+      "log": "<li>Edited transcription errors in <em>Fate/Apocrypha material</em> and <em>Kara no Kyoukai</em> (JA)</li>"
+    },
+    "ja": {
+      "summary": "<p>Minor update, fixed a bunch of transcription errors in the Japanese text of <em>Fate/Apocrypha material</em> and <em>Kara no Kyoukai</em>.</p>",
+      "log": "<li>Edited transcription errors in <em>Fate/Apocrypha material</em> and <em>Kara no Kyoukai</em> (JA)</li>"
+    },
+    "zh": {
+      "summary": "<p>比较小的更新：修改了很多Fate/Apocrypha material辞典和空境辞典里日文的错别字。</p>",
+      "log": "<li>修改Fate/Apocrypha material辞典和空境辞典里的错别字（日）</li>"
+    }
+  },
+  {
+    "date": "2016-07-30",
+    "version": "1.4.0",
+    "en": {
+      "summary": "<p>Translation for <em>Fate/Apocrypha material</em>, a collaboration project with <a href=\"https://bbs.sumisora.org/read.php?tid=11071116\">譯月漢化小组</a> and NanoDesu<_!sq/>s <a href=\"https://fateapocryphathetranslation.wordpress.com/\">Eternal Dreamer</a>, is now available!</p>",
+      "log": "<li>Added Fate/Apocrypha Encylopedia (EN/ZH/JA)</li><li>Changed <em>Kara no Kyoukai</em> Chinese entry title to “「 」”</li><li>Fixed an issue with some entries not sorting correctly in Japanese</li>"
+    },
+    "ja": {
+      "summary": "<p>Translation for <em>Fate/Apocrypha material</em>, a collaboration project with <a href=\"https://bbs.sumisora.org/read.php?tid=11071116\">譯月漢化小组</a> and NanoDesu<_!sq/>s <a href=\"https://fateapocryphathetranslation.wordpress.com/\">Eternal Dreamer</a>, is now available!</p>",
+      "log": "<li>Added Fate/Apocrypha Encylopedia (EN/ZH/JA)</li><li>Changed <em>Kara no Kyoukai</em> Chinese entry title to “「 」”</li><li>Fixed an issue with some entries not sorting correctly in Japanese</li>"
+    },
+    "zh": {
+      "summary": "<p>这次更新添加了Fate/Apocrypha material辞典,中文翻译来自譯月漢化小组，英文翻译来自NanoDesu的Eternal Dreamer。</p>",
+      "log": "<li>添加Fate/Apocrypha用语辞典（英/中/日）</li><li>改变空境辞典里“「 」”的标题</li><li>修复一些日文词条顺序排列的错误</li>"
+    }
+  },
+  {
+    "date": "2016-06-11",
+    "version": "1.3.0",
+    "en": {
+      "summary": "<p>Another big update! Aside from correcting various errors and fixing an issue with entry sorting, this update also adds two all new glossaries the site: Tsukihime Dictionary (<em>Colorful MOON Tsukihime</em>) and Melty Blood Glossary (<em>Melty Blood Official Strategy Guidebook</em>).</p>",
+      "log": "<li>Added Tsukihime Dictionary (EN/ZH/JA)</li><li>Added Melty Blood Glossary (EN/ZH/JA)</li><li>Edited English and Chinese translation errors in <em>Tsukihime</em> and <em>Fate/Zero</em> Glossary</li><li>Fixed an issue with entry not sorting alphabetically based on EN index</li>"
+    },
+    "ja": {
+      "summary": "<p>Another big update! Aside from correcting various errors and fixing an issue with entry sorting, this update also adds two all new glossaries the site: Tsukihime Dictionary (<em>Colorful MOON Tsukihime</em>) and Melty Blood Glossary (<em>Melty Blood Official Strategy Guidebook</em>).</p>",
+      "log": "<li>Added Tsukihime Dictionary (EN/ZH/JA)</li><li>Added Melty Blood Glossary (EN/ZH/JA)</li><li>Edited English and Chinese translation errors in <em>Tsukihime</em> and <em>Fate/Zero</em> Glossary</li><li>Fixed an issue with entry not sorting alphabetically based on EN index</li>"
+    },
+    "zh": {
+      "summary": "<p>辞典内容大更新！这次更新纠正了一些中、英文的错别字和翻译，修复了一个跟词条排列有关的bug，还添加了两个新的辞典：月姬用语集（Colorful MOON月姫）和Melty Blood用语集（Melty Blood公式攻略书）。</p>",
+      "log": "<li>添加月姬用语集（Colorful MOON月姫）辞典（英/中/日）</li><li>添加Melty Blood用语集（Melty Blood公式攻略书）辞典（英/中/日）</li><li>修改错别字（月姬用语词典,Fate/Zero用语辞典）</li><li>修复词条按英文字母顺序排列的错误</li>"
+    }
+  }
+]

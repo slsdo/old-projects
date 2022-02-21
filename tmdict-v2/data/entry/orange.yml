@@ -1,0 +1,30 @@
+---
+id: orange
+
+en: o
+ja: o
+furigana: おれんじ
+title:
+  en: Orange
+  ja: オレンジ
+  zh: Orange
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 15
+  category:
+  - term
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      ミカン目ミカン科ミカン属の柑橘類。またはひびきのイメージカラー。緑も勿論ですがこちらもベスト配色だったと思う今日この頃。
+    note: {}
+  zh:
+    content: |-
+      蜜柑目蜜柑科蜜柑属的柑橘类。也是响的印象色[Image Color]。现在也觉着绿色是这个毫无疑问的最佳[Best]配色。
+    note: {}

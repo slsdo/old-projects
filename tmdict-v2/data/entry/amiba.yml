@@ -1,0 +1,30 @@
+---
+id: amiba
+
+en: a
+ja: a
+furigana: あみば
+title:
+  en: Amiba
+  ja: アミバ
+  zh: 阿米巴
+
+entry:
+- source: hibichika-complete-capture-book
+  section: mahou-tsukai-no-hako-small-encylopedia
+  order: 7
+  category:
+  - person
+  img: ""
+  en:
+    content: |-
+      {{missing}}
+    note: {}
+  ja:
+    content: |-
+      北斗四兄弟のトキに成り済まし、卑劣な作戦でケンシロウを苦しめた天才拳法家。よく秘孔を間違える。当然ながら「まほうつかいの箱」には登場しない。
+    note: {}
+  zh:
+    content: |-
+      冒充北斗四兄弟里的托奇，使用卑劣的作战方式折磨健次郎的天才拳法家。完全搞错了秘孔。当然没有在《魔法使之箱》中登场。
+    note: {}

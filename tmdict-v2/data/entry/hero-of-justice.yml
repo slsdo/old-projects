@@ -1,0 +1,32 @@
+---
+id: hero-of-justice
+
+en: h
+ja: se
+furigana: せいぎのみかた
+title:
+  en: Hero of Justice
+  ja: 正義の味方
+  zh: 正义的伙伴
+
+entry:
+- source: fate-zero-animation-guide-ii
+  section: glossary-of-the-holy-grail-war
+  order: 67
+  category:
+  - other
+  img: fzavg2_hero-of-justice.png
+  en:
+    content: |-
+      {{n1}}
+      {{missing}}
+    note:
+      n1: "Literally translates to “Ally of Justice” or “Superhero.”"
+  ja:
+    content: |-
+      かつて衛宮切嗣が憧れた生き方。その理想は彼の養子となった士郎に受け継がれていくこととなる。
+    note: {}
+  zh:
+    content: |-
+      过去卫宫切嗣所憧憬的生存方式。那理想被他的养子的士郎继承过去。
+    note: {}

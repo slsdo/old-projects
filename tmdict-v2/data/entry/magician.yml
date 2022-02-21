@@ -1,0 +1,46 @@
+---
+id: magician
+
+en: m
+ja: ma
+furigana: まほうつかい
+title:
+  en: Magician
+  ja: 魔法使い
+  zh: 魔法使
+
+entry:
+- source: garden-of-sinners-pamphlet
+  section: kara-no-kyoukai-settings-glossary
+  order: 43
+  category:
+  - other
+  img: ""
+  en:
+    content: |-
+      Nickname of people who can turn mysteries that are not magecraft, things that are impossible, possible.
+      In the past when civilization was less developed, most magi were magicians.
+      As civilization developed, the impossible became possible, and many magic devalued into magecraft. Mysteries, in the face of reality, tasted great defeat.
+      ———However, even among those, there still exists miracles unreachable by humans.
+      Magi who can realize those mysteries are called “magicians,” bearing with them fear and respect, admiration and jealousy.
+      In the world of <em>Kara no Kyoukai</em>, there are only five magicians.
+    note: {}
+  ja:
+    content: |-
+      魔術ではない神秘、ありえない事を可能とする人間の俗称。
+      かつて文明が未熟だった頃、魔術師の大部分は魔法使いだった。
+      しかし文明の発展と共に不可能は可能となり、魔法は魔術として価値を落とすに至った。神秘は、現実の前に大敗を喫したのだ。
+      ―――が、その中においてなお、いまだ人の手に余る奇跡は存在する。
+      その神秘を実現させた魔術師は“魔法”使いと呼ばれ、畏怖と尊敬、憧憬と嫉妬を一身に受ける事になる。
+      空の境界のの世界観において、魔法使いは五人いるとされる。
+    note: {}
+  zh:
+    content: |-
+      使不是魔术的神秘（展现），不可能的事可能的人的俗称。
+      过去文明不发达的时候，魔术师的大部分是魔法使。
+      然而随着文明的发展不可能变成了可能，魔法最终贬值为魔术。神秘，在现实面前尝到了大败。
+      ———不过，即使在那之中，仍存在现在人类还不能达到的奇迹。
+      实现那种神秘的魔术师被称为“魔法”使，一身承受畏怖与尊敬、憧憬与嫉妒。
+      在空之境界的{{n1}}世界观中，魔法使有五人。
+    note:
+      n1: "原文多了一个の。"

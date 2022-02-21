@@ -1,0 +1,41 @@
+---
+id: index.ja
+
+content: |-
+  <div class="page-content">
+    <h4>2020-04-09</h4>
+
+    <p>Full glossary translation for <em>Lord El-Melloi II Case Files material</em>, from TwilightsCall (English) and Akiraka (Chinese), is now a part of our collection.</p>
+
+    <p><span class="highlight">v2.5.3:</span></p>
+
+    <ul>
+      <li>Added Lord El-Melloi II Case Files Glossary (English, Chinese, Japanese).</li>
+      <li>Fixed formatting and translation inconsistencies.</li>
+      <li>Renamed the Chinese translation of “El-Melloi” from “艾尔梅洛伊” to “埃尔梅罗.”</li>
+      <li>Fixed minor display and filter bugs.</li>
+    </ul>
+
+    <h4>2020-03-17</h4>
+
+    <p><span class="highlight">v2.4.2:</span></p>
+
+    <p>First update of 2020! With this update, the Fate/EXTELLA glossary is now complete. As always, we are always looking for help, please <a href="../contact/">notify us</a> if you notice any translation errors!</p>
+
+    <ul>
+      <li>Added English translation of Fate/EXTELLA glossary.</li>
+      <li>Fixed many translation inconsistencies.</li>
+    </ul>
+
+    <h4>2019-12-06</h4>
+
+    <p><span class="highlight">v2.4.1:</span></p>
+
+    <ul>
+      <li>Added Fate/EXTELLA glossary (Japanese/Chinese).</li>
+      <li>Added portions of <em>Fate/Zero Animation Visual Guide I</em> English glossary.</li>
+      <li>Fixed glossary formatting, grammar, and translation inconsistencies.</li>
+    </ul>
+
+    <div class="readmore"><a href="./site#site-update">過去の更新履歴</a></div>
+  </div>

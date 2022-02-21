@@ -1,0 +1,39 @@
+---
+id: lu-bu
+
+en: l
+ja: ri
+furigana: りょふ
+title:
+  en: Lu Bu
+  ja: 呂布
+  zh: 吕布
+
+entry:
+- source: fate-extella-material
+  section: encyclopedia-of-fate-extella
+  order: 58
+  category:
+  - servant
+  img: ""
+  en:
+    content: |-
+      A Berserker-class Servant in Tamamo no Mae’s army.
+      Lu Bu Fengxian was a traitorous general who appeared in the <em>Romance of the Three Kingdoms</em> and was known by many names, including “Unequaled on Heaven and Earth,” the “Flying General,” and “The Beast Among Men.”
+      Known as one of the supreme warlords in the world of the Three Kingdoms, he was a “war god who would serve no man,” and repeatedly betrayed his allies.
+      Expecting to be turned down when she invited him to join her army, Tamamo was pleasantly surprised when he readily agreed. Tamamo has unknowingly invited an enemy into her midst, as Lu Bu aims to take her head.
+    note: {}
+  ja:
+    content: |-
+      呂布奉先。玉藻の前陣営のサーヴァント。クラスはバーサーカー。
+      『三国志演義』における反覆の将、『天下無双』『飛将軍』『人中の呂布』と讚えられた武将。
+      幾度となく裏切りを繰り返した“人に仕える事のない武神”。三国志世界において最強の一角に数えられる。
+      玉藻の前がダメ元で声をかけたらあっさり陣営についてくれた。タマモちゃん大感動！　タマモの首を狙っている。
+    note: {}
+  zh:
+    content: |-
+      吕布奉先。玉藻前阵营的英灵。职阶为狂战士。
+      《三国演义》中的反叛之将，被赞颂为“天下无双”、“飞将军”、“人中吕布”的武将。
+      这位曾数度背叛的“不仕于人的武神”，在三国演义中可说是最强的要角之一。
+      被不抱期望的玉藻前出声邀请而干脆地加入了阵营，让小玉藻感动不已！意图拿下玉藻前的首级。
+    note: {}
