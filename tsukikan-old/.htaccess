@@ -1,0 +1,17 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^tsukikan\.com [NC]
+RewriteRule ^(.*) http://www.tsukikan.com/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^www.tsukikan.gumugum\.com
+RewriteRule ^(.*)$ http://www.tsukikan.com/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} tsukikan.gumugum\.com
+RewriteRule ^(.*)$ http://www.tsukikan.com/$1 [R=301,L]
+
+RewriteRule ^$ index.html
+
+RewriteRule ^misc.html$ http://tsukikan.com/misc/index.html [R=301,L]
+RewriteRule ^works.html$ http://tsukikan.com/works/index.html [R=301,L]
+RewriteRule misc/fate-stay-night-realta-nua-staffs-interview.html$ http://tsukikan.com/misc/fate-stay-night-for-ps2.html [R=301,L]

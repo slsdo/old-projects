@@ -1,0 +1,236 @@
+/* Reset */
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h3,h4,h5,
+h6,pre,form,fieldset,input,p,blockquote,table,
+th,td { margin: 0; padding: 0; }
+fieldset,img,abbr { border: 0; }
+address,caption,cite,code,dfn,h1,h2,h3,
+h3,h4,h5,th,var { font-style: normal; font-weight: normal; }
+caption,th { text-align: left; }
+q:before,q:after { content: ''; }
+a { text-decoration: none; }
+
+/* General */
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: transparent url('images/background.gif');
+  color: #000;
+  font: 1em "Trebuchet MS", Trebuchet, Arial, Verdana, Sans-Serif;
+  min-height: 400px; /* For Mozilla/Opera/Safari */
+}
+
+/* Headings */
+
+h1 {
+  color: #c00;
+  font: 2em Georgia, Verdana, Sans-serif;
+  letter-spacing: .2em;
+  margin: 35px 0 10px;
+}
+
+h2 {
+  color: #c00;
+  font: bold 1em "Trebuchet MS", Trebuchet, Arial, Verdana, Sans-serif;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0 0 10px;
+}
+
+h3 {
+  font: bold 1em "Trebuchet MS", Trebuchet, Arial, Verdana, Sans-serif;
+  color: #777;
+  letter-spacing: .2em;
+  margin: 40px 0 15px;
+  padding: 0 5px 5px;
+  border-bottom: 1px solid #666;
+}
+
+/* Link */
+
+a:link, a:visited {
+  color: #1777b1;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #777;
+}
+
+/* Content */
+
+#wrapper {
+  margin: 0 auto;
+  width: 700px;
+  min-height: 100%;
+  background: #fff;
+}
+
+#header {
+  background: transparent url("images/header.png") no-repeat;
+  width: 700px;
+  height: 300px;
+}
+
+#main {
+  font-size: 0.8em;
+  line-height: 1.9em;
+  margin: 20px;
+}
+
+#main p {
+  font: 1em Verdana, Arial, Sans-Serif;
+  margin: 20px 0;
+  line-height: 1.9em;
+}
+
+.sub, .aka {
+  color: #777;
+  letter-spacing: .2em;
+  margin: 20px 0 10px;
+}
+
+.sub {
+  font: bold .85em/1.6em "Trebuchet MS", Trebuchet, Arial, Verdana, Sans-serif;
+}
+
+.aka {
+  font: bold 1.1em "Trebuchet MS", Trebuchet, Arial, Verdana, Sans-serif;
+  margin: 5px 0;
+}
+
+.info {
+  color: #999;
+  font: .75em "Trebuchet MS", Trebuchet, Arial, Verdana, Sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  margin: 5px 0;
+}
+
+#main ul, #main ol {
+  margin: 10px 0 10px 30px;
+}
+
+#footer {
+  text-align: center;
+  border-top: solid 1px #ccc;
+  margin: 30px 0 0;
+}
+
+.footer-menu {
+  font: bold 1em "Trebuchet MS", Trebuchet, Arial, Verdana, Sans-serif;
+  letter-spacing: .2em;
+  color: #999;
+  margin: 15px 0;
+}
+
+#copyright {
+  color: #777;
+  font: .7em "Trebuchet MS", Trebuchet, Arial, Verdana, Sans-serif;
+  text-align: center;
+  padding: 10px 20px 10px;
+}
+
+/* Misc */
+
+blockquote {
+  color: #777;
+  margin: 0 20px;
+  padding: 0 0 0 20px;
+  border-left: 1px dotted #aaa;
+}
+
+.center {
+  margin: 15px auto;
+  text-align: center;
+}
+
+img.left {
+  float: left;
+  margin: 15px;
+}
+
+img.right {
+  float: right;
+  margin: 15px;
+}
+
+img.border {
+  border: 1px solid #777;
+  padding: 2px;
+}
+
+.separator {
+  height: 19px;
+  width: 500px;
+  background: transparent url("images/ornament2.png") no-repeat;
+  margin: 30px auto;
+}
+
+.clear { clear: both; }
+
+.entry {
+  margin: 40px 0;
+}
+
+.entry .entry-item {
+  margin: 20px 5px;
+}
+
+.entry .entry-image {
+  float: left;
+  min-width: 150px;
+  min-height: 10px;
+  line-height: 0;
+  margin: 5px 0;
+}
+
+.entry .entry-image img {
+  border: 1px solid #000;
+}
+
+.entry .entry-content {
+  float: left;
+  margin: 5px 0 0 15px;
+  width: 74%
+}
+
+.entry .entry-title {
+  color: #777;
+  font: bold 1.2em "Trebuchet MS", Trebuchet, Arial, Verdana,Sans-serif;
+  letter-spacing: .2em;
+}
+
+/* Menu */
+/* From http: //www.kriesi.at/archives/create-a-multilevel-dropdown-menu-with-css-and-improve-it-via-jquery */
+
+#nav, #nav ul {
+  float: right;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  list-style-position: outside;
+  position: relative;
+  line-height: 1.75em;
+  font-size: .9em;
+}
+#nav a {
+  display: block;
+  padding: 0 5px;
+  border: 1px solid #333;
+  color: #fff;
+  text-decoration: none;
+  background-color: #333;
+}
+#nav a:hover { background-color: #fff; color: #333; }
+#nav li { float: left; position: relative; }
+#nav ul { position: absolute; display: none; width: 100px; }
+#nav li ul a { width: 100px; height: auto; float: left; }
+#nav ul ul { top: auto; }
+#nav li ul ul { left: 112px; }
+#nav li:hover ul ul, #nav li:hover ul ul ul, #nav li:hover ul ul ul ul { display: none; }
+#nav li:hover ul, #nav li li:hover ul, #nav li li li:hover ul, #nav li li li li:hover ul { display: block; }
