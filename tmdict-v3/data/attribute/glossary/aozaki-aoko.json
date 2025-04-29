@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "a",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Aozaki Aoko",
+      "ja": "蒼崎青子",
+      "zh": "苍崎青子"
+    }
+  }
+}

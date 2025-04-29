@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "j",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "John 4:24",
+      "ja": "jn424",
+      "zh": "jn424"
+    }
+  }
+}

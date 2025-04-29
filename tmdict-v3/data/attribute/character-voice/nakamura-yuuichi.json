@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Nakamura Yuuichi",
+      "ja": "中村悠一",
+      "zh": "中村悠一"
+    }
+  }
+}

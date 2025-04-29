@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "ho",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Phoebus Catastrophe",
+      "ja": "訴状の矢文",
+      "zh": "诉状的箭书"
+    }
+  }
+}

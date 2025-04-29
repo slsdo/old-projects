@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Bellerophon",
+      "ja": "騎英の手綱",
+      "zh": "骑英之缰"
+    }
+  }
+}

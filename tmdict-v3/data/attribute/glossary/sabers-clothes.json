@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "se",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Saber’s Clothes",
+      "ja": "セイバーの服",
+      "zh": "Saber之服"
+    }
+  }
+}

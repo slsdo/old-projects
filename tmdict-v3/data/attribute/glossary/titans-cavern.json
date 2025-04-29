@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Titan’s Cavern",
+      "ja": "巨神の石室",
+      "zh": "巨神的石室"
+    }
+  }
+}

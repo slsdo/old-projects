@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "su",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Avalon",
+      "ja": "全て遠き理想郷",
+      "zh": "遗世独立的理想乡"
+    }
+  }
+}

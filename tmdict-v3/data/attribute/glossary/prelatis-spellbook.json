@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Prelati’s Spellbook",
+      "ja": "螺湮城教本",
+      "zh": "螺湮城教本"
+    }
+  }
+}

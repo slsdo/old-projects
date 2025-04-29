@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Half Moon Edition",
+      "ja": "半月版",
+      "zh": "半月版"
+    }
+  }
+}

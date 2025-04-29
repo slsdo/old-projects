@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "to",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Tohno Akiha",
+      "ja": "遠野秋葉",
+      "zh": "远野秋叶"
+    }
+  }
+}

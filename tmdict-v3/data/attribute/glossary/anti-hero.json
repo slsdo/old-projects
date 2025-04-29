@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Anti-Hero",
+      "ja": "反英雄",
+      "zh": "反英雄"
+    }
+  }
+}

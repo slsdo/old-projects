@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "w",
+    "hiragana": "wa",
+    "hiragana-row": "w"
+  },
+
+  "data": {
+    "name": {
+      "en": "Wild Wild England",
+      "ja": "ワイルドワイルドイングランド",
+      "zh": "狂野狂野的英格兰"
+    }
+  }
+}

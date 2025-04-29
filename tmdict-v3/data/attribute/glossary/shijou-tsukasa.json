@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Shijou Tsukasa",
+      "ja": "四条つかさ",
+      "zh": "四条司"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Vampire Rank VI: Dead Apostle (Lesser)",
+      "ja": "吸血鬼VI階梯：死徒（下級）",
+      "zh": "吸血鬼VI阶梯：死徒（下級）"
+    }
+  }
+}

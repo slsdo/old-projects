@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "u",
+    "hiragana": "u",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Ua—",
+      "ja": "うぁー",
+      "zh": "唔啊~"
+    }
+  }
+}

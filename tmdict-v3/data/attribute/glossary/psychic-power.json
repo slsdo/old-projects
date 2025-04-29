@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "chi",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Psychic Power",
+      "ja": "超能力",
+      "zh": "超能力"
+    }
+  }
+}

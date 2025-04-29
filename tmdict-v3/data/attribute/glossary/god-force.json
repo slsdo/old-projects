@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "g",
+    "hiragana": "ko",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "God Force",
+      "ja": "軍神五兵",
+      "zh": "军神五兵"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "he",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Persepolis",
+      "ja": "ペルセポリス",
+      "zh": "波斯波利斯"
+    }
+  }
+}

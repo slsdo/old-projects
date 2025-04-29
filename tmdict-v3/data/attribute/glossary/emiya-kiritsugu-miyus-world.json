@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "e",
+    "hiragana": "e",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Emiya Kiritsugu (Miyu’s World)",
+      "ja": "衛宮切嗣（美遊世界）",
+      "zh": "衛宮切嗣（美遊世界）"
+    }
+  }
+}

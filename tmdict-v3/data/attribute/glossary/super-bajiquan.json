@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "su",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Super Bajiquan",
+      "ja": "スーパー八極拳",
+      "zh": "超级八极拳"
+    }
+  }
+}

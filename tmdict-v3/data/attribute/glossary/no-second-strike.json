@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "n",
+    "hiragana": "mu",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "No Second Strike",
+      "ja": "无二打",
+      "zh": "无二打"
+    }
+  }
+}

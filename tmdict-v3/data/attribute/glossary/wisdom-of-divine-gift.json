@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "w",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Wisdom of Divine Gift",
+      "ja": "神授の智慧",
+      "zh": "神授的智慧"
+    }
+  }
+}

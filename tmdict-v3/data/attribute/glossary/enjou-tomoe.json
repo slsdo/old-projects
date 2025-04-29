@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "e",
+    "hiragana": "e",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Enjou Tomoe",
+      "ja": "臙条巴",
+      "zh": "胭条巴"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "sa",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Servant Card",
+      "ja": "サーヴァントカード",
+      "zh": "从者卡片"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "g",
+    "hiragana": "o",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Gate of Babylon",
+      "ja": "王の財宝",
+      "zh": "王之财宝"
+    }
+  }
+}

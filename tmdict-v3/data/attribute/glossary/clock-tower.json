@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "to",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Clock Tower",
+      "ja": "時計塔",
+      "zh": "时钟塔"
+    }
+  }
+}

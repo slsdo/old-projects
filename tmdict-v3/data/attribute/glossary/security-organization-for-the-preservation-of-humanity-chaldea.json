@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Security Organization for the Preservation of Humanity - Chaldea",
+      "ja": "人理保障機関 カルデア",
+      "zh": "人理保障机关·迦勒底"
+    }
+  }
+}

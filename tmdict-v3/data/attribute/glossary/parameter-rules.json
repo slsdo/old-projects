@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Parameter Rules",
+      "ja": "パラメータールール",
+      "zh": "参数规则"
+    }
+  }
+}

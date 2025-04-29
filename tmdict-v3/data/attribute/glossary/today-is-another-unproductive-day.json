@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Today is Another Unproductive Day!",
+      "ja": "今日もいちにちのびのびとー！",
+      "zh": "今天也能悠哉一整天哇！"
+    }
+  }
+}

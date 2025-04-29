@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Fairouz Ai",
+      "ja": "ファイルーズあい",
+      "zh": "Fairouz Ai"
+    }
+  }
+}

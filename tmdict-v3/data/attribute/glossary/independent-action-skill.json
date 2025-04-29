@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "i",
+    "hiragana": "ta",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Independent Action Skill",
+      "ja": "単独行動スキル",
+      "zh": "单独行动技能"
+    }
+  }
+}

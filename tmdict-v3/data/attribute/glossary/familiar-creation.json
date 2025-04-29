@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "tsu",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Familiar Creation",
+      "ja": "使い魔作成",
+      "zh": "制作使魔"
+    }
+  }
+}

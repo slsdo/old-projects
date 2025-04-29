@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "offensive skill",
+      "ja": "攻撃スキル",
+      "zh": "攻击技能"
+    }
+  }
+}

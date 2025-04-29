@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "hi",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Human Species",
+      "ja": "人間種",
+      "zh": "人类种"
+    }
+  }
+}

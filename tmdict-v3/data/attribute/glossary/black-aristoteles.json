@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ko",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Black Aristoteles",
+      "ja": "黒いアリストテレス",
+      "zh": "黑色的亚里士多德"
+    }
+  }
+}

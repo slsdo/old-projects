@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "a",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Subspecies Holy Grail Wars",
+      "ja": "亜種聖杯戦争",
+      "zh": "亚种圣杯战争"
+    }
+  }
+}

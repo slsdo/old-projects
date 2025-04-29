@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "ma",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Mapo Tofu",
+      "ja": "麻婆豆腐",
+      "zh": "麻婆豆腐"
+    }
+  }
+}

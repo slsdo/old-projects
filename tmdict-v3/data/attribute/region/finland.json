@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Finland",
+      "ja": "フィンランド",
+      "zh": "芬兰"
+    }
+  }
+}

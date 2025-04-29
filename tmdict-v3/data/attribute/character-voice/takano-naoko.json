@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Takano Naoko",
+      "ja": "高野直子",
+      "zh": "高野直子"
+    }
+  }
+}

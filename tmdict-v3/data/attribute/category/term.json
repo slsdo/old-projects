@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "term",
+      "ja": "用語",
+      "zh": "用语"
+    }
+  }
+}

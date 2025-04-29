@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "yo",
+    "hiragana-row": "y"
+  },
+
+  "data": {
+    "name": {
+      "en": "Counter Force",
+      "ja": "抑止力",
+      "zh": "抑止力"
+    }
+  }
+}

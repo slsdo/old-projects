@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "so",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Sword Camelot",
+      "ja": "ソード・キャメロット",
+      "zh": "Sword Camelot"
+    }
+  }
+}

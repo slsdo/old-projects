@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "k",
+    "hiragana": "ke",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Kayneth El-Melloi Archibald",
+      "ja": "ケイネス・エルメロイ・アーチボルト",
+      "zh": "肯尼斯·埃尔梅罗·阿其波卢德"
+    }
+  }
+}

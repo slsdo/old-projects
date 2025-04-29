@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Bašmu",
+      "ja": "バシュム",
+      "zh": "巴修姆"
+    }
+  }
+}

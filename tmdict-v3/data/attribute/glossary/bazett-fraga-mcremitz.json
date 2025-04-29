@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Bazett Fraga McRemitz",
+      "ja": "バゼット・フラガ・マクレミッツ",
+      "zh": "巴泽特·弗拉加·马克雷密斯"
+    }
+  }
+}

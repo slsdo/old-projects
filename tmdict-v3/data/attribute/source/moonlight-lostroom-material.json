@@ -1,0 +1,17 @@
+{
+  "type": "source",
+  "releaseDate": "2018-07-28",
+  "weight": 20180700,
+
+  "attribute": {
+    "work": "fate-go"
+  },
+
+  "data": {
+    "name": {
+      "en": "MOONLIGHT/LOSTROOM material",
+      "ja": "MOONLIGHT/LOSTROOM material",
+      "zh": "MOONLIGHT/LOSTROOM material"
+    }
+  }
+}

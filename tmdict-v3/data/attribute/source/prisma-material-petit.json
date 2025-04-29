@@ -1,0 +1,17 @@
+{
+  "type": "source",
+  "releaseDate": "2018-01-31",
+  "weight": 20180100,
+
+  "attribute": {
+    "work": "prisma-illya"
+  },
+
+  "data": {
+    "name": {
+      "en": "PRISMA material/petit",
+      "ja": "PRISMA material/petit",
+      "zh": "PRISMA material/petit"
+    }
+  }
+}

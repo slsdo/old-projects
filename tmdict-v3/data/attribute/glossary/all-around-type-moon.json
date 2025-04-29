@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "o",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "All Around Type-Moon",
+      "ja": "オールアラウンドタイプムーン",
+      "zh": "ALL AROUND TYPE-MOON"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "designation",
+      "ja": "呼称",
+      "zh": "称呼"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "ma",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Mahou Tsukai no Yoru",
+      "ja": "魔法使いの夜",
+      "zh": "魔法使之夜"
+    }
+  }
+}

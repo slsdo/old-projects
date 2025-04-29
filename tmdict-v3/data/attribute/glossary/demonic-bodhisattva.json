@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "ma",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Demonic Bodhisattva",
+      "ja": "魔性菩薩",
+      "zh": "魔性菩萨"
+    }
+  }
+}

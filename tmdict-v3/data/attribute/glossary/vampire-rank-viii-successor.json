@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Vampire Rank VIII: Successor",
+      "ja": "吸血鬼VIII階梯：後継者",
+      "zh": "吸血鬼VIII阶梯：后继者"
+    }
+  }
+}

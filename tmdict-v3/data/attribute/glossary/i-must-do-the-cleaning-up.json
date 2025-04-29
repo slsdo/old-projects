@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "i",
+    "hiragana": "sa",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "I Must Do the Cleaning Up",
+      "ja": "始末は、わたしがつけなくちゃ",
+      "zh": "必须由我来了断"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Mizushima Takahiro",
+      "ja": "水島大宙",
+      "zh": "水岛大宙"
+    }
+  }
+}

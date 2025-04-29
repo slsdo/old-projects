@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Balmung",
+      "ja": "幻想大剣・天魔失墜",
+      "zh": "幻想大剑·天魔失坠"
+    }
+  }
+}

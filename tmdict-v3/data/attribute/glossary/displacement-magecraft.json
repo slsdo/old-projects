@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "chi",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Displacement Magecraft",
+      "ja": "置換魔術",
+      "zh": "置换魔术"
+    }
+  }
+}

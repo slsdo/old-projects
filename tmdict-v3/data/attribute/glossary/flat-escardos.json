@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Flat Escardos",
+      "ja": "フラット・エスカルドス",
+      "zh": "弗拉特·艾斯卡尔德斯"
+    }
+  }
+}

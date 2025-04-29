@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "ku",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Lancer of Black",
+      "ja": "“黒”のランサー",
+      "zh": "“黑”Lancer"
+    }
+  }
+}

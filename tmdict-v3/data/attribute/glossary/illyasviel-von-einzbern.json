@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "i",
+    "hiragana": "i",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Illyasviel von Einzbern",
+      "ja": "イリヤスフィール・フォン・アインツベルン",
+      "zh": "依莉雅苏菲尔·冯·爱因兹贝伦"
+    }
+  }
+}

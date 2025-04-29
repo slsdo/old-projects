@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Abe Akina",
+      "ja": "阿部彬名",
+      "zh": "阿部彬名"
+    }
+  }
+}

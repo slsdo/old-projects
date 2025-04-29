@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "i",
+    "hiragana": "wa",
+    "hiragana-row": "w"
+  },
+
+  "data": {
+    "name": {
+      "en": "I Wanna Go to the Crocodile Garden",
+      "ja": "ワニ園に行きたいわたし",
+      "zh": "我要住在鳄鱼的国家"
+    }
+  }
+}

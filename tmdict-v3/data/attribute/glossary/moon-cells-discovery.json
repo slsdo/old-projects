@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "mu",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Moon Cell’s Discovery",
+      "ja": "ムーンセルの発見",
+      "zh": "Moon Cell的发现"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "ta",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Dan Blackmore",
+      "ja": "ダン・ブラックモア",
+      "zh": "丹·布拉克莫尔"
+    }
+  }
+}

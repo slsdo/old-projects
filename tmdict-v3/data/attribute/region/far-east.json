@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Far East",
+      "ja": "極東",
+      "zh": "远东"
+    }
+  }
+}

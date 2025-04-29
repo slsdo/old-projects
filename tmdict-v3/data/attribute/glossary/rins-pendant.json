@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "r",
+    "hiragana": "ri",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Rin’s Pendant",
+      "ja": "凜のペンダント",
+      "zh": "凛之垂饰"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "yu",
+    "hiragana-row": "y"
+  },
+
+  "data": {
+    "name": {
+      "en": "Bow",
+      "ja": "弓",
+      "zh": "弓"
+    }
+  }
+}

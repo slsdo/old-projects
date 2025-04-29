@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Father Simon",
+      "ja": "シモン神父",
+      "zh": "西蒙神父"
+    }
+  }
+}

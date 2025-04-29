@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "se",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Baptism Sacrament",
+      "ja": "洗礼詠唱",
+      "zh": "洗礼咏唱"
+    }
+  }
+}

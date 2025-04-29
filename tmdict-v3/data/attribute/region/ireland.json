@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Ireland",
+      "ja": "アイルランド",
+      "zh": "爱尔兰"
+    }
+  }
+}

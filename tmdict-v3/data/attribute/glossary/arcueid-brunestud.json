@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "a",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Arcueid Brunestud",
+      "ja": "アルクェイド・ブリュンスタッド",
+      "zh": "爱尔奎特·布伦史塔德"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "tsu",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Far Side of the Moon",
+      "ja": "月の裏側",
+      "zh": "月的里侧"
+    }
+  }
+}

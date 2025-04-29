@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "e",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "F-15J",
+      "ja": "F15J",
+      "zh": "F15J"
+    }
+  }
+}

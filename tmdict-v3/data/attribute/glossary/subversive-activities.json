@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Subversive Activities",
+      "ja": "破壊工作",
+      "zh": "破坏工作"
+    }
+  }
+}

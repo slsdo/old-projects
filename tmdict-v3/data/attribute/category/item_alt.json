@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 3,
+
+  "data": {
+    "name": {
+      "en": "item",
+      "ja": "アイテム名",
+      "zh": "物品名"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "tsu",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Tsukihime",
+      "ja": "月姫",
+      "zh": "月姬"
+    }
+  }
+}

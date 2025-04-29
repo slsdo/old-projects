@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Sparta",
+      "ja": "スパルタ",
+      "zh": "斯巴达"
+    }
+  }
+}

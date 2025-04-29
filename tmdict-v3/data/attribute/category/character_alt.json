@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "character",
+      "ja": "人物名",
+      "zh": "人物名"
+    }
+  }
+}

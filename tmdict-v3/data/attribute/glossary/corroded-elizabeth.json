@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "e",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Corroded Elizabeth",
+      "ja": "エリザベート・ヴォイド",
+      "zh": "虚无化伊丽莎白"
+    }
+  }
+}

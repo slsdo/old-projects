@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Hashi Takaya",
+      "ja": "土師孝也",
+      "zh": "土师孝也"
+    }
+  }
+}

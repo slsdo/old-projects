@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "to",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Twice H. Pieceman",
+      "ja": "トワイス・H・ピースマン",
+      "zh": "特维斯·H·皮斯曼"
+    }
+  }
+}

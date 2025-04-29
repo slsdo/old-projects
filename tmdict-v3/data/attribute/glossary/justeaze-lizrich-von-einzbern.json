@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "j",
+    "hiragana": "yu",
+    "hiragana-row": "y"
+  },
+
+  "data": {
+    "name": {
+      "en": "Justeaze Lizrich von Einzbern",
+      "ja": "ユスティーツァ・リズライヒ・フォン・アインツベルン",
+      "zh": "羽斯缇萨·里姿莱希·冯·爱因兹贝伦"
+    }
+  }
+}

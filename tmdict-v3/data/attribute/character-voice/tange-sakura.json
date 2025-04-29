@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Tange Sakura",
+      "ja": "丹下桜",
+      "zh": "丹下樱"
+    }
+  }
+}

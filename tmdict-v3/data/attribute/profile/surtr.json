@@ -1,0 +1,54 @@
+{
+  "type": "profile",
+  "uid": "225.8:fgo",
+
+  "img": [],
+
+  "attribute": {
+    "star": "_na",
+    "gender": "male",
+    "origin": "norse-mythology",
+    "alignment": "chaotic-evil",
+    "secondary-alignment": "earth",
+    "strength.parameter": "ap",
+    "endurance.parameter": "ex",
+    "agility.parameter": "d",
+    "magic.parameter": "ex",
+    "luck.parameter": "a",
+    "noble-phantasm.parameter": "ap",
+    "character-setting": "sakurai-hikaru",
+    "illustrator": "shaka-p",
+    "character-voice": "tsuda-kenjirou",
+    "major-appearances": ["fate-grand-order"]
+  },
+
+  "data": {
+    "name": {
+      "en": "Surtr",
+      "ja": "スルト",
+      "zh": "苏尔特"
+    },
+    "height": {
+      "en": "7m~1000m+",
+      "ja": "7m~1000m以上",
+      "zh": "7m~1000m以上"
+    },
+    "weight": {
+      "en": "1t~???t",
+      "ja": "1t~？？？t",
+      "zh": "1t~？？？t"
+    },
+    "class": {
+      "en": "Ancient Giant (Giant Species), Saber",
+      "ja": "エソツェソト・ヅャイアソト（巨人種）, セイバー",
+      "zh": "Ancient Giant（巨人种）, Saber"
+    }
+  },
+
+  "layout": [
+    ["class"],
+    ["gender", "origin", "alignment", "secondary-alignment", "height", "weight"],
+    ["strength.parameter", "endurance.parameter", "agility.parameter", "magic.parameter", "luck.parameter", "noble-phantasm.parameter"],
+    ["character-setting", "illustrator", "character-voice", "major-appearances"]
+  ]
+}

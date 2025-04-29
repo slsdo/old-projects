@@ -1,0 +1,64 @@
+{
+  "type": "profile",
+  "uid": "329:fgosvt",
+
+  "img": [
+    { "weight": 1, "id": "img_s1", "src": "S0329a.png" },
+    { "weight": 2, "id": "img_s2", "src": "S0329b.png" },
+    { "weight": 3, "id": "img_s3", "src": "S0329c.png" },
+    { "weight": 4, "id": "img_s4", "src": "S0329d.png" },
+    { "weight": 5, "id": "img_s4full", "src": "S0329e_s4full.png" },
+    { "weight": 6, "id": "img_april-fools", "src": "S0329f_april-fools.png" }
+  ],
+
+  "attribute": {
+    "class": "lancer",
+    "star": "star_5",
+    "gender": "male",
+    "origin": "historical-fact",
+    "region": "japan",
+    "alignment": "true-neutral",
+    "strength.parameter": "b",
+    "endurance.parameter": "c",
+    "agility.parameter": "bp",
+    "magic.parameter": "c",
+    "luck.parameter": "am",
+    "noble-phantasm.parameter": "ex",
+    "character-setting": "keikenchi",
+    "illustrator": "pako",
+    "character-voice": ["kase-yasuyuki", "horie-yui"],
+    "major-appearances": "fate-grand-order",
+    "related.profile": "sakamoto-ryouma"
+  },
+
+  "data": {
+    "name": {
+      "en": "Sakamoto Ryouma (Lancer)",
+      "ja": "坂本龍馬（ランサー）",
+      "zh": "坂本龙马（Lancer）"
+    },
+    "true-name": {
+      "en": "Sakamoto Ryouma",
+      "ja": "坂本龍馬",
+      "zh": "坂本龙马"
+    },
+    "height": {
+      "en": "178cm",
+      "ja": "178cm",
+      "zh": "178cm"
+    },
+    "weight": {
+      "en": "72kg",
+      "ja": "72kg",
+      "zh": "72kg"
+    }
+  },
+
+  "layout": [
+    ["star", "class"],
+    ["true-name", "gender", "origin", "region", "alignment", "height", "weight"],
+    ["strength.parameter", "endurance.parameter", "agility.parameter", "magic.parameter", "luck.parameter", "noble-phantasm.parameter"],
+    ["character-setting", "illustrator", "character-voice", "major-appearances"],
+    ["related.profile"]
+  ]
+}

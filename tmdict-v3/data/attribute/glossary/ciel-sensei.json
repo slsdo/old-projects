@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Ciel-sensei",
+      "ja": "知得留先生",
+      "zh": "知得留老师"
+    }
+  }
+}

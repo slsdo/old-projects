@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Kirimoto Takuya",
+      "ja": "桐本拓哉",
+      "zh": "桐本拓哉"
+    }
+  }
+}

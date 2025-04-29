@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "ta",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Darius Ainsworth",
+      "ja": "ダリウス・エインズワース",
+      "zh": "大流士・恩兹华斯"
+    }
+  }
+}

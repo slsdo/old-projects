@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Brynhildr Romantia",
+      "ja": "死が二人を分断つまで",
+      "zh": "即便死亡将你我别离"
+    }
+  }
+}

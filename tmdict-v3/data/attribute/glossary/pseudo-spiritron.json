@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Pseudo-Spiritron",
+      "ja": "疑似霊子",
+      "zh": "疑似灵子"
+    }
+  }
+}

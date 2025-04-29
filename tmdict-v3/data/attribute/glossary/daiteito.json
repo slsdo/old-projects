@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "ta",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Daiteito",
+      "ja": "大帝都",
+      "zh": "大帝都"
+    }
+  }
+}

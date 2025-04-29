@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Banshoku Yuutai",
+      "ja": "万色悠滞",
+      "zh": "万色悠滞"
+    }
+  }
+}

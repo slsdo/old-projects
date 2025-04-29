@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Bram Nuada-Re Sophia-Ri",
+      "ja": "ブラム・ヌァザレ・ソフィアリ",
+      "zh": "布拉姆·奴阿萨蕾·索菲亚丽"
+    }
+  }
+}

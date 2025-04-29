@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "e",
+    "hiragana": "te",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Enuma Elish",
+      "ja": "天地乖離す開闢の星",
+      "zh": "天地乖离·开辟之星"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "sa",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Sakurament",
+      "ja": "サクラメント",
+      "zh": "樱货币"
+    }
+  }
+}

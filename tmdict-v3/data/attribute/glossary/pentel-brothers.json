@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "he",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Pentel Brothers",
+      "ja": "ペンテル兄弟",
+      "zh": "派提尔兄弟"
+    }
+  }
+}

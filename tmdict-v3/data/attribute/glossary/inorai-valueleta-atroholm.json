@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "i",
+    "hiragana": "i",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Inorai Valueleta Atroholm",
+      "ja": "イノライ・バリュエレータ・アトロホルム",
+      "zh": "伊诺莱·巴留叶雷塔·阿特洛霍姆"
+    }
+  }
+}

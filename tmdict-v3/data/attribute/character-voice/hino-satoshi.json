@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Hino Satoshi",
+      "ja": "日野聡",
+      "zh": "日野聪"
+    }
+  }
+}

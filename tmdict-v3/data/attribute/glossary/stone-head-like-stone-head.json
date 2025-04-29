@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "i",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Stone-Head-Like Stone Head",
+      "ja": "いしあたまな石頭",
+      "zh": "石头脑袋的石头脑袋"
+    }
+  }
+}

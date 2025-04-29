@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "ma",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Mana Depletion",
+      "ja": "魔力枯渇",
+      "zh": "魔力枯竭"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "q",
+    "hiragana": "ku",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Queen’s Glass Game",
+      "ja": "永久機関・少女帝国",
+      "zh": "永久机关·少女帝国"
+    }
+  }
+}

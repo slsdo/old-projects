@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Blut die Schwester",
+      "ja": "血の姉妹",
+      "zh": "血之姐妹"
+    }
+  }
+}

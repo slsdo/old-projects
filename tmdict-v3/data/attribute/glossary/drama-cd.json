@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "to",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Drama CD",
+      "ja": "ドラマCD",
+      "zh": "Drama CD"
+    }
+  }
+}

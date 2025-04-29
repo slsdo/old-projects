@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "w",
+    "hiragana": "wa",
+    "hiragana-row": "w"
+  },
+
+  "data": {
+    "name": {
+      "en": "Warcueid",
+      "ja": "ワルクェイド",
+      "zh": "W爱尔奎特"
+    }
+  }
+}

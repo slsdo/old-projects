@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "r",
+    "hiragana": "ru",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Rufleus Nuada-Re Eulyphis",
+      "ja": "ルフレウス・ヌァザレ・ユリフイス",
+      "zh": "卢弗雷乌斯·努亚达雷·尤利菲斯"
+    }
+  }
+}

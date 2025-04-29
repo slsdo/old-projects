@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "ta",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Demon Hunter Organization",
+      "ja": "退魔組織",
+      "zh": "退魔组织"
+    }
+  }
+}

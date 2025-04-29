@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "w",
+    "hiragana": "na",
+    "hiragana-row": "n"
+  },
+
+  "data": {
+    "name": {
+      "en": "Why?",
+      "ja": "なんでさ。",
+      "zh": "为什么啊。"
+    }
+  }
+}

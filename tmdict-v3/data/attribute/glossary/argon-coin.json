@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Argon Coin",
+      "ja": "金羊の皮",
+      "zh": "金羊皮"
+    }
+  }
+}

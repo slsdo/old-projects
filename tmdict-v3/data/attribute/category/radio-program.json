@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "radio program",
+      "ja": "ラジオ番組",
+      "zh": "无线广播节目"
+    }
+  }
+}

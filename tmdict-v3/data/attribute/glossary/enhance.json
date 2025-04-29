@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "e",
+    "hiragana": "e",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Enhance",
+      "ja": "エンハウンス",
+      "zh": "安翰斯"
+    }
+  }
+}

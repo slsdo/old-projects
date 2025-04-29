@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "yo",
+    "hiragana-row": "y"
+  },
+
+  "data": {
+    "name": {
+      "en": "Fairies",
+      "ja": "妖精",
+      "zh": "妖精"
+    }
+  }
+}

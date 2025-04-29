@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Persia",
+      "ja": "ペルシア",
+      "zh": "波斯"
+    }
+  }
+}

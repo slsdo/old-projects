@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "hi",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "BBB",
+      "ja": "BBB",
+      "zh": "BBB"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "su",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Strike Air",
+      "ja": "風王鉄槌",
+      "zh": "风王铁槌"
+    }
+  }
+}

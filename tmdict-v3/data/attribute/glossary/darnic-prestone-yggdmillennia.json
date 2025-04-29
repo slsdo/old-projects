@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "ta",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Darnic Prestone Yggdmillennia",
+      "ja": "ダーニック・プレストーン・ユグドミレニア",
+      "zh": "达尼克·普雷斯通·千界树"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "unknown",
+      "ja": "不明",
+      "zh": "不明"
+    }
+  }
+}

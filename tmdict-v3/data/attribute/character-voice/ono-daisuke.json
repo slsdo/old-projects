@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Ono Daisuke",
+      "ja": "小野大輔",
+      "zh": "小野大辅"
+    }
+  }
+}

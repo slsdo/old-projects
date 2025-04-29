@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "se",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Vermilion Akiha",
+      "ja": "赤主秋葉",
+      "zh": "赤主秋叶"
+    }
+  }
+}

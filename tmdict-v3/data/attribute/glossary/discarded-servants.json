@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "ri",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Discarded Servants",
+      "ja": "リストラ",
+      "zh": "裁员"
+    }
+  }
+}

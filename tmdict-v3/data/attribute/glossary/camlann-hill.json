@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Camlann Hill",
+      "ja": "カムランの丘",
+      "zh": "卡姆兰之丘"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "y",
+    "hiragana": "yu",
+    "hiragana-row": "y"
+  },
+
+  "data": {
+    "name": {
+      "en": "Yggdmillennia",
+      "ja": "ユグドミレニア",
+      "zh": "尤格多米雷尼亚"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "u",
+    "hiragana": "mu",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Unlimited Blade Works",
+      "ja": "無限の剣製",
+      "zh": "无限之剑制"
+    }
+  }
+}

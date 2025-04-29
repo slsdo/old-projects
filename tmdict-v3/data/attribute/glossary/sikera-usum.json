@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Sikera Ušum",
+      "ja": "驕慢王の美酒",
+      "zh": "骄慢王的美酒"
+    }
+  }
+}

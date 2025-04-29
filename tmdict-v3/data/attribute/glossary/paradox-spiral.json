@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "mu",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Paradox Spiral",
+      "ja": "矛盾螺旋",
+      "zh": "矛盾螺旋"
+    }
+  }
+}

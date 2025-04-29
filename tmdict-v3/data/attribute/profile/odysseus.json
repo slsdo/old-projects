@@ -1,0 +1,63 @@
+{
+  "type": "profile",
+  "uid": "277:fgosvt",
+
+  "img": [
+    { "weight": 1, "id": "img_s1", "src": "S0277a.png" },
+    { "weight": 4, "id": "img_s4", "src": "S0277b.png" },
+    { "weight": 4, "id": "img_s4", "src": "S0277c.png" },
+    { "weight": 4, "id": "img_s4", "src": "S0277d.png" },
+    { "weight": 5, "id": "img_april-fools", "src": "S0277e_april-fools.png" },
+    { "weight": 6, "id": "img_aegis-s2", "src": "S0277f_aegis-s2.png" },
+    { "weight": 7, "id": "img_aegis-s3", "src": "S0277g_aegis-s3.png" }
+  ],
+
+  "attribute": {
+    "class": "rider",
+    "star": "star_5",
+    "gender": "male",
+    "origin": "greek-mythology",
+    "region": "europe",
+    "alignment": "neutral-good",
+    "strength.parameter": "c",
+    "endurance.parameter": "ap",
+    "agility.parameter": "d",
+    "magic.parameter": "bp",
+    "luck.parameter": "ex",
+    "noble-phantasm.parameter": "b",
+    "character-setting": "sakurai-hikaru",
+    "illustrator": "redjuice",
+    "character-voice": "kirimoto-takuya",
+    "major-appearances": "fate-grand-order"
+  },
+
+  "data": {
+    "name": {
+      "en": "Odysseus",
+      "ja": "オデュッセウス",
+      "zh": "奥德修斯"
+    },
+    "true-name": {
+      "en": "Odysseus",
+      "ja": "オデュッセウス",
+      "zh": "奥德修斯"
+    },
+    "height": {
+      "en": "179cm",
+      "ja": "179cm",
+      "zh": "179cm"
+    },
+    "weight": {
+      "en": "63kg",
+      "ja": "63kg",
+      "zh": "63kg"
+    }
+  },
+
+  "layout": [
+    ["star", "class"],
+    ["true-name", "gender", "origin", "region", "alignment", "height", "weight"],
+    ["strength.parameter", "endurance.parameter", "agility.parameter", "magic.parameter", "luck.parameter", "noble-phantasm.parameter"],
+    ["character-setting", "illustrator", "character-voice", "major-appearances"]
+  ]
+}

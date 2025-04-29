@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Ootsuka Houchuu",
+      "ja": "大塚芳忠",
+      "zh": "大冢芳忠"
+    }
+  }
+}

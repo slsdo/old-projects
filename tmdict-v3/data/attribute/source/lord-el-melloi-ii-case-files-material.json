@@ -1,0 +1,17 @@
+{
+  "type": "source",
+  "releaseDate": "2019-12-28",
+  "weight": 20191200,
+
+  "attribute": {
+    "work": "lord-el-melloi-ii"
+  },
+
+  "data": {
+    "name": {
+      "en": "Lord El-Melloi II Case Files material",
+      "ja": "ロード・エルメロイⅡ世の事件簿 material",
+      "zh": "君主·埃尔梅罗二世事件簿 material"
+    }
+  }
+}

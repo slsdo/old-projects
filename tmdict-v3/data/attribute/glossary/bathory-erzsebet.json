@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Báthory Erzsébet",
+      "ja": "鮮血魔嬢",
+      "zh": "鲜血魔女"
+    }
+  }
+}

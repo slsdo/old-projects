@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "sa",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Sir Lancelot",
+      "ja": "サー・ランスロット",
+      "zh": "兰斯洛特爵士"
+    }
+  }
+}

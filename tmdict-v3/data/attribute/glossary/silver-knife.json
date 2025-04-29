@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Silver Knife",
+      "ja": "銀のナイフ",
+      "zh": "银之刀"
+    }
+  }
+}

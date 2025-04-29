@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "_",
+    "hiragana": "yo",
+    "hiragana-row": "y"
+  },
+
+  "data": {
+    "name": {
+      "en": "404 Light Years",
+      "ja": "404光年",
+      "zh": "404光年"
+    }
+  }
+}

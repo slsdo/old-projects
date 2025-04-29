@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Fuyuki Central Building",
+      "ja": "冬木センタービル",
+      "zh": "冬木中央大厦"
+    }
+  }
+}

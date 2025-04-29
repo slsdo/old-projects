@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "he",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Held Krieger",
+      "ja": "ヘルト・クリーガー",
+      "zh": "Held Krieger"
+    }
+  }
+}

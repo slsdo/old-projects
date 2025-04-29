@@ -1,0 +1,17 @@
+{
+  "type": "source",
+  "releaseDate": "2010-08-13",
+  "weight": 20100800,
+
+  "attribute": {
+    "work": "misc"
+  },
+
+  "data": {
+    "name": {
+      "en": "HibiChika Complete Capture Book",
+      "ja": "ひびちか完全攻略本",
+      "zh": "响键的完全攻略本"
+    }
+  }
+}

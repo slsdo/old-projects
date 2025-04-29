@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "e",
+    "hiragana": "e",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Elizabeth Bathory",
+      "ja": "エリザベート＝バートリー",
+      "zh": "伊丽莎白·巴托里"
+    }
+  }
+}

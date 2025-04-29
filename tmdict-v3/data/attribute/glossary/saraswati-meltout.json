@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "sa",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Saraswati Meltout",
+      "ja": "弁財天五絃琵琶",
+      "zh": "弁财天五弦琵琶"
+    }
+  }
+}

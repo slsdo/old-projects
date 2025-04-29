@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Takeuchi Ryouta",
+      "ja": "竹内良太",
+      "zh": "竹内良太"
+    }
+  }
+}

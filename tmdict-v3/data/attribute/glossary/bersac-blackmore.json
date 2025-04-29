@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "he",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Bersac Blackmore",
+      "ja": "ベルサック・ブラックモア",
+      "zh": "贝尔萨克·布拉克莫亚"
+    }
+  }
+}

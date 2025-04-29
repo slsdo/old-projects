@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Mesopotamia",
+      "ja": "メソポタミア",
+      "zh": "美索不达米亚"
+    }
+  }
+}

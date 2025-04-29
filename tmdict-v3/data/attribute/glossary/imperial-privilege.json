@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "i",
+    "hiragana": "ko",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Imperial Privilege",
+      "ja": "皇帝特権",
+      "zh": "皇帝特权"
+    }
+  }
+}

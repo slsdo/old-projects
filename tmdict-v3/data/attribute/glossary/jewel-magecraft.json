@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "j",
+    "hiragana": "ho",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Jewel Magecraft",
+      "ja": "宝石魔術",
+      "zh": "宝石魔术"
+    }
+  }
+}

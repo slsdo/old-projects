@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Shirou’s Room",
+      "ja": "士郎の部屋",
+      "zh": "士郎的房间"
+    }
+  }
+}

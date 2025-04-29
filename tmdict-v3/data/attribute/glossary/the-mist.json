@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "sa",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "The Mist",
+      "ja": "暗黒霧都",
+      "zh": "暗黑雾都"
+    }
+  }
+}

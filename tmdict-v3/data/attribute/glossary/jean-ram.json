@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "j",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Jean Ram",
+      "ja": "ジーン・ラム",
+      "zh": "金·拉姆"
+    }
+  }
+}

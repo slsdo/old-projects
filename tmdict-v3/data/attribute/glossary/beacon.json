@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "no",
+    "hiragana-row": "n"
+  },
+
+  "data": {
+    "name": {
+      "en": "Beacon",
+      "ja": "狼煙",
+      "zh": "狼烟"
+    }
+  }
+}

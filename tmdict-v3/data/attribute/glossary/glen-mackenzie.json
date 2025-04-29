@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "g",
+    "hiragana": "ku",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Glen Mackenzie",
+      "ja": "グレン・マッケンジー",
+      "zh": "古兰·麦肯锡"
+    }
+  }
+}

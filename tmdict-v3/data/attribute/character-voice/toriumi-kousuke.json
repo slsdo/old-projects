@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Tange Sakura",
+      "ja": "鳥海浩輔",
+      "zh": "鸟海浩辅"
+    }
+  }
+}

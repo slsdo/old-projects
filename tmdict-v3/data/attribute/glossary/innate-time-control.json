@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "i",
+    "hiragana": "ta",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Innate Time Control",
+      "ja": "固有時制御",
+      "zh": "固有時制御"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Disciplinary Chairperson",
+      "ja": "風紀委員長",
+      "zh": "风纪委员长"
+    }
+  }
+}

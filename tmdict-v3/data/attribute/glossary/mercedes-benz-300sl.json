@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "me",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Mercedes-Benz 300SL",
+      "ja": "メルセデス・ベンツ300SL",
+      "zh": "梅赛德斯·奔驰 300SL"
+    }
+  }
+}

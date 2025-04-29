@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "chi",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Diatrecon Aster Logche",
+      "ja": "宙駆ける星の穂先",
+      "zh": "驰空之星的枪尖"
+    }
+  }
+}

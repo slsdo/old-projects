@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "he",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Serpent",
+      "ja": "蛇",
+      "zh": "蛇"
+    }
+  }
+}

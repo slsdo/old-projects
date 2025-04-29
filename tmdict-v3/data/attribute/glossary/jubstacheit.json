@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "j",
+    "hiragana": "yu",
+    "hiragana-row": "y"
+  },
+
+  "data": {
+    "name": {
+      "en": "Jubstacheit",
+      "ja": "ユーブスタクハイト",
+      "zh": "尤布斯塔库哈依德"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "ho",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Arks of the Stars",
+      "ja": "星舟",
+      "zh": "星舟"
+    }
+  }
+}

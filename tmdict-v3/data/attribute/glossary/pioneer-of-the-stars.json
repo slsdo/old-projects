@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "ho",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Pioneer of the Stars",
+      "ja": "星の開拓者",
+      "zh": "星之开拓者"
+    }
+  }
+}

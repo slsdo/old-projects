@@ -1,0 +1,11 @@
+{
+  "type": "gender",
+
+  "data": {
+    "name": {
+      "en": "Male",
+      "ja": "男性",
+      "zh": "男性"
+    }
+  }
+}

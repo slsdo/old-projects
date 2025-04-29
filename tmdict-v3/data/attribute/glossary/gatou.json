@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "g",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Gatou",
+      "ja": "ガトー",
+      "zh": "臥藤"
+    }
+  }
+}

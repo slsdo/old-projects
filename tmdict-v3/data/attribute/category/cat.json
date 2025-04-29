@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "cat",
+      "ja": "猫名",
+      "zh": "猫名"
+    }
+  }
+}

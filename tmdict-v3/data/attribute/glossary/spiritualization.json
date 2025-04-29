@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "re",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Spiritualization",
+      "ja": "霊体化",
+      "zh": "灵体化"
+    }
+  }
+}

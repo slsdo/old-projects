@@ -1,0 +1,11 @@
+{
+  "type": "content-id",
+
+  "data": {
+    "name": {
+      "en": "Class Skills",
+      "ja": "クラススキル",
+      "zh": "职阶技能"
+    }
+  }
+}

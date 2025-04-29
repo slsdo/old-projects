@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "w",
+    "hiragana": "u",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Waver Velvet",
+      "ja": "ウェイバー・ベルベット",
+      "zh": "维瓦·维尔维特"
+    }
+  }
+}

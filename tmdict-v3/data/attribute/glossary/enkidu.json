@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "e",
+    "hiragana": "te",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Enkidu",
+      "ja": "天の鎖",
+      "zh": "天之锁"
+    }
+  }
+}

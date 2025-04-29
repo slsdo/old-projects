@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "u",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Vasavi Shakti",
+      "ja": "日輪よ、死に随え",
+      "zh": "日轮啊，顺从死亡"
+    }
+  }
+}

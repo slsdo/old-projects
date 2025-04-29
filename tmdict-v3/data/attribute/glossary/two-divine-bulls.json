@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "ni",
+    "hiragana-row": "n"
+  },
+
+  "data": {
+    "name": {
+      "en": "Two Divine Bulls",
+      "ja": "二頭の神牛",
+      "zh": "两头神牛"
+    }
+  }
+}

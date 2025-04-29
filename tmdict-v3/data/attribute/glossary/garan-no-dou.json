@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "g",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Garan no Dou",
+      "ja": "伽藍の堂",
+      "zh": "伽蓝之堂"
+    }
+  }
+}

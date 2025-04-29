@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Magus of Sealing Designation",
+      "ja": "封印指定の魔術師",
+      "zh": "封印指定的魔术师"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "e",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Mount Enzou",
+      "ja": "円蔵山",
+      "zh": "圆藏山"
+    }
+  }
+}

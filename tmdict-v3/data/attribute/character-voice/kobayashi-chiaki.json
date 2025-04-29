@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Kobayashi Chiaki",
+      "ja": "小林千晃",
+      "zh": "小林千晃"
+    }
+  }
+}

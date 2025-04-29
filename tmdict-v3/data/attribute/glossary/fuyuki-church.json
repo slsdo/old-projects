@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Fuyuki Church",
+      "ja": "冬木教会",
+      "zh": "冬木教会"
+    }
+  }
+}

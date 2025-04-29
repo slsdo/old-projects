@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "k",
+    "hiragana": "o",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "King’s Wine",
+      "ja": "王の酒",
+      "zh": "王之酒"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "g",
+    "hiragana": "u",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Guardian of the Vessel",
+      "ja": "器の守手",
+      "zh": "保护容器"
+    }
+  }
+}

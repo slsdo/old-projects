@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "u",
+    "hiragana": "a",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Angelica",
+      "ja": "アンジェリカ",
+      "zh": "安洁莉卡"
+    }
+  }
+}

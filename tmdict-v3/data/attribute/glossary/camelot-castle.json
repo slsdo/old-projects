@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Camelot Castle",
+      "ja": "キャメロット城",
+      "zh": "卡美洛城"
+    }
+  }
+}

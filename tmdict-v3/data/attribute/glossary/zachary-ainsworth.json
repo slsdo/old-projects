@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "z",
+    "hiragana": "sa",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Zachary Ainsworth",
+      "ja": "ザカリー・エインズワース",
+      "zh": "萨卡利・恩兹华斯"
+    }
+  }
+}

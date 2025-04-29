@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Hanging Gardens of Babylon",
+      "ja": "虚栄の空中庭園",
+      "zh": "虚荣的空中庭园"
+    }
+  }
+}

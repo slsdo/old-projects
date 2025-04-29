@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "ko",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Cornelius Alba",
+      "ja": "コルネリウス・アルバ",
+      "zh": "科尼利厄斯·阿鲁巴"
+    }
+  }
+}

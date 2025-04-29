@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "hi",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Luminous Body",
+      "ja": "光体",
+      "zh": "光体"
+    }
+  }
+}

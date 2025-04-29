@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Fuyuki City Civic Center",
+      "ja": "冬木市民会館",
+      "zh": "冬木市民会馆"
+    }
+  }
+}

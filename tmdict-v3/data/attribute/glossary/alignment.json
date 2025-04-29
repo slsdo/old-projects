@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "so",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Alignment",
+      "ja": "属性",
+      "zh": "属性"
+    }
+  }
+}

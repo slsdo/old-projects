@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "All of Europe",
+      "ja": "ヨーロッパ全域",
+      "zh": "欧洲全域"
+    }
+  }
+}

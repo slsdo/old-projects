@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "na",
+    "hiragana-row": "n"
+  },
+
+  "data": {
+    "name": {
+      "en": "Summer Vacation Sleepover",
+      "ja": "夏休みのお泊り会",
+      "zh": "暑假的住宿会"
+    }
+  }
+}

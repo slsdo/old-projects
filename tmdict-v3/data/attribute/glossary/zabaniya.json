@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "z",
+    "hiragana": "mo",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Zabaniya",
+      "ja": "妄想心音",
+      "zh": "妄想心音"
+    }
+  }
+}

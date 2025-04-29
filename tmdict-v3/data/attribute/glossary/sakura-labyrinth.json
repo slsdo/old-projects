@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "sa",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Sakura Labyrinth",
+      "ja": "サクラ迷宮",
+      "zh": "樱之迷宫"
+    }
+  }
+}

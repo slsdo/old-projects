@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "to",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Tohsaka Nagato",
+      "ja": "遠坂永人",
+      "zh": "远坂永人"
+    }
+  }
+}

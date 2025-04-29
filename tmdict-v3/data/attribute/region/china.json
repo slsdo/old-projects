@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "China",
+      "ja": "中国",
+      "zh": "中国"
+    }
+  }
+}

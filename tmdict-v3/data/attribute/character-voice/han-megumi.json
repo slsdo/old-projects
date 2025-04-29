@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Han Megumi",
+      "ja": "潘めぐみ",
+      "zh": "潘惠美"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "j",
+    "hiragana": "ya",
+    "hiragana-row": "y"
+  },
+
+  "data": {
+    "name": {
+      "en": "Judgment of Yama",
+      "ja": "夜摩判決",
+      "zh": "夜摩判决"
+    }
+  }
+}

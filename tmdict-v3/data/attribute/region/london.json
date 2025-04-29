@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "London",
+      "ja": "ロンドン",
+      "zh": "伦敦"
+    }
+  }
+}

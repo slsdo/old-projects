@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "o",
+    "hiragana": "i",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "One of a Kind",
+      "ja": "一品もの",
+      "zh": "孤品"
+    }
+  }
+}

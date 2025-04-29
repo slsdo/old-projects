@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "g",
+    "hiragana": "mi",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Green",
+      "ja": "緑",
+      "zh": "绿"
+    }
+  }
+}

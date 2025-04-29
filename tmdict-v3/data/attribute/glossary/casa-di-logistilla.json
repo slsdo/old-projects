@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Casa Di Logistilla",
+      "ja": "破却宣言",
+      "zh": "破却宣言"
+    }
+  }
+}

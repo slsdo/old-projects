@@ -1,0 +1,61 @@
+{
+  "type": "profile",
+  "uid": "267:fgosvt",
+
+  "img": [
+    { "weight": 1, "id": "img_s1", "src": "S0267a.png" },
+    { "weight": 4, "id": "img_s4", "src": "S0267d.png" },
+    { "weight": 5, "id": "img_april-fools", "src": "S0267e_april-fools.png" }
+  ],
+
+  "attribute": {
+    "class": "assassin",
+    "star": "star_4",
+    "gender": "female",
+    "origin": "historical-fact",
+    "region": "japan",
+    "alignment": "neutral-summer",
+    "strength.parameter": "d",
+    "endurance.parameter": "e",
+    "agility.parameter": "ap",
+    "magic.parameter": "d",
+    "luck.parameter": "c",
+    "noble-phantasm.parameter": "c",
+    "character-setting": "keikenchi",
+    "illustrator": "takeuchi-takashi",
+    "character-voice": "yuuki-aoi",
+    "major-appearances": "fate-grand-order",
+    "related.profile": ["okita-souji", "okita-souji-alter"]
+  },
+
+  "data": {
+    "name": {
+      "en": "Okita J. Souji (Assassin)",
+      "ja": "オキタ・J・ソウジ（アサシン）",
+      "zh": "冲田・J・总司（Assassin）"
+    },
+    "true-name": {
+      "en": "Okita J. Souji (First, Second Saint Graph) / Okita Souji (Third Saint Graph)",
+      "ja": "オキタ・J・ソウジ（霊基第一、二）／沖田総司（霊基第三）",
+      "zh": "冲田・J・总司（灵基第一、二）／冲田总司（灵基第三）"
+    },
+    "height": {
+      "en": "158cm",
+      "ja": "158cm",
+      "zh": "158cm"
+    },
+    "weight": {
+      "en": "45kg",
+      "ja": "45kg",
+      "zh": "45kg"
+    }
+  },
+
+  "layout": [
+    ["star", "class"],
+    ["true-name", "gender", "origin", "region", "alignment", "height", "weight"],
+    ["strength.parameter", "endurance.parameter", "agility.parameter", "magic.parameter", "luck.parameter", "noble-phantasm.parameter"],
+    ["character-setting", "illustrator", "character-voice", "major-appearances"],
+    ["related.profile"]
+  ]
+}

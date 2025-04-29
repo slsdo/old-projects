@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "j",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Jeanne d’Arc",
+      "ja": "ジャンヌ・ダルク",
+      "zh": "贞德·达尔克"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "r",
+    "hiragana": "te",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Records of the Imperial Capital",
+      "ja": "帝都戦記",
+      "zh": "帝都战记"
+    }
+  }
+}

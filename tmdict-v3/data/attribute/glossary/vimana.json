@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "u",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Vimana",
+      "ja": "ヴィマーナ",
+      "zh": "维摩娜"
+    }
+  }
+}

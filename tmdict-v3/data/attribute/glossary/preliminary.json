@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "yo",
+    "hiragana-row": "y"
+  },
+
+  "data": {
+    "name": {
+      "en": "Preliminary",
+      "ja": "予選",
+      "zh": "预选赛"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "ku",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Assassin of Black",
+      "ja": "“黒”のアサシン",
+      "zh": "“黑”Assassin"
+    }
+  }
+}

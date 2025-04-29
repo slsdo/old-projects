@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "body skill",
+      "ja": "体技",
+      "zh": "体术"
+    }
+  }
+}

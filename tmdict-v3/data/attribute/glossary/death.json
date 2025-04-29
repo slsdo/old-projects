@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "te",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "DEATH",
+      "ja": "DEATH",
+      "zh": "DEATH"
+    }
+  }
+}

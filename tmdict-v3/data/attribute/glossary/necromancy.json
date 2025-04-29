@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "n",
+    "hiragana": "ne",
+    "hiragana-row": "n"
+  },
+
+  "data": {
+    "name": {
+      "en": "Necromancy",
+      "ja": "死霊魔術",
+      "zh": "死灵魔术"
+    }
+  }
+}

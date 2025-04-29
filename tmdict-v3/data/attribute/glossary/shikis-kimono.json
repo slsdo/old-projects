@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Shiki’s Kimono",
+      "ja": "式の着物",
+      "zh": "式的和服"
+    }
+  }
+}

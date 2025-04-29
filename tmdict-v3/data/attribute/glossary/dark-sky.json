@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Dark Sky",
+      "ja": "空が、昏い",
+      "zh": "天空，好暗"
+    }
+  }
+}

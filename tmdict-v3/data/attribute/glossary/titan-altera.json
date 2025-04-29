@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Titan Altera",
+      "ja": "巨神アルテラ",
+      "zh": "巨神阿提拉"
+    }
+  }
+}

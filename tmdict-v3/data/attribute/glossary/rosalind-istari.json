@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "r",
+    "hiragana": "ro",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Rosalind Istari",
+      "ja": "ロザリンド・イスタリ",
+      "zh": "罗莎琳德·伊斯塔利"
+    }
+  }
+}

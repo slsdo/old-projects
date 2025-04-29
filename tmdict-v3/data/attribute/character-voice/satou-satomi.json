@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Satou Satomi",
+      "ja": "佐藤聡美",
+      "zh": "佐藤聪美"
+    }
+  }
+}

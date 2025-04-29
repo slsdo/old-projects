@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Barrel Replica",
+      "ja": "バレルレプリカ",
+      "zh": "Barrel Replica"
+    }
+  }
+}

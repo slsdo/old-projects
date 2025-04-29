@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Frozen Technology",
+      "ja": "技術凍結",
+      "zh": "技术冻结"
+    }
+  }
+}

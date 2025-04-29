@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "u",
+    "hiragana": "u",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Uther Pendragon",
+      "ja": "ウーサー・ベンドラゴン",
+      "zh": "尤瑟·潘德拉贡"
+    }
+  }
+}

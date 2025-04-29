@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "a",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Andreis Amarantos",
+      "ja": "勇者の不凋花",
+      "zh": "勇者的不凋花"
+    }
+  }
+}

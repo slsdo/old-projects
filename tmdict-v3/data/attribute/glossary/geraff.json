@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "g",
+    "hiragana": "ke",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Geraff",
+      "ja": "ゲラフ",
+      "zh": "盖拉弗"
+    }
+  }
+}

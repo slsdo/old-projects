@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Vampire Rank IX: Ancestor",
+      "ja": "吸血鬼IX階梯：祖",
+      "zh": "吸血鬼IX阶梯：祖"
+    }
+  }
+}

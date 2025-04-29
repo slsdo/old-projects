@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Three Founding Families",
+      "ja": "始まりの御三家",
+      "zh": "始まりの御三家"
+    }
+  }
+}

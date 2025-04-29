@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "ho",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Homer’s Anthology",
+      "ja": "ホメロスの詩集",
+      "zh": "荷马的诗集"
+    }
+  }
+}

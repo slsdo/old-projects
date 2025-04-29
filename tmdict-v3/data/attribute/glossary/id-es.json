@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "i",
+    "hiragana": "i",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "id_es",
+      "ja": "id_es",
+      "zh": "id_es"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "class",
+
+  "data": {
+    "name": {
+      "en": "Rider",
+      "ja": "ライダー",
+      "zh": "Rider"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Sakura Ayane",
+      "ja": "佐倉綾音",
+      "zh": "佐仓绫音"
+    }
+  }
+}

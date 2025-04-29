@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Cease-Fire Agreement",
+      "ja": "休戦協定",
+      "zh": "休战协定"
+    }
+  }
+}

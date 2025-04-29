@@ -1,0 +1,11 @@
+{
+  "type": "character-setting",
+
+  "data": {
+    "name": {
+      "en": "Hoshizora Meteo",
+      "ja": "星空めてお",
+      "zh": "星空流星"
+    }
+  }
+}

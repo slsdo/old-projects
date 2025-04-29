@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Massachusetts",
+      "ja": "マサチューセッツ",
+      "zh": "马萨诸塞"
+    }
+  }
+}

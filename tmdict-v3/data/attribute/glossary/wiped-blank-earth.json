@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "w",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Wiped Blank Earth",
+      "ja": "白紙化地球",
+      "zh": "白纸化地球"
+    }
+  }
+}

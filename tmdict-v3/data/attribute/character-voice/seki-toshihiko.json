@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Seki Toshihiko",
+      "ja": "関俊彦",
+      "zh": "关俊彦"
+    }
+  }
+}

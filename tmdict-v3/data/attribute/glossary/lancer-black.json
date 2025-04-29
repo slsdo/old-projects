@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "ra",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Lancer (Black)",
+      "ja": "ランサー（黒）",
+      "zh": "Lancer（黑）"
+    }
+  }
+}

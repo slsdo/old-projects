@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Fujimura-sensei",
+      "ja": "藤村先生",
+      "zh": "藤村老师"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "n",
+    "hiragana": "no",
+    "hiragana-row": "n"
+  },
+
+  "data": {
+    "name": {
+      "en": "No Face May King",
+      "ja": "顔の無い王",
+      "zh": "无貌之王"
+    }
+  }
+}

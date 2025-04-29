@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "i",
+    "hiragana": "i",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Ig-Alima",
+      "ja": "千山斬り拓く翠の地平",
+      "zh": "开拓千山的翠绿地平线"
+    }
+  }
+}

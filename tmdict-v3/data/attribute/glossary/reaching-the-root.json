@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "r",
+    "hiragana": "ko",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Reaching the Root",
+      "ja": "根源への到達",
+      "zh": "根源的到达"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "ability",
+      "ja": "異能",
+      "zh": "异能"
+    }
+  }
+}

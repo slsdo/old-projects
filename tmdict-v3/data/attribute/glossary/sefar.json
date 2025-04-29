@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "se",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Sefar",
+      "ja": "セファール",
+      "zh": "塞法卢"
+    }
+  }
+}

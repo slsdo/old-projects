@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "k",
+    "hiragana": "ko",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Father Kotomine",
+      "ja": "言峰神父",
+      "zh": "言峰神父"
+    }
+  }
+}

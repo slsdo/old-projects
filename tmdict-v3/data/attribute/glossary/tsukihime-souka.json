@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "tsu",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Tsukihime Souka",
+      "ja": "月姫蒼香",
+      "zh": "月姬苍香"
+    }
+  }
+}

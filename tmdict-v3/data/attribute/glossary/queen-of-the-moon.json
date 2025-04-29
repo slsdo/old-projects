@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "q",
+    "hiragana": "tsu",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Queen of the Moon",
+      "ja": "月の女王",
+      "zh": "月之女王"
+    }
+  }
+}

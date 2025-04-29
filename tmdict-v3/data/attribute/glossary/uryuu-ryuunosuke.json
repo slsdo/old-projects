@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "u",
+    "hiragana": "u",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Uryuu Ryuunosuke",
+      "ja": "雨生龍之介",
+      "zh": "雨生龙之介"
+    }
+  }
+}

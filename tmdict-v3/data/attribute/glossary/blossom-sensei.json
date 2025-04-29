@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Blossom-sensei",
+      "ja": "ブロッサム先生",
+      "zh": "Blossom老师"
+    }
+  }
+}

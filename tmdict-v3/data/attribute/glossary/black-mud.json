@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ku",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Black Mud",
+      "ja": "黒い泥",
+      "zh": "黑泥"
+    }
+  }
+}

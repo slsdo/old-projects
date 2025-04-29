@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Kanna Nobutoshi",
+      "ja": "鶴岡聡",
+      "zh": "鹤冈聪"
+    }
+  }
+}

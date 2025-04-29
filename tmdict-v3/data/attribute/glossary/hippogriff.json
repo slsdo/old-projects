@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "hi",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Hippogriff",
+      "ja": "この世ならざる幻馬",
+      "zh": "不属此世的幻马"
+    }
+  }
+}

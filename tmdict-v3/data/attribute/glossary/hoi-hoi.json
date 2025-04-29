@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "ho",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Hoi Hoi",
+      "ja": "ほいほい",
+      "zh": "吼啊吼啊"
+    }
+  }
+}

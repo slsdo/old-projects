@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Vampire Rank III: Undead",
+      "ja": "吸血鬼ⅠII階梯：不死",
+      "zh": "吸血鬼ⅠII阶梯：不死"
+    }
+  }
+}

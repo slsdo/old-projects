@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Vampire Sion",
+      "ja": "吸血鬼シオン",
+      "zh": "吸血鬼紫苑"
+    }
+  }
+}

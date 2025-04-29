@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "ho",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Homurahara Academy High School Division (Miyu’s World)",
+      "ja": "穂群原学園高等部（美遊世界）",
+      "zh": "穗群原学园高中部（美游世界）"
+    }
+  }
+}

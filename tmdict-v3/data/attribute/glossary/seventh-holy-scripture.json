@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "ta",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Seventh Holy Scripture",
+      "ja": "第七聖典",
+      "zh": "第七圣典"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Fuyuki Hyatt Hotel",
+      "ja": "冬木ハイアット・ホテル",
+      "zh": "冬木凯悦·酒店"
+    }
+  }
+}

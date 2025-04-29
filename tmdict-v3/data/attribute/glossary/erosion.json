@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "e",
+    "hiragana": "i",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Erosion",
+      "ja": "侵刃黄金",
+      "zh": "侵刃黄金"
+    }
+  }
+}

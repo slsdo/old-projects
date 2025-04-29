@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "ri",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Spiritron",
+      "ja": "霊子",
+      "zh": "灵子"
+    }
+  }
+}

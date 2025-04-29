@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Prisma Illya",
+      "ja": "プリズマ☆イリヤ",
+      "zh": "魔法少女☆伊莉雅"
+    }
+  }
+}

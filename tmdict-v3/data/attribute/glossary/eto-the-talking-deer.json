@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "e",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Eto the Talking Deer",
+      "ja": "喋る鹿のエト",
+      "zh": "会说话的鹿Eto"
+    }
+  }
+}

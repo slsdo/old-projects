@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "ma",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Magdalena",
+      "ja": "マグダレナ",
+      "zh": "玛格妲蕾娜"
+    }
+  }
+}

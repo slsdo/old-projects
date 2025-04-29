@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "i",
+    "hiragana": "mu",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Innocent Monster",
+      "ja": "無辜の怪物",
+      "zh": "无辜的怪物"
+    }
+  }
+}

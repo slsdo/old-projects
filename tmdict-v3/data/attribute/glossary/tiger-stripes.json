@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "to",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Tiger Stripes",
+      "ja": "虎模様",
+      "zh": "虎花样"
+    }
+  }
+}

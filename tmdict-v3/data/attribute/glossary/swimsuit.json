@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "mi",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Swimsuit",
+      "ja": "水着",
+      "zh": "泳衣"
+    }
+  }
+}

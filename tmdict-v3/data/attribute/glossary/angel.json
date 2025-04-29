@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "te",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Angel",
+      "ja": "天使",
+      "zh": "天使"
+    }
+  }
+}

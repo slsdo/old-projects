@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "so",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Solo Servant",
+      "ja": "ソロ・サーヴァント",
+      "zh": "自立英灵"
+    }
+  }
+}

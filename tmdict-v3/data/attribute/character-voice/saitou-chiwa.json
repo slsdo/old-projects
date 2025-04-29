@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Saitou Chiwa",
+      "ja": "斎藤千和",
+      "zh": "斋藤千和"
+    }
+  }
+}

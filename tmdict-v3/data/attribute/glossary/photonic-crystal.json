@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Photonic Crystal",
+      "ja": "フォトニック結晶",
+      "zh": "光子结晶"
+    }
+  }
+}

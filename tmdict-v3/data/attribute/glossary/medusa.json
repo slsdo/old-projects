@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "me",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Medusa",
+      "ja": "メドゥーサ",
+      "zh": "美杜莎"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "ni",
+    "hiragana-row": "n"
+  },
+
+  "data": {
+    "name": {
+      "en": "Twenty-Seven Ancestors",
+      "ja": "二十七祖",
+      "zh": "二十七祖"
+    }
+  }
+}

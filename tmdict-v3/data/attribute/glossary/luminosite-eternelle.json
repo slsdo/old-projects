@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "ri",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Luminosité Eternelle",
+      "ja": "我が神はここにありて",
+      "zh": "吾神在此"
+    }
+  }
+}

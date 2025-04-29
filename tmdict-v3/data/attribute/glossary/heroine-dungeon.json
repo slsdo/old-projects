@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "hi",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Heroine Dungeon",
+      "ja": "ヒロインダンジョン",
+      "zh": "女主角迷宫"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Satou Rina",
+      "ja": "佐藤利奈",
+      "zh": "佐藤利奈"
+    }
+  }
+}

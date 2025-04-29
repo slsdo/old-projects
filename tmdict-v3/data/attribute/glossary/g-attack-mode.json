@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "g",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "G-Attack Mode",
+      "ja": "Gアタックモード",
+      "zh": "G-Attack模式"
+    }
+  }
+}

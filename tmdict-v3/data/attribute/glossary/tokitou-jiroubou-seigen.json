@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "to",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Tokitou Jiroubou Seigen",
+      "ja": "時任次郎坊清玄",
+      "zh": "时任次郎坊清玄"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "mi",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Fortress of Millennia",
+      "ja": "ミレニア城塞",
+      "zh": "米雷尼亚城塞"
+    }
+  }
+}

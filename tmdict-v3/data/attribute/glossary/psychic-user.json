@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "chi",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Psychic User",
+      "ja": "超能力者",
+      "zh": "超能力者"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "u",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "User of the Berserker Card",
+      "ja": "バーサーカーカードの使用者",
+      "zh": "Berserker卡片的使用者"
+    }
+  }
+}

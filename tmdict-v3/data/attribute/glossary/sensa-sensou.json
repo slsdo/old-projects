@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "se",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Sensa, Sensou",
+      "ja": "閃鞘、閃走",
+      "zh": "闪鞘、闪走"
+    }
+  }
+}

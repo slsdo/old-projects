@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "sa",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Sakura Veil Grande",
+      "ja": "サクラヴェール・グランデ",
+      "zh": "Sakura Veil Grande"
+    }
+  }
+}

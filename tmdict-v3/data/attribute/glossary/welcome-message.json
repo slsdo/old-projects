@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "w",
+    "hiragana": "u",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Welcome Message",
+      "ja": "ウェルカムメッセージ",
+      "zh": "Welcome Message"
+    }
+  }
+}

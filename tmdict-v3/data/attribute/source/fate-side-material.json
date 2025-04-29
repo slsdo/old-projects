@@ -1,0 +1,17 @@
+{
+  "type": "source",
+  "releaseDate": "2004-01-30",
+  "weight": 20040100,
+
+  "attribute": {
+    "work": "fate-stay-night"
+  },
+
+  "data": {
+    "name": {
+      "en": "Fate/side material",
+      "ja": "Fate/side material",
+      "zh": "Fate/side material"
+    }
+  }
+}

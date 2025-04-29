@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "e",
+    "hiragana": "e",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Elizabeth",
+      "ja": "エリザベート",
+      "zh": "伊丽莎白"
+    }
+  }
+}

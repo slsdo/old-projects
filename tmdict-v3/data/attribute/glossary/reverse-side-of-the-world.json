@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "r",
+    "hiragana": "se",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Reverse Side of the World",
+      "ja": "世界の裏側",
+      "zh": "世界的里侧"
+    }
+  }
+}

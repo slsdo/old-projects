@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Prison Castle Čachtice",
+      "ja": "監獄城チェイテ",
+      "zh": "监狱城恰赫季斯"
+    }
+  }
+}

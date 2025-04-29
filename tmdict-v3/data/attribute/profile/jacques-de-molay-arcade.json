@@ -1,0 +1,62 @@
+{
+  "type": "profile",
+  "uid": "329.07:fgoarc",
+
+  "img": [
+    { "weight": 1, "id": "img_s1", "src": "329.07a.png" },
+    { "weight": 2, "id": "img_s2", "src": "329.07b.png" },
+    { "weight": 3, "id": "img_s3", "src": "329.07c.png" },
+    { "weight": 4, "id": "img_s4", "src": "329.07d.png" }
+  ],
+
+  "attribute": {
+    "class": "saber",
+    "star": "star_5",
+    "gender": "male",
+    "origin": "historical-fact",
+    "region": ["europe", "cyprus", "syria-crusader-states"],
+    "alignment": "lawful-good",
+    "strength.parameter": "b",
+    "endurance.parameter": "c",
+    "agility.parameter": "b",
+    "magic.parameter": "a",
+    "luck.parameter": "c",
+    "noble-phantasm.parameter": "b",
+    "character-setting": "hoshizora-meteo",
+    "illustrator": "kuroboshi-kouhaku",
+    "character-voice": "nakajima-yoshiki",
+    "major-appearances": "fate-grand-order-arcade",
+    "related.profile": "jacques-de-molay"
+  },
+
+  "data": {
+    "name": {
+      "en": "Jacques de Molay (Arcade)",
+      "ja": "ジャック・ド・モレー（Arcade）",
+      "zh": "雅克·德·莫莱（Arcade）"
+    },
+    "true-name": {
+      "en": "Jacques de Molay",
+      "ja": "ジャック・ド・モレー",
+      "zh": "雅克·德·莫莱"
+    },
+    "height": {
+      "en": "180cm",
+      "ja": "180cm",
+      "zh": "180cm"
+    },
+    "weight": {
+      "en": "68kg",
+      "ja": "68kg",
+      "zh": "68kg"
+    }
+  },
+
+  "layout": [
+    ["star", "class"],
+    ["true-name", "gender", "origin", "region", "alignment", "height", "weight"],
+    ["strength.parameter", "endurance.parameter", "agility.parameter", "magic.parameter", "luck.parameter", "noble-phantasm.parameter"],
+    ["character-setting", "illustrator", "character-voice", "major-appearances"],
+    ["related.profile"]
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Curry Bread",
+      "ja": "カレーパン",
+      "zh": "咖喱面包"
+    }
+  }
+}

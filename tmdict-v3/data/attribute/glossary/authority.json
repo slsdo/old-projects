@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "ke",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Authority",
+      "ja": "権能",
+      "zh": "权能"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Palalalala Organization",
+      "ja": "パララララ機関",
+      "zh": "Palalalala机关"
+    }
+  }
+}

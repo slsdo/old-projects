@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "k",
+    "hiragana": "ko",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Kotomine Kirei",
+      "ja": "言峰綺礼",
+      "zh": "言峰绮礼"
+    }
+  }
+}

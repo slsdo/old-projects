@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Noto Mamiko",
+      "ja": "能登麻美子",
+      "zh": "能登麻美子"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "wa",
+    "hiragana-row": "w"
+  },
+
+  "data": {
+    "name": {
+      "en": "My Friend",
+      "ja": "我が朋友",
+      "zh": "我的朋友"
+    }
+  }
+}

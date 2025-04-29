@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Land of Steel",
+      "ja": "鋼の大地",
+      "zh": "钢之大地"
+    }
+  }
+}

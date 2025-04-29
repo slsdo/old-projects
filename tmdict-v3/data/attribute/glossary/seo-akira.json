@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "se",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Seo Akira",
+      "ja": "瀬尾あきら",
+      "zh": "濑尾晶"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "re",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Leo B. Harwey",
+      "ja": "レオ・B・ハーウェイ",
+      "zh": "雷欧·B·哈维"
+    }
+  }
+}

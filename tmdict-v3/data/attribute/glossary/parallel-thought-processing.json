@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Parallel Thought Processing",
+      "ja": "分割思考",
+      "zh": "分割思考"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "k",
+    "hiragana": "ke",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Kendo 5th Dan",
+      "ja": "剣道五段",
+      "zh": "剑道五段"
+    }
+  }
+}

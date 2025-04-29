@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Clarent / Clarent Blood Arthur",
+      "ja": "燦然と輝く王剣 / 我が麗しき父への叛逆",
+      "zh": "灿然与光辉之王剑 / 对于我那美丽父亲的反叛"
+    }
+  }
+}

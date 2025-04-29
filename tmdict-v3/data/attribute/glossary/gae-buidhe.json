@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "g",
+    "hiragana": "hi",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Gáe Buidhe",
+      "ja": "必滅の黄薔薇",
+      "zh": "必灭的黄蔷薇"
+    }
+  }
+}

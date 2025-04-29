@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "chi",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Chikagi",
+      "ja": "チカギ",
+      "zh": "千健"
+    }
+  }
+}

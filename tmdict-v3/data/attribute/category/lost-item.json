@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "lost item",
+      "ja": "損失物",
+      "zh": "损失物"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "yu",
+    "hiragana-row": "y"
+  },
+
+  "data": {
+    "name": {
+      "en": "Dream",
+      "ja": "夢",
+      "zh": "梦"
+    }
+  }
+}

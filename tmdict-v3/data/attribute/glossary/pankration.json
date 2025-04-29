@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Pankration",
+      "ja": "パンクラチオン",
+      "zh": "潘克拉辛"
+    }
+  }
+}

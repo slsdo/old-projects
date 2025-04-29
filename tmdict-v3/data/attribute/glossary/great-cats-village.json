@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "g",
+    "hiragana": "ku",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Great Cats Village",
+      "ja": "グレートキャッツビレッジ",
+      "zh": "Great Cat’s Village"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "se",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Celenike Icecolle Yggdmillennia",
+      "ja": "セレニケ・アイスコル・ユグドミレニア",
+      "zh": "赛蕾妮可·艾丝扣·千界树"
+    }
+  }
+}

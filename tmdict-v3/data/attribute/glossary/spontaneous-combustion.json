@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Spontaneous Combustion",
+      "ja": "発火能力",
+      "zh": "发火能力"
+    }
+  }
+}

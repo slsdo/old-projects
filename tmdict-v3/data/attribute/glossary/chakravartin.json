@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "chi",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Chakravartin",
+      "ja": "天輪聖王",
+      "zh": "天轮圣王"
+    }
+  }
+}

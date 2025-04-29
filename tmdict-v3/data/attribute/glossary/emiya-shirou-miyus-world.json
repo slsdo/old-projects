@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "e",
+    "hiragana": "e",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Emiya Shirou (Miyu’s World)",
+      "ja": "衛宮士郎（美遊世界）",
+      "zh": "衛宮士郎（美遊世界）"
+    }
+  }
+}

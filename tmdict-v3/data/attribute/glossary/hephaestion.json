@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "he",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Hephaestion",
+      "ja": "ヘファイスティオン",
+      "zh": "赫费斯提翁"
+    }
+  }
+}

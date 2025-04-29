@@ -1,0 +1,63 @@
+{
+  "type": "profile",
+  "uid": "265:fgosvt",
+
+  "img": [
+    { "weight": 1, "id": "img_s1", "src": "S0265a.png" },
+    { "weight": 4, "id": "img_s4", "src": "S0265b.png" },
+    { "weight": 4, "id": "img_s4", "src": "S0265c.png" },
+    { "weight": 4, "id": "img_s4", "src": "S0265d.png" },
+    { "weight": 5, "id": "img_april-fools", "src": "S0265e_april-fools.png" }
+  ],
+
+  "attribute": {
+    "class": "ruler",
+    "star": "star_5",
+    "gender": "female",
+    "origin": "legend-of-king-arthur",
+    "region": "united-kingdom",
+    "alignment": "lawful-summer",
+    "strength.parameter": "c",
+    "endurance.parameter": "ap",
+    "agility.parameter": "b",
+    "magic.parameter": "a",
+    "luck.parameter": "b",
+    "noble-phantasm.parameter": "ap",
+    "character-setting": "sakurai-hikaru",
+    "illustrator": "ishida-akira",
+    "character-voice": "kawasumi-ayako",
+    "major-appearances": "fate-grand-order",
+    "related.profile": "altria-pendragon-lancer"
+  },
+
+  "data": {
+    "name": {
+      "en": "Altria Pendragon (Ruler)",
+      "ja": "アルトリア・ペンドラゴン（ルーラー）",
+      "zh": "阿尔托莉雅·潘德拉贡（Rider）"
+    },
+    "true-name": {
+      "en": "Altria Pendragon",
+      "ja": "アルトリア・ペンドラゴン",
+      "zh": "阿尔托莉雅·潘德拉贡"
+    },
+    "height": {
+      "en": "171cm",
+      "ja": "171cm",
+      "zh": "171cm"
+    },
+    "weight": {
+      "en": "57kg?",
+      "ja": "57kg？",
+      "zh": "57kg？"
+    }
+  },
+
+  "layout": [
+    ["star", "class"],
+    ["true-name", "gender", "origin", "region", "alignment", "height", "weight"],
+    ["strength.parameter", "endurance.parameter", "agility.parameter", "magic.parameter", "luck.parameter", "noble-phantasm.parameter"],
+    ["character-setting", "illustrator", "character-voice", "major-appearances"],
+    ["related.profile"]
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Pseudo-Spiritron Computer",
+      "ja": "疑似霊子コンピューター",
+      "zh": "疑似灵子电脑"
+    }
+  }
+}

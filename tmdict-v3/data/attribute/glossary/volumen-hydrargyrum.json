@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "u",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Volumen Hydrargyrum",
+      "ja": "月霊髄液",
+      "zh": "月灵髓液"
+    }
+  }
+}

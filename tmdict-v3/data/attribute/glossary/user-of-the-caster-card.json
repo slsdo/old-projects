@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "u",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "User of the Caster Card",
+      "ja": "キャスターカードの使用者",
+      "zh": "Caster卡片的使用者"
+    }
+  }
+}

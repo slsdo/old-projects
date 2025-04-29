@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "anti-cell",
+      "ja": "アンチセル",
+      "zh": "反噬晶体"
+    }
+  }
+}

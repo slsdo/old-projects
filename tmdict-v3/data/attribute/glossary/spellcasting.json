@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Spellcasting",
+      "ja": "呪文詠唱",
+      "zh": "咒文咏唱"
+    }
+  }
+}

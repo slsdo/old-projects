@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "r",
+    "hiragana": "ro",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Roche Frain Yggdmillennia",
+      "ja": "ロシェ・フレイン・ユグドミレニア",
+      "zh": "罗歇·褔雷因·千界树"
+    }
+  }
+}

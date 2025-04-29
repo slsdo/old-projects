@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "to",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Tonamin Z",
+      "ja": "となみんＺ",
+      "zh": "Tonamin-Z"
+    }
+  }
+}

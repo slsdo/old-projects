@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "o",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Maiden Coaster",
+      "ja": "乙女コースター",
+      "zh": "少女的云霄飞车"
+    }
+  }
+}

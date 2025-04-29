@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "e",
+    "hiragana": "e",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Excalibur Galatine",
+      "ja": "転輪する勝利の剣",
+      "zh": "轮转胜利之剑"
+    }
+  }
+}

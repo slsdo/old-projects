@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Entire world",
+      "ja": "全世界",
+      "zh": "全世界"
+    }
+  }
+}

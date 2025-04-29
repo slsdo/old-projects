@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Amamiya Sora",
+      "ja": "雨宮天",
+      "zh": "雨宫天"
+    }
+  }
+}

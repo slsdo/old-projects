@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "to",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Thompson Center Arms Contender",
+      "ja": "トンプソンセンターアームズ・コンテンダー",
+      "zh": "Thompson Center Arms·Contender"
+    }
+  }
+}

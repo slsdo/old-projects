@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "te",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Heaven’s Feel",
+      "ja": "天の杯",
+      "zh": "天之杯"
+    }
+  }
+}

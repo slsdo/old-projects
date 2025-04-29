@@ -1,0 +1,11 @@
+{
+  "type": "class",
+
+  "data": {
+    "name": {
+      "en": "Berserker",
+      "ja": "バーサーカー",
+      "zh": "Berserker"
+    }
+  }
+}

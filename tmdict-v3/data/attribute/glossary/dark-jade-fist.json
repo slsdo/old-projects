@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "a",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Dark Jade Fist",
+      "ja": "暗黒翡翠拳",
+      "zh": "暗黑翡翠拳"
+    }
+  }
+}

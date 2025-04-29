@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "work",
+      "ja": "作品名",
+      "zh": "作品名"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "to",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Trisha Fellows",
+      "ja": "トリシャ・フェローズ",
+      "zh": "特莉夏·菲洛兹"
+    }
+  }
+}

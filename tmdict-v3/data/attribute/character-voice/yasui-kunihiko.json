@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Yasui Kunihiko",
+      "ja": "安井邦彦",
+      "zh": "安井邦彦"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "chi",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Healing Magecraft",
+      "ja": "治癒の魔術",
+      "zh": "治愈的魔术"
+    }
+  }
+}

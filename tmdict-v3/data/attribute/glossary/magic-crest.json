@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "ma",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Magic Crest",
+      "ja": "魔術刻印",
+      "zh": "魔术刻印"
+    }
+  }
+}

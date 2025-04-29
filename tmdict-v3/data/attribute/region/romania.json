@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Romania",
+      "ja": "ルーマニア",
+      "zh": "罗马尼亚"
+    }
+  }
+}

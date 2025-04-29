@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "incident",
+      "ja": "事件",
+      "zh": "事件"
+    }
+  }
+}

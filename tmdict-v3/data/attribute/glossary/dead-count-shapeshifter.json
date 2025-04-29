@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "chi",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Dead Count Shapeshifter",
+      "ja": "竜告令呪",
+      "zh": "龙告令咒"
+    }
+  }
+}

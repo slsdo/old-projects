@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "k",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Karabo Frampton",
+      "ja": "カラボー・フランプトン",
+      "zh": "卡拉柏·弗朗普顿"
+    }
+  }
+}

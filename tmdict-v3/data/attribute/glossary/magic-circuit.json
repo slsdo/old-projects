@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "ma",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Magic Circuit",
+      "ja": "魔術回路",
+      "zh": "魔术回路"
+    }
+  }
+}

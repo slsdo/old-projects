@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "o",
+    "hiragana": "o",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Ouji Misaya",
+      "ja": "黄路美沙夜",
+      "zh": "黄路美沙夜"
+    }
+  }
+}

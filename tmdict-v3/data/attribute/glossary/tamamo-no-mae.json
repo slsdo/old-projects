@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "ta",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Tamamo-no-Mae",
+      "ja": "玉藻の前",
+      "zh": "玉藻前"
+    }
+  }
+}

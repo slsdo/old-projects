@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "n",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Near-Future Observation Lens “SHEBA”",
+      "ja": "近未来観測レンズ・シバ",
+      "zh": "近未来观测透镜·示巴"
+    }
+  }
+}

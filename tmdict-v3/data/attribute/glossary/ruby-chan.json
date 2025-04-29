@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "r",
+    "hiragana": "ru",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Ruby-chan",
+      "ja": "ルビーちゃん",
+      "zh": "露比酱"
+    }
+  }
+}

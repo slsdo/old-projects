@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Chaldea",
+      "ja": "カルデア",
+      "zh": "迦勒底"
+    }
+  }
+}

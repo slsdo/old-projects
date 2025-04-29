@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Caleena and Rejina",
+      "ja": "カリーナとレジーナ",
+      "zh": "卡莉娜与蕾吉娜"
+    }
+  }
+}

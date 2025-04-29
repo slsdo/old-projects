@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Canada",
+      "ja": "カナダ",
+      "zh": "加拿大"
+    }
+  }
+}

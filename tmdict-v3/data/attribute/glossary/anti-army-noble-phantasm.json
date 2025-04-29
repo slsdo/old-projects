@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "tsu",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Anti-Army Noble Phantasm",
+      "ja": "対軍宝具",
+      "zh": "对军宝具"
+    }
+  }
+}

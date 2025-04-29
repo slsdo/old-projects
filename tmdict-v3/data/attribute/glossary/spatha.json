@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "su",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Spatha",
+      "ja": "スパタ",
+      "zh": "斯帕塔"
+    }
+  }
+}

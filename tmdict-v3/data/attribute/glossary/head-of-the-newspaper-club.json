@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Head of the Newspaper Club",
+      "ja": "新聞部部長",
+      "zh": "新闻部部长"
+    }
+  }
+}

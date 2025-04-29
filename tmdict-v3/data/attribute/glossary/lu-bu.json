@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "ri",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Lu Bu",
+      "ja": "呂布",
+      "zh": "吕布"
+    }
+  }
+}

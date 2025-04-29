@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "to",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Trap of Argalia",
+      "ja": "触れれば転倒！",
+      "zh": "一触即倒！"
+    }
+  }
+}

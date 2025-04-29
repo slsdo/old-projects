@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "g",
+    "hiragana": "ku",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Glass Grass Teatime",
+      "ja": "グラスグラスティータイム",
+      "zh": "Grass Grass Tea Time"
+    }
+  }
+}

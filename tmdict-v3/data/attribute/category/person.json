@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "person",
+      "ja": "人名",
+      "zh": "人名"
+    }
+  }
+}

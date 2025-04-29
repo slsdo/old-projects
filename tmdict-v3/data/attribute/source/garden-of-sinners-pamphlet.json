@@ -1,0 +1,17 @@
+{
+  "type": "source",
+  "releaseDate": "2004-04-01",
+  "weight": 20040400,
+
+  "attribute": {
+    "work": "kara-no-kyoukai"
+  },
+
+  "data": {
+    "name": {
+      "en": "Garden of sinners Pamphlet",
+      "ja": "Garden of sinners Pamphlet",
+      "zh": "Garden of sinners Pamphlet"
+    }
+  }
+}

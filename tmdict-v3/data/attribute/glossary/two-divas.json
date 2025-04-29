@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Two Divas",
+      "ja": "ふたりの歌姫",
+      "zh": "两位歌姬"
+    }
+  }
+}

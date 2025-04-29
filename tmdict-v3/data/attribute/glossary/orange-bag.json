@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "o",
+    "hiragana": "o",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Orange Bag",
+      "ja": "オレンジの鞄",
+      "zh": "橙色的皮包"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "y",
+    "hiragana": "ya",
+    "hiragana-row": "y"
+  },
+
+  "data": {
+    "name": {
+      "en": "Yamaha V-Max",
+      "ja": "YAMAHA V‐MAX",
+      "zh": "YAMAHA V‐MAX"
+    }
+  }
+}

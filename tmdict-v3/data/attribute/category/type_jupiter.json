@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 1,
+
+  "data": {
+    "name": {
+      "en": "type:jupiter",
+      "ja": "type:jupiter",
+      "zh": "type:jupiter"
+    }
+  }
+}

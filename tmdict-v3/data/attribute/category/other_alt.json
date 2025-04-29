@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 3,
+
+  "data": {
+    "name": {
+      "en": "other",
+      "ja": "そのほか",
+      "zh": "其他"
+    }
+  }
+}

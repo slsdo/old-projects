@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Vampire Rank IV: Nightkin",
+      "ja": "吸血鬼ⅠV階梯：夜属",
+      "zh": "吸血鬼ⅠV阶梯：夜属"
+    }
+  }
+}

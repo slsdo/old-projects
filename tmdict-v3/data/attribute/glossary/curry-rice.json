@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Curry Rice",
+      "ja": "カレーライス",
+      "zh": "咖喱饭"
+    }
+  }
+}

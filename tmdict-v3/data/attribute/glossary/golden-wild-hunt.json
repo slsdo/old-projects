@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "g",
+    "hiragana": "ko",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Golden Wild Hunt",
+      "ja": "黄金鹿と嵐の夜",
+      "zh": "黄金鹿与暴风夜"
+    }
+  }
+}

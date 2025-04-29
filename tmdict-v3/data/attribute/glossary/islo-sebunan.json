@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "i",
+    "hiragana": "i",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Islo Sebunan",
+      "ja": "イスロー・セブナン",
+      "zh": "伊斯洛·瑟布南"
+    }
+  }
+}

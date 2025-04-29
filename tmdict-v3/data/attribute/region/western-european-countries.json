@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Western European Countries",
+      "ja": "西欧諸国",
+      "zh": "西欧诸国"
+    }
+  }
+}

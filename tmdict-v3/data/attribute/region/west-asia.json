@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "West Asia",
+      "ja": "西アジア",
+      "zh": "西亚"
+    }
+  }
+}

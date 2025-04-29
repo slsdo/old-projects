@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Vampiric Impulse",
+      "ja": "吸血衝動",
+      "zh": "吸血冲动"
+    }
+  }
+}

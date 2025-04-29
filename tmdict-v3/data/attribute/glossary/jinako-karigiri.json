@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "j",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Jinako Karigiri",
+      "ja": "ジナコ・カリギリ",
+      "zh": "吉娜可·加里吉利"
+    }
+  }
+}

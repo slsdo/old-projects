@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "to",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Träumerei",
+      "ja": "トロイメライ",
+      "zh": "Träumerei"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Berserker (White)",
+      "ja": "バーサーカー（白）",
+      "zh": "Berserker（白）"
+    }
+  }
+}

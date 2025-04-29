@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Stray Servant",
+      "ja": "はぐれサーヴァント",
+      "zh": "消失的从者"
+    }
+  }
+}

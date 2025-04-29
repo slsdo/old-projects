@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "ko",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Spiritual Evocation Department",
+      "ja": "降霊科",
+      "zh": "降灵科"
+    }
+  }
+}

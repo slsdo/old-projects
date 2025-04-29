@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "me",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Mecha Hisui",
+      "ja": "メカヒスイ",
+      "zh": "机械翡翠"
+    }
+  }
+}

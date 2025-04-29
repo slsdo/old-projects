@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "a",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Atlas Institute",
+      "ja": "アトラス院",
+      "zh": "阿特拉斯院"
+    }
+  }
+}

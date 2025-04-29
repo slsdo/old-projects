@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Ancient Persia",
+      "ja": "古代ペルシア",
+      "zh": "古波斯"
+    }
+  }
+}

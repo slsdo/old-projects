@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Hoshino Takanori",
+      "ja": "星野貴紀",
+      "zh": "星野贵纪"
+    }
+  }
+}

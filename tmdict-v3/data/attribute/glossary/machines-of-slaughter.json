@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "sa",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Machines of Slaughter",
+      "ja": "殺戮機構",
+      "zh": "杀戮机构"
+    }
+  }
+}

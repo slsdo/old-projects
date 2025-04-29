@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "mobile site",
+      "ja": "携帯サイト",
+      "zh": "手机网站"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "type": "profile",
+  "uid": "278:fgosvt",
+
+  "img": [
+    { "weight": 1, "id": "img_s1", "src": "S0278a.png" },
+    { "weight": 2, "id": "img_s2", "src": "S0278b.png" },
+    { "weight": 3, "id": "img_s3", "src": "S0278c.png" },
+    { "weight": 4, "id": "img_s4", "src": "S0278d.png" },
+    { "weight": 5, "id": "img_april-fools", "src": "S0278e_april-fools.png" }
+  ],
+
+  "attribute": {
+    "star": "star_5",
+    "gender": ["male", "female"],
+    "origin": "greek-mythology",
+    "region": "around-the-mediterranean-sea",
+    "alignment": "chaotic-neutral",
+    "strength.parameter": "a",
+    "endurance.parameter": "app",
+    "agility.parameter": "b",
+    "magic.parameter": "c",
+    "luck.parameter": "c",
+    "noble-phantasm.parameter": "b",
+    "character-setting": "sakurai-hikaru",
+    "illustrator": "taiki",
+    "character-voice": ["uchida-yuma", "uchida-maaya"],
+    "major-appearances": "fate-grand-order"
+  },
+
+  "data": {
+    "name": {
+      "en": "Dioscuri",
+      "ja": "ディオスクロイ",
+      "zh": "狄俄斯库里"
+    },
+    "true-name": {
+      "en": "Dioscuri",
+      "ja": "ディオスクロイ",
+      "zh": "狄俄斯库里"
+    },
+    "height": {
+      "en": "175cm (Brother Castor) 175cm (Sister Pollux)",
+      "ja": "175cm（兄カストロ）175cm（妹ポルクス）",
+      "zh": "175cm（哥哥卡斯托耳）175cm（妹妹波鲁克斯）"
+    },
+    "weight": {
+      "en": "67kg (Brother Castor) 57cm (Sister Pollux)",
+      "ja": "67kg（兄カストロ）57cm（妹ポルクス）",
+      "zh": "67kg（哥哥卡斯托耳）57cm（妹妹波鲁克斯）"
+    },
+    "class": {
+      "en": "Saber (Avenger)",
+      "ja": "セイバー（アヴェンジャー）",
+      "zh": "Saber（Avenger）"
+    }
+  },
+
+  "layout": [
+    ["star", "class"],
+    ["true-name", "gender", "origin", "region", "alignment", "height", "weight"],
+    ["strength.parameter", "endurance.parameter", "agility.parameter", "magic.parameter", "luck.parameter", "noble-phantasm.parameter"],
+    ["character-setting", "illustrator", "character-voice", "major-appearances"]
+  ]
+}

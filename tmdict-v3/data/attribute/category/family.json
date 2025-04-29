@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "family",
+      "ja": "家名",
+      "zh": "家名"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "su",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Suzurigi Akitaka",
+      "ja": "硯木秋隆",
+      "zh": "砚木秋隆"
+    }
+  }
+}

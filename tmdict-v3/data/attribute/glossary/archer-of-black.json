@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "ku",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Archer of Black",
+      "ja": "“黒”のアーチャー",
+      "zh": "“黑”Archer"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "legend",
+      "ja": "伝承",
+      "zh": "传承"
+    }
+  }
+}

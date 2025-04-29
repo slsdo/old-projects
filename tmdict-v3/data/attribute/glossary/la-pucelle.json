@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "ra",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "La Pucelle",
+      "ja": "紅蓮の聖女",
+      "zh": "红莲的圣女"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "u",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Venus Statue",
+      "ja": "ヴィーナス・スタチュー",
+      "zh": "维纳斯雕像"
+    }
+  }
+}

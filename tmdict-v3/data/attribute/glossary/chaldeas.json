@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "CHALDEAS",
+      "ja": "カルデアス",
+      "zh": "迦勒底亚斯"
+    }
+  }
+}

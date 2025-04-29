@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "e",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Heroic Spirit Summoning System",
+      "ja": "英霊召喚システム",
+      "zh": "英灵召唤系统"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "ta",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Takada Youichi",
+      "ja": "高田陽一",
+      "zh": "高田阳一"
+    }
+  }
+}

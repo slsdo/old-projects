@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "mi",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Misawa Hanei",
+      "ja": "三澤羽居",
+      "zh": "三泽羽居"
+    }
+  }
+}

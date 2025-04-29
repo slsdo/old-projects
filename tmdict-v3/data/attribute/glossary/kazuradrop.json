@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "k",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Kazuradrop",
+      "ja": "カズラドロップ",
+      "zh": "Kazuradrop"
+    }
+  }
+}

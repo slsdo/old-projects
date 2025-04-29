@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "mo",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Mouko Kouhazan",
+      "ja": "猛虎硬爬山",
+      "zh": "猛虎硬爬山"
+    }
+  }
+}

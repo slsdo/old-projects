@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Altar Bed",
+      "ja": "寝台神殿",
+      "zh": "睡床神殿"
+    }
+  }
+}

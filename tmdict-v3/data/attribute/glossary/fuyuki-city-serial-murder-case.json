@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Fuyuki City Serial Murder Case",
+      "ja": "冬木市連続殺人事件",
+      "zh": "冬木市连续杀人事件"
+    }
+  }
+}

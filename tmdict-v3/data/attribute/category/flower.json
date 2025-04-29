@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "flower",
+      "ja": "花名",
+      "zh": "花名"
+    }
+  }
+}

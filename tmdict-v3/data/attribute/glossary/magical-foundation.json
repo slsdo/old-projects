@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "ma",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Magical Foundation",
+      "ja": "魔術基盤",
+      "zh": "魔术基盘"
+    }
+  }
+}

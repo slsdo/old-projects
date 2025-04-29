@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Abandoned Factory",
+      "ja": "廃工場",
+      "zh": "废弃工场"
+    }
+  }
+}

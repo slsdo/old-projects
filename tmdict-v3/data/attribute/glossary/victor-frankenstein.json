@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "u",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Victor Frankenstein",
+      "ja": "ヴィクター・フランケンシュタイン",
+      "zh": "维克达·弗兰肯斯坦"
+    }
+  }
+}

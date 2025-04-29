@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "me",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Melty Blood",
+      "ja": "メルティブラッド",
+      "zh": "Melty Blood"
+    }
+  }
+}

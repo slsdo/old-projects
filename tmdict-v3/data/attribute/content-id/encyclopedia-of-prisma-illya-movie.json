@@ -1,0 +1,16 @@
+{
+  "type": "content-id",
+  "page": "1–14",
+
+  "attribute": {
+    "source": "prisma-material-petit"
+  },
+
+  "data": {
+    "name": {
+      "en": "Encyclopedia of Prisma Illya MOVIE",
+      "ja": "Encyclopedia of Prisma Illya MOVIE",
+      "zh": "Encyclopedia of Prisma Illya MOVIE"
+    }
+  }
+}

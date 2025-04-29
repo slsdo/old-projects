@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "ne",
+    "hiragana-row": "n"
+  },
+
+  "data": {
+    "name": {
+      "en": "Six Monster Cats, And…",
+      "ja": "ネコ六変化+α",
+      "zh": "猫咪六变化+α "
+    }
+  }
+}

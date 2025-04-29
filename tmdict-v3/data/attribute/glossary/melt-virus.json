@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "me",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Melt Virus",
+      "ja": "メルトウイルス",
+      "zh": "溶解病毒"
+    }
+  }
+}

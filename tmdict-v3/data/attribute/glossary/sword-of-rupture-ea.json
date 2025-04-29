@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Sword of Rupture Ea",
+      "ja": "乖離剣エア",
+      "zh": "乖离剑Ea"
+    }
+  }
+}

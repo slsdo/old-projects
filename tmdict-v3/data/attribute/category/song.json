@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "song",
+      "ja": "曲名",
+      "zh": "曲名"
+    }
+  }
+}

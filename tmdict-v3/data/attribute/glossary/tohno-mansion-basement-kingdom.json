@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "to",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Tohno Mansion Basement Kingdom",
+      "ja": "遠野家地下王国",
+      "zh": "远野家地下王国"
+    }
+  }
+}

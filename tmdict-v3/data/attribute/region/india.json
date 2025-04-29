@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "India",
+      "ja": "インド",
+      "zh": "印度"
+    }
+  }
+}

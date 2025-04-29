@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Bridal Chest / Blasted Tree",
+      "ja": "乙女の貞節 / 磔刑の雷樹",
+      "zh": "少女的贞节 / 磔刑的雷树"
+    }
+  }
+}

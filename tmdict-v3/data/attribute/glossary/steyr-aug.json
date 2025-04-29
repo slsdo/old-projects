@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "su",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Steyr AUG",
+      "ja": "ステアーAUG",
+      "zh": "斯泰尔AUG"
+    }
+  }
+}

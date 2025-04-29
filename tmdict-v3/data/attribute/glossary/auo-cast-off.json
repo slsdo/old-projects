@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "e",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "A.U.O. Cast Off",
+      "ja": "AUOキャストオフ",
+      "zh": "AUO Cast Off"
+    }
+  }
+}

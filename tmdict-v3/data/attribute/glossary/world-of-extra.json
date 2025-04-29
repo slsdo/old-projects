@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "w",
+    "hiragana": "e",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "World of EXTRA",
+      "ja": "EXTRA世界",
+      "zh": "EXTRA世界"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "r",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Relic of the Son of God",
+      "ja": "神の御子の聖遺物",
+      "zh": "神之圣子的圣遗物"
+    }
+  }
+}

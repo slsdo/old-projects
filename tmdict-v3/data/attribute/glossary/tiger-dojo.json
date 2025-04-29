@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "ta",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Tiger Dojo",
+      "ja": "タイガー道場",
+      "zh": "老虎道场"
+    }
+  }
+}

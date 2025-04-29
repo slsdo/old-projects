@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "ke",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Sewer Water Tank",
+      "ja": "下水管内の貯水槽",
+      "zh": "下水道内的储水槽"
+    }
+  }
+}

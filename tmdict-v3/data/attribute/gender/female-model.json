@@ -1,0 +1,11 @@
+{
+  "type": "gender",
+
+  "data": {
+    "name": {
+      "en": "Female Model",
+      "ja": "女性型",
+      "zh": "女性型"
+    }
+  }
+}

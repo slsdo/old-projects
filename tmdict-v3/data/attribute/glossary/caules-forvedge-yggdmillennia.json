@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Caules Forvedge Yggdmillennia",
+      "ja": "カウレス・フォルヴェッジ・ユグドミレニア",
+      "zh": "盖列斯·沃尔温·千界树"
+    }
+  }
+}

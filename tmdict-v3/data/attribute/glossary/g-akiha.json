@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "g",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "G-Akiha",
+      "ja": "G秋葉",
+      "zh": "G秋叶"
+    }
+  }
+}

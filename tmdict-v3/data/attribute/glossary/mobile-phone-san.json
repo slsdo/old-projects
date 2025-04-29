@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "ke",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Mobile Phone-san",
+      "ja": "ケータイさん",
+      "zh": "手机桑"
+    }
+  }
+}

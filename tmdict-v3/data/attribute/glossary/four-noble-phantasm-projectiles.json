@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Four Noble Phantasm Projectiles",
+      "ja": "四挺の宝具",
+      "zh": "四挺宝具"
+    }
+  }
+}

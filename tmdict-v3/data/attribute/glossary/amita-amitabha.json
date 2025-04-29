@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "a",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Amita Amitabha",
+      "ja": "一に還る転生",
+      "zh": "归一转生"
+    }
+  }
+}

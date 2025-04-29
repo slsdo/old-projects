@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "ta",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Third Holy Grail War",
+      "ja": "第三次聖杯戦争",
+      "zh": "第三次圣杯战争"
+    }
+  }
+}

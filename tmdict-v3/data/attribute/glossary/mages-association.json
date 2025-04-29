@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "ma",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Mage’s Association",
+      "ja": "魔術協会",
+      "zh": "魔术协会"
+    }
+  }
+}

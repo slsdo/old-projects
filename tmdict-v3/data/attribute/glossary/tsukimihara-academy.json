@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "tsu",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Tsukimihara Academy",
+      "ja": "月海原学園",
+      "zh": "月海原学园"
+    }
+  }
+}

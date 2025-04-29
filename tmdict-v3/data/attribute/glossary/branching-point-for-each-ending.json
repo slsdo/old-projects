@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Branching Point for Each Ending",
+      "ja": "各ENDの分岐",
+      "zh": "各END的分歧"
+    }
+  }
+}

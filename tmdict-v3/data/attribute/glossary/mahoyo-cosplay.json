@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "ma",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Mahoyo Cosplay",
+      "ja": "まほよコスプレ",
+      "zh": "魔法使之夜角色扮演"
+    }
+  }
+}

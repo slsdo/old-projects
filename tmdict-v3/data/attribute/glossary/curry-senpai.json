@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Curry Senpai",
+      "ja": "カレー先輩",
+      "zh": "咖哩学姐"
+    }
+  }
+}

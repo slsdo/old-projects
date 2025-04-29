@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "ro",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Six Sisters",
+      "ja": "六人姉妹",
+      "zh": "六姐妹"
+    }
+  }
+}

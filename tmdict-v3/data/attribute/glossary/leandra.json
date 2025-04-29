@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "re",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Leandra",
+      "ja": "レアンドラ",
+      "zh": "蕾安德拉"
+    }
+  }
+}

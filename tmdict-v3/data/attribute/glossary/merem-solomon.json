@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "me",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Merem Solomon",
+      "ja": "メレム・ソロモン",
+      "zh": "梅涟·所罗门"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "z",
+    "hiragana": "mi",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Zero Dark",
+      "ja": "未明領域",
+      "zh": "未知领域"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "a",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Lancer of Red",
+      "ja": "“赤”のランサー",
+      "zh": "“赤”Lancer"
+    }
+  }
+}

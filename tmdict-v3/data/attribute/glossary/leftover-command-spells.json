@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "yo",
+    "hiragana-row": "y"
+  },
+
+  "data": {
+    "name": {
+      "en": "Leftover Command Spells",
+      "ja": "預託令呪",
+      "zh": "预托令咒"
+    }
+  }
+}

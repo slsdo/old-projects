@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "yu",
+    "hiragana-row": "y"
+  },
+
+  "data": {
+    "name": {
+      "en": "Crest of the Wandering Star",
+      "ja": "遊星の紋章",
+      "zh": "游星纹章"
+    }
+  }
+}

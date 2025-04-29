@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Vampire Rank II: Ghoul",
+      "ja": "吸血鬼IⅠ階梯：屍鬼",
+      "zh": "吸血鬼ⅠI阶梯：尸鬼"
+    }
+  }
+}

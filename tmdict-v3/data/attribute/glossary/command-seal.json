@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "re",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Command Seal",
+      "ja": "令呪",
+      "zh": "令咒"
+    }
+  }
+}

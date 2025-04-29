@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "o",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Bath Time Event",
+      "ja": "お風呂イベント",
+      "zh": "入浴事件"
+    }
+  }
+}

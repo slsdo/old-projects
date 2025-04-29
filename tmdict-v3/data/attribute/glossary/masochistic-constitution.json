@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "hi",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Masochistic Constitution",
+      "ja": "被虐体質",
+      "zh": "被虐体质"
+    }
+  }
+}

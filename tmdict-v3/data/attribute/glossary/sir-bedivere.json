@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "sa",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Sir Bedivere",
+      "ja": "サー・ベディヴィエール",
+      "zh": "爵士·贝狄威尔"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "r",
+    "hiragana": "ra",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Reines El-Melloi Archisorte",
+      "ja": "ライネス・エルメロイ・アーチゾルテ",
+      "zh": "莱妮丝·埃尔梅罗·阿奇佐尔缇"
+    }
+  }
+}

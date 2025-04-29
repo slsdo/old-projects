@@ -1,0 +1,11 @@
+{
+  "type": "character-setting",
+
+  "data": {
+    "name": {
+      "en": "Keikenchi",
+      "ja": "経験値",
+      "zh": "经验值"
+    }
+  }
+}

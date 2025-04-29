@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "w",
+    "hiragana": "se",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "West Europe Plutocracy",
+      "ja": "西欧財閥",
+      "zh": "西欧财阀"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "weapon",
+      "ja": "武器名",
+      "zh": "武器名"
+    }
+  }
+}

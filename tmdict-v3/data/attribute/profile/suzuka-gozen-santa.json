@@ -1,0 +1,60 @@
+{
+  "type": "profile",
+  "uid": "329.05:fgoarc",
+
+  "img": [
+    { "weight": 1, "id": "img_s1", "src": "329.05a.png" },
+    { "weight": 4, "id": "img_s4", "src": "329.05d.png" }
+  ],
+
+  "attribute": {
+    "class": "lancer",
+    "star": "star_4",
+    "gender": "female",
+    "origin": ["suzuka-no-soushi", "tamura-no-soushi", "tamura-sandaiki", "etc"],
+    "region": "japan",
+    "alignment": "neutral-evil",
+    "strength.parameter": "d",
+    "endurance.parameter": "c",
+    "agility.parameter": "a",
+    "magic.parameter": "a",
+    "luck.parameter": "c",
+    "noble-phantasm.parameter": "a",
+    "character-setting": "takenoko-seijin",
+    "illustrator": "takenoko-seijin",
+    "character-voice": "touyama-nao",
+    "major-appearances": "fate-grand-order-arcade",
+    "related.profile": "suzuka-gozen"
+  },
+
+  "data": {
+    "name": {
+      "en": "Suzuka Gozen (Santa)",
+      "ja": "鈴鹿御前（サンタ）",
+      "zh": "铃鹿御前（圣诞）"
+    },
+    "true-name": {
+      "en": "Suzuka Gozen",
+      "ja": "鈴鹿御前",
+      "zh": "铃鹿御前"
+    },
+    "height": {
+      "en": "164cm",
+      "ja": "164cm",
+      "zh": "164cm"
+    },
+    "weight": {
+      "en": "51kg",
+      "ja": "51kg",
+      "zh": "51kg"
+    }
+  },
+
+  "layout": [
+    ["star", "class"],
+    ["true-name", "gender", "origin", "region", "alignment", "height", "weight"],
+    ["strength.parameter", "endurance.parameter", "agility.parameter", "magic.parameter", "luck.parameter", "noble-phantasm.parameter"],
+    ["character-setting", "illustrator", "character-voice", "major-appearances"],
+    ["related.profile"]
+  ]
+}

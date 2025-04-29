@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "hi",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Hundred-Faced Hassan",
+      "ja": "百の貌のハサン",
+      "zh": "百貌哈桑"
+    }
+  }
+}

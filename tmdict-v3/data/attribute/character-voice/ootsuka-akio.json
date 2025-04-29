@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Ootsuka Akio",
+      "ja": "大塚明夫",
+      "zh": "大冢明夫"
+    }
+  }
+}

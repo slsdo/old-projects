@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Tanaka Atsuko",
+      "ja": "田中敦子",
+      "zh": "田中敦子"
+    }
+  }
+}

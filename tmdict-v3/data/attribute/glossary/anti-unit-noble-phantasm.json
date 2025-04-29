@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "a",
+    "hiragana": "ta",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Anti-Unit Noble Phantasm",
+      "ja": "対人宝具",
+      "zh": "对人宝具"
+    }
+  }
+}

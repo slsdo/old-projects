@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "ku",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Caster of Black",
+      "ja": "“黒”のキャスター",
+      "zh": "“黑”Caster"
+    }
+  }
+}

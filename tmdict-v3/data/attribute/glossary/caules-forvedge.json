@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Caules Forvedge",
+      "ja": "カウレス・フォルヴェッジ",
+      "zh": "考列斯·弗尔维吉"
+    }
+  }
+}

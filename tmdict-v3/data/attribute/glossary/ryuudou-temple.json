@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "r",
+    "hiragana": "ri",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Ryuudou Temple",
+      "ja": "柳洞寺",
+      "zh": "柳洞寺"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Vampire Rank VII: Dead Apostle (Superior)",
+      "ja": "吸血鬼VII階梯：死徒（上級）",
+      "zh": "吸血鬼VII阶梯：死徒（上级）"
+    }
+  }
+}

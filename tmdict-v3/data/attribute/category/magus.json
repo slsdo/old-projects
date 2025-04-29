@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "magus",
+      "ja": "魔術師",
+      "zh": "魔术师"
+    }
+  }
+}

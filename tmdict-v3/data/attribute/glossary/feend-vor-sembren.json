@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Feend vor Sembren",
+      "ja": "フィーンド・ヴオル・セルベルン",
+      "zh": "芬德·沃尔·森贝伦"
+    }
+  }
+}

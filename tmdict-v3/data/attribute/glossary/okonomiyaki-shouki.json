@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "o",
+    "hiragana": "o",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Okonomiyaki Shouki",
+      "ja": "お好み焼き・鐘馗",
+      "zh": "御好烧·钟馗"
+    }
+  }
+}

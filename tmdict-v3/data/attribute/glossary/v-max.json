@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "V-MAX",
+      "ja": "V-MAX",
+      "zh": "V-MAX"
+    }
+  }
+}

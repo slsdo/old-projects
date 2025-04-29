@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "ke",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "shape ist Leben",
+      "ja": "shape ist Leben",
+      "zh": "shape ist Leben"
+    }
+  }
+}

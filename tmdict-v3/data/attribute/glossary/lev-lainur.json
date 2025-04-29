@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "r",
+    "hiragana": "re",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Lev Lainur",
+      "ja": "レフ・ライノール",
+      "zh": "雷夫·莱诺尔"
+    }
+  }
+}

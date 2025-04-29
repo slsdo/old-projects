@@ -1,0 +1,60 @@
+{
+  "type": "profile",
+  "uid": "329.08:fgoarc",
+
+  "img": [
+    { "weight": 1, "id": "img_s1", "src": "329.08a.png" },
+    { "weight": 4, "id": "img_s4", "src": "329.08d.png" }
+  ],
+
+  "attribute": {
+    "class": "caster",
+    "star": "star_4",
+    "gender": "female",
+    "origin": "literature",
+    "region": "all-of-europe",
+    "alignment": "chaotic-good",
+    "strength.parameter": "cp",
+    "endurance.parameter": "b",
+    "agility.parameter": "d",
+    "magic.parameter": "b",
+    "luck.parameter": "a",
+    "noble-phantasm.parameter": "bp",
+    "character-setting": "higashide-yuuichirou",
+    "illustrator": "okazaki-takashi",
+    "character-voice": "nonaka-ai",
+    "major-appearances": "fate-grand-order-arcade",
+    "related.profile": ["frankenstein", "frankenstein-saber"]
+  },
+
+  "data": {
+    "name": {
+      "en": "Frankenstein (Saber)",
+      "ja": "フランケンシュタイン（セイバー）",
+      "zh": "弗兰肯斯坦（Saber）"
+    },
+    "true-name": {
+      "en": "Frankenstein (nameless to be exact, Frankenstein’s Monster)",
+      "ja": "フランケンシュタイン（正確には無名、フランケンシュタインの怪物である）",
+      "zh": "弗兰肯斯坦（正确地说无名，弗兰肯斯坦的怪物）"
+    },
+    "height": {
+      "en": "172cm",
+      "ja": "172cm",
+      "zh": "172cm"
+    },
+    "weight": {
+      "en": "48kg",
+      "ja": "48kg",
+      "zh": "48kg"
+    }
+  },
+
+  "layout": [
+    ["star", "class"],
+    ["true-name", "gender", "origin", "region", "alignment", "height", "weight"],
+    ["strength.parameter", "endurance.parameter", "agility.parameter", "magic.parameter", "luck.parameter", "noble-phantasm.parameter"],
+    ["character-setting", "illustrator", "character-voice", "major-appearances"],
+    ["related.profile"]
+  ]
+}

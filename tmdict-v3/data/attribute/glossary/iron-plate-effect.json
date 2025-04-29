@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "i",
+    "hiragana": "te",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Iron Plate Effect",
+      "ja": "鉄甲作用",
+      "zh": "铁甲作用"
+    }
+  }
+}

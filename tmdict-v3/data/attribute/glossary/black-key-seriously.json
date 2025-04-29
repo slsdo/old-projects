@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ko",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Black Key (Seriously)",
+      "ja": "黒鍵（真面目に）",
+      "zh": "黑键（认真说）"
+    }
+  }
+}

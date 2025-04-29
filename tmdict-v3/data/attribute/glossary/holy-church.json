@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "se",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Holy Church",
+      "ja": "聖堂教会",
+      "zh": "圣堂教会"
+    }
+  }
+}

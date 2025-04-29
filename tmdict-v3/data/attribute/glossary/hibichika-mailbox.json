@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "hi",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "HibiChika Mailbox",
+      "ja": "ひびちかぽすと",
+      "zh": "响键信箱"
+    }
+  }
+}

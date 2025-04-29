@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "i",
+    "hiragana": "ri",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Imperial Army’s 4th Magecraft Division",
+      "ja": "陸軍第四魔導機関",
+      "zh": "陆军第四魔导机构"
+    }
+  }
+}

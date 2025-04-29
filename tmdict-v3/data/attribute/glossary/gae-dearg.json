@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "g",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Gáe Dearg",
+      "ja": "破魔の紅薔薇",
+      "zh": "破魔的红蔷薇"
+    }
+  }
+}

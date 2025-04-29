@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Blood-Sucking Species",
+      "ja": "吸血種",
+      "zh": "吸血种"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Breaker Gorgon",
+      "ja": "自己封印・暗黒神殿",
+      "zh": "自我封印·暗黑神殿"
+    }
+  }
+}

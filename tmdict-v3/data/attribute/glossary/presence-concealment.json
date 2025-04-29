@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "ke",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Presence Concealment",
+      "ja": "気配遮断",
+      "zh": "气息遮断"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "n",
+    "hiragana": "ne",
+    "hiragana-row": "n"
+  },
+
+  "data": {
+    "name": {
+      "en": "Neco-Arc",
+      "ja": "ネコアルク",
+      "zh": "猫ARC"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Seki Tomokazu",
+      "ja": "関智一",
+      "zh": "关智一"
+    }
+  }
+}

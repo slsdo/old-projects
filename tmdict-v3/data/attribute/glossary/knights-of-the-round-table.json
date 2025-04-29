@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "k",
+    "hiragana": "e",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Knights of the Round Table",
+      "ja": "円卓の騎士",
+      "zh": "圆桌骑士"
+    }
+  }
+}

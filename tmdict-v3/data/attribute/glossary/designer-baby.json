@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "te",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Designer Baby",
+      "ja": "デザインベビー",
+      "zh": "定制婴儿"
+    }
+  }
+}

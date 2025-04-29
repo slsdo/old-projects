@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Kakazu Yumi",
+      "ja": "かかずゆみ",
+      "zh": "嘉数由美"
+    }
+  }
+}

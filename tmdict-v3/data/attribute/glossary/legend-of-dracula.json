@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "re",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Legend of Dracula",
+      "ja": "鮮血の伝承",
+      "zh": "鲜血的传承"
+    }
+  }
+}

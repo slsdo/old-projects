@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Star of Calvaria",
+      "ja": "カルヴァリアの星",
+      "zh": "Calvaria之星"
+    }
+  }
+}

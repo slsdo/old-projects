@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "chi",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Chibi-Assassin",
+      "ja": "ちびアサシン",
+      "zh": "小Assassin"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "te",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Diarmuid Ua Duibhne",
+      "ja": "ディルムッド・オディナ",
+      "zh": "迪卢木多·奥迪那"
+    }
+  }
+}

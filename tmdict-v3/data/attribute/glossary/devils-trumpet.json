@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Devil’s Trumpet",
+      "ja": "キチガイナスビ",
+      "zh": "不正常的茄子"
+    }
+  }
+}

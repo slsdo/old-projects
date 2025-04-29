@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "_",
+    "hiragana": "ni",
+    "hiragana-row": "n"
+  },
+
+  "data": {
+    "name": {
+      "en": "2 Shields",
+      "ja": "2枚の盾",
+      "zh": "2枚盾"
+    }
+  }
+}

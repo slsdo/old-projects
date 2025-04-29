@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "g",
+    "hiragana": "sa",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Gáe Bolg",
+      "ja": "刺し穿つ死棘の槍",
+      "zh": "刺穿死棘之枪"
+    }
+  }
+}

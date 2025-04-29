@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "For Someone’s Glory",
+      "ja": "己が栄光のためでなく",
+      "zh": "并非为了己身的荣光"
+    }
+  }
+}

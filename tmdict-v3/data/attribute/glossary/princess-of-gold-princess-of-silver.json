@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "o",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Princess of Gold / Princess of Silver",
+      "ja": "黄金姫・白銀姫",
+      "zh": "黄金公主·白银公主"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "character-voice",
+
+  "data": {
+    "name": {
+      "en": "Shimazaki Nobunaga",
+      "ja": "島﨑信長",
+      "zh": "岛崎信长"
+    }
+  }
+}

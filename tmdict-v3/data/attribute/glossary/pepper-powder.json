@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "p",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Pepper Powder",
+      "ja": "花椒粉",
+      "zh": "花椒粉"
+    }
+  }
+}

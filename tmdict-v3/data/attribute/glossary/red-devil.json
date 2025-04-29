@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "r",
+    "hiragana": "a",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Red Devil",
+      "ja": "あかいあくま",
+      "zh": "红色恶魔"
+    }
+  }
+}

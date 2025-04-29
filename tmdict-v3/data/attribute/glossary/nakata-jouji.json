@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "n",
+    "hiragana": "na",
+    "hiragana-row": "n"
+  },
+
+  "data": {
+    "name": {
+      "en": "Nakata Jouji",
+      "ja": "中田譲治",
+      "zh": "中田让治"
+    }
+  }
+}

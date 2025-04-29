@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Lively Step - Chain Step",
+      "ja": "活歩・鎖歩",
+      "zh": "活步·锁步"
+    }
+  }
+}

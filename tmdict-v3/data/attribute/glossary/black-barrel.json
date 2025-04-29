@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Black Barrel",
+      "ja": "ブラック・バレル",
+      "zh": "Black·Barrel"
+    }
+  }
+}

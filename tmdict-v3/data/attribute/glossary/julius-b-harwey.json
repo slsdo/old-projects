@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "j",
+    "hiragana": "yu",
+    "hiragana-row": "y"
+  },
+
+  "data": {
+    "name": {
+      "en": "Julius B. Harwey",
+      "ja": "ユリウス・B・ハーウェイ",
+      "zh": "尤里乌斯·B·哈维"
+    }
+  }
+}

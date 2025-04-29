@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "o",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Large Fast Ship",
+      "ja": "大型快速船",
+      "zh": "大型快速船"
+    }
+  }
+}

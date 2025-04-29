@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Byron Valueleta Iselma",
+      "ja": "バイロン・バリュエレータ・イゼルマ",
+      "zh": "拜隆·巴留叶雷塔·伊泽路玛"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "ru",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Luviagelita Edelfelt",
+      "ja": "ルヴィアゼリッタ・エーデルフェルト",
+      "zh": "露维亚瑟琳塔·艾德费尔特"
+    }
+  }
+}

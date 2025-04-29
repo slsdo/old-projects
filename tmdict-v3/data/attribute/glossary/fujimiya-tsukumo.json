@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "f",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Fujimiya Tsukumo",
+      "ja": "藤宮九十九",
+      "zh": "藤宫九十九"
+    }
+  }
+}

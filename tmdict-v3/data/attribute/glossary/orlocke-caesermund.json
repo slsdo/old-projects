@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "o",
+    "hiragana": "o",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Orlocke Caesermund",
+      "ja": "オルロック・シザームンド",
+      "zh": "欧尔洛克·西萨蒙德"
+    }
+  }
+}

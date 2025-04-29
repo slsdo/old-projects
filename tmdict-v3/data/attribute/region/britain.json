@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Britain",
+      "ja": "ブリテン",
+      "zh": "不列颠"
+    }
+  }
+}

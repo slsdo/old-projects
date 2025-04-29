@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Israel",
+      "ja": "イスラエル",
+      "zh": "以色列"
+    }
+  }
+}

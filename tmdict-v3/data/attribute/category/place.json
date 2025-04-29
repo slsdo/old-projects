@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "place",
+      "ja": "地名",
+      "zh": "地名"
+    }
+  }
+}

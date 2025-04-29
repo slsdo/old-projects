@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Blowpipe Portable Surface-to-Air Missile",
+      "ja": "ブローパイプ携行地対空ミサイル",
+      "zh": "吹管携带地对空导弹"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "se",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Hero of Justice",
+      "ja": "正義の味方",
+      "zh": "正义的伙伴"
+    }
+  }
+}

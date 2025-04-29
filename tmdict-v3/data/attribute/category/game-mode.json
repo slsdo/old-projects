@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "game mode",
+      "ja": "ゲームモード",
+      "zh": "游戏模式"
+    }
+  }
+}

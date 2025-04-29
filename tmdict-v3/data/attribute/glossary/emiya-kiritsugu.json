@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "e",
+    "hiragana": "e",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Emiya Kiritsugu",
+      "ja": "衛宮切嗣",
+      "zh": "卫宫切嗣"
+    }
+  }
+}

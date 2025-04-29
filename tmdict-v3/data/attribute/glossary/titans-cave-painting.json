@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "t",
+    "hiragana": "ki",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Titan’s Cave Painting",
+      "ja": "巨人の壁面",
+      "zh": "巨人的壁画"
+    }
+  }
+}

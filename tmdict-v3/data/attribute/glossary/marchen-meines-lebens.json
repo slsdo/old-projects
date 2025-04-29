@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "me",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Märchen Meines Lebens",
+      "ja": "貴方のための物語",
+      "zh": "为你而写的故事"
+    }
+  }
+}

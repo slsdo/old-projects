@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "v",
+    "hiragana": "u",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Void Cell",
+      "ja": "ヴォイドセル",
+      "zh": "虚无晶体"
+    }
+  }
+}

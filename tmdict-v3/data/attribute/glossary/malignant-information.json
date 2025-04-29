@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "a",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Malignant Information",
+      "ja": "悪性情報",
+      "zh": "恶性情报"
+    }
+  }
+}

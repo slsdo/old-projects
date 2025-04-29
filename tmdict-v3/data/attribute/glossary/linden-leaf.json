@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "ho",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Linden Leaf",
+      "ja": "菩提樹の葉",
+      "zh": "菩提树之叶"
+    }
+  }
+}

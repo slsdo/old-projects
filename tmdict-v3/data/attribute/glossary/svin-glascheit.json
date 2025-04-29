@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "su",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Svin Glascheit",
+      "ja": "スヴィン・グラシュエート",
+      "zh": "斯芬·古拉雪特"
+    }
+  }
+}

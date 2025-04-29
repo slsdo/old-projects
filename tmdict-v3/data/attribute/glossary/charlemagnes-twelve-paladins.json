@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "shi",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Charlemagne’s Twelve Paladins",
+      "ja": "シャルルマーニュ十二勇士",
+      "zh": "查理曼十二勇士"
+    }
+  }
+}

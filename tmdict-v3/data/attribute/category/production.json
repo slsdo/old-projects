@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "production",
+      "ja": "創作",
+      "zh": "创作"
+    }
+  }
+}

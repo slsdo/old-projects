@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "k",
+    "hiragana": "ka",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Kazikli Bey",
+      "ja": "串刺城塞 / 極刑王",
+      "zh": "串刺城塞 / 极刑王"
+    }
+  }
+}

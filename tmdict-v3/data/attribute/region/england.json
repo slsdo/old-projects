@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "England",
+      "ja": "イングランド",
+      "zh": "英格兰"
+    }
+  }
+}

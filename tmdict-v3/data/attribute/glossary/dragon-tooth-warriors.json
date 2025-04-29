@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "ri",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Dragon Tooth Warriors",
+      "ja": "竜牙兵",
+      "zh": "龙牙兵"
+    }
+  }
+}

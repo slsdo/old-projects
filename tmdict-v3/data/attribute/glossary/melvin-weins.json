@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "me",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Melvin Weins",
+      "ja": "メルヴィン・ウェインズ",
+      "zh": "梅尔文·魏因兹"
+    }
+  }
+}

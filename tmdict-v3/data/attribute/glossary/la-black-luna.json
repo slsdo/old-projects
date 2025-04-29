@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "ra",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "La “Black” Luna",
+      "ja": "恐慌呼び起こせし魔笛",
+      "zh": "呼唤恐惧的魔笛"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Norway",
+      "ja": "ノルウェー",
+      "zh": "挪威"
+    }
+  }
+}

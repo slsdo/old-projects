@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "o",
+    "hiragana": "fu",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Overlooking View",
+      "ja": "俯瞰風景",
+      "zh": "俯瞰风景"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "region",
+
+  "data": {
+    "name": {
+      "en": "Central Asia",
+      "ja": "中央アジア",
+      "zh": "中亚"
+    }
+  }
+}

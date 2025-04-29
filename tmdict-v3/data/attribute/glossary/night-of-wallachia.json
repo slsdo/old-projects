@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "n",
+    "hiragana": "wa",
+    "hiragana-row": "w"
+  },
+
+  "data": {
+    "name": {
+      "en": "Night of Wallachia",
+      "ja": "ワラキアの夜",
+      "zh": "瓦拉齐亚之夜"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "hi",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Himuro Kane",
+      "ja": "氷室鐘",
+      "zh": "冰室钟"
+    }
+  }
+}

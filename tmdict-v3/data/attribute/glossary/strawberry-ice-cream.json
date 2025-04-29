@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "su",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Strawberry Ice Cream",
+      "ja": "ストロベリーアイス",
+      "zh": "草莓冰激凌"
+    }
+  }
+}

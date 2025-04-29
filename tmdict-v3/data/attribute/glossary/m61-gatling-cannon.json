@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "e",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "M61 Gatling Cannon",
+      "ja": "M61機関砲",
+      "zh": "M61机关炮"
+    }
+  }
+}

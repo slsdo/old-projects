@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ha",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Berserker (Lu)",
+      "ja": "バーサーカー（呂）",
+      "zh": "Berserker（吕）"
+    }
+  }
+}

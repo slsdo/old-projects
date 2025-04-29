@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ko",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Battle of Compiègne",
+      "ja": "コンピエーニュの戦い",
+      "zh": "贡比涅之战"
+    }
+  }
+}

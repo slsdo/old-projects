@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "k",
+    "hiragana": "se",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "King of Conquerors Iskandar",
+      "ja": "征服王イスカンダル",
+      "zh": "征服王亚历山大"
+    }
+  }
+}

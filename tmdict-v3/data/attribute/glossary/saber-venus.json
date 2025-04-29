@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "se",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Saber Venus",
+      "ja": "セイバー・ヴィナス",
+      "zh": "维纳斯剑士"
+    }
+  }
+}

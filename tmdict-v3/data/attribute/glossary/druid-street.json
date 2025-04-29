@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "d",
+    "hiragana": "to",
+    "hiragana-row": "t"
+  },
+
+  "data": {
+    "name": {
+      "en": "Druid Street",
+      "ja": "ドルイド・ストリート",
+      "zh": "德鲁伊街"
+    }
+  }
+}

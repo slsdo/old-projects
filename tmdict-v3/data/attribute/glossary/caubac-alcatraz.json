@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "c",
+    "hiragana": "ko",
+    "hiragana-row": "k"
+  },
+
+  "data": {
+    "name": {
+      "en": "Caubac Alcatraz",
+      "ja": "コーバック・アルカトラス",
+      "zh": "考拜克·阿尔卡特拉兹"
+    }
+  }
+}

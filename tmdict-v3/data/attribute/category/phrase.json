@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 0,
+
+  "data": {
+    "name": {
+      "en": "phrase",
+      "ja": "台詞",
+      "zh": "台词"
+    }
+  }
+}

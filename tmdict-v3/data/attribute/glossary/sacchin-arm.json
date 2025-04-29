@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "s",
+    "hiragana": "sa",
+    "hiragana-row": "s"
+  },
+
+  "data": {
+    "name": {
+      "en": "Sacchin Arm",
+      "ja": "さっちんアーム",
+      "zh": "小五月之臂"
+    }
+  }
+}

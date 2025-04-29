@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "o",
+    "hiragana": "o",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Ogawa Apartment",
+      "ja": "小川マンション",
+      "zh": "小川公寓"
+    }
+  }
+}

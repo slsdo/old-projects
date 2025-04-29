@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "l",
+    "hiragana": "ro",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Lord El-Melloi II",
+      "ja": "ロード・エルメロイII世",
+      "zh": "君主·埃尔梅罗二世"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "b",
+    "hiragana": "ro",
+    "hiragana-row": "r"
+  },
+
+  "data": {
+    "name": {
+      "en": "Back Alley Alliance",
+      "ja": "路地裏同盟",
+      "zh": "小巷子同盟"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "m",
+    "hiragana": "mo",
+    "hiragana-row": "m"
+  },
+
+  "data": {
+    "name": {
+      "en": "Moratorium",
+      "ja": "準備期間",
+      "zh": "准备期间"
+    }
+  }
+}

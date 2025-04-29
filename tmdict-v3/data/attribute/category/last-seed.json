@@ -1,0 +1,12 @@
+{
+  "type": "category",
+  "categoryType": 1,
+
+  "data": {
+    "name": {
+      "en": "Last-Seed",
+      "ja": "Last-Seed",
+      "zh": "Last-Seed"
+    }
+  }
+}

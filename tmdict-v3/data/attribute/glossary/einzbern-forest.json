@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "e",
+    "hiragana": "a",
+    "hiragana-row": "_"
+  },
+
+  "data": {
+    "name": {
+      "en": "Einzbern Forest",
+      "ja": "アインツベルンの森",
+      "zh": "爱因兹贝伦森林"
+    }
+  }
+}

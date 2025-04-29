@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "n",
+    "hiragana": "na",
+    "hiragana-row": "n"
+  },
+
+  "data": {
+    "name": {
+      "en": "Narbareck",
+      "ja": "ナルバレック",
+      "zh": "奈瓦雷克"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "y",
+    "hiragana": "ya",
+    "hiragana-row": "y"
+  },
+
+  "data": {
+    "name": {
+      "en": "Yamase Maiko",
+      "ja": "山瀬舞子",
+      "zh": "山濑舞子"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "glossary",
+
+  "attribute": {
+    "alphabet": "h",
+    "hiragana": "hi",
+    "hiragana-row": "h"
+  },
+
+  "data": {
+    "name": {
+      "en": "Hisau Maiya",
+      "ja": "久宇舞弥",
+      "zh": "久宇舞弥"
+    }
+  }
+}
